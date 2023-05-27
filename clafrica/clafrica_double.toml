@@ -1,0 +1,59 @@
+[info]
+name		=	"Clafrica double"
+description = 	"Clafrica code for speed typing of double characters"
+authors		=	["Resulam <contact@resulam.com>"]
+website		=	"https://resulam.com"
+version		=	"2023-05-23"
+
+[data]
+"a11"		=		{ value = "àà", alias = ["1aa", "aa1"] }
+"a22"		=		{ value = "áá", alias = ["aa2", "2aa"] }
+"a33"		=		{ value = "āā", alias = ["3aa", "aa3"] }
+"af22"		=		{ value = "ɑ́ɑ́", alias = ["2aff", "aff2"] }
+"af33"		=		{ value = "ɑ̄ɑ̄", alias = ["aff3"] }
+"aff1"		=		{ value = "ɑ̀ɑ̀", alias = ["1aff", "af11"] }
+"ai11"		=		"ɛ̀ɛ̀"
+"ai22"		=		"έέ"
+"ai33"		=		"ɛ̄ɛ̄"
+"e11"		=		{ value = "èè", alias = ["1ee", "ee1"] }
+"e22"		=		{ value = "éé", alias = ["ee2", "2ee"] }
+"e33"		=		{ value = "ēē", alias = ["3ee", "ee3"] }
+"eu11"		=		"ə̀ə̀"
+"eu22"		=		"ə́ə́"
+"eu33"		=		"ə̄ə̄"
+"i11"		=		{ value = "ìì", alias = ["1ii", "ii1"] }
+"i22"		=		{ value = "íí", alias = ["2ii", "ii2"] }
+"i33"		=		{ value = "īī", alias = ["3ii", "ii3"] }
+"ia2"		=		{ value = "íá", alias = ["2ia"] }
+"ia3"		=		{ value = "īā", alias = ["3ia"] }
+"iaf1"		=		{ value = "ìɑ̀", alias = ["1iaf"] }
+"iaf2"		=		{ value = "íɑ́", alias = ["2iaf"] }
+"iaf3"		=		{ value = "īɑ̄", alias = ["3iaf"] }
+"iaf5"		=		"iɑ̂"
+"iaf7"		=		"iɑ̌"
+"ie2"		=		{ value = "íé", alias = ["2ie"] }
+"ie3"		=		{ value = "īē", alias = ["3ie"] }
+"o*11"		=		{ value = "ɔ̀ɔ̀", alias = ["o_star_11"] }
+"o*22"		=		{ value = "ɔ́ɔ́", alias = ["o_star_22"] }
+"o*33"		=		{ value = "ɔ̄ɔ̄", alias = ["o_star_33"] }
+"o11"		=		{ value = "òò", alias = ["oo1", "1oo"] }
+"o22"		=		{ value = "óó", alias = ["oo2", "2oo"] }
+"o33"		=		{ value = "ōō", alias = ["3oo", "oo3"] }
+"oo12"		=		{ value = "ǒǒ", alias = ["oo7", "12oo", "7oo"] }
+"oo5"		=		{ value = "ôô", alias = ["5oo", "21oo", "oo21"] }
+"u-11"		=		{ value = "ʉ̀ʉ̀", alias = ["uu11"] }
+"u-22"		=		{ value = "ʉ́ʉ́", alias = ["uu22"] }
+"u-33"		=		{ value = "ʉ̄ʉ̄", alias = ["uu33"] }
+"u11"		=		"ùù"
+"u22"		=		"úú"
+"u33"		=		"ūū"
+"ua2"		=		{ value = "úá", alias = ["2ua"] }
+"ua3"		=		{ value = "ūā", alias = ["3ua"] }
+"uaf1"		=		{ value = "ùɑ̀", alias = ["1uaf"] }
+"uaf2"		=		{ value = "úɑ́", alias = ["2uaf"] }
+"uaf3"		=		{ value = "ūɑ̄", alias = ["3uaf"] }
+"uuaf1"		=		{ value = "ʉ̀ɑ̀", alias = ["1uuaf"] }
+"uuaf2"		=		{ value = "ʉ́ɑ́", alias = ["2uuaf"] }
+"uuaf3"		=		{ value = "ʉ̄ɑ̄", alias = ["3uuaf"] }
+"uuaf5"		=		"ʉɑ̂"
+"uuaf7"		=		"ʉɑ̌"
