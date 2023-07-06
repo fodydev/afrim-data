@@ -3,7 +3,7 @@ name		=	"Clafrica single"
 description = 	"Clafrica code"
 authors		=	["Resulam <contact@resulam.com>"]
 website		=	"https://resulam.com"
-version		=	"2023-05-23"
+version		=	"2023-07-06"
 
 [data]
 "*n"		=		{ value = "ɲ", alias = ["_star_n"] }
@@ -108,7 +108,6 @@ version		=	"2023-05-23"
 "af32"		=		"ɑ᷄"
 "af5"		=		{ value = "ɑ̂", alias = ["5af", "21af", "af21"] }
 "af7"		=		{ value = "ɑ̌", alias = ["af12", "12af", "7af"] }
-"aff"		=		"ɑɑ"
 "af~"		=		"ɑ̃"
 "ai"		=		"ε"
 "ai1"		=		"ɛ̀"
@@ -162,7 +161,6 @@ version		=	"2023-05-23"
 "i7"		=		{ value = "ǐ", alias = ["i12", "12i", "7i"] }
 "ia1"		=		{ value = "ìà", alias = ["1ia"] }
 "iaf"		=		"iɑ"
-"ie1"		=		{ value = "ìè", alias = ["1ie"] }
 "i~"		=		"ĩ"
 "m1"		=		{ value = "m̀", alias = ["1m"] }
 "m2"		=		"ḿ"
@@ -176,8 +174,8 @@ version		=	"2023-05-23"
 "n*5"		=		{ value = "ŋ̂", alias = ["n_star_5"] }
 "n*7"		=		{ value = "ŋ̌", alias = ["n_star_7"] }
 "n1"		=		{ value = "ǹ", alias = ["1n"] }
-"n2"		=		"ń"
-"n3"		=		"n̄"
+"n2"		=		{ value = "ń", alias = ["2n"] }
+"n3"		=		{ value = "n̄", alias = ["3n"] }
 "n5"		=		{ value = "n̂", alias = ["21n"] }
 "n7"		=		{ value = "ň", alias = ["12n"] }
 "o*"		=		{ value = "ɔ", alias = ["o_star_"] }
@@ -189,6 +187,7 @@ version		=	"2023-05-23"
 "o*3"		=		{ value = "ɔ̄", alias = ["o_star_3"] }
 "o*32"		=		{ value = "ɔ᷄", alias = ["o_star_32"] }
 "o*5"		=		{ value = "ɔ̂", alias = ["21o*", "o_star_5", "o*21", "o_star_21", "21o_star_"] }
+"o*7"		=		{ value = "ɔ̌", alias = ["12o*", "o_star_7", "o*12", "o_star_12", "12o_star_"] }
 "o*~"		=		"ɔ̃"
 "o/"		=		"ø"
 "o1"		=		"ò"
@@ -221,5 +220,4 @@ version		=	"2023-05-23"
 "uu13"		=		"ʉ᷅"
 "uu23"		=		"ʉ᷇"
 "uu32"		=		"ʉ᷄"
-"uuaf"		=		"ʉɑ"
 "u~"		=		"ũ"
