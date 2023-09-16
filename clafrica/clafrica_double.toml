@@ -5,6 +5,9 @@ authors		=	["Resulam <contact@resulam.com>"]
 website		=	"https://resulam.com"
 version		=	"2023-07-06"
 
+[core]
+auto_capitalize = true
+
 [data]
 "a11"		=		{ value = "àà", alias = ["1aa", "aa1"] }
 "a22"		=		{ value = "áá", alias = ["2aa", "aa2"] }
