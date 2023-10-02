@@ -10,6 +10,7 @@ sms = { path = "./nufi_sms.toml" }
 
 [translator]
 date = "./scripts/datetime/date.rhai"
+numerals = "./scripts/numerals.rhai"
 
 [data]
 clafrica = { path = "../clafrica/clafrica.toml" }
