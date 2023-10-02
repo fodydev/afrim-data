@@ -1,0 +1,15 @@
+[info]
+name		=	"nufi"
+description = 	"Nufi Config File"
+authors		=	["Resulam <contact@resulam.com>"]
+website		=	"https://resulam.com"
+version		=	"2023-10-02"
+
+[translation]
+sms = { path = "./nufi_sms.toml" }
+
+[translator]
+date = "./scripts/datetime/date.rhai"
+
+[data]
+clafrica = { path = "../clafrica/clafrica.toml" }

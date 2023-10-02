@@ -1,0 +1,38 @@
+name: Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master, release-*]
+  pull_request:
+    branches: [master, release-*]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: libxtst-dev libevdev-dev libxdo-dev
+          version: 1.0
+
+      - name: Dependencies
+        run: |
+          sudo apt-get install libxtst-dev libevdev-dev libxdo-dev --assume-yes
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - uses: Swatinem/rust-cache@v2
+      - name: Install clafrica
+        run: |
+          cargo install --git https://github.com/pythonbrad/clafrica
+      - name: Checking config files
+        run: |
+          for f in $(find -type d -maxdepth 1 -iname "[a-Z]*"); do\
+            echo Checking of $f...;\
+            clafrica $f/$f.toml --check;\
+          done
