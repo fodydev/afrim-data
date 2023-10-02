@@ -1,0 +1,10 @@
+[info]
+description = "Ge'ez Config File"
+version = "2023-10-02"
+
+[data]
+geez = { path = "./code.toml" }
+punctuation = { path = "./punctuation.toml" }
+
+[translator]
+numerals = "scripts/numerals.rhai"
