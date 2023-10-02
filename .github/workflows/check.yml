@@ -3,15 +3,15 @@ name: Check
 on:
   workflow_dispatch:
   push:
-    branches: [main, release-*]
+    branches: [master, release-*]
   pull_request:
-    branches: [main, release-*]
+    branches: [master, release-*]
 
 env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  coverage:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -27,16 +27,12 @@ jobs:
         with:
           toolchain: stable
       - uses: Swatinem/rust-cache@v2
-      - run: rustup component add llvm-tools-preview
-
       - name: Install clafrica
         run: |
           cargo install --git https://github.com/pythonbrad/clafrica
-
-      - name: Checking
+      - name: Checking config files
         run: |
-          for f in $(find {amharic,nufi,geez} -type f | grep .toml$); do\
+          for f in $(find -type d -maxdepth 1 -iname "[a-Z]*"); do\
             echo Checking of $f...;\
-            clafrica $f --check;\
+            clafrica $f/$f.toml --check;\
           done
-
