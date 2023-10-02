@@ -1,8 +1,9 @@
 [info]
 name		=	"Clafrica"
-description = 	"Clafrica code for typingb african languages"
+description = 	"Clafrica Config File"
 authors		=	["Resulam <contact@resulam.com>"]
 website		=	"https://resulam.com"
+version = "2023-10-02"
 
 [data]
 single = { path = "./clafrica_single.toml" }
