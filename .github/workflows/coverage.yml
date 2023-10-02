@@ -1,0 +1,42 @@
+name: Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, release-*]
+  pull_request:
+    branches: [main, release-*]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: libxtst-dev libevdev-dev libxdo-dev
+          version: 1.0
+
+      - name: Dependencies
+        run: |
+          sudo apt-get install libxtst-dev libevdev-dev libxdo-dev --assume-yes
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - uses: Swatinem/rust-cache@v2
+      - run: rustup component add llvm-tools-preview
+
+      - name: Install clafrica
+        run: |
+          cargo install --git https://github.com/pythonbrad/clafrica
+
+      - name: Checking
+        run: |
+          for f in $(find {amharic,nufi,geez} -type f | grep .toml$); do\
+            echo Checking of $f...;\
+            clafrica $f --check;\
+          done
+
