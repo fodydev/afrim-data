@@ -11,3 +11,15 @@ Clafrica extension for the Nufi language.
 - Date translator
 - Numerals translator
 
+## Geez
+Configuration for the Geez input method. 
+- Geez code
+- Geez punctuations
+- Numerals translators
+
+## Amharic
+Configuration for the Amharic input method. 
+- Amharic code
+- Dictionary of Amharic names
+- Dictionary of frequently used Amharic words
+- Date translator
