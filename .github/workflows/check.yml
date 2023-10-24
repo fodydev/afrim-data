@@ -27,12 +27,12 @@ jobs:
         with:
           toolchain: stable
       - uses: Swatinem/rust-cache@v2
-      - name: Install clafrica
+      - name: Install afrim
         run: |
-          cargo install --git https://github.com/pythonbrad/clafrica
+          cargo install --git https://github.com/pythonbrad/afrim
       - name: Checking config files
         run: |
           for f in $(find -type d -maxdepth 1 -iname "[a-Z]*"); do\
             echo Checking of $f...;\
-            clafrica $f/$f.toml --check;\
+            afrim $f/$f.toml --check;\
           done
