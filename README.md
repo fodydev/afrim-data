@@ -1,4 +1,4 @@
-# Clafrica Data Repository
+# Afrim Data Repository
 
 ## Clafrica
 Configuration for the Clafrica input method based on the Clafrica code of Resulam. 
