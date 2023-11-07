@@ -1,0 +1,7 @@
+[info]
+description = "Ethiopic Config File"
+version = "2023-11-07"
+
+[data]
+ethiopic = { path = "./code.toml" }
+
