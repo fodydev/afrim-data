@@ -1,5 +1,8 @@
 # Afrim Data Repository
 
+![Latest afrim compatibility](https://github.com/pythonbrad/afrim-data/actions/workflows/check.yml/badge.svg)
+
+
 ## Clafrica
 Configuration for the Clafrica input method based on the Clafrica code of Resulam. 
 - Clafrica code for single characters
