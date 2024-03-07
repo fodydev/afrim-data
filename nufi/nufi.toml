@@ -8,7 +8,7 @@ version		=	"2023-10-02"
 [translation]
 sms = { path = "./nufi_sms.toml" }
 
-[translator]
+[translators]
 date = "./scripts/datetime/date.rhai"
 numerals = "./scripts/numerals.rhai"
 
