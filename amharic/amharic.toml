@@ -12,6 +12,6 @@ amharic = { path = "./code.toml" }
 dictionary = { path = "./dictionary.toml" }
 names = { path = "./names.toml" }
 
-[translator]
+[translators]
 date = "./scripts/datetime/date.rhai"
 geez_numerals = "../geez/scripts/numerals.rhai"
