@@ -2,25 +2,30 @@
 
 ![Latest afrim compatibility](https://github.com/pythonbrad/afrim-data/actions/workflows/check.yml/badge.svg)
 
+*All language codes should follows as possible the [ISO 639-3](https://iso639-3.sil.org).*
 
-## Clafrica
+## [Clafrica](clafrica)
 Configuration for the Clafrica input method based on the Clafrica code of Resulam. 
 - Clafrica code for single characters
 - Clafrica code for double characters
 
-## Nufi
+## [Nufi](fmp)
 Clafrica extension for the Nufi language. 
 - Nufi SMS
 - Date translator
 - Numerals translator
 
-## Geez
+## [Ethiopic](ethiopic)
+Configuration for the Ethiopic input method. 
+- Ethiopic code
+
+## [Geez](gez)
 Configuration for the Geez input method. 
 - Geez code
 - Geez punctuations
 - Numerals translators
 
-## Amharic
+## [Amharic](am)
 Configuration for the Amharic input method. 
 - Amharic code
 - Dictionary of Amharic names

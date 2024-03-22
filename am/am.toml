@@ -3,8 +3,8 @@ description = "Amharic Config File"
 version = "2023-10-02"
 
 [data]
-geez = { path = "../geez/code.toml" }
-geez_punctuation = { path = "../geez/punctuation.toml" }
+geez = { path = "../gez/code.toml" }
+geez_punctuation = { path = "../gez/punctuation.toml" }
 # The amharic code will overwrite the geez code
 amharic = { path = "./code.toml" }
 
@@ -14,4 +14,4 @@ names = { path = "./names.toml" }
 
 [translators]
 date = "./scripts/datetime/date.rhai"
-geez_numerals = "../geez/scripts/numerals.rhai"
+geez_numerals = "../gez/scripts/numerals.rhai"
