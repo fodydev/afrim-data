@@ -1,0 +1,15 @@
+[info]
+description = "Bamun configuration"
+version = "2024-03-23"
+
+[core]
+buffer_size = 64
+auto_capitalize = false
+auto_commit = true
+
+[data]
+letters = { path = "./letters.toml" }
+punctuation = { path = "./punctuation.toml" }
+
+[translation]
+numbers = { path = "./numbers.toml" }

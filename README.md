@@ -31,3 +31,6 @@ Configuration for the Amharic input method.
 - Dictionary of Amharic names
 - Dictionary of frequently used Amharic words
 - Date translator
+
+## [Bamun](bax)
+Configuration for the Bamun input method.
