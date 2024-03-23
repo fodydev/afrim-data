@@ -1,6 +1,11 @@
 [info]
 description = "Ethiopic Config File"
-version = "2023-11-07"
+version = "2024-03-23"
+
+[core]
+buffer_size = 64
+auto_capitalize = false
+auto_commit = false
 
 [data]
 ethiopic = { path = "./code.toml" }

@@ -1,4 +1,4 @@
-// Version: 2023-09-29
+// Version: 2024-03-23
 
 const MONTHS = [
     "Ngù'fī", "Nkùɑ̀nʉ̀ɑ̀", "Mbàkngòfāt",
@@ -9,7 +9,6 @@ const MONTHS = [
 
 fn parse_date(input) {
     let data = input.split('/');
-
     if data.len() != 3 {
         return [];
     }
@@ -25,8 +24,13 @@ fn parse_date(input) {
 
 // Main function
 fn translate(input) {
-    let date = parse_date(input);
+    let commit = if input.ends_with("'") {
+        let n = input.len();
+        input = input.sub_string(0..(n-1));
+        true
+    } else { false };
 
+    let date = parse_date(input);
     if date.is_empty() { return }
 
     let nufi_month = global::MONTHS[date[1]-1];
@@ -36,5 +40,5 @@ fn translate(input) {
             if date[0] == 1 { "Ntûmbhì līē'" }
             else { `līē' ${date[0]}` }
         ) + `, ${nufi_month} ${date[2]}`
-    ], true]
+    ], commit]
 }

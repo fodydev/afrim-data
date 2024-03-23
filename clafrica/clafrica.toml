@@ -3,7 +3,12 @@ name		=	"Clafrica"
 description = 	"Clafrica Config File"
 authors		=	["Resulam <contact@resulam.com>"]
 website		=	"https://resulam.com"
-version = "2023-10-02"
+version = "2024-03-23"
+
+[core]
+buffer_size = 64
+auto_capitalize = true
+auto_commit = true
 
 [data]
 single = { path = "./clafrica_single.toml" }
