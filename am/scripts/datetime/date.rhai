@@ -1,4 +1,4 @@
-// Version: 2023-09-29
+// Version: 2024-03-23
 
 const MONTHS = [
     "መስከረም", "ጥቅምት", "ሕዳር", "ታህሳስ", "ጥር", "የካቲት", "መጋቢት",
@@ -7,7 +7,6 @@ const MONTHS = [
 
 fn parse_date(input) {
     let data = input.split('/');
-    
     if data.len() != 3 {
         return [];
     }
@@ -23,8 +22,13 @@ fn parse_date(input) {
 
 // Main function
 fn translate(input) {
+    let commit = if input.ends_with("'") {
+        let n = input.len();
+        input = input.sub_string(0..(n-1));
+        true
+    } else { false };
+
     let date = parse_date(input);
-    
     if date.is_empty() { return [] }
 
     let amharic_month = global::MONTHS[date[1]-1];
@@ -32,5 +36,5 @@ fn translate(input) {
     [input, "", [
         `${date[0]} ${amharic_month} ${date[2]}`,
         `${amharic_month} ${date[0]}, ${date[2]}`
-    ], true]
+    ], commit]
 }

@@ -1,4 +1,4 @@
-// Version: 2023-09-29
+// Version: 2024-03-23
 
 const UNITS = [
     "", "nshʉ̀'", "pʉ́ɑ́", "tāā", "kwɑ̀", "tî", "ntòhō",
@@ -12,7 +12,6 @@ const TENS = [
 
 fn translate(input) {
     let n = input.len();
-    let result = "";
     let commit = if input.ends_with("'") {
         input = input.sub_string(0..(n-1));
         n = input.len();
@@ -24,7 +23,6 @@ fn translate(input) {
         2 => {
             let unit = parse_int(input.sub_string(1,2));
             let ten = parse_int(input.sub_string(0,1));
-            print([ten, unit]);
             let nufi_unit = global::UNITS[unit];
             let nufi_ten = global::TENS[ten];
 

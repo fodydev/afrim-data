@@ -1,6 +1,6 @@
 // Based on https://www.geez.org/Numerals/
 // Tested with https://www.geez.org/Numerals/NumberSamples.html
-// Version: 2023-09-01 
+// Version: 2024-03-23 
 
 // 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 const UNITS = ["", "፩", "፪", "፫", "፬", "፭", "፮", "፯", "፰", "፱"];
@@ -11,12 +11,12 @@ const GROUPS = ["", "፻", "፼"];
 
 fn translate(input) {
     let n = input.len();
-    let result = "";
     let commit = if input.ends_with("'") {
         input = input.sub_string(0..(n-1));
         n = input.len();
         true
     } else { false };
+    let result = "";
     
     // Just a limit like that
     if n > 13 {
