@@ -1,0 +1,16 @@
+[info]
+description = "Numbers in bamun scripts"
+source = "https://www.unicode.org/charts/PDF/UA6A0.pdf"
+version = "2024-03-23"
+
+[translation]
+"1'" = { value = "ꛦ", alias = ["mo"] }
+"2'" = { value = "ꛧ", alias = ["mbaa"] }
+"3'" = { value = "ꛨ", alias = ["tet"] }
+"4'" = { value = "ꛩ", alias = ["kpa"] }
+"5'" = { value = "ꛪ", alias = ["ten"] }
+"6'" = { value = "ꛫ", alias = ["ntuu"] }
+"7'" = { value = "ꛬ", alias = ["samba"] }
+"8'" = { value = "ꛭ", alias = ["faamae"] }
+"9'" = { value = "ꛮ", alias = ["kovuu"] }
+"0'" = { value = "ꛯ", alias = ["koghom"] }
