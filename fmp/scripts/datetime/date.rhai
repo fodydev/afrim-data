@@ -17,7 +17,7 @@ fn parse_date(input) {
     let month = parse_int(data[1]);
     let year = parse_int(data[2]);
 
-    if day in 1..31 && month in 1..13 && year in 1..2100 {
+    if day in 1..=31 && month in 1..13 && year in 1..2100 {
         return [day, month, year];
     }
 }
