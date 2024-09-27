@@ -17,7 +17,6 @@ geez_punctuation = { path = "../gez/punctuation.toml" }
 amharic = { path = "./code.toml" }
 
 [translation]
-dictionary = { path = "./dictionary.toml" }
 names = { path = "./names.toml" }
 
 [translators]
