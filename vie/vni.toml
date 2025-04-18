@@ -1,0 +1,163 @@
+[info]
+description = "Vietnam VNI"
+version = "2025-04-18"
+
+[core]
+auto_capitalize = true
+
+[data]
+# a / A series
+a1 = "á"
+A1 = "Á"
+a2 = "à"
+A2 = "À"
+a3 = "ả"
+A3 = "Ả"
+a4 = "ã"
+A4 = "Ã"
+a5 = "ạ"
+A5 = "Ạ"
+a6 = "â"
+A6 = "Â"
+a8 = "ă"
+A8 = "Ă"
+
+a61 = { value = "ấ", alias = ["a16"] }
+A61 = { value = "Ấ", alias = ["A16"] }
+a62 = { value = "ầ", alias = ["a26"] }
+A62 = { value = "Ầ", alias = ["A26"] }
+a63 = { value = "ẩ", alias = ["a36"] }
+A63 = { value = "Ẩ", alias = ["A36"] }
+a64 = { value = "ẫ", alias = ["a46"] }
+A64 = { value = "Ẫ", alias = ["A46"] }
+a65 = { value = "ậ", alias = ["a56"] }
+A65 = { value = "Ậ", alias = ["A56"] }
+
+a81 = { value = "ắ", alias = ["a18"] }
+A81 = { value = "Ắ", alias = ["A18"] }
+a82 = { value = "ằ", alias = ["a28"] }
+A82 = { value = "Ằ", alias = ["A28"] }
+a83 = { value = "ẳ", alias = ["a38"] }
+A83 = { value = "Ẳ", alias = ["A38"] }
+a84 = { value = "ẵ", alias = ["a48"] }
+A84 = { value = "Ẵ", alias = ["A48"] }
+a85 = { value = "ặ", alias = ["a58"] }
+A85 = { value = "Ặ", alias = ["A58"] }
+
+# e / E series
+e1 = "é"
+E1 = "É"
+e2 = "è"
+E2 = "È"
+e3 = "ẻ"
+E3 = "Ẻ"
+e4 = "ẽ"
+E4 = "Ẽ"
+e5 = "ẹ"
+E5 = "Ẹ"
+e6 = "ê"
+E6 = "Ê"
+
+e61 = { value = "ế", alias = ["e16"] }
+E61 = { value = "Ế", alias = ["E16"] }
+e62 = { value = "ề", alias = ["e26"] }
+E62 = { value = "Ề", alias = ["E26"] }
+e63 = { value = "ể", alias = ["e36"] }
+E63 = { value = "Ể", alias = ["E36"] }
+e64 = { value = "ễ", alias = ["e46"] }
+E64 = { value = "Ễ", alias = ["E46"] }
+e65 = { value = "ệ", alias = ["e56"] }
+E65 = { value = "Ệ", alias = ["E56"] }
+
+# i / I series
+i1 = "í"
+I1 = "Í"
+i2 = "ì"
+I2 = "Ì"
+i3 = "ỉ"
+I3 = "Ỉ"
+i4 = "ĩ"
+I4 = "Ĩ"
+i5 = "ị"
+I5 = "Ị"
+
+# o / O series
+o1 = "ó"
+O1 = "Ó"
+o2 = "ò"
+O2 = "Ò"
+o3 = "ỏ"
+O3 = "Ỏ"
+o4 = "õ"
+O4 = "Õ"
+o5 = "ọ"
+O5 = "Ọ"
+o6 = "ô"
+O6 = "Ô"
+o7 = "ơ"
+O7 = "Ơ"
+
+o61 = { value = "ố", alias = ["o16"] }
+O61 = { value = "Ố", alias = ["O16"] }
+o62 = { value = "ồ", alias = ["o26"] }
+O62 = { value = "Ồ", alias = ["O26"] }
+o63 = { value = "ổ", alias = ["o36"] }
+O63 = { value = "Ổ", alias = ["O36"] }
+o64 = { value = "ỗ", alias = ["o46"] }
+O64 = { value = "Ỗ", alias = ["O46"] }
+o65 = { value = "ộ", alias = ["o56"] }
+O65 = { value = "Ộ", alias = ["O56"] }
+
+o71 = { value = "ớ", alias = ["o17"] }
+O71 = { value = "Ớ", alias = ["O17"] }
+o72 = { value = "ờ", alias = ["o27"] }
+O72 = { value = "Ờ", alias = ["O27"] }
+o73 = { value = "ở", alias = ["o37"] }
+O73 = { value = "Ở", alias = ["O37"] }
+o74 = { value = "ỡ", alias = ["o47"] }
+O74 = { value = "Ỡ", alias = ["O47"] }
+o75 = { value = "ợ", alias = ["o57"] }
+O75 = { value = "Ợ", alias = ["O57"] }
+
+# u / U series
+u1 = "ú"
+U1 = "Ú"
+u2 = "ù"
+U2 = "Ù"
+u3 = "ủ"
+U3 = "Ủ"
+u4 = "ũ"
+U4 = "Ũ"
+u5 = "ụ"
+U5 = "Ụ"
+u7 = "ư"
+U7 = "Ư"
+
+u71 = { value = "ứ", alias = ["u17"] }
+U71 = { value = "Ứ", alias = ["U17"] }
+u72 = { value = "ừ", alias = ["u27"] }
+U72 = { value = "Ừ", alias = ["U27"] }
+u73 = { value = "ử", alias = ["u37"] }
+U73 = { value = "Ử", alias = ["U37"] }
+u74 = { value = "ữ", alias = ["u47"] }
+U74 = { value = "Ữ", alias = ["U47"] }
+u75 = { value = "ự", alias = ["u57"] }
+U75 = { value = "Ự", alias = ["U57"] }
+
+# y / Y series
+y1 = "ý"
+Y1 = "Ý"
+y2 = "ỳ"
+Y2 = "Ỳ"
+y3 = "ỷ"
+Y3 = "Ỷ"
+y4 = "ỹ"
+Y4 = "Ỹ"
+y5 = "ỵ"
+Y5 = "Ỵ"
+
+# d / D series
+# d = "d"
+# D = "D"
+d9 = "đ"
+D9 = "Đ"

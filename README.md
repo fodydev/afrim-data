@@ -34,3 +34,6 @@ Configuration for the Amharic input method.
 
 ## [Bamun](bax)
 Configuration for the Bamun input method.
+
+## [Vietnam](vie)
+Configuration for the Vietnam input method.
