@@ -1,9 +1,12 @@
 [info]
-description = "Vietnam Telex"
+name = "Telex IM"
+description = "Telex Config File"
 version = "2025-04-18"
+authors = []
+website = ""
 
 [core]
-auto_capitalize = true
+auto_capitalize = false
 
 [data]
 # a / A series

@@ -11,5 +11,5 @@ auto_capitalize = false
 auto_commit = true
 
 [data]
-vni = { path = "./vni.toml" }
-telex = { path = "./telex.toml" }
+vni = { path = "./../vni/vni.toml" }
+telex = { path = "./../telex/telex.toml" }
