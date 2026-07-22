@@ -1,0 +1,233 @@
+[info]
+name = "Telex IM"
+description = "Telex Config File"
+version = "2025-04-18"
+authors = []
+website = ""
+
+[core]
+auto_capitalize = false
+
+[data]
+# a / A series
+as = "á"
+aS = "Á"
+As = "Á"
+AS = "Á"
+af = "à"
+aF = "À"
+Af = "À"
+AF = "À"
+ar = "ả"
+aR = "Ả"
+Ar = "Ả"
+AR = "Ả"
+ax = "ã"
+aX = "Ã"
+Ax = "Ã"
+AX = "Ã"
+aj = "ạ"
+aJ = "Ạ"
+Aj = "Ạ"
+AJ = "Ạ"
+aa = "â"
+aA = "Â"
+Aa = "Â"
+AA = "Â"
+aw = "ă"
+aW = "Ă"
+Aw = "Ă"
+AW = "Ă"
+
+aas = { value = "ấ", alias = ["asa"] }
+aaS = { value = "Ấ", alias = ["aSa", "Asa", "AsA", "ASA"] }
+
+aaf = { value = "ầ", alias = ["afa"] }
+aaF = { value = "Ầ", alias = ["aFa", "Afa", "AfA", "AFA"] }
+
+aar = { value = "ẩ", alias = ["ara"] }
+aaR = { value = "Ẩ", alias = ["aRa", "Ara", "ArA", "ARA"] }
+
+aax = { value = "ẫ", alias = ["axa"] }
+aaX = { value = "Ẫ", alias = ["aXa", "Axa", "AxA", "AXA"] }
+
+aaj = { value = "ậ", alias = ["aja"] }
+aaJ = { value = "Ậ", alias = ["aJa", "Aja", "AjA", "AJA"] }
+
+aws = { value = "ắ", alias = ["asw"] }
+awS = { value = "Ắ", alias = ["aSw", "Asw", "AsW", "ASW"] }
+
+awf = { value = "ằ", alias = ["afw"] }
+awF = { value = "Ằ", alias = ["aFw", "Afw", "AfW", "AFW"] }
+
+awr = { value = "ẳ", alias = ["arw"] }
+awR = { value = "Ẳ", alias = ["aRw", "Arw", "ArW", "ARW"] }
+
+awx = { value = "ẵ", alias = ["axw"] }
+awX = { value = "Ẵ", alias = ["aXw", "Axw", "AxW", "AXW"] }
+
+awj = { value = "ặ", alias = ["ajw"] }
+awJ = { value = "Ặ", alias = ["aJw", "Ajw", "AjW", "AJW"] }
+
+# e / E series
+es = "é"
+eS = "É"
+Es = "É"
+ef = "è"
+eF = "È"
+Ef = "È"
+er = "ẻ"
+eR = "Ẻ"
+Er = "Ẻ"
+ex = "ẽ"
+eX = "Ẽ"
+Ex = "Ẽ"
+ej = "ẹ"
+eJ = "Ẹ"
+Ej = "Ẹ"
+ee = "ê"
+eE = "Ê"
+Ee = "Ê"
+
+ees = { value = "ế", alias = ["ese"] }
+eeS = { value = "Ế", alias = ["eSe", "Ese", "EsE", "ESE"] }
+
+eef = { value = "ề", alias = ["efe"] }
+eeF = { value = "Ề", alias = ["eFe", "Efe", "EfE", "EFE"] }
+
+eer = { value = "ể", alias = ["ere"] }
+eeR = { value = "Ể", alias = ["eRe", "Ere", "ErE", "ERE"] }
+
+eex = { value = "ễ", alias = ["exe"] }
+eeX = { value = "Ễ", alias = ["eXe", "Exe", "ExE", "EXE"] }
+
+eej = { value = "ệ", alias = ["eje"] }
+eeJ = { value = "Ệ", alias = ["eJe", "Eje", "EjE", "EJE"] }
+
+# o / O series
+os = "ó"
+oS = "Ó"
+Os = "Ó"
+of = "ò"
+oF = "Ò"
+Of = "Ò"
+or = "ỏ"
+oR = "Ỏ"
+Or = "Ỏ"
+ox = "õ"
+oX = "Õ"
+Ox = "Õ"
+oj = "ọ"
+oJ = "Ọ"
+Oj = "Ọ"
+oo = "ô"
+oO = "Ô"
+Oo = "Ô"
+ow = "ơ"
+oW = "Ơ"
+Ow = "Ơ"
+
+oos = { value = "ố", alias = ["oso"] }
+ooS = { value = "Ố", alias = ["oSo", "Oso", "OsO", "OSO"] }
+
+oof = { value = "ồ", alias = ["ofo"] }
+ooF = { value = "Ồ", alias = ["oFo", "Ofo", "OfO", "OFO"] }
+
+oor = { value = "ổ", alias = ["oro"] }
+ooR = { value = "Ổ", alias = ["oRo", "Oro", "OrO", "ORO"] }
+
+oox = { value = "ỗ", alias = ["oxo"] }
+ooX = { value = "Ỗ", alias = ["oXo", "Oxo", "OxO", "OXO"] }
+
+ooj = { value = "ộ", alias = ["ojo"] }
+ooJ = { value = "Ộ", alias = ["oJo", "Ojo", "OjO", "OJO"] }
+
+ows = { value = "ớ", alias = ["osw"] }
+owS = { value = "Ớ", alias = ["oSw", "Osw", "OsW", "OSW"] }
+
+owf = { value = "ờ", alias = ["ofw"] }
+owF = { value = "Ờ", alias = ["oFw", "Ofw", "OfW", "OFW"] }
+
+owr = { value = "ở", alias = ["orw"] }
+owR = { value = "Ở", alias = ["oRw", "Orw", "OrW", "ORW"] }
+
+owx = { value = "ỡ", alias = ["oxw"] }
+owX = { value = "Ỡ", alias = ["oXw", "Oxw", "OxW", "OXW"] }
+
+owj = { value = "ợ", alias = ["ojw"] }
+owJ = { value = "Ợ", alias = ["oJw", "Ojw", "OjW", "OJW"] }
+
+# u / U series
+us = "ú"
+uS = "Ú"
+Us = "Ú"
+uf = "ù"
+uF = "Ù"
+Uf = "Ù"
+ur = "ủ"
+uR = "Ủ"
+Ur = "Ủ"
+ux = "ũ"
+uX = "Ũ"
+Ux = "Ũ"
+uj = "ụ"
+uJ = "Ụ"
+Uj = "Ụ"
+uw = "ư"
+uW = "Ư"
+Uw = "Ư"
+
+uws = { value = "ứ", alias = ["usw"] }
+uwS = { value = "Ứ", alias = ["uSw", "Usw", "UsW", "USW"] }
+
+uwf = { value = "ừ", alias = ["ufw"] }
+uwF = { value = "Ừ", alias = ["uFw", "Ufw", "UfW", "UFW"] }
+
+uwr = { value = "ử", alias = ["urw"] }
+uwR = { value = "Ử", alias = ["uRw", "Urw", "UrW", "URW"] }
+
+uwx = { value = "ữ", alias = ["uxw"] }
+uwX = { value = "Ữ", alias = ["uXw", "Uxw", "UxW", "UXW"] }
+
+uwj = { value = "ự", alias = ["ujw"] }
+uwJ = { value = "Ự", alias = ["uJw", "Ujw", "UjW", "UJW"] }
+
+# y / Y series
+ys = "ý"
+yS = "Ý"
+Ys = "Ý"
+yf = "ỳ"
+yF = "Ỳ"
+Yf = "Ỳ"
+yr = "ỷ"
+yR = "Ỷ"
+Yr = "Ỷ"
+yx = "ỹ"
+yX = "Ỹ"
+Yx = "Ỹ"
+yj = "ỵ"
+yJ = "Ỵ"
+Yj = "Ỵ"
+
+# i / I series
+is = "í"
+iS = "Í"
+Is = "Í"
+if = "ì"
+iF = "Ì"
+If = "Ì"
+ir = "ỉ"
+iR = "Ỉ"
+Ir = "Ỉ"
+ix = "ĩ"
+iX = "Ĩ"
+Ix = "Ĩ"
+ij = "ị"
+iJ = "Ị"
+Ij = "Ị"
+
+# d / D series
+dd = "đ"
+dD = "Đ"
+Dd = "Đ"
+DD = "Đ"

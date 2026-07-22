@@ -1,0 +1,15 @@
+[info]
+name = "Vietnam IM"
+description = "Vietnam Config File"
+version = "2025-04-18"
+authors = []
+website = ""
+
+[core]
+buffer_size = 64
+auto_capitalize = false
+auto_commit = true
+
+[data]
+vni = { path = "./../vni/vni.toml" }
+telex = { path = "./../telex/telex.toml" }
