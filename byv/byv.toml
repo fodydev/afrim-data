@@ -1,0 +1,17 @@
+[info]
+name			=	"medumba"
+description		=	"Medumba Config File"
+version			=	"2026-07-23"
+authors			=	["Brady Fomegne <brady.fomegne@outlook.com>"]
+website			=	"https://gravatar.com/bradyfomegne"
+
+[core]
+buffer_size		=	64
+auto_capitalize		=	true
+auto_commit		=	false
+
+[data]
+clafrica		=	{ path = "../clafrica/clafrica.toml" }
+
+[translation]
+dictionary		=	{ path = "./dictionary.toml" }
