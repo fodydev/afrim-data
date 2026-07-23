@@ -8,19 +8,19 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "a bwo*7" = { value = "a bwɔ̌", alias = ["a bw12o*", "a bwo_star_7", "a bwo*12", "a bwo_star_12", "a bw12o_star_"] }
 "a bwo*7 neu1shu1" = { value = "a bwɔ̌ nə̀shù", alias = ["a bw12o* neu1shu1", "a bwo_star_7 neu1shu1", "a bwo*12 neu1shu1", "a bwo_star_12 neu1shu1", "a bw12o_star_ neu1shu1"] }
 "a ghu-5" = { value = "a ghʉ̂", alias = ["a gh21uu", "a ghuu5", "a gh5uu", "a ghuu21"] }
-"a ghubteu1" = { value = "a ghubtə̀" }
-"a ku1'u" = { value = "a kù'u" }
+"a ghubteu1" = "a ghubtə̀"
+"a ku1'u" = "a kù'u"
 "a vu-7 lag" = { value = "a vʉ̌ lag", alias = ["a v7uu lag", "a vuu12 lag", "a v12uu lag", "a vuu7 lag"] }
-"af1m" = { value = "ɑ̀m" }
+"af1m" = "ɑ̀m"
 "af5 neunu-neu mbeu" = { value = "ɑ̂ nənʉnə mbə", alias = ["5af neunu-neu mbeu", "21af neunu-neu mbeu", "af21 neunu-neu mbeu", "af5 neunuuneu mbeu"] }
-"afm" = { value = "ɑm" }
-"Afrika" = { value = "Afrika" }
-"ba" = { value = "ba" }
-"ba'" = { value = "ba'" }
-"ba1" = { value = "bà" }
-"ba1'" = { value = "bà'" }
-"ba1g" = { value = "bàg" }
-"ba1geu" = { value = "bàgə" }
+"afm" = "ɑm"
+"Afrika" = "Afrika"
+"ba" = "ba"
+"ba'" = "ba'"
+"ba1" = "bà"
+"ba1'" = "bà'"
+"ba1g" = "bàg"
+"ba1geu" = "bàgə"
 "ba1gteu7" = { value = "bàgtə̌", alias = ["ba1gteu12", "ba1gt7eu", "ba1gt12eu"] }
 "ba1gteu7 ma1d" = { value = "bàgtə̌ màd", alias = ["ba1gteu12 ma1d", "ba1gt7eu ma1d", "ba1gt12eu ma1d"] }
 "ba1teu7" = { value = "bàtə̌", alias = ["ba1teu12", "ba1t7eu", "ba1t12eu"] }
@@ -38,105 +38,105 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ba7m" = { value = "bǎm", alias = ["b7am", "ba12m", "b12am"] }
 "ba7m nu7m vu-" = { value = "bǎm nǔm vʉ", alias = ["b7am nu7m vu-", "ba12m nu7m vu-", "b12am nu7m vu-", "ba7m nu7m vuu", "ba7m n12um vu-", "ba7m nu12m vu-", "ba7m n7um vu-"] }
 "ba7mku1" = { value = "bǎmkù", alias = ["b7amku1", "ba12mku1", "b12amku1"] }
-"badteu1" = { value = "badtə̀" }
-"baf1" = { value = "bɑ̀" }
-"baf1m" = { value = "bɑ̀m" }
+"badteu1" = "badtə̀"
+"baf1" = "bɑ̀"
+"baf1m" = "bɑ̀m"
 "baf5m n*wa1'ni1" = { value = "bɑ̂m ŋwà'nì", alias = ["b5afm n*wa1'ni1", "b21afm n*wa1'ni1", "baf21m n*wa1'ni1", "baf5m n_star_wa1'ni1"] }
 "baf7m nkafb" = { value = "bɑ̌m nkɑb", alias = ["baf12m nkafb", "b12afm nkafb", "b7afm nkafb"] }
-"bafhaf" = { value = "bɑhɑ" }
-"bafneu" = { value = "bɑnə" }
-"bag" = { value = "bag" }
-"bagdeu" = { value = "bagdə" }
-"bagteu fafa" = { value = "bagtə fafa" }
-"bam" = { value = "bam" }
-"bameu" = { value = "bamə" }
-"bateu" = { value = "batə" }
-"be" = { value = "be" }
-"bedni1" = { value = "bednì" }
-"beu" = { value = "bə" }
-"beu1feu1" = { value = "bə̀fə̀" }
+"bafhaf" = "bɑhɑ"
+"bafneu" = "bɑnə"
+"bag" = "bag"
+"bagdeu" = "bagdə"
+"bagteu fafa" = "bagtə fafa"
+"bam" = "bam"
+"bameu" = "bamə"
+"bateu" = "batə"
+"be" = "be"
+"bedni1" = "bednì"
+"beu" = "bə"
+"beu1feu1" = "bə̀fə̀"
 "beu1nntu-1n" = { value = "bə̀nntʉ̀n", alias = ["beu1nntuu1n"] }
 "beu5nnzwi" = { value = "bə̂nnzwi", alias = ["b5eunnzwi", "beu21nnzwi", "b21eunnzwi"] }
 "beu5'nsweu" = { value = "bə̂'nswə", alias = ["b5eu'nsweu", "beu21'nsweu", "b21eu'nsweu"] }
-"beu'eu" = { value = "bə'ə" }
+"beu'eu" = "bə'ə"
 "beunntu-1n" = { value = "bənntʉ̀n", alias = ["beunntuu1n"] }
 "beu'teu5 ndo*7ndo*1" = { value = "bə'tə̂ ndɔ̌ndɔ̀", alias = ["beu't5eu ndo*7ndo*1", "beu'teu21 ndo*7ndo*1", "beu't21eu ndo*7ndo*1", "beu'teu5 ndo*7ndo_star_1", "beu'teu5 nd12o*ndo*1", "beu'teu5 ndo_star_7ndo*1", "beu'teu5 ndo*12ndo*1", "beu'teu5 ndo_star_12ndo*1", "beu'teu5 nd12o_star_ndo*1"] }
-"bi1n" = { value = "bìn" }
+"bi1n" = "bìn"
 "bi1'teu7" = { value = "bì'tə̌", alias = ["bi1'teu12", "bi1't7eu", "bi1't12eu"] }
 "bi5'to*" = { value = "bî'tɔ", alias = ["bi21'to*", "b21i'to*", "b5i'to*", "bi5'to_star_"] }
 "biag to*" = { value = "biag tɔ", alias = ["biag to_star_"] }
-"biageu" = { value = "biagə" }
-"bin" = { value = "bin" }
+"biageu" = "biagə"
+"bin" = "bin"
 "bin yog di o*5" = { value = "bin yog di ɔ̂", alias = ["bin yog di 21o*", "bin yog di o_star_5", "bin yog di o*21", "bin yog di o_star_21", "bin yog di 21o_star_"] }
 "bin zi o*" = { value = "bin zi ɔ", alias = ["bin zi o_star_"] }
-"biteu1miafg" = { value = "bitə̀miɑg" }
-"bo" = { value = "bo" }
+"biteu1miafg" = "bitə̀miɑg"
+"bo" = "bo"
 "bo5" = { value = "bô", alias = ["b5o", "b21o", "bo21"] }
-"bod" = { value = "bod" }
-"bon" = { value = "bon" }
-"bon safb" = { value = "bon sɑb" }
+"bod" = "bod"
+"bon" = "bon"
+"bon safb" = "bon sɑb"
 "bo*nnkeu'" = { value = "bɔnnkə'", alias = ["bo_star_nnkeu'"] }
-"bouche" = { value = "bouche" }
-"bu" = { value = "bu" }
-"bu'" = { value = "bu'" }
+"bouche" = "bouche"
+"bu" = "bu"
+"bu'" = "bu'"
 "bu-" = { value = "bʉ", alias = ["buu"] }
 "bu-'" = { value = "bʉ'", alias = ["buu'"] }
-"bu' mbu" = { value = "bu' mbu" }
+"bu' mbu" = "bu' mbu"
 "bu-' ngo*1" = { value = "bʉ' ngɔ̀", alias = ["bu-' ngo_star_1", "buu' ngo*1"] }
 "bu' n*wa1'ni1" = { value = "bu' ŋwà'nì", alias = ["bu' n_star_wa1'ni1"] }
-"bu' tom" = { value = "bu' tom" }
-"bu1ma" = { value = "bùma" }
-"bu1si" = { value = "bùsi" }
+"bu' tom" = "bu' tom"
+"bu1ma" = "bùma"
+"bu1si" = "bùsi"
 "bu5fa1'" = { value = "bûfà'", alias = ["bu21fa1'", "b21ufa1'", "b5ufa1'"] }
 "bu5ki1" = { value = "bûkì", alias = ["bu21ki1", "b21uki1", "b5uki1"] }
-"bu'ki1" = { value = "bu'kì" }
+"bu'ki1" = "bu'kì"
 "bu'ki7 co*fa1'" = { value = "bu'kǐ cɔfà'", alias = ["bu'ki12 co*fa1'", "bu'k12i co*fa1'", "bu'k7i co*fa1'", "bu'ki7 co_star_fa1'"] }
 "bu-'mai1n" = { value = "bʉ'mɛ̀n", alias = ["buu'mai1n"] }
-"bumeu" = { value = "bumə" }
-"bu'mfu" = { value = "bu'mfu" }
+"bumeu" = "bumə"
+"bu'mfu" = "bu'mfu"
 "bu'mfu-m" = { value = "bu'mfʉm", alias = ["bu'mfuum"] }
-"bun" = { value = "bun" }
-"bu'ndeub" = { value = "bu'ndəb" }
-"bu'neu1ba1'" = { value = "bu'nə̀bà'" }
-"bu'ngwa" = { value = "bu'ngwa" }
+"bun" = "bun"
+"bu'ndeub" = "bu'ndəb"
+"bu'neu1ba1'" = "bu'nə̀bà'"
+"bu'ngwa" = "bu'ngwa"
 "bu'n*wa1'ni1" = { value = "bu'ŋwà'nì", alias = ["bu'n_star_wa1'ni1"] }
-"bu'nzweu" = { value = "bu'nzwə" }
-"bu'u" = { value = "bu'u" }
+"bu'nzweu" = "bu'nzwə"
+"bu'u" = "bu'u"
 "bu-'u-" = { value = "bʉ'ʉ", alias = ["buu'uu"] }
-"bweu" = { value = "bwə" }
-"bweu'eu" = { value = "bwə'ə" }
+"bweu" = "bwə"
+"bweu'eu" = "bwə'ə"
 "bwo7g" = { value = "bwǒg", alias = ["bwo12g", "bw7og", "bw12og"] }
 "bwo*7ntu-" = { value = "bwɔ̌ntʉ", alias = ["bw12o*ntu-", "bwo_star_7ntu-", "bwo*12ntu-", "bwo_star_12ntu-", "bw12o_star_ntu-", "bwo*7ntuu"] }
-"bwog" = { value = "bwog" }
-"bwoge" = { value = "bwoge" }
-"bwogteu" = { value = "bwogtə" }
-"bwoneu" = { value = "bwonə" }
+"bwog" = "bwog"
+"bwoge" = "bwoge"
+"bwogteu" = "bwogtə"
+"bwoneu" = "bwonə"
 "bwu-1nteu7" = { value = "bwʉ̀ntə̌", alias = ["bwu-1nteu12", "bwu-1nt7eu", "bwu-1nt12eu", "bwuu1nteu7"] }
-"bɛd nbwogeu" = { value = "bɛd nbwogə" }
-"bɛdteu" = { value = "bɛdtə" }
+"bɛd nbwogeu" = "bɛd nbwogə"
+"bɛdteu" = "bɛdtə"
 "bɛdteu nu7 nu1m" = { value = "bɛdtə nǔ nùm", alias = ["bɛdteu n12u nu1m", "bɛdteu nu12 nu1m", "bɛdteu n7u nu1m"] }
-"ca1gteu1" = { value = "càgtə̀" }
+"ca1gteu1" = "càgtə̀"
 "ca1gteu7" = { value = "càgtə̌", alias = ["ca1gteu12", "ca1gt7eu", "ca1gt12eu"] }
-"ca1meu" = { value = "càmə" }
+"ca1meu" = "càmə"
 "ca1'teu7" = { value = "cà'tə̌", alias = ["ca1'teu12", "ca1't7eu", "ca1't12eu"] }
 "ca1'teu7 nsi" = { value = "cà'tə̌ nsi", alias = ["ca1'teu12 nsi", "ca1't7eu nsi", "ca1't12eu nsi"] }
 "ca7b ncu1" = { value = "cǎb ncù", alias = ["c7ab ncu1", "ca12b ncu1", "c12ab ncu1"] }
 "ca7m ku1" = { value = "cǎm kù", alias = ["c7am ku1", "ca12m ku1", "c12am ku1"] }
-"cafmeu" = { value = "cɑmə" }
+"cafmeu" = "cɑmə"
 "cafn*eu" = { value = "cɑŋə", alias = ["cafn_star_eu"] }
-"cageu" = { value = "cagə" }
+"cageu" = "cagə"
 "cai5d son*" = { value = "cɛ̂d soŋ", alias = ["c5aid son*", "cai21d son*", "c21aid son*", "cai5d son_star_"] }
 "can*" = { value = "caŋ", alias = ["can_star_"] }
 "ca'to*ngo*1" = { value = "ca'tɔngɔ̀", alias = ["ca'to*ngo_star_1", "ca'to_star_ngo*1"] }
-"ceu1b" = { value = "cə̀b" }
+"ceu1b" = "cə̀b"
 "ceu7' nku1" = { value = "cə̌' nkù", alias = ["ceu12' nku1", "c7eu' nku1", "c12eu' nku1"] }
-"ceunnaf" = { value = "cənnɑ" }
+"ceunnaf" = "cənnɑ"
 "ceunni5" = { value = "cənnî", alias = ["ceunni21", "ceunn21i", "ceunn5i"] }
-"cileu" = { value = "cilə" }
-"co" = { value = "co" }
-"co nshuneu" = { value = "co nshunə" }
-"co1" = { value = "cò" }
-"co1'" = { value = "cò'" }
+"cileu" = "cilə"
+"co" = "co"
+"co nshuneu" = "co nshunə"
+"co1" = "cò"
+"co1'" = "cò'"
 "co*1" = { value = "cɔ̀", alias = ["co_star_1"] }
 "co1n*eu" = { value = "còŋə", alias = ["co1n_star_eu"] }
 "co5' nku-5dfi" = { value = "cô' nkʉ̂dfi", alias = ["co5' nk21uudfi", "co5' nkuu5dfi", "co5' nk5uudfi", "co5' nkuu21dfi", "c5o' nku-5dfi", "c21o' nku-5dfi", "co21' nku-5dfi"] }
@@ -144,13 +144,13 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "co5'ndu1'" = { value = "cô'ndù'", alias = ["c5o'ndu1'", "c21o'ndu1'", "co21'ndu1'"] }
 "co5'ngu'" = { value = "cô'ngu'", alias = ["c5o'ngu'", "c21o'ngu'", "co21'ngu'"] }
 "co7m zwi1" = { value = "cǒm zwì", alias = ["co12m zwi1", "c7om zwi1", "c12om zwi1"] }
-"cobeu" = { value = "cobə" }
-"cobteu" = { value = "cobtə" }
+"cobeu" = "cobə"
+"cobteu" = "cobtə"
 "co'ku-dfi" = { value = "co'kʉdfi", alias = ["co'kuudfi"] }
 "co'ku-dnjum" = { value = "co'kʉdnjum", alias = ["co'kuudnjum"] }
-"co'ncu1" = { value = "co'ncù" }
-"co'o" = { value = "co'o" }
-"co'teu nca1" = { value = "co'tə ncà" }
+"co'ncu1" = "co'ncù"
+"co'o" = "co'o"
+"co'teu nca1" = "co'tə ncà"
 "cu-1ju" = { value = "cʉ̀ju", alias = ["cuu1ju"] }
 "cu5dian*eu" = { value = "cûdiaŋə", alias = ["cu5dian_star_eu", "cu21dian*eu", "c21udian*eu", "c5udian*eu"] }
 "cu5fa1'" = { value = "cûfà'", alias = ["cu21fa1'", "c21ufa1'", "c5ufa1'"] }
@@ -161,9 +161,9 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "cu-agntu-" = { value = "cʉagntʉ", alias = ["cuuagntuu"] }
 "cu-beu" = { value = "cʉbə", alias = ["cuubeu"] }
 "cwai5dtu1n" = { value = "cwɛ̂dtùn", alias = ["cw5aidtu1n", "cwai21dtu1n", "cw21aidtu1n"] }
-"cwiteu" = { value = "cwitə" }
-"cwɛd" = { value = "cwɛd" }
-"cɛd" = { value = "cɛd" }
+"cwiteu" = "cwitə"
+"cwɛd" = "cwɛd"
+"cɛd" = "cɛd"
 "dain* nto1'" = { value = "daiŋ ntò'", alias = ["dain_star_ nto1'"] }
 "di1baf1 ndaf5n*wa1'ni1" = { value = "dìbɑ̀ ndɑ̂ŋwà'nì", alias = ["di1baf1 nd5afn*wa1'ni1", "di1baf1 nd21afn*wa1'ni1", "di1baf1 ndaf21n*wa1'ni1", "di1baf1 ndaf5n_star_wa1'ni1"] }
 "dia1n* mbomeu" = { value = "diàŋ mbomə", alias = ["dia1n_star_ mbomeu"] }
@@ -181,12 +181,12 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "dian*sa" = { value = "diaŋsa", alias = ["dian_star_sa"] }
 "dian*zweu" = { value = "diaŋzwə", alias = ["dian_star_zweu"] }
 "dian*zwi" = { value = "diaŋzwi", alias = ["dian_star_zwi"] }
-"dibaf ntseu" = { value = "dibɑ ntsə" }
+"dibaf ntseu" = "dibɑ ntsə"
 "du-'" = { value = "dʉ'", alias = ["duu'"] }
 "du-1' wa" = { value = "dʉ̀' wa", alias = ["duu1' wa"] }
 "du1mdeu7" = { value = "dùmdə̌", alias = ["du1mdeu12", "du1md7eu", "du1md12eu"] }
 "du1mteu7" = { value = "dùmtə̌", alias = ["du1mteu12", "du1mt7eu", "du1mt12eu"] }
-"du1teu1ngeu'" = { value = "dùtə̀ngə'" }
+"du1teu1ngeu'" = "dùtə̀ngə'"
 "du-5' n*wa1'ni7 so1n*" = { value = "dʉ̂' ŋwà'nǐ sòŋ", alias = ["d21uu' n*wa1'ni7 so1n*", "duu5' n*wa1'ni7 so1n*", "d5uu' n*wa1'ni7 so1n*", "duu21' n*wa1'ni7 so1n*", "du-5' n*wa1'ni12 so1n*", "du-5' n*wa1'n12i so1n*", "du-5' n*wa1'n7i so1n*", "du-5' n_star_wa1'ni7 so1n_star_"] }
 "du-5'nkafb" = { value = "dʉ̂'nkɑb", alias = ["d21uu'nkafb", "duu5'nkafb", "d5uu'nkafb", "duu21'nkafb"] }
 "du-7'ba" = { value = "dʉ̌'ba", alias = ["d7uu'ba", "duu12'ba", "d12uu'ba", "duu7'ba"] }
@@ -212,37 +212,37 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "du-bto*ngo*1" = { value = "dʉbtɔngɔ̀", alias = ["du-bto*ngo_star_1", "du-bto_star_ngo*1", "duubto*ngo*1"] }
 "du-'deu" = { value = "dʉ'də", alias = ["duu'deu"] }
 "du-'u-" = { value = "dʉ'ʉ", alias = ["duu'uu"] }
-"esclave" = { value = "esclave" }
-"fa1'" = { value = "fà'" }
-"fa1'a" = { value = "fà'a" }
-"fa1geu" = { value = "fàgə" }
+"esclave" = "esclave"
+"fa1'" = "fà'"
+"fa1'a" = "fà'a"
+"fa1geu" = "fàgə"
 "fa7'ba1'" = { value = "fǎ'bà'", alias = ["f7a'ba1'", "fa12'ba1'", "f12a'ba1'"] }
 "fa7'fe'" = { value = "fǎ'fe'", alias = ["f7a'fe'", "fa12'fe'", "f12a'fe'"] }
 "fa7'naf1" = { value = "fǎ'nɑ̀", alias = ["f7a'naf1", "fa12'naf1", "f12a'naf1"] }
 "fa7'ncu1b" = { value = "fǎ'ncùb", alias = ["f7a'ncu1b", "fa12'ncu1b", "f12a'ncu1b"] }
-"fa'a" = { value = "fa'a" }
-"faf" = { value = "fɑ" }
+"fa'a" = "fa'a"
+"faf" = "fɑ"
 "faf cu5 fa1'" = { value = "fɑ cû fà'", alias = ["faf cu21 fa1'", "faf c21u fa1'", "faf c5u fa1'"] }
 "faf meuba5m nsi" = { value = "fɑ məbâm nsi", alias = ["faf meub5am nsi", "faf meuba21m nsi", "faf meub21am nsi"] }
-"faf ngafn" = { value = "fɑ ngɑn" }
-"faf nkafk" = { value = "fɑ nkɑk" }
-"faf ntag" = { value = "fɑ ntag" }
+"faf ngafn" = "fɑ ngɑn"
+"faf nkafk" = "fɑ nkɑk"
+"faf ntag" = "fɑ ntag"
 "faf7n nzeu1" = { value = "fɑ̌n nzə̀", alias = ["faf12n nzeu1", "f12afn nzeu1", "f7afn nzeu1"] }
-"fafa" = { value = "fafa" }
-"fageu" = { value = "fagə" }
+"fafa" = "fafa"
+"fageu" = "fagə"
 "fai1dteu7" = { value = "fɛ̀dtə̌", alias = ["fai1dteu12", "fai1dt7eu", "fai1dt12eu"] }
-"fai1nteu1" = { value = "fɛ̀ntə̀" }
-"fai1ntu1n" = { value = "fɛ̀ntùn" }
+"fai1nteu1" = "fɛ̀ntə̀"
+"fai1ntu1n" = "fɛ̀ntùn"
 "fai7nntu-" = { value = "fɛ̌nntʉ", alias = ["fai12nntu-", "f12ainntu-", "f7ainntu-", "fai7nntuu"] }
-"fa'teu1" = { value = "fa'tə̀" }
-"fe mbaf bo tsin" = { value = "fe mbɑ bo tsin" }
-"fe1d" = { value = "fèd" }
-"feu" = { value = "fə" }
-"feu le' zeu" = { value = "fə le' zə" }
+"fa'teu1" = "fa'tə̀"
+"fe mbaf bo tsin" = "fe mbɑ bo tsin"
+"fe1d" = "fèd"
+"feu" = "fə"
+"feu le' zeu" = "fə le' zə"
 "feu mba bo to5'" = { value = "fə mba bo tô'", alias = ["feu mba bo t5o'", "feu mba bo t21o'", "feu mba bo to21'"] }
 "feu ngeu1lan* zeu1" = { value = "fə ngə̀laŋ zə̀", alias = ["feu ngeu1lan_star_ zeu1"] }
-"feu1'" = { value = "fə̀'" }
-"feu1meu" = { value = "fə̀mə" }
+"feu1'" = "fə̀'"
+"feu1meu" = "fə̀mə"
 "feu5keu5bntu-" = { value = "fə̂kə̂bntʉ", alias = ["f5euk5eubntu-", "feu21keu21bntu-", "f21euk21eubntu-", "feu5keu5bntuu"] }
 "feu5nda1'" = { value = "fə̂ndà'", alias = ["f5eunda1'", "feu21nda1'", "f21eunda1'"] }
 "feu7 bu'ki1" = { value = "fə̌ bu'kì", alias = ["feu12 bu'ki1", "f7eu bu'ki1", "f12eu bu'ki1"] }
@@ -303,55 +303,55 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "feu7yo7gfa1'" = { value = "fə̌yǒgfà'", alias = ["feu12yo7gfa1'", "f7euyo7gfa1'", "f12euyo7gfa1'", "feu7yo12gfa1'", "feu7y7ogfa1'", "feu7y12ogfa1'"] }
 "feu7yo7gmai1n" = { value = "fə̌yǒgmɛ̀n", alias = ["feu12yo7gmai1n", "f7euyo7gmai1n", "f12euyo7gmai1n", "feu7yo12gmai1n", "feu7y7ogmai1n", "feu7y12ogmai1n"] }
 "feu7yo7gn*wa1'ni1" = { value = "fə̌yǒgŋwà'nì", alias = ["feu12yo7gn*wa1'ni1", "f7euyo7gn*wa1'ni1", "f12euyo7gn*wa1'ni1", "feu7yo7gn_star_wa1'ni1", "feu7yo12gn*wa1'ni1", "feu7y7ogn*wa1'ni1", "feu7y12ogn*wa1'ni1"] }
-"fi" = { value = "fi" }
-"fi1'i" = { value = "fì'i" }
-"fineu" = { value = "finə" }
-"fiteu" = { value = "fitə" }
-"fiteu1" = { value = "fitə̀" }
+"fi" = "fi"
+"fi1'i" = "fì'i"
+"fineu" = "finə"
+"fiteu" = "fitə"
+"fiteu1" = "fitə̀"
 "fo5gtu" = { value = "fôgtu", alias = ["f5ogtu", "f21ogtu", "fo21gtu"] }
-"foge" = { value = "foge" }
-"fomeu" = { value = "fomə" }
-"foneu" = { value = "fonə" }
+"foge" = "foge"
+"fomeu" = "fomə"
+"foneu" = "fonə"
 "fon*eu" = { value = "foŋə", alias = ["fon_star_eu"] }
-"foteu" = { value = "fotə" }
-"fu" = { value = "fu" }
+"foteu" = "fotə"
+"fu" = "fu"
 "fu-1neu" = { value = "fʉ̀nə", alias = ["fuu1neu"] }
 "fu-1teu1" = { value = "fʉ̀tə̀", alias = ["fuu1teu1"] }
 "fu-7" = { value = "fʉ̌", alias = ["f7uu", "fuu12", "f12uu", "fuu7"] }
 "fu-7n mba7'nzweu" = { value = "fʉ̌n mbǎ'nzwə", alias = ["f7uun mba7'nzweu", "fuu12n mba7'nzweu", "f12uun mba7'nzweu", "fuu7n mba7'nzweu", "fu-7n mb7a'nzweu", "fu-7n mba12'nzweu", "fu-7n mb12a'nzweu"] }
 "fu-leu" = { value = "fʉlə", alias = ["fuuleu"] }
 "fu-nku1" = { value = "fʉnkù", alias = ["fuunku1"] }
-"futeu" = { value = "futə" }
+"futeu" = "futə"
 "fɛd nso*" = { value = "fɛd nsɔ", alias = ["fɛd nso_star_"] }
-"fɛleu" = { value = "fɛlə" }
-"gha" = { value = "gha" }
-"gha1beu" = { value = "ghàbə" }
+"fɛleu" = "fɛlə"
+"gha" = "gha"
+"gha1beu" = "ghàbə"
 "gha5 tswi1teu1" = { value = "ghâ tswìtə̀", alias = ["gh5a tswi1teu1", "gha21 tswi1teu1", "gh21a tswi1teu1"] }
 "gha5gha" = { value = "ghâgha", alias = ["gh5agha", "gha21gha", "gh21agha"] }
 "gha7 zi'teu1" = { value = "ghǎ zi'tə̀", alias = ["gh7a zi'teu1", "gha12 zi'teu1", "gh12a zi'teu1"] }
 "gha7jun" = { value = "ghǎjun", alias = ["gh7ajun", "gha12jun", "gh12ajun"] }
-"gha'cie" = { value = "gha'cie" }
-"ghagni" = { value = "ghagni" }
-"gham" = { value = "gham" }
-"gheu1'" = { value = "ghə̀'" }
+"gha'cie" = "gha'cie"
+"ghagni" = "ghagni"
+"gham" = "gham"
+"gheu1'" = "ghə̀'"
 "gheu1dni7" = { value = "ghə̀dnǐ", alias = ["gheu1dni12", "gheu1dn12i", "gheu1dn7i"] }
-"gho1mteu1" = { value = "ghòmtə̀" }
-"ghoa'a" = { value = "ghoa'a" }
-"ghomeu" = { value = "ghomə" }
-"gho'o" = { value = "gho'o" }
+"gho1mteu1" = "ghòmtə̀"
+"ghoa'a" = "ghoa'a"
+"ghomeu" = "ghomə"
+"gho'o" = "gho'o"
 "gho'o mba5bmbab" = { value = "gho'o mbâbmbab", alias = ["gho'o mb5abmbab", "gho'o mba21bmbab", "gho'o mb21abmbab"] }
 "ghu-1 ka1'" = { value = "ghʉ̀ kà'", alias = ["ghuu1 ka1'"] }
 "ghu1dni7" = { value = "ghùdnǐ", alias = ["ghu1dni12", "ghu1dn12i", "ghu1dn7i"] }
 "ghu-7" = { value = "ghʉ̌", alias = ["gh7uu", "ghuu12", "gh12uu", "ghuu7"] }
-"ghubteu" = { value = "ghubtə" }
-"ghubteu yafmeu" = { value = "ghubtə yɑmə" }
-"ghumteu1" = { value = "ghumtə̀" }
-"ghu'u" = { value = "ghu'u" }
-"ju" = { value = "ju" }
+"ghubteu" = "ghubtə"
+"ghubteu yafmeu" = "ghubtə yɑmə"
+"ghumteu1" = "ghumtə̀"
+"ghu'u" = "ghu'u"
+"ju" = "ju"
 "ju-" = { value = "jʉ", alias = ["juu"] }
 "ju- bi1n" = { value = "jʉ bìn", alias = ["juu bi1n"] }
 "ju' son*eu" = { value = "ju' soŋə", alias = ["ju' son_star_eu"] }
-"ju zeu a" = { value = "ju zə a" }
+"ju zeu a" = "ju zə a"
 "ju5" = { value = "jû", alias = ["ju21", "j21u", "j5u"] }
 "ju5 ngo*1" = { value = "jû ngɔ̀", alias = ["ju5 ngo_star_1", "ju21 ngo*1", "j21u ngo*1", "j5u ngo*1"] }
 "ju5 wa" = { value = "jû wa", alias = ["ju21 wa", "j21u wa", "j5u wa"] }
@@ -384,17 +384,17 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ju-a bu- mai5n yo1g meu1bwo*5" = { value = "jʉa bʉ mɛ̂n yòg mə̀bwɔ̂", alias = ["ju-a bu- m5ain yo1g meu1bwo*5", "ju-a bu- mai21n yo1g meu1bwo*5", "ju-a bu- m21ain yo1g meu1bwo*5", "ju-a bu- mai5n yo1g meu1bw21o*", "ju-a bu- mai5n yo1g meu1bwo_star_5", "ju-a bu- mai5n yo1g meu1bwo*21", "ju-a bu- mai5n yo1g meu1bwo_star_21", "ju-a bu- mai5n yo1g meu1bw21o_star_", "juua buu mai5n yo1g meu1bwo*5"] }
 "ju-a pasa meu1bwo*5 bi1n fa" = { value = "jʉa pasa mə̀bwɔ̂ bìn fa", alias = ["ju-a pasa meu1bw21o* bi1n fa", "ju-a pasa meu1bwo_star_5 bi1n fa", "ju-a pasa meu1bwo*21 bi1n fa", "ju-a pasa meu1bwo_star_21 bi1n fa", "ju-a pasa meu1bw21o_star_ bi1n fa", "juua pasa meu1bwo*5 bi1n fa"] }
 "ju-keuywɛd" = { value = "jʉkəywɛd", alias = ["juukeuywɛd"] }
-"jun ta1' ba1'" = { value = "jun tà' bà'" }
-"juneu" = { value = "junə" }
-"ju'u" = { value = "ju'u" }
-"ka1b" = { value = "kàb" }
-"ka1g" = { value = "kàg" }
-"ka1gni1" = { value = "kàgnì" }
+"jun ta1' ba1'" = "jun tà' bà'"
+"juneu" = "junə"
+"ju'u" = "ju'u"
+"ka1b" = "kàb"
+"ka1g" = "kàg"
+"ka1gni1" = "kàgnì"
 "ka1gtu-1n" = { value = "kàgtʉ̀n", alias = ["ka1gtuu1n"] }
-"ka1m" = { value = "kàm" }
-"ka1mnko1'" = { value = "kàmnkò'" }
+"ka1m" = "kàm"
+"ka1mnko1'" = "kàmnkò'"
 "ka1n*teu7" = { value = "kàŋtə̌", alias = ["ka1n*teu12", "ka1n*t7eu", "ka1n*t12eu", "ka1n_star_teu7"] }
-"ka1'teu1" = { value = "kà'tə̀" }
+"ka1'teu1" = "kà'tə̀"
 "ka5 ntu- zin vai1dteu1" = { value = "kâ ntʉ zin vɛ̀dtə̀", alias = ["k5a ntu- zin vai1dteu1", "ka21 ntu- zin vai1dteu1", "k21a ntu- zin vai1dteu1", "ka5 ntuu zin vai1dteu1"] }
 "ka5yeunteu1" = { value = "kâyəntə̀", alias = ["k5ayeunteu1", "ka21yeunteu1", "k21ayeunteu1"] }
 "ka7' mvai1n" = { value = "kǎ' mvɛ̀n", alias = ["k7a' mvai1n", "ka12' mvai1n", "k12a' mvai1n"] }
@@ -407,57 +407,57 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ka7mn*wa1'ni1" = { value = "kǎmŋwà'nì", alias = ["k7amn*wa1'ni1", "ka12mn*wa1'ni1", "k12amn*wa1'ni1", "ka7mn_star_wa1'ni1"] }
 "ka7mn*wa1'ni1 ghun" = { value = "kǎmŋwà'nì ghun", alias = ["k7amn*wa1'ni1 ghun", "ka12mn*wa1'ni1 ghun", "k12amn*wa1'ni1 ghun", "ka7mn_star_wa1'ni1 ghun"] }
 "ka7ncan*" = { value = "kǎncaŋ", alias = ["k7ancan*", "ka12ncan*", "k12ancan*", "ka7ncan_star_"] }
-"kabteu" = { value = "kabtə" }
-"kaf1bteu1" = { value = "kɑ̀btə̀" }
+"kabteu" = "kabtə"
+"kaf1bteu1" = "kɑ̀btə̀"
 "kaf5" = { value = "kɑ̂", alias = ["k5af", "k21af", "kaf21"] }
 "kaf7nced" = { value = "kɑ̌nced", alias = ["kaf12nced", "k12afnced", "k7afnced"] }
 "kaf7nncobeu" = { value = "kɑ̌nncobə", alias = ["kaf12nncobeu", "k12afnncobeu", "k7afnncobeu"] }
-"kafb" = { value = "kɑb" }
+"kafb" = "kɑb"
 "kamto*1ngo*1" = { value = "kamtɔ̀ngɔ̀", alias = ["kamto_star_1ngo_star_1"] }
 "kan*eu" = { value = "kaŋə", alias = ["kan_star_eu"] }
 "kan*seu" = { value = "kaŋsə", alias = ["kan_star_seu"] }
-"kateu" = { value = "katə" }
+"kateu" = "katə"
 "ke5m ngo*7ngo*1" = { value = "kêm ngɔ̌ngɔ̀", alias = ["ke5m ngo*7ngo_star_1", "ke5m ng12o*ngo*1", "ke5m ngo_star_7ngo*1", "ke5m ngo*12ngo*1", "ke5m ngo_star_12ngo*1", "ke5m ng12o_star_ngo*1", "ke21m ngo*7ngo*1", "k5em ngo*7ngo*1", "k21em ngo*7ngo*1"] }
-"ke'e" = { value = "ke'e" }
-"kemeu" = { value = "kemə" }
-"keu1 beu" = { value = "kə̀ bə" }
-"keu1 cafm" = { value = "kə̀ cɑm" }
+"ke'e" = "ke'e"
+"kemeu" = "kemə"
+"keu1 beu" = "kə̀ bə"
+"keu1 cafm" = "kə̀ cɑm"
 "keu1 ku7m" = { value = "kə̀ kǔm", alias = ["keu1 k12um", "keu1 ku12m", "keu1 k7um"] }
 "keu1bwo*1" = { value = "kə̀bwɔ̀", alias = ["keu1bwo_star_1"] }
-"keu1cob" = { value = "kə̀cob" }
-"keu1kag" = { value = "kə̀kag" }
+"keu1cob" = "kə̀cob"
+"keu1kag" = "kə̀kag"
 "keu1ki7 kafb" = { value = "kə̀kǐ kɑb", alias = ["keu1ki12 kafb", "keu1k12i kafb", "keu1k7i kafb"] }
 "keu1ko*1 nko*5" = { value = "kə̀kɔ̀ nkɔ̂", alias = ["keu1ko_star_1 nko*5", "keu1ko*1 nk21o*", "keu1ko*1 nko_star_5", "keu1ko*1 nko*21", "keu1ko*1 nko_star_21", "keu1ko*1 nk21o_star_"] }
 "keu1ku7bncu1" = { value = "kə̀kǔbncù", alias = ["keu1k12ubncu1", "keu1ku12bncu1", "keu1k7ubncu1"] }
-"keu1leu" = { value = "kə̀lə" }
-"keu1na1" = { value = "kə̀nà" }
+"keu1leu" = "kə̀lə"
+"keu1na1" = "kə̀nà"
 "keu1so*" = { value = "kə̀sɔ", alias = ["keu1so_star_"] }
 "keu1'teu7" = { value = "kə̀'tə̌", alias = ["keu1'teu12", "keu1't7eu", "keu1't12eu"] }
 "keu5bnka" = { value = "kə̂bnka", alias = ["k5eubnka", "keu21bnka", "k21eubnka"] }
 "keu7d lai1d yafmeu" = { value = "kə̌d lɛ̀d yɑmə", alias = ["keu12d lai1d yafmeu", "k7eud lai1d yafmeu", "k12eud lai1d yafmeu"] }
 "keub ndu-" = { value = "kəb ndʉ", alias = ["keub nduu"] }
-"keub nka" = { value = "kəb nka" }
-"keub ntsi'" = { value = "kəb ntsi'" }
-"keubteu" = { value = "kəbtə" }
-"ki" = { value = "ki" }
-"ki1lɛn" = { value = "kìlɛn" }
+"keub nka" = "kəb nka"
+"keub ntsi'" = "kəb ntsi'"
+"keubteu" = "kəbtə"
+"ki" = "ki"
+"ki1lɛn" = "kìlɛn"
 "ki7" = { value = "kǐ", alias = ["ki12", "k12i", "k7i"] }
 "ki7 n*wa1'ni1" = { value = "kǐ ŋwà'nì", alias = ["ki12 n*wa1'ni1", "k12i n*wa1'ni1", "k7i n*wa1'ni1", "ki7 n_star_wa1'ni1"] }
 "ki7 seu5veu1" = { value = "kǐ sə̂və̀", alias = ["ki7 s5euveu1", "ki7 seu21veu1", "ki7 s21euveu1", "ki12 seu5veu1", "k12i seu5veu1", "k7i seu5veu1"] }
 "ki7dnsa" = { value = "kǐdnsa", alias = ["ki12dnsa", "k12idnsa", "k7idnsa"] }
-"kiaf1geu" = { value = "kiɑ̀gə" }
-"ko1glo1g" = { value = "kòglòg" }
+"kiaf1geu" = "kiɑ̀gə"
+"ko1glo1g" = "kòglòg"
 "ko*1ki" = { value = "kɔ̀ki", alias = ["ko_star_1ki"] }
-"ko1meu" = { value = "kòmə" }
+"ko1meu" = "kòmə"
 "ko*5ntu-" = { value = "kɔ̂ntʉ", alias = ["k21o*ntu-", "ko_star_5ntu-", "ko*21ntu-", "ko_star_21ntu-", "k21o_star_ntu-", "ko*5ntuu"] }
 "ko*7" = { value = "kɔ̌", alias = ["k12o*", "ko_star_7", "ko*12", "ko_star_12", "k12o_star_"] }
-"kogeu" = { value = "kogə" }
-"komeu" = { value = "komə" }
-"ko'o" = { value = "ko'o" }
+"kogeu" = "kogə"
+"komeu" = "komə"
+"ko'o" = "ko'o"
 "koteu1wu-d" = { value = "kotə̀wʉd", alias = ["koteu1wuud"] }
-"ku1" = { value = "kù" }
-"ku1m" = { value = "kùm" }
-"ku1meu" = { value = "kùmə" }
+"ku1" = "kù"
+"ku1m" = "kùm"
+"ku1meu" = "kùmə"
 "ku1'ni7" = { value = "kù'nǐ", alias = ["ku1'ni12", "ku1'n12i", "ku1'n7i"] }
 "ku-5dfi" = { value = "kʉ̂dfi", alias = ["k21uudfi", "kuu5dfi", "k5uudfi", "kuu21dfi"] }
 "ku-5ntu-" = { value = "kʉ̂ntʉ", alias = ["k21uuntu-", "kuu5ntu-", "k5uuntu-", "kuu21ntu-", "ku-5ntuu"] }
@@ -468,8 +468,8 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ku7m" = { value = "kǔm", alias = ["k12um", "ku12m", "k7um"] }
 "ku7mfa1'" = { value = "kǔmfà'", alias = ["k12umfa1'", "ku12mfa1'", "k7umfa1'"] }
 "ku7ncobe" = { value = "kǔncobe", alias = ["k12uncobe", "ku12ncobe", "k7uncobe"] }
-"kua1" = { value = "kuà" }
-"kua1'a" = { value = "kuà'a" }
+"kua1" = "kuà"
+"kua1'a" = "kuà'a"
 "kua7" = { value = "kuǎ", alias = ["ku7a", "kua12", "ku12a"] }
 "ku-a7mai1n" = { value = "kʉǎmɛ̀n", alias = ["ku-7amai1n", "ku-a12mai1n", "ku-12amai1n", "kuua7mai1n"] }
 "kud tu7n nu1" = { value = "kud tǔn nù", alias = ["kud t12un nu1", "kud tu12n nu1", "kud t7un nu1"] }
@@ -481,63 +481,63 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ku-leu" = { value = "kʉlə", alias = ["kuuleu"] }
 "ku-mteu" = { value = "kʉmtə", alias = ["kuumteu"] }
 "kune du-'" = { value = "kune dʉ'", alias = ["kune duu'"] }
-"kuni" = { value = "kuni" }
+"kuni" = "kuni"
 "kuni du-'" = { value = "kuni dʉ'", alias = ["kuni duu'"] }
 "ku-'teu" = { value = "kʉ'tə", alias = ["kuu'teu"] }
 "kwa1nki5" = { value = "kwànkî", alias = ["kwa1nki21", "kwa1nk21i", "kwa1nk5i"] }
 "kwa1teu7" = { value = "kwàtə̌", alias = ["kwa1teu12", "kwa1t7eu", "kwa1t12eu"] }
 "kwa7" = { value = "kwǎ", alias = ["kw7a", "kwa12", "kw12a"] }
-"kwageu" = { value = "kwagə" }
-"kwe" = { value = "kwe" }
+"kwageu" = "kwagə"
+"kwe" = "kwe"
 "kwe5fon*eu" = { value = "kwêfoŋə", alias = ["kwe21fon*eu", "kw5efon*eu", "kw21efon*eu", "kwe5fon_star_eu"] }
-"kwi1" = { value = "kwì" }
-"kwi1'teu1" = { value = "kwì'tə̀" }
+"kwi1" = "kwì"
+"kwi1'teu1" = "kwì'tə̀"
 "kwi1'teu7" = { value = "kwì'tə̌", alias = ["kwi1'teu12", "kwi1't7eu", "kwi1't12eu"] }
 "kwi7' fu1'" = { value = "kwǐ' fù'", alias = ["kwi12' fu1'", "kw12i' fu1'", "kw7i' fu1'"] }
-"kwimteu" = { value = "kwimtə" }
-"kwiteu" = { value = "kwitə" }
+"kwimteu" = "kwimtə"
+"kwiteu" = "kwitə"
 "kwu-" = { value = "kwʉ", alias = ["kwuu"] }
 "kwu-leu" = { value = "kwʉlə", alias = ["kwuuleu"] }
-"la'" = { value = "la'" }
-"la nsteu ba'" = { value = "la nstə ba'" }
-"la1'a" = { value = "là'a" }
-"la1beu" = { value = "làbə" }
-"la1gteu1" = { value = "làgtə̀" }
-"la1gteu1 mfaf" = { value = "làgtə̀ mfɑ" }
+"la'" = "la'"
+"la nsteu ba'" = "la nstə ba'"
+"la1'a" = "là'a"
+"la1beu" = "làbə"
+"la1gteu1" = "làgtə̀"
+"la1gteu1 mfaf" = "làgtə̀ mfɑ"
 "la1gteu7" = { value = "làgtə̌", alias = ["la1gteu12", "la1gt7eu", "la1gt12eu"] }
 "la1n*teu1" = { value = "làŋtə̀", alias = ["la1n_star_teu1"] }
 "la1n*teu7" = { value = "làŋtə̌", alias = ["la1n*teu12", "la1n*t7eu", "la1n*t12eu", "la1n_star_teu7"] }
 "la5g tu-nteu1" = { value = "lâg tʉntə̀", alias = ["l5ag tu-nteu1", "la21g tu-nteu1", "l21ag tu-nteu1", "la5g tuunteu1"] }
 "la7 ntseu" = { value = "lǎ ntsə", alias = ["l7a ntseu", "la12 ntseu", "l12a ntseu"] }
-"la'a" = { value = "la'a" }
+"la'a" = "la'a"
 "laf1bteu7" = { value = "lɑ̀btə̌", alias = ["laf1bteu12", "laf1bt7eu", "laf1bt12eu"] }
-"laf1meu" = { value = "lɑ̀mə" }
-"laf1nmai1n" = { value = "lɑ̀nmɛ̀n" }
-"laf1nyaf1" = { value = "lɑ̀nyɑ̀" }
+"laf1meu" = "lɑ̀mə"
+"laf1nmai1n" = "lɑ̀nmɛ̀n"
+"laf1nyaf1" = "lɑ̀nyɑ̀"
 "laf5gheu'eu" = { value = "lɑ̂ghə'ə", alias = ["l5afgheu'eu", "l21afgheu'eu", "laf21gheu'eu"] }
-"lafgtu1n" = { value = "lɑgtùn" }
-"lafneu" = { value = "lɑnə" }
-"lafnteu" = { value = "lɑntə" }
-"lag" = { value = "lag" }
+"lafgtu1n" = "lɑgtùn"
+"lafneu" = "lɑnə"
+"lafnteu" = "lɑntə"
+"lag" = "lag"
 "lagteu7" = { value = "lagtə̌", alias = ["lagteu12", "lagt7eu", "lagt12eu"] }
-"lai1lɛ" = { value = "lɛ̀lɛ" }
-"lai1neu" = { value = "lɛ̀nə" }
-"lamteu" = { value = "lamtə" }
+"lai1lɛ" = "lɛ̀lɛ"
+"lai1neu" = "lɛ̀nə"
+"lamteu" = "lamtə"
 "lamteu5ncobeu" = { value = "lamtə̂ncobə", alias = ["lamt5euncobeu", "lamteu21ncobeu", "lamt21euncobeu"] }
-"le'" = { value = "le'" }
-"le'fa1'" = { value = "le'fà'" }
-"lem" = { value = "lem" }
-"leu" = { value = "lə" }
+"le'" = "le'"
+"le'fa1'" = "le'fà'"
+"lem" = "lem"
+"leu" = "lə"
 "leu5dian*" = { value = "lə̂diaŋ", alias = ["l5eudian*", "leu21dian*", "l21eudian*", "leu5dian_star_"] }
 "leu5ko1'" = { value = "lə̂kò'", alias = ["l5euko1'", "leu21ko1'", "l21euko1'"] }
 "leu7" = { value = "lə̌", alias = ["leu12", "l7eu", "l12eu"] }
 "leu7n*wa1'ni1" = { value = "lə̌ŋwà'nì", alias = ["leu12n*wa1'ni1", "l7eun*wa1'ni1", "l12eun*wa1'ni1", "leu7n_star_wa1'ni1"] }
-"leum" = { value = "ləm" }
+"leum" = "ləm"
 "li7' nkafb" = { value = "lǐ' nkɑb", alias = ["li12' nkafb", "l12i' nkafb", "l7i' nkafb"] }
-"li'i" = { value = "li'i" }
+"li'i" = "li'i"
 "lo*" = { value = "lɔ", alias = ["lo_star_"] }
-"lo1'" = { value = "lò'" }
-"lo1' mbweu1" = { value = "lò' mbwə̀" }
+"lo1'" = "lò'"
+"lo1' mbweu1" = "lò' mbwə̀"
 "lo1' ngu-5" = { value = "lò' ngʉ̂", alias = ["lo1' ng21uu", "lo1' nguu5", "lo1' ng5uu", "lo1' nguu21"] }
 "lo*5ntseulafg" = { value = "lɔ̂ntsəlɑg", alias = ["l21o*ntseulafg", "lo_star_5ntseulafg", "lo*21ntseulafg", "lo_star_21ntseulafg", "l21o_star_ntseulafg"] }
 "lo5n*vu-1" = { value = "lôŋvʉ̀", alias = ["lo5n*vuu1", "lo5n_star_vu-1", "l5on*vu-1", "l21on*vu-1", "lo21n*vu-1"] }
@@ -547,76 +547,76 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "lo7n*fe1d" = { value = "lǒŋfèd", alias = ["lo7n_star_fe1d", "lo12n*fe1d", "l7on*fe1d", "l12on*fe1d"] }
 "lo7n*ka1g" = { value = "lǒŋkàg", alias = ["lo7n_star_ka1g", "lo12n*ka1g", "l7on*ka1g", "l12on*ka1g"] }
 "lo7n*ki1" = { value = "lǒŋkì", alias = ["lo7n_star_ki1", "lo12n*ki1", "l7on*ki1", "l12on*ki1"] }
-"lodeu" = { value = "lodə" }
+"lodeu" = "lodə"
 "lo*teu" = { value = "lɔtə", alias = ["lo_star_teu"] }
 "lo*to*" = { value = "lɔtɔ", alias = ["lo_star_to_star_"] }
-"lɛn" = { value = "lɛn" }
-"lɛne" = { value = "lɛne" }
-"lɛneu" = { value = "lɛnə" }
-"ma1' ca" = { value = "mà' ca" }
+"lɛn" = "lɛn"
+"lɛne" = "lɛne"
+"lɛneu" = "lɛnə"
+"ma1' ca" = "mà' ca"
 "ma1' ncu-a5" = { value = "mà' ncʉâ", alias = ["ma1' ncu-5a", "ma1' ncu-a21", "ma1' ncu-21a", "ma1' ncuua5"] }
-"ma1'a" = { value = "mà'a" }
-"ma1d" = { value = "màd" }
-"ma1d neu1" = { value = "màd nə̀" }
+"ma1'a" = "mà'a"
+"ma1d" = "màd"
+"ma1d neu1" = "màd nə̀"
 "ma5' nco1 ncu-a5" = { value = "mâ' ncò ncʉâ", alias = ["m5a' nco1 ncu-5a", "ma21' nco1 ncu-a21", "m21a' nco1 ncu-21a", "ma5' nco1 ncuua5"] }
 "ma7' ca" = { value = "mǎ' ca", alias = ["m7a' ca", "ma12' ca", "m12a' ca"] }
 "ma7' miafg" = { value = "mǎ' miɑg", alias = ["m7a' miafg", "ma12' miafg", "m12a' miafg"] }
 "ma7' neu1tai1d" = { value = "mǎ' nə̀tɛ̀d", alias = ["m7a' neu1tai1d", "ma12' neu1tai1d", "m12a' neu1tai1d"] }
 "ma7' nzweu" = { value = "mǎ' nzwə", alias = ["m7a' nzweu", "ma12' nzweu", "m12a' nzweu"] }
-"ma'a" = { value = "ma'a" }
+"ma'a" = "ma'a"
 "maf5 ncu'" = { value = "mɑ̂ ncu'", alias = ["m5af ncu'", "m21af ncu'", "maf21 ncu'"] }
 "mafdu-1'" = { value = "mɑdʉ̀'", alias = ["mafduu1'"] }
-"mafndu1m" = { value = "mɑndùm" }
-"mageu" = { value = "magə" }
-"mai1n wa" = { value = "mɛ̀n wa" }
+"mafndu1m" = "mɑndùm"
+"mageu" = "magə"
+"mai1n wa" = "mɛ̀n wa"
 "mai1nkeu1bwo*1" = { value = "mɛ̀nkə̀bwɔ̀", alias = ["mai1nkeu1bwo_star_1"] }
 "mai1nmeu1bwo*" = { value = "mɛ̀nmə̀bwɔ", alias = ["mai1nmeu1bwo_star_"] }
 "mai1nntu-1n" = { value = "mɛ̀nntʉ̀n", alias = ["mai1nntuu1n"] }
-"mai1nnzwi" = { value = "mɛ̀nnzwi" }
+"mai1nnzwi" = "mɛ̀nnzwi"
 "mai5n fi" = { value = "mɛ̂n fi", alias = ["m5ain fi", "mai21n fi", "m21ain fi"] }
 "man*" = { value = "maŋ", alias = ["man_star_"] }
 "man*neu" = { value = "maŋnə", alias = ["man_star_neu"] }
 "man*teu1" = { value = "maŋtə̀", alias = ["man_star_teu1"] }
-"mba'" = { value = "mba'" }
-"mba1'" = { value = "mbà'" }
+"mba'" = "mba'"
+"mba1'" = "mbà'"
 "mba1bwu-d" = { value = "mbàbwʉd", alias = ["mba1bwuud"] }
 "mba1keu1lo*1" = { value = "mbàkə̀lɔ̀", alias = ["mba1keu1lo_star_1"] }
 "mba7m" = { value = "mbǎm", alias = ["mb7am", "mba12m", "mb12am"] }
-"mbadteu1" = { value = "mbadtə̀" }
-"mbaf" = { value = "mbɑ" }
+"mbadteu1" = "mbadtə̀"
+"mbaf" = "mbɑ"
 "mbaf a beu5 ndu-laflaf laf" = { value = "mbɑ a bə̂ ndʉlɑlɑ lɑ", alias = ["mbaf a b5eu ndu-laflaf laf", "mbaf a beu21 ndu-laflaf laf", "mbaf a b21eu ndu-laflaf laf", "mbaf a beu5 nduulaflaf laf"] }
-"mbaf mba" = { value = "mbɑ mba" }
-"mbaf mbeu" = { value = "mbɑ mbə" }
-"mbaf1" = { value = "mbɑ̀" }
-"mbaf1 bo kwa1 laf" = { value = "mbɑ̀ bo kwà lɑ" }
+"mbaf mba" = "mbɑ mba"
+"mbaf mbeu" = "mbɑ mbə"
+"mbaf1" = "mbɑ̀"
+"mbaf1 bo kwa1 laf" = "mbɑ̀ bo kwà lɑ"
 "mbaf1 keulo*5" = { value = "mbɑ̀ kəlɔ̂", alias = ["mbaf1 keul21o*", "mbaf1 keulo_star_5", "mbaf1 keulo*21", "mbaf1 keulo_star_21", "mbaf1 keul21o_star_"] }
-"mbaf1 mbaf" = { value = "mbɑ̀ mbɑ" }
+"mbaf1 mbaf" = "mbɑ̀ mbɑ"
 "mbaf1 ta1 ndu-laflaf" = { value = "mbɑ̀ tà ndʉlɑlɑ", alias = ["mbaf1 ta1 nduulaflaf"] }
 "mbaf1 weulo*" = { value = "mbɑ̀ wəlɔ", alias = ["mbaf1 weulo_star_"] }
 "mbaf1 yi5d meu1n" = { value = "mbɑ̀ yîd mə̀n", alias = ["mbaf1 yi21d meu1n", "mbaf1 y21id meu1n", "mbaf1 y5id meu1n"] }
 "mbaf5" = { value = "mbɑ̂", alias = ["mb5af", "mb21af", "mbaf21"] }
 "mbaf5 mbeu" = { value = "mbɑ̂ mbə", alias = ["mb5af mbeu", "mb21af mbeu", "mbaf21 mbeu"] }
 "mbaf5buneu" = { value = "mbɑ̂bunə", alias = ["mb5afbuneu", "mb21afbuneu", "mbaf21buneu"] }
-"mbai1n nabteu" = { value = "mbɛ̀n nabtə" }
+"mbai1n nabteu" = "mbɛ̀n nabtə"
 "mbai1n sian*eu" = { value = "mbɛ̀n siaŋə", alias = ["mbai1n sian_star_eu"] }
 "mbai1n yaf5geu" = { value = "mbɛ̀n yɑ̂gə", alias = ["mbai1n y5afgeu", "mbai1n y21afgeu", "mbai1n yaf21geu"] }
 "mbai5n cage" = { value = "mbɛ̂n cage", alias = ["mb5ain cage", "mbai21n cage", "mb21ain cage"] }
 "mban*" = { value = "mbaŋ", alias = ["mban_star_"] }
 "mbe5dbweu" = { value = "mbêdbwə", alias = ["mbe21dbweu", "mb5edbweu", "mb21edbweu"] }
-"mbeu" = { value = "mbə" }
+"mbeu" = "mbə"
 "mbeu1' yaf5m ngeulan*" = { value = "mbə̀' yɑ̂m ngəlaŋ", alias = ["mbeu1' y5afm ngeulan*", "mbeu1' y21afm ngeulan*", "mbeu1' yaf21m ngeulan*", "mbeu1' yaf5m ngeulan_star_"] }
-"mbeu1' yafmeu" = { value = "mbə̀' yɑmə" }
-"mbi1" = { value = "mbì" }
+"mbeu1' yafmeu" = "mbə̀' yɑmə"
+"mbi1" = "mbì"
 "mbo7g mbweu1" = { value = "mbǒg mbwə̀", alias = ["mbo12g mbweu1", "mb7og mbweu1", "mb12og mbweu1"] }
 "mbu-1m" = { value = "mbʉ̀m", alias = ["mbuu1m"] }
-"Mbu1mteu1" = { value = "Mbùmtə̀" }
+"Mbu1mteu1" = "Mbùmtə̀"
 "mbu-5 cwɛd" = { value = "mbʉ̂ cwɛd", alias = ["mb21uu cwɛd", "mbuu5 cwɛd", "mb5uu cwɛd", "mbuu21 cwɛd"] }
 "mbu5mndu1'" = { value = "mbûmndù'", alias = ["mbu21mndu1'", "mb21umndu1'", "mb5umndu1'"] }
-"mbun" = { value = "mbun" }
+"mbun" = "mbun"
 "mbu'nton*" = { value = "mbu'ntoŋ", alias = ["mbu'nton_star_"] }
-"mbweu" = { value = "mbwə" }
-"mbweu1" = { value = "mbwə̀" }
-"mbweu1'" = { value = "mbwə̀'" }
+"mbweu" = "mbwə"
+"mbweu1" = "mbwə̀"
+"mbweu1'" = "mbwə̀'"
 "mbweu7" = { value = "mbwə̌", alias = ["mbweu12", "mbw7eu", "mbw12eu"] }
 "mbwo*" = { value = "mbwɔ", alias = ["mbwo_star_"] }
 "mbwo*1" = { value = "mbwɔ̀", alias = ["mbwo_star_1"] }
@@ -624,87 +624,87 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "mbwo5gtu1n" = { value = "mbwôgtùn", alias = ["mbw5ogtu1n", "mbw21ogtu1n", "mbwo21gtu1n"] }
 "mbwogcu- meu1bwo*" = { value = "mbwogcʉ mə̀bwɔ", alias = ["mbwogcu- meu1bwo_star_", "mbwogcuu meu1bwo*"] }
 "mbwogcu- meubwo* bin" = { value = "mbwogcʉ məbwɔ bin", alias = ["mbwogcu- meubwo_star_ bin", "mbwogcuu meubwo* bin"] }
-"mbwognga" = { value = "mbwognga" }
-"mbɛdteu1" = { value = "mbɛdtə̀" }
-"mbɛneu" = { value = "mbɛnə" }
-"mbɛnmbɛneu" = { value = "mbɛnmbɛnə" }
-"meu bam" = { value = "mə bam" }
-"meu bu'ki1" = { value = "mə bu'kì" }
-"meu ca1'teu zin fa" = { value = "mə cà'tə zin fa" }
+"mbwognga" = "mbwognga"
+"mbɛdteu1" = "mbɛdtə̀"
+"mbɛneu" = "mbɛnə"
+"mbɛnmbɛneu" = "mbɛnmbɛnə"
+"meu bam" = "mə bam"
+"meu bu'ki1" = "mə bu'kì"
+"meu ca1'teu zin fa" = "mə cà'tə zin fa"
 "meu ca1'teu7" = { value = "mə cà'tə̌", alias = ["meu ca1'teu12", "meu ca1't7eu", "meu ca1't12eu"] }
-"meu ju" = { value = "mə ju" }
-"meu laf1bte1 zineu" = { value = "mə lɑ̀btè zinə" }
-"meu laf1bteu1 zin fafa" = { value = "mə lɑ̀btə̀ zin fafa" }
-"meu laf1bteu1 zin yafmeu" = { value = "mə lɑ̀btə̀ zin yɑmə" }
+"meu ju" = "mə ju"
+"meu laf1bte1 zineu" = "mə lɑ̀btè zinə"
+"meu laf1bteu1 zin fafa" = "mə lɑ̀btə̀ zin fafa"
+"meu laf1bteu1 zin yafmeu" = "mə lɑ̀btə̀ zin yɑmə"
 "meu laf1bteu7" = { value = "mə lɑ̀btə̌", alias = ["meu laf1bteu12", "meu laf1bt7eu", "meu laf1bt12eu"] }
-"meu laf1teu1 u yafmeu" = { value = "mə lɑ̀tə̀ u yɑmə" }
+"meu laf1teu1 u yafmeu" = "mə lɑ̀tə̀ u yɑmə"
 "meu laf1teu7 neu1shu1" = { value = "mə lɑ̀tə̌ nə̀shù", alias = ["meu laf1teu12 neu1shu1", "meu laf1t7eu neu1shu1", "meu laf1t12eu neu1shu1"] }
-"meu1" = { value = "mə̀" }
+"meu1" = "mə̀"
 "meu1 keu5' lai7n njo7n*" = { value = "mə̀ kə̂' lɛ̌n njǒŋ", alias = ["meu1 keu5' lai12n njo7n*", "meu1 keu5' l12ain njo7n*", "meu1 keu5' l7ain njo7n*", "meu1 k5eu' lai7n njo7n*", "meu1 keu21' lai7n njo7n*", "meu1 k21eu' lai7n njo7n*", "meu1 keu5' lai7n njo7n_star_", "meu1 keu5' lai7n njo12n*", "meu1 keu5' lai7n nj7on*", "meu1 keu5' lai7n nj12on*"] }
-"meu1ba" = { value = "mə̀ba" }
+"meu1ba" = "mə̀ba"
 "meu1bwo*" = { value = "mə̀bwɔ", alias = ["meu1bwo_star_"] }
 "meu7' zwi1" = { value = "mə̌' zwì", alias = ["meu12' zwi1", "m7eu' zwi1", "m12eu' zwi1"] }
 "meu7n" = { value = "mə̌n", alias = ["meu12n", "m7eun", "m12eun"] }
 "meu7n zeu a" = { value = "mə̌n zə a", alias = ["meu12n zeu a", "m7eun zeu a", "m12eun zeu a"] }
 "meubwo*1" = { value = "məbwɔ̀", alias = ["meubwo_star_1"] }
-"meum ncu1" = { value = "məm ncù" }
-"meunnaf" = { value = "mənnɑ" }
+"meum ncu1" = "məm ncù"
+"meunnaf" = "mənnɑ"
 "meunni5" = { value = "mənnî", alias = ["meunni21", "meunn21i", "meunn5i"] }
-"meuto'" = { value = "məto'" }
-"mfa1'" = { value = "mfà'" }
+"meuto'" = "məto'"
+"mfa1'" = "mfà'"
 "mfa5n*ntselag" = { value = "mfâŋntselag", alias = ["mf5an*ntselag", "mfa21n*ntselag", "mf21an*ntselag", "mfa5n_star_ntselag"] }
 "mfe5'bu" = { value = "mfê'bu", alias = ["mfe21'bu", "mf5e'bu", "mf21e'bu"] }
-"mfeu1n" = { value = "mfə̀n" }
+"mfeu1n" = "mfə̀n"
 "mfeu7dnju- meu1bwo*5 bin fa" = { value = "mfə̌dnjʉ mə̀bwɔ̂ bin fa", alias = ["mfeu12dnju- meu1bwo*5 bin fa", "mf7eudnju- meu1bwo*5 bin fa", "mf12eudnju- meu1bwo*5 bin fa", "mfeu7dnju- meu1bw21o* bin fa", "mfeu7dnju- meu1bwo_star_5 bin fa", "mfeu7dnju- meu1bwo*21 bin fa", "mfeu7dnju- meu1bwo_star_21 bin fa", "mfeu7dnju- meu1bw21o_star_ bin fa", "mfeu7dnjuu meu1bwo*5 bin fa"] }
 "mfeu7'nku-leu" = { value = "mfə̌'nkʉlə", alias = ["mfeu12'nku-leu", "mf7eu'nku-leu", "mf12eu'nku-leu", "mfeu7'nkuuleu"] }
-"mfi1'" = { value = "mfì'" }
+"mfi1'" = "mfì'"
 "mfia7mfia7 mai1n" = { value = "mfiǎmfiǎ mɛ̀n", alias = ["mfi7amfi7a mai1n", "mfia12mfia12 mai1n", "mfi12amfi12a mai1n"] }
 "mfon*eu" = { value = "mfoŋə", alias = ["mfon_star_eu"] }
 "mfu-7miafg" = { value = "mfʉ̌miɑg", alias = ["mf7uumiafg", "mfuu12miafg", "mf12uumiafg", "mfuu7miafg"] }
 "mfu-m" = { value = "mfʉm", alias = ["mfuum"] }
 "mfɛl af5m zeu1 mafndu1m zeu1 ta1 njo1n*" = { value = "mfɛl ɑ̂m zə̀ mɑndùm zə̀ tà njòŋ", alias = ["mfɛl 5afm zeu1 mafndu1m zeu1 ta1 njo1n*", "mfɛl 21afm zeu1 mafndu1m zeu1 ta1 njo1n*", "mfɛl af21m zeu1 mafndu1m zeu1 ta1 njo1n*", "mfɛl af5m zeu1 mafndu1m zeu1 ta1 njo1n_star_"] }
 "mfɛl af5m zeu1 mai1nnzwi zeu1 ta1 njo1n*" = { value = "mfɛl ɑ̂m zə̀ mɛ̀nnzwi zə̀ tà njòŋ", alias = ["mfɛl 5afm zeu1 mai1nnzwi zeu1 ta1 njo1n*", "mfɛl 21afm zeu1 mai1nnzwi zeu1 ta1 njo1n*", "mfɛl af21m zeu1 mai1nnzwi zeu1 ta1 njo1n*", "mfɛl af5m zeu1 mai1nnzwi zeu1 ta1 njo1n_star_"] }
-"mia1gteu1 mai1n" = { value = "miàgtə̀ mɛ̀n" }
+"mia1gteu1 mai1n" = "miàgtə̀ mɛ̀n"
 "mia1gteu7" = { value = "miàgtə̌", alias = ["mia1gteu12", "mia1gt7eu", "mia1gt12eu"] }
 "mia5g tu-nteu1" = { value = "miâg tʉntə̀", alias = ["mi5ag tu-nteu1", "mia21g tu-nteu1", "mi21ag tu-nteu1", "mia5g tuunteu1"] }
-"miaf1gteu1" = { value = "miɑ̀gtə̀" }
+"miaf1gteu1" = "miɑ̀gtə̀"
 "miaf5g tu-nteu1" = { value = "miɑ̂g tʉntə̀", alias = ["mi5afg tu-nteu1", "mi21afg tu-nteu1", "miaf21g tu-nteu1", "miaf5g tuunteu1"] }
-"miafg" = { value = "miɑg" }
+"miafg" = "miɑg"
 "miafg neu1 tum safmmbafhaf" = { value = "miɑg nə̀ tum sɑmmbɑhɑ" }
-"miafgnkua1" = { value = "miɑgnkuà" }
-"mileu" = { value = "milə" }
-"mineu" = { value = "minə" }
+"miafgnkua1" = "miɑgnkuà"
+"mileu" = "milə"
+"mineu" = "minə"
 "mo5' ju" = { value = "mô' ju", alias = ["m5o' ju", "m21o' ju", "mo21' ju"] }
 "mo5' ngeu1lan*" = { value = "mô' ngə̀laŋ", alias = ["mo5' ngeu1lan_star_", "m5o' ngeu1lan*", "m21o' ngeu1lan*", "mo21' ngeu1lan*"] }
 "mo5' ngeu1lan* zeu" = { value = "mô' ngə̀laŋ zə", alias = ["mo5' ngeu1lan_star_ zeu", "m5o' ngeu1lan* zeu", "m21o' ngeu1lan* zeu", "mo21' ngeu1lan* zeu"] }
 "mo5m" = { value = "môm", alias = ["m5om", "m21om", "mo21m"] }
 "mo7" = { value = "mǒ", alias = ["mo12", "m7o", "m12o"] }
-"mu1dngeu1'" = { value = "mùdngə̀'" }
-"mubeu" = { value = "mubə" }
-"mvai1n" = { value = "mvɛ̀n" }
-"mvai1nbu" = { value = "mvɛ̀nbu" }
-"mveu" = { value = "mvə" }
-"mɛn" = { value = "mɛn" }
-"na" = { value = "na" }
-"na mbaf1ncobeu" = { value = "na mbɑ̀ncobə" }
-"na' ngube mfa'a" = { value = "na' ngube mfa'a" }
-"na nu1" = { value = "na nù" }
-"na1" = { value = "nà" }
-"na1beu" = { value = "nàbə" }
+"mu1dngeu1'" = "mùdngə̀'"
+"mubeu" = "mubə"
+"mvai1n" = "mvɛ̀n"
+"mvai1nbu" = "mvɛ̀nbu"
+"mveu" = "mvə"
+"mɛn" = "mɛn"
+"na" = "na"
+"na mbaf1ncobeu" = "na mbɑ̀ncobə"
+"na' ngube mfa'a" = "na' ngube mfa'a"
+"na nu1" = "na nù"
+"na1" = "nà"
+"na1beu" = "nàbə"
 "na1bteu7" = { value = "nàbtə̌", alias = ["na1bteu12", "na1bt7eu", "na1bt12eu"] }
 "naf1bteu7" = { value = "nɑ̀btə̌", alias = ["naf1bteu12", "naf1bt7eu", "naf1bt12eu"] }
-"nafnteu1" = { value = "nɑntə̀" }
-"nai1neu" = { value = "nɛ̀nə" }
+"nafnteu1" = "nɑntə̀"
+"nai1neu" = "nɛ̀nə"
 "nai7n kateu1" = { value = "nɛ̌n katə̀", alias = ["nai12n kateu1", "n12ain kateu1", "n7ain kateu1"] }
 "nai7n mbweu1" = { value = "nɛ̌n mbwə̀", alias = ["nai12n mbweu1", "n12ain mbweu1", "n7ain mbweu1"] }
 "n*at nyafmdian*" = { value = "ŋat nyɑmdiaŋ", alias = ["n_star_at nyafmdian_star_"] }
-"nca'" = { value = "nca'" }
+"nca'" = "nca'"
 "ncaf5mntu-" = { value = "ncɑ̂mntʉ", alias = ["nc5afmntu-", "nc21afmntu-", "ncaf21mntu-", "ncaf5mntuu"] }
 "nco*" = { value = "ncɔ", alias = ["nco_star_"] }
 "nco5btu" = { value = "ncôbtu", alias = ["nc5obtu", "nc21obtu", "nco21btu"] }
 "nco5'cu" = { value = "ncô'cu", alias = ["nc5o'cu", "nc21o'cu", "nco21'cu"] }
-"Ncobnsi" = { value = "Ncobnsi" }
-"ncu'" = { value = "ncu'" }
+"Ncobnsi" = "Ncobnsi"
+"ncu'" = "ncu'"
 "ncu-'" = { value = "ncʉ'", alias = ["ncuu'"] }
 "ncu-1ju" = { value = "ncʉ̀ju", alias = ["ncuu1ju"] }
 "ncu-5' kum" = { value = "ncʉ̂' kum", alias = ["nc21uu' kum", "ncuu5' kum", "nc5uu' kum", "ncuu21' kum"] }
@@ -712,9 +712,9 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ncu5ndaf5n*wa1ni1" = { value = "ncûndɑ̂ŋwànì", alias = ["ncu5nd5afn*wa1ni1", "ncu5nd21afn*wa1ni1", "ncu5ndaf21n*wa1ni1", "ncu5ndaf5n_star_wa1ni1", "ncu21ndaf5n*wa1ni1", "nc21undaf5n*wa1ni1", "nc5undaf5n*wa1ni1"] }
 "ncu-7' nsi" = { value = "ncʉ̌' nsi", alias = ["nc7uu' nsi", "ncuu12' nsi", "nc12uu' nsi", "ncuu7' nsi"] }
 "ncua7' nkeu1mbeu1'" = { value = "ncuǎ' nkə̀mbə̀'", alias = ["ncu7a' nkeu1mbeu1'", "ncua12' nkeu1mbeu1'", "ncu12a' nkeu1mbeu1'"] }
-"ncwai1d" = { value = "ncwɛ̀d" }
+"ncwai1d" = "ncwɛ̀d"
 "ncwai5dtu1n" = { value = "ncwɛ̂dtùn", alias = ["ncw5aidtu1n", "ncwai21dtu1n", "ncw21aidtu1n"] }
-"ncwɛn" = { value = "ncwɛn" }
+"ncwɛn" = "ncwɛn"
 "nda5dnya'" = { value = "ndâdnya'", alias = ["nd5adnya'", "nda21dnya'", "nd21adnya'"] }
 "nda5dsog" = { value = "ndâdsog", alias = ["nd5adsog", "nda21dsog", "nd21adsog"] }
 "nda5n*bu" = { value = "ndâŋbu", alias = ["nd5an*bu", "nda21n*bu", "nd21an*bu", "nda5n_star_bu"] }
@@ -724,8 +724,8 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "nda7 tu5" = { value = "ndǎ tû", alias = ["nd7a tu5", "nda12 tu5", "nd12a tu5", "nda7 tu21", "nda7 t21u", "nda7 t5u"] }
 "nda7'ndu-5" = { value = "ndǎ'ndʉ̂", alias = ["nda7'nd21uu", "nda7'nduu5", "nda7'nd5uu", "nda7'nduu21", "nd7a'ndu-5", "nda12'ndu-5", "nd12a'ndu-5"] }
 "nda7n*ndan*" = { value = "ndǎŋndaŋ", alias = ["nd7an*ndan*", "nda12n*ndan*", "nd12an*ndan*", "nda7n_star_ndan_star_"] }
-"ndaf" = { value = "ndɑ" }
-"ndaf1m" = { value = "ndɑ̀m" }
+"ndaf" = "ndɑ"
+"ndaf1m" = "ndɑ̀m"
 "ndaf5 ca" = { value = "ndɑ̂ ca", alias = ["nd5af ca", "nd21af ca", "ndaf21 ca"] }
 "ndaf5 can*" = { value = "ndɑ̂ caŋ", alias = ["nd5af can*", "nd21af can*", "ndaf21 can*", "ndaf5 can_star_"] }
 "ndaf5 mbwogeu" = { value = "ndɑ̂ mbwogə", alias = ["nd5af mbwogeu", "nd21af mbwogeu", "ndaf21 mbwogeu"] }
@@ -760,17 +760,17 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ndaf5nto" = { value = "ndɑ̂nto", alias = ["nd5afnto", "nd21afnto", "ndaf21nto"] }
 "ndaf5nu7ntafneu" = { value = "ndɑ̂nǔntɑnə", alias = ["nd5afnu7ntafneu", "nd21afnu7ntafneu", "ndaf21nu7ntafneu", "ndaf5n12untafneu", "ndaf5nu12ntafneu", "ndaf5n7untafneu"] }
 "ndaf5ton*nku1" = { value = "ndɑ̂toŋnkù", alias = ["nd5afton*nku1", "nd21afton*nku1", "ndaf21ton*nku1", "ndaf5ton_star_nku1"] }
-"ndai1ma1d" = { value = "ndɛ̀màd" }
+"ndai1ma1d" = "ndɛ̀màd"
 "ndai1n ngaf5mco1" = { value = "ndɛ̀n ngɑ̂mcò", alias = ["ndai1n ng5afmco1", "ndai1n ng21afmco1", "ndai1n ngaf21mco1"] }
-"ndai1nbaf" = { value = "ndɛ̀nbɑ" }
-"ndai1nbeu1n" = { value = "ndɛ̀nbə̀n" }
+"ndai1nbaf" = "ndɛ̀nbɑ"
+"ndai1nbeu1n" = "ndɛ̀nbə̀n"
 "ndai1nku-leu" = { value = "ndɛ̀nkʉlə", alias = ["ndai1nkuuleu"] }
-"ndai1nkwi1" = { value = "ndɛ̀nkwì" }
-"ndai1nntseu'teu1" = { value = "ndɛ̀nntsə'tə̀" }
+"ndai1nkwi1" = "ndɛ̀nkwì"
+"ndai1nntseu'teu1" = "ndɛ̀nntsə'tə̀"
 "ndai5ncu" = { value = "ndɛ̂ncu", alias = ["nd5aincu", "ndai21ncu", "nd21aincu"] }
-"ndem" = { value = "ndem" }
-"ndi1gnca1" = { value = "ndìgncà" }
-"ndia1geu" = { value = "ndiàgə" }
+"ndem" = "ndem"
+"ndi1gnca1" = "ndìgncà"
+"ndia1geu" = "ndiàgə"
 "ndo*" = { value = "ndɔ", alias = ["ndo_star_"] }
 "ndo*7nni5" = { value = "ndɔ̌nnî", alias = ["nd12o*nni5", "ndo_star_7nni5", "ndo*12nni5", "ndo_star_12nni5", "nd12o_star_nni5", "ndo*7nni21", "ndo*7nn21i", "ndo*7nn5i"] }
 "ndu-" = { value = "ndʉ", alias = ["nduu"] }
@@ -782,122 +782,122 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ndu-b" = { value = "ndʉb", alias = ["nduub"] }
 "ndu-laflaf" = { value = "ndʉlɑlɑ", alias = ["nduulaflaf"] }
 "neu lo7 ntu- nai7n ca1m yi" = { value = "nə lǒ ntʉ nɛ̌n càm yi", alias = ["neu lo7 ntu- nai12n ca1m yi", "neu lo7 ntu- n12ain ca1m yi", "neu lo7 ntu- n7ain ca1m yi", "neu lo12 ntu- nai7n ca1m yi", "neu l7o ntu- nai7n ca1m yi", "neu l12o ntu- nai7n ca1m yi", "neu lo7 ntuu nai7n ca1m yi"] }
-"neu siteu ku1d mai1n" = { value = "nə sitə kùd mɛ̀n" }
-"neu1 ba' tu" = { value = "nə̀ ba' tu" }
+"neu siteu ku1d mai1n" = "nə sitə kùd mɛ̀n"
+"neu1 ba' tu" = "nə̀ ba' tu"
 "neu1 ba1gteu7" = { value = "nə̀ bàgtə̌", alias = ["neu1 ba1gteu12", "neu1 ba1gt7eu", "neu1 ba1gt12eu"] }
-"neu1 bafg lineu" = { value = "nə̀ bɑg linə" }
-"neu1 biageu" = { value = "nə̀ biagə" }
+"neu1 bafg lineu" = "nə̀ bɑg linə"
+"neu1 biageu" = "nə̀ biagə"
 "neu1 bu-leu" = { value = "nə̀ bʉlə", alias = ["neu1 buuleu"] }
-"neu1 bumeu" = { value = "nə̀ bumə" }
-"neu1 bweu nu1" = { value = "nə̀ bwə nù" }
+"neu1 bumeu" = "nə̀ bumə"
+"neu1 bweu nu1" = "nə̀ bwə nù"
 "neu1 bweu1teu7" = { value = "nə̀ bwə̀tə̌", alias = ["neu1 bweu1teu12", "neu1 bweu1t7eu", "neu1 bweu1t12eu"] }
 "neu1 bwo*7 lineu" = { value = "nə̀ bwɔ̌ linə", alias = ["neu1 bw12o* lineu", "neu1 bwo_star_7 lineu", "neu1 bwo*12 lineu", "neu1 bwo_star_12 lineu", "neu1 bw12o_star_ lineu"] }
 "neu1 bwo*7 ntu-" = { value = "nə̀ bwɔ̌ ntʉ", alias = ["neu1 bw12o* ntu-", "neu1 bwo_star_7 ntu-", "neu1 bwo*12 ntu-", "neu1 bwo_star_12 ntu-", "neu1 bw12o_star_ ntu-", "neu1 bwo*7 ntuu"] }
-"neu1 ca1'a" = { value = "nə̀ cà'a" }
+"neu1 ca1'a" = "nə̀ cà'a"
 "neu1 ca1gteu7" = { value = "nə̀ càgtə̌", alias = ["neu1 ca1gteu12", "neu1 ca1gt7eu", "neu1 ca1gt12eu"] }
 "neu1 ca7b ncu1" = { value = "nə̀ cǎb ncù", alias = ["neu1 c7ab ncu1", "neu1 ca12b ncu1", "neu1 c12ab ncu1"] }
 "neu1 ca7n*teu7 miaf5glo" = { value = "nə̀ cǎŋtə̌ miɑ̂glo", alias = ["neu1 ca7n*teu7 mi5afglo", "neu1 ca7n*teu7 mi21afglo", "neu1 ca7n*teu7 miaf21glo", "neu1 ca7n*teu12 miaf5glo", "neu1 ca7n*t7eu miaf5glo", "neu1 ca7n*t12eu miaf5glo", "neu1 c7an*teu7 miaf5glo", "neu1 ca12n*teu7 miaf5glo", "neu1 c12an*teu7 miaf5glo", "neu1 ca7n_star_teu7 miaf5glo"] }
 "neu1 co1bteu7" = { value = "nə̀ còbtə̌", alias = ["neu1 co1bteu12", "neu1 co1bt7eu", "neu1 co1bt12eu"] }
 "neu1 co5b tu" = { value = "nə̀ côb tu", alias = ["neu1 c5ob tu", "neu1 c21ob tu", "neu1 co21b tu"] }
-"neu1 cobeu" = { value = "nə̀ cobə" }
-"neu1 conja1" = { value = "nə̀ conjà" }
-"neu1 co'o" = { value = "nə̀ co'o" }
+"neu1 cobeu" = "nə̀ cobə"
+"neu1 conja1" = "nə̀ conjà"
+"neu1 co'o" = "nə̀ co'o"
 "neu1 cu-7 ju" = { value = "nə̀ cʉ̌ ju", alias = ["neu1 c7uu ju", "neu1 cuu12 ju", "neu1 c12uu ju", "neu1 cuu7 ju"] }
 "neu1 cu-ageu" = { value = "nə̀ cʉagə", alias = ["neu1 cuuageu"] }
-"neu1 feuleu" = { value = "nə̀ fələ" }
+"neu1 feuleu" = "nə̀ fələ"
 "neu1 fu-a7g ncu1" = { value = "nə̀ fʉǎg ncù", alias = ["neu1 fu-7ag ncu1", "neu1 fu-a12g ncu1", "neu1 fu-12ag ncu1", "neu1 fuua7g ncu1"] }
 "neu1 fɛd nso*" = { value = "nə̀ fɛd nsɔ", alias = ["neu1 fɛd nso_star_"] }
-"neu1 gha" = { value = "nə̀ gha" }
+"neu1 gha" = "nə̀ gha"
 "neu1 ghu1mteu7" = { value = "nə̀ ghùmtə̌", alias = ["neu1 ghu1mteu12", "neu1 ghu1mt7eu", "neu1 ghu1mt12eu"] }
 "neu1 ghu-7 ngeu'" = { value = "nə̀ ghʉ̌ ngə'", alias = ["neu1 gh7uu ngeu'", "neu1 ghuu12 ngeu'", "neu1 gh12uu ngeu'", "neu1 ghuu7 ngeu'"] }
-"neu1 ju' ncu1" = { value = "nə̀ ju' ncù" }
+"neu1 ju' ncu1" = "nə̀ ju' ncù"
 "neu1 ju' tu7n nu1" = { value = "nə̀ ju' tǔn nù", alias = ["neu1 ju' t12un nu1", "neu1 ju' tu12n nu1", "neu1 ju' t7un nu1"] }
-"neu1 jumeu" = { value = "nə̀ jumə" }
-"neu1 ka ngeu'" = { value = "nə̀ ka ngə'" }
+"neu1 jumeu" = "nə̀ jumə"
+"neu1 ka ngeu'" = "nə̀ ka ngə'"
 "neu1 ka7gni1" = { value = "nə̀ kǎgnì", alias = ["neu1 k7agni1", "neu1 ka12gni1", "neu1 k12agni1"] }
-"neu1 keub nka" = { value = "nə̀ kəb nka" }
+"neu1 keub nka" = "nə̀ kəb nka"
 "neu1 ki7 ndɛn" = { value = "nə̀ kǐ ndɛn", alias = ["neu1 ki12 ndɛn", "neu1 k12i ndɛn", "neu1 k7i ndɛn"] }
 "neu1 ki7 seu5veu1" = { value = "nə̀ kǐ sə̂və̀", alias = ["neu1 ki7 s5euveu1", "neu1 ki7 seu21veu1", "neu1 ki7 s21euveu1", "neu1 ki12 seu5veu1", "neu1 k12i seu5veu1", "neu1 k7i seu5veu1"] }
-"neu1 ko' tu" = { value = "nə̀ ko' tu" }
+"neu1 ko' tu" = "nə̀ ko' tu"
 "neu1 ko*7" = { value = "nə̀ kɔ̌", alias = ["neu1 k12o*", "neu1 ko_star_7", "neu1 ko*12", "neu1 ko_star_12", "neu1 k12o_star_"] }
-"neu1 kom tu" = { value = "nə̀ kom tu" }
-"neu1 kwa'a" = { value = "nə̀ kwa'a" }
-"neu1 kwimteu" = { value = "nə̀ kwimtə" }
+"neu1 kom tu" = "nə̀ kom tu"
+"neu1 kwa'a" = "nə̀ kwa'a"
+"neu1 kwimteu" = "nə̀ kwimtə"
 "neu1 la7b wud" = { value = "nə̀ lǎb wud", alias = ["neu1 l7ab wud", "neu1 la12b wud", "neu1 l12ab wud"] }
 "neu1 la7b zwi1 kog" = { value = "nə̀ lǎb zwì kog", alias = ["neu1 l7ab zwi1 kog", "neu1 la12b zwi1 kog", "neu1 l12ab zwi1 kog"] }
-"neu1 laf1neu" = { value = "nə̀ lɑ̀nə" }
+"neu1 laf1neu" = "nə̀ lɑ̀nə"
 "neu1 laf7b ncu1" = { value = "nə̀ lɑ̌b ncù", alias = ["neu1 laf12b ncu1", "neu1 l12afb ncu1", "neu1 l7afb ncu1"] }
-"neu1 lai1neu" = { value = "nə̀ lɛ̀nə" }
+"neu1 lai1neu" = "nə̀ lɛ̀nə"
 "neu1 lai7d ncu1" = { value = "nə̀ lɛ̌d ncù", alias = ["neu1 lai12d ncu1", "neu1 l12aid ncu1", "neu1 l7aid ncu1"] }
 "neu1 lan* mban*eu" = { value = "nə̀ laŋ mbaŋə", alias = ["neu1 lan_star_ mban_star_eu"] }
 "neu1 lo7 faf" = { value = "nə̀ lǒ fɑ", alias = ["neu1 lo12 faf", "neu1 l7o faf", "neu1 l12o faf"] }
 "neu1 man* ndu-1'" = { value = "nə̀ maŋ ndʉ̀'", alias = ["neu1 man* nduu1'", "neu1 man_star_ ndu-1'"] }
-"neu1 na ka1g" = { value = "nə̀ na kàg" }
+"neu1 na ka1g" = "nə̀ na kàg"
 "neu1 nu7' zwi1" = { value = "nə̀ nǔ' zwì", alias = ["neu1 n12u' zwi1", "neu1 nu12' zwi1", "neu1 n7u' zwi1"] }
-"neu1 sa1meu" = { value = "nə̀ sàmə" }
+"neu1 sa1meu" = "nə̀ sàmə"
 "neu1 sa7m wu-d" = { value = "nə̀ sǎm wʉd", alias = ["neu1 s7am wu-d", "neu1 sa12m wu-d", "neu1 s12am wu-d", "neu1 sa7m wuud"] }
 "neu1 sab ndu-'" = { value = "nə̀ sab ndʉ'", alias = ["neu1 sab nduu'"] }
-"neu1 sateu" = { value = "nə̀ satə" }
-"neu1 seuleu" = { value = "nə̀ sələ" }
+"neu1 sateu" = "nə̀ satə"
+"neu1 seuleu" = "nə̀ sələ"
 "neu1 so7 ndɛn" = { value = "nə̀ sǒ ndɛn", alias = ["neu1 so12 ndɛn", "neu1 s7o ndɛn", "neu1 s12o ndɛn"] }
 "neu1 so7g" = { value = "nə̀ sǒg", alias = ["neu1 so12g", "neu1 s7og", "neu1 s12og"] }
 "neu1 so7g seu" = { value = "nə̀ sǒg sə", alias = ["neu1 so12g seu", "neu1 s7og seu", "neu1 s12og seu"] }
-"neu1 ta na1" = { value = "nə̀ ta nà" }
-"neu1 ta1geu" = { value = "nə̀ tàgə" }
+"neu1 ta na1" = "nə̀ ta nà"
+"neu1 ta1geu" = "nə̀ tàgə"
 "neu1 ta7" = { value = "nə̀ tǎ", alias = ["neu1 t7a", "neu1 ta12", "neu1 t12a"] }
 "neu1 ta7 tu" = { value = "nə̀ tǎ tu", alias = ["neu1 t7a tu", "neu1 ta12 tu", "neu1 t12a tu"] }
-"neu1 tata" = { value = "nə̀ tata" }
+"neu1 tata" = "nə̀ tata"
 "neu1 teu ba1ku-leu" = { value = "nə̀ tə bàkʉlə", alias = ["neu1 teu ba1kuuleu"] }
 "neu1 to*7 beunntu-1n" = { value = "nə̀ tɔ̌ bənntʉ̀n", alias = ["neu1 t12o* beunntu-1n", "neu1 to_star_7 beunntu-1n", "neu1 to*12 beunntu-1n", "neu1 to_star_12 beunntu-1n", "neu1 t12o_star_ beunntu-1n", "neu1 to*7 beunntuu1n"] }
 "neu1 to*7 nkab" = { value = "nə̀ tɔ̌ nkab", alias = ["neu1 t12o* nkab", "neu1 to_star_7 nkab", "neu1 to*12 nkab", "neu1 to_star_12 nkab", "neu1 t12o_star_ nkab"] }
-"neu1 toneu" = { value = "nə̀ tonə" }
+"neu1 toneu" = "nə̀ tonə"
 "neu1 tsia1n*teu7" = { value = "nə̀ tsiàŋtə̌", alias = ["neu1 tsia1n*teu12", "neu1 tsia1n*t7eu", "neu1 tsia1n*t12eu", "neu1 tsia1n_star_teu7"] }
-"neu1 tsineu" = { value = "nə̀ tsinə" }
-"neu1 tɛnteu" = { value = "nə̀ tɛntə" }
-"neu1 ya' nka'" = { value = "nə̀ ya' nka'" }
+"neu1 tsineu" = "nə̀ tsinə"
+"neu1 tɛnteu" = "nə̀ tɛntə"
+"neu1 ya' nka'" = "nə̀ ya' nka'"
 "neu1 ya1n*eu" = { value = "nə̀ yàŋə", alias = ["neu1 ya1n_star_eu"] }
-"neu1 yafb ngeu'" = { value = "nə̀ yɑb ngə'" }
-"neu1 yageu" = { value = "nə̀ yagə" }
-"neu1 yenteu" = { value = "nə̀ yentə" }
-"neu1 zeuteu" = { value = "nə̀ zətə" }
+"neu1 yafb ngeu'" = "nə̀ yɑb ngə'"
+"neu1 yageu" = "nə̀ yagə"
+"neu1 yenteu" = "nə̀ yentə"
+"neu1 zeuteu" = "nə̀ zətə"
 "neu1 zwi7" = { value = "nə̀ zwǐ", alias = ["neu1 zwi12", "neu1 zw12i", "neu1 zw7i"] }
-"neu1 zwiaf1geu" = { value = "nə̀ zwiɑ̀gə" }
-"neu1 zwi'teu" = { value = "nə̀ zwi'tə" }
-"neu1ba1'" = { value = "nə̀bà'" }
+"neu1 zwiaf1geu" = "nə̀ zwiɑ̀gə"
+"neu1 zwi'teu" = "nə̀ zwi'tə"
+"neu1ba1'" = "nə̀bà'"
 "neu1ba7" = { value = "nə̀bǎ", alias = ["neu1b7a", "neu1ba12", "neu1b12a"] }
-"neu1bedni" = { value = "nə̀bedni" }
-"neu1lafnba1" = { value = "nə̀lɑnbà" }
+"neu1bedni" = "nə̀bedni"
+"neu1lafnba1" = "nə̀lɑnbà"
 "neu1lai7nnu1" = { value = "nə̀lɛ̌nnù", alias = ["neu1lai12nnu1", "neu1l12ainnu1", "neu1l7ainnu1"] }
 "neu1lan*han*eu" = { value = "nə̀laŋhaŋə", alias = ["neu1lan_star_han_star_eu"] }
 "neu1ndu-" = { value = "nə̀ndʉ", alias = ["neu1nduu"] }
-"neu1sɛneu" = { value = "nə̀sɛnə" }
-"neu1ta" = { value = "nə̀ta" }
-"neu1tai1d" = { value = "nə̀tɛ̀d" }
+"neu1sɛneu" = "nə̀sɛnə"
+"neu1ta" = "nə̀ta"
+"neu1tai1d" = "nə̀tɛ̀d"
 "neu1tai5d" = { value = "nə̀tɛ̂d", alias = ["neu1t5aid", "neu1tai21d", "neu1t21aid"] }
 "neu1tai7d" = { value = "nə̀tɛ̌d", alias = ["neu1tai12d", "neu1t12aid", "neu1t7aid"] }
-"neu1to'" = { value = "nə̀to'" }
-"neu1ywɛneu" = { value = "nə̀ywɛnə" }
+"neu1to'" = "nə̀to'"
+"neu1ywɛneu" = "nə̀ywɛnə"
 "neu5ndia5n*" = { value = "nə̂ndiâŋ", alias = ["n5eundia5n*", "neu21ndia5n*", "n21eundia5n*", "neu5ndi5an*", "neu5ndia21n*", "neu5ndi21an*", "neu5ndia5n_star_"] }
-"neuneuneu" = { value = "nənənə" }
+"neuneuneu" = "nənənə"
 "neunu-neu" = { value = "nənʉnə", alias = ["neunuuneu"] }
-"neusɛnnzidteu" = { value = "nəsɛnnzidtə" }
-"neuta1'" = { value = "nətà'" }
-"neutɛd" = { value = "nətɛd" }
-"nga" = { value = "nga" }
-"nga1" = { value = "ngà" }
-"nga1 ka1" = { value = "ngà kà" }
-"nga1 tswi1teu1" = { value = "ngà tswìtə̀" }
-"nga1b" = { value = "ngàb" }
-"nga1cobteu1" = { value = "ngàcobtə̀" }
-"nga1ju" = { value = "ngàju" }
-"nga1jun" = { value = "ngàjun" }
+"neusɛnnzidteu" = "nəsɛnnzidtə"
+"neuta1'" = "nətà'"
+"neutɛd" = "nətɛd"
+"nga" = "nga"
+"nga1" = "ngà"
+"nga1 ka1" = "ngà kà"
+"nga1 tswi1teu1" = "ngà tswìtə̀"
+"nga1b" = "ngàb"
+"nga1cobteu1" = "ngàcobtə̀"
+"nga1ju" = "ngàju"
+"nga1jun" = "ngàjun"
 "nga5bnju- dian*tsi'i" = { value = "ngâbnjʉ diaŋtsi'i", alias = ["ng5abnju- dian*tsi'i", "nga21bnju- dian*tsi'i", "ng21abnju- dian*tsi'i", "nga5bnju- dian_star_tsi'i", "nga5bnjuu dian*tsi'i"] }
 "nga5to*" = { value = "ngâtɔ", alias = ["ng5ato*", "nga21to*", "ng21ato*", "nga5to_star_"] }
 "nga7ku1" = { value = "ngǎkù", alias = ["ng7aku1", "nga12ku1", "ng12aku1"] }
 "nga7leum" = { value = "ngǎləm", alias = ["ng7aleum", "nga12leum", "ng12aleum"] }
 "nga7ncu-' kum" = { value = "ngǎncʉ' kum", alias = ["ng7ancu-' kum", "nga12ncu-' kum", "ng12ancu-' kum", "nga7ncuu' kum"] }
 "nga7ncu-1' mai1nnya7n*tu" = { value = "ngǎncʉ̀' mɛ̀nnyǎŋtu", alias = ["nga7ncuu1' mai1nnya7n*tu", "ng7ancu-1' mai1nny7an*tu", "nga12ncu-1' mai1nnya12n*tu", "ng12ancu-1' mai1nny12an*tu", "nga7ncu-1' mai1nnya7n_star_tu"] }
-"ngab" = { value = "ngab" }
+"ngab" = "ngab"
 "ngaf5mba1'" = { value = "ngɑ̂mbà'", alias = ["ng5afmba1'", "ng21afmba1'", "ngaf21mba1'"] }
 "ngaf5mbaf" = { value = "ngɑ̂mbɑ", alias = ["ng5afmbaf", "ng21afmbaf", "ngaf21mbaf"] }
 "ngaf5mbeu1n" = { value = "ngɑ̂mbə̀n", alias = ["ng5afmbeu1n", "ng21afmbeu1n", "ngaf21mbeu1n"] }
@@ -943,16 +943,16 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ngaf5nnju-" = { value = "ngɑ̂nnjʉ", alias = ["ng5afnnju-", "ng21afnnju-", "ngaf21nnju-", "ngaf5nnjuu"] }
 "ngaf5nu1" = { value = "ngɑ̂nù", alias = ["ng5afnu1", "ng21afnu1", "ngaf21nu1"] }
 "ngaf7mta" = { value = "ngɑ̌mta", alias = ["ngaf12mta", "ng12afmta", "ng7afmta"] }
-"ngafm mafke1" = { value = "ngɑm mɑkè" }
-"ngafneu" = { value = "ngɑnə" }
-"nge'" = { value = "nge'" }
+"ngafm mafke1" = "ngɑm mɑkè"
+"ngafneu" = "ngɑnə"
+"nge'" = "nge'"
 "ngeu1lan*" = { value = "ngə̀laŋ", alias = ["ngeu1lan_star_"] }
 "ngeu1lan* zeu" = { value = "ngə̀laŋ zə", alias = ["ngeu1lan_star_ zeu"] }
 "ngeu1lan* zeu1" = { value = "ngə̀laŋ zə̀", alias = ["ngeu1lan_star_ zeu1"] }
-"ngeu'eu" = { value = "ngə'ə" }
+"ngeu'eu" = "ngə'ə"
 "ngeulan* zeu" = { value = "ngəlaŋ zə", alias = ["ngeulan_star_ zeu"] }
 "ngo*1" = { value = "ngɔ̀", alias = ["ngo_star_1"] }
-"ngo1n" = { value = "ngòn" }
+"ngo1n" = "ngòn"
 "Ngo*5" = { value = "Ngɔ̂", alias = ["Ng21o*", "Ngo_star_5", "Ngo*21", "Ngo_star_21", "Ng21o_star_"] }
 "ngo*7" = { value = "ngɔ̌", alias = ["ng12o*", "ngo_star_7", "ngo*12", "ngo_star_12", "ng12o_star_"] }
 "ngo*7 ba1mai1n" = { value = "ngɔ̌ bàmɛ̀n", alias = ["ng12o* ba1mai1n", "ngo_star_7 ba1mai1n", "ngo*12 ba1mai1n", "ngo_star_12 ba1mai1n", "ng12o_star_ ba1mai1n"] }
@@ -960,9 +960,9 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "ngo*7ngo*1" = { value = "ngɔ̌ngɔ̀", alias = ["ngo*7ngo_star_1", "ng12o*ngo*1", "ngo_star_7ngo*1", "ngo*12ngo*1", "ngo_star_12ngo*1", "ng12o_star_ngo*1"] }
 "ngo7nntseu" = { value = "ngǒnntsə", alias = ["ngo12nntseu", "ng7onntseu", "ng12onntseu"] }
 "ngo*7to*1ngo*1" = { value = "ngɔ̌tɔ̀ngɔ̀", alias = ["ngo*7to_star_1ngo_star_1", "ng12o*to*1ngo*1", "ngo_star_7to*1ngo*1", "ngo*12to*1ngo*1", "ngo_star_12to*1ngo*1", "ng12o_star_to*1ngo*1"] }
-"ngu1'" = { value = "ngù'" }
-"ngu1b wud" = { value = "ngùb wud" }
-"ngu1btu" = { value = "ngùbtu" }
+"ngu1'" = "ngù'"
+"ngu1b wud" = "ngùb wud"
+"ngu1btu" = "ngùbtu"
 "ngu-1dni1" = { value = "ngʉ̀dnì", alias = ["nguu1dni1"] }
 "ngu5'nju-" = { value = "ngû'njʉ", alias = ["ngu5'njuu", "ngu21'nju-", "ng21u'nju-", "ng5u'nju-"] }
 "ngu7blafg" = { value = "ngǔblɑg", alias = ["ng12ublafg", "ngu12blafg", "ng7ublafg"] }
@@ -970,9 +970,9 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "nguaf5" = { value = "nguɑ̂", alias = ["ngu5af", "ngu21af", "nguaf21"] }
 "ngu-afneu1saf1m" = { value = "ngʉɑnə̀sɑ̀m", alias = ["nguuafneu1saf1m"] }
 "ngu-afyeun" = { value = "ngʉɑyən", alias = ["nguuafyeun"] }
-"nguan" = { value = "nguan" }
+"nguan" = "nguan"
 "ngu-'to*1ngo*" = { value = "ngʉ'tɔ̀ngɔ", alias = ["ngu-'to_star_1ngo*", "ngu-'to*1ngo_star_", "nguu'to*1ngo*"] }
-"nja1mku1" = { value = "njàmkù" }
+"nja1mku1" = "njàmkù"
 "nja5gcu" = { value = "njâgcu", alias = ["nj5agcu", "nja21gcu", "nj21agcu"] }
 "njo1n*" = { value = "njòŋ", alias = ["njo1n_star_"] }
 "njo1n*vogeu" = { value = "njòŋvogə", alias = ["njo1n_star_vogeu"] }
@@ -980,11 +980,11 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "njo7n* ngeu1lan* fa" = { value = "njǒŋ ngə̀laŋ fa", alias = ["njo7n_star_ ngeu1lan_star_ fa", "njo12n* ngeu1lan* fa", "nj7on* ngeu1lan* fa", "nj12on* ngeu1lan* fa"] }
 "njo7n* ngeulan* zeu" = { value = "njǒŋ ngəlaŋ zə", alias = ["njo7n_star_ ngeulan_star_ zeu", "njo12n* ngeulan* zeu", "nj7on* ngeulan* zeu", "nj12on* ngeulan* zeu"] }
 "nju-" = { value = "njʉ", alias = ["njuu"] }
-"njum" = { value = "njum" }
-"njwi1dcu" = { value = "njwìdcu" }
-"nka" = { value = "nka" }
-"nka1'" = { value = "nkà'" }
-"nka1gnaf1" = { value = "nkàgnɑ̀" }
+"njum" = "njum"
+"njwi1dcu" = "njwìdcu"
+"nka" = "nka"
+"nka1'" = "nkà'"
+"nka1gnaf1" = "nkàgnɑ̀"
 "nka7fa1'" = { value = "nkǎfà'", alias = ["nk7afa1'", "nka12fa1'", "nk12afa1'"] }
 "nka7m n*wa1'ni1" = { value = "nkǎm ŋwà'nì", alias = ["nk7am n*wa1'ni1", "nka12m n*wa1'ni1", "nk12am n*wa1'ni1", "nka7m n_star_wa1'ni1"] }
 "nka7nja" = { value = "nkǎnja", alias = ["nk7anja", "nka12nja", "nk12anja"] }
@@ -994,72 +994,72 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "nke5b ntubu" = { value = "nkêb ntubu", alias = ["nke21b ntubu", "nk5eb ntubu", "nk21eb ntubu"] }
 "Nke5m" = { value = "Nkêm", alias = ["Nke21m", "Nk5em", "Nk21em"] }
 "nke7dntubu" = { value = "nkědntubu", alias = ["nk12edntubu", "nk7edntubu", "nke12dntubu"] }
-"nkeu mbwog mbeu" = { value = "nkə mbwog mbə" }
+"nkeu mbwog mbeu" = "nkə mbwog mbə"
 "nkeu mfa' bo5" = { value = "nkə mfa' bô", alias = ["nkeu mfa' b5o", "nkeu mfa' b21o", "nkeu mfa' bo21"] }
-"nkeu1beu1'" = { value = "nkə̀bə̀'" }
-"nkeu1ke" = { value = "nkə̀ke" }
-"nkeu1mbeu1'" = { value = "nkə̀mbə̀'" }
-"nkeu1tu'u" = { value = "nkə̀tu'u" }
+"nkeu1beu1'" = "nkə̀bə̀'"
+"nkeu1ke" = "nkə̀ke"
+"nkeu1mbeu1'" = "nkə̀mbə̀'"
+"nkeu1tu'u" = "nkə̀tu'u"
 "nkeu5bnju- meu1bwo*" = { value = "nkə̂bnjʉ mə̀bwɔ", alias = ["nk5eubnju- meu1bwo*", "nkeu21bnju- meu1bwo*", "nk21eubnju- meu1bwo*", "nkeu5bnju- meu1bwo_star_", "nkeu5bnjuu meu1bwo*"] }
 "nkeu5bnju- meubwo* bin fa" = { value = "nkə̂bnjʉ məbwɔ bin fa", alias = ["nk5eubnju- meubwo* bin fa", "nkeu21bnju- meubwo* bin fa", "nk21eubnju- meubwo* bin fa", "nkeu5bnju- meubwo_star_ bin fa", "nkeu5bnjuu meubwo* bin fa"] }
-"nkeuto'o" = { value = "nkəto'o" }
-"nkib" = { value = "nkib" }
+"nkeuto'o" = "nkəto'o"
+"nkib" = "nkib"
 "nko*1ni1" = { value = "nkɔ̀nì", alias = ["nko_star_1ni1"] }
 "nko*5miafg" = { value = "nkɔ̂miɑg", alias = ["nk21o*miafg", "nko_star_5miafg", "nko*21miafg", "nko_star_21miafg", "nk21o_star_miafg"] }
 "nko*5ntseulag" = { value = "nkɔ̂ntsəlag", alias = ["nk21o*ntseulag", "nko_star_5ntseulag", "nko*21ntseulag", "nko_star_21ntseulag", "nk21o_star_ntseulag"] }
 "nko7'n*wa1'ni7 nga1tswi1teu1" = { value = "nkǒ'ŋwà'nǐ ngàtswìtə̀", alias = ["nko7'n*wa1'ni12 nga1tswi1teu1", "nko7'n*wa1'n12i nga1tswi1teu1", "nko7'n*wa1'n7i nga1tswi1teu1", "nko7'n_star_wa1'ni7 nga1tswi1teu1", "nko12'n*wa1'ni7 nga1tswi1teu1", "nk7o'n*wa1'ni7 nga1tswi1teu1", "nk12o'n*wa1'ni7 nga1tswi1teu1"] }
 "nku-" = { value = "nkʉ", alias = ["nkuu"] }
-"nku1'ni1" = { value = "nkù'nì" }
+"nku1'ni1" = "nkù'nì"
 "nku5m njo7n*" = { value = "nkûm njǒŋ", alias = ["nku5m njo7n_star_", "nku5m njo12n*", "nku5m nj7on*", "nku5m nj12on*", "nku21m njo7n*", "nk21um njo7n*", "nk5um njo7n*"] }
 "nku-5ndu-5'u-" = { value = "nkʉ̂ndʉ̂'ʉ", alias = ["nk21uund21uu'u-", "nkuu5nduu5'u-", "nk5uund5uu'u-", "nkuu21nduu21'u-", "nku-5ndu-5'uu"] }
 "nku-5nku-" = { value = "nkʉ̂nkʉ", alias = ["nk21uunku-", "nkuu5nku-", "nk5uunku-", "nkuu21nku-", "nku-5nkuu"] }
 "nku-7ndaf" = { value = "nkʉ̌ndɑ", alias = ["nk7uundaf", "nkuu12ndaf", "nk12uundaf", "nkuu7ndaf"] }
 "nku-7nya1m" = { value = "nkʉ̌nyàm", alias = ["nk7uunya1m", "nkuu12nya1m", "nk12uunya1m", "nkuu7nya1m"] }
 "nku-d" = { value = "nkʉd", alias = ["nkuud"] }
-"nkwa1teu1" = { value = "nkwàtə̀" }
+"nkwa1teu1" = "nkwàtə̀"
 "nkwa7'nkwa5'a" = { value = "nkwǎ'nkwâ'a", alias = ["nkwa7'nkw5a'a", "nkwa7'nkwa21'a", "nkwa7'nkw21a'a", "nkw7a'nkwa5'a", "nkwa12'nkwa5'a", "nkw12a'nkwa5'a"] }
-"nsa" = { value = "nsa" }
+"nsa" = "nsa"
 "nsa' ngo*1" = { value = "nsa' ngɔ̀", alias = ["nsa' ngo_star_1"] }
-"nsa1 ntubu" = { value = "nsà ntubu" }
-"nsa1tubu" = { value = "nsàtubu" }
+"nsa1 ntubu" = "nsà ntubu"
+"nsa1tubu" = "nsàtubu"
 "nshaf5 mbaf" = { value = "nshɑ̂ mbɑ", alias = ["nsh5af mbaf", "nsh21af mbaf", "nshaf21 mbaf"] }
 "nshun af5m zeu1 ta1 njo1n*" = { value = "nshun ɑ̂m zə̀ tà njòŋ", alias = ["nshun 5afm zeu1 ta1 njo1n*", "nshun 21afm zeu1 ta1 njo1n*", "nshun af21m zeu1 ta1 njo1n*", "nshun af5m zeu1 ta1 njo1n_star_"] }
 "nshun caf1m tseu1 ta1 njo1n*" = { value = "nshun cɑ̀m tsə̀ tà njòŋ", alias = ["nshun caf1m tseu1 ta1 njo1n_star_"] }
-"Nsi" = { value = "Nsi" }
-"nsi ca'" = { value = "nsi ca'" }
+"Nsi" = "Nsi"
+"nsi ca'" = "nsi ca'"
 "nso*1" = { value = "nsɔ̀", alias = ["nso_star_1"] }
-"nso1gnzweu" = { value = "nsògnzwə" }
-"nso1kwa" = { value = "nsòkwa" }
+"nso1gnzweu" = "nsògnzwə"
+"nso1kwa" = "nsòkwa"
 "nso5bni1" = { value = "nsôbnì", alias = ["ns5obni1", "ns21obni1", "nso21bni1"] }
 "nso5naf1" = { value = "nsônɑ̀", alias = ["ns5onaf1", "ns21onaf1", "nso21naf1"] }
 "nso5naf5ndo*" = { value = "nsônɑ̂ndɔ", alias = ["nso5n5afndo*", "nso5n21afndo*", "nso5naf21ndo*", "nso5naf5ndo_star_", "ns5onaf5ndo*", "ns21onaf5ndo*", "nso21naf5ndo*"] }
 "nso5n*co*1" = { value = "nsôŋcɔ̀", alias = ["nso5n*co_star_1", "nso5n_star_co*1", "ns5on*co*1", "ns21on*co*1", "nso21n*co*1"] }
-"nsti" = { value = "nsti" }
-"nsweu" = { value = "nswə" }
-"Nta1mteu1" = { value = "Ntàmtə̀" }
+"nsti" = "nsti"
+"nsweu" = "nswə"
+"Nta1mteu1" = "Ntàmtə̀"
 "nta1mteu1 cu5ncobeu" = { value = "ntàmtə̀ cûncobə", alias = ["nta1mteu1 cu21ncobeu", "nta1mteu1 c21uncobeu", "nta1mteu1 c5uncobeu"] }
-"nta1ndɛn" = { value = "ntàndɛn" }
+"nta1ndɛn" = "ntàndɛn"
 "nta1n*mbweu" = { value = "ntàŋmbwə", alias = ["nta1n_star_mbweu"] }
-"ntafneu" = { value = "ntɑnə" }
-"ntag" = { value = "ntag" }
-"ntageu" = { value = "ntagə" }
+"ntafneu" = "ntɑnə"
+"ntag" = "ntag"
+"ntageu" = "ntagə"
 "nto1ngo7dmeusan*eu" = { value = "ntòngǒdməsaŋə", alias = ["nto1ngo7dmeusan_star_eu", "nto1ngo12dmeusan*eu", "nto1ng7odmeusan*eu", "nto1ng12odmeusan*eu"] }
 "nto5ngeu1feuleu" = { value = "ntôngə̀fələ", alias = ["nt5ongeu1feuleu", "nt21ongeu1feuleu", "nto21ngeu1feuleu"] }
 "nto*5tu1n" = { value = "ntɔ̂tùn", alias = ["nt21o*tu1n", "nto_star_5tu1n", "nto*21tu1n", "nto_star_21tu1n", "nt21o_star_tu1n"] }
-"ntobni1" = { value = "ntobnì" }
-"ntogeu" = { value = "ntogə" }
-"nto'teu1" = { value = "nto'tə̀" }
-"ntseu" = { value = "ntsə" }
+"ntobni1" = "ntobnì"
+"ntogeu" = "ntogə"
+"nto'teu1" = "nto'tə̀"
+"ntseu" = "ntsə"
 "ntu-5 bweu" = { value = "ntʉ̂ bwə", alias = ["nt21uu bweu", "ntuu5 bweu", "nt5uu bweu", "ntuu21 bweu"] }
 "ntu-5m" = { value = "ntʉ̂m", alias = ["nt21uum", "ntuu5m", "nt5uum", "ntuu21m"] }
-"ntubu" = { value = "ntubu" }
-"nu" = { value = "nu" }
-"nu neu1ba1'" = { value = "nu nə̀bà'" }
+"ntubu" = "ntubu"
+"nu" = "nu"
+"nu neu1ba1'" = "nu nə̀bà'"
 "nu ngu-eu1" = { value = "nu ngʉə̀", alias = ["nu nguueu1"] }
-"nu1" = { value = "nù" }
+"nu1" = "nù"
 "nu1keu1bwo*1" = { value = "nùkə̀bwɔ̀", alias = ["nu1keu1bwo_star_1"] }
 "nu1ko5'ntu-" = { value = "nùkô'ntʉ", alias = ["nu1k5o'ntu-", "nu1k21o'ntu-", "nu1ko21'ntu-", "nu1ko5'ntuu"] }
-"nu1m" = { value = "nùm" }
+"nu1m" = "nùm"
 "nu7 to*ngo*1" = { value = "nǔ tɔngɔ̀", alias = ["nu7 to*ngo_star_1", "nu7 to_star_ngo*1", "n12u to*ngo*1", "nu12 to*ngo*1", "n7u to*ngo*1"] }
 "nu7M" = { value = "nǔM", alias = ["n12uM", "nu12M", "n7uM"] }
 "nu7m" = { value = "nǔm", alias = ["n12um", "nu12m", "n7um"] }
@@ -1085,95 +1085,95 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "n*wateu1" = { value = "ŋwatə̀", alias = ["n_star_wateu1"] }
 "n*weu" = { value = "ŋwə", alias = ["n_star_weu"] }
 "n*wu-" = { value = "ŋwʉ", alias = ["n_star_wu-", "n*wuu"] }
-"nya1m" = { value = "nyàm" }
+"nya1m" = "nyàm"
 "nya1m taf5n ka1m" = { value = "nyàm tɑ̂n kàm", alias = ["nya1m t5afn ka1m", "nya1m t21afn ka1m", "nya1m taf21n ka1m"] }
 "nya1n*eu" = { value = "nyàŋə", alias = ["nya1n_star_eu"] }
 "Nya7n*miafg" = { value = "Nyǎŋmiɑg", alias = ["Ny7an*miafg", "Nya12n*miafg", "Ny12an*miafg", "Nya7n_star_miafg"] }
 "nya7n*ncu1" = { value = "nyǎŋncù", alias = ["ny7an*ncu1", "nya12n*ncu1", "ny12an*ncu1", "nya7n_star_ncu1"] }
 "nya7n*tu" = { value = "nyǎŋtu", alias = ["ny7an*tu", "nya12n*tu", "ny12an*tu", "nya7n_star_tu"] }
-"nyaf1m neu1na1" = { value = "nyɑ̀m nə̀nà" }
-"nyafm ntseu" = { value = "nyɑm ntsə" }
-"nyam" = { value = "nyam" }
-"nyi" = { value = "nyi" }
+"nyaf1m neu1na1" = "nyɑ̀m nə̀nà"
+"nyafm ntseu" = "nyɑm ntsə"
+"nyam" = "nyam"
+"nyi" = "nyi"
 "nyi5nnso*1" = { value = "nyînnsɔ̀", alias = ["nyi5nnso_star_1", "nyi21nnso*1", "ny21innso*1", "ny5innso*1"] }
 "nyu7' ntseu" = { value = "nyǔ' ntsə", alias = ["ny12u' ntseu", "nyu12' ntseu", "ny7u' ntseu"] }
 "nyu7' nu1m" = { value = "nyǔ' nùm", alias = ["ny12u' nu1m", "nyu12' nu1m", "ny7u' nu1m"] }
-"nyu'u" = { value = "nyu'u" }
-"nywin" = { value = "nywin" }
-"nywinteu1" = { value = "nywintə̀" }
-"nzeu1" = { value = "nzə̀" }
-"nzeundaf" = { value = "nzəndɑ" }
+"nyu'u" = "nyu'u"
+"nywin" = "nywin"
+"nywinteu1" = "nywintə̀"
+"nzeu1" = "nzə̀"
+"nzeundaf" = "nzəndɑ"
 "nzeunni5" = { value = "nzənnî", alias = ["nzeunni21", "nzeunn21i", "nzeunn5i"] }
-"nzia1'tu" = { value = "nzià'tu" }
-"nzweu" = { value = "nzwə" }
-"nzweu1'" = { value = "nzwə̀'" }
-"nzwi1n" = { value = "nzwìn" }
+"nzia1'tu" = "nzià'tu"
+"nzweu" = "nzwə"
+"nzweu1'" = "nzwə̀'"
+"nzwi1n" = "nzwìn"
 "nzwi5 mfeu1n" = { value = "nzwî mfə̀n", alias = ["nzwi21 mfeu1n", "nzw21i mfeu1n", "nzw5i mfeu1n"] }
-"nɛneu" = { value = "nɛnə" }
+"nɛneu" = "nɛnə"
 "o*'" = { value = "ɔ'", alias = ["o_star_'"] }
-"O yog a1" = { value = "O yog à" }
-"O zi af1" = { value = "O zi ɑ̀" }
-"pegement" = { value = "pegement" }
-"sa" = { value = "sa" }
+"O yog a1" = "O yog à"
+"O zi af1" = "O zi ɑ̀"
+"pegement" = "pegement"
+"sa" = "sa"
 "sa ta5mbu" = { value = "sa tâmbu", alias = ["sa t5ambu", "sa ta21mbu", "sa t21ambu"] }
-"sa tamku1" = { value = "sa tamkù" }
-"sa1geu" = { value = "sàgə" }
+"sa tamku1" = "sa tamkù"
+"sa1geu" = "sàgə"
 "sa1n*" = { value = "sàŋ", alias = ["sa1n_star_"] }
 "sa7" = { value = "sǎ", alias = ["s7a", "sa12", "s12a"] }
 "sa7 Ncobnsi" = { value = "sǎ Ncobnsi", alias = ["s7a Ncobnsi", "sa12 Ncobnsi", "s12a Ncobnsi"] }
 "sa7lafg" = { value = "sǎlɑg", alias = ["s7alafg", "sa12lafg", "s12alafg"] }
-"saf1g" = { value = "sɑ̀g" }
-"saf1mmbafhaf" = { value = "sɑ̀mmbɑhɑ" }
+"saf1g" = "sɑ̀g"
+"saf1mmbafhaf" = "sɑ̀mmbɑhɑ"
 "saf7mju" = { value = "sɑ̌mju", alias = ["saf12mju", "s12afmju", "s7afmju"] }
-"safb bon" = { value = "sɑb bon" }
-"safm" = { value = "sɑm" }
-"sag" = { value = "sag" }
-"sageu" = { value = "sagə" }
+"safb bon" = "sɑb bon"
+"safm" = "sɑm"
+"sag" = "sag"
+"sageu" = "sagə"
 "san*vu-1" = { value = "saŋvʉ̀", alias = ["san*vuu1", "san_star_vu-1"] }
-"sateu" = { value = "satə" }
-"senni" = { value = "senni" }
-"seu" = { value = "sə" }
+"sateu" = "satə"
+"senni" = "senni"
+"seu" = "sə"
 "seu5 tu wud" = { value = "sə̂ tu wud", alias = ["s5eu tu wud", "seu21 tu wud", "s21eu tu wud"] }
 "seu5nnaf" = { value = "sə̂nnɑ", alias = ["s5eunnaf", "seu21nnaf", "s21eunnaf"] }
 "seu5veu1" = { value = "sə̂və̀", alias = ["s5euveu1", "seu21veu1", "s21euveu1"] }
 "seunni5" = { value = "sənnî", alias = ["seunni21", "seunn21i", "seunn5i"] }
-"sheu1'eu" = { value = "shə̀'ə" }
-"sheu'eu" = { value = "shə'ə" }
-"shud ncu1" = { value = "shud ncù" }
-"shugeu" = { value = "shugə" }
-"si1b" = { value = "sìb" }
-"si1beu" = { value = "sìbə" }
-"si'i" = { value = "si'i" }
-"sileu" = { value = "silə" }
-"sin" = { value = "sin" }
-"sineu" = { value = "sinə" }
+"sheu1'eu" = "shə̀'ə"
+"sheu'eu" = "shə'ə"
+"shud ncu1" = "shud ncù"
+"shugeu" = "shugə"
+"si1b" = "sìb"
+"si1beu" = "sìbə"
+"si'i" = "si'i"
+"sileu" = "silə"
+"sin" = "sin"
+"sineu" = "sinə"
 "so*" = { value = "sɔ", alias = ["so_star_"] }
 "so1g mba5bmbabeu" = { value = "sòg mbâbmbabə", alias = ["so1g mb5abmbabeu", "so1g mba21bmbabeu", "so1g mb21abmbabeu"] }
-"so1geu" = { value = "sògə" }
-"so1gnka" = { value = "sògnka" }
+"so1geu" = "sògə"
+"so1gnka" = "sògnka"
 "so1gnso*" = { value = "sògnsɔ", alias = ["so1gnso_star_"] }
-"so1gnzweu" = { value = "sògnzwə" }
-"so1gwud" = { value = "sògwud" }
+"so1gnzweu" = "sògnzwə"
+"so1gwud" = "sògwud"
 "so5n*" = { value = "sôŋ", alias = ["so5n_star_", "s5on*", "s21on*", "so21n*"] }
 "so*7" = { value = "sɔ̌", alias = ["s12o*", "so_star_7", "so*12", "so_star_12", "s12o_star_"] }
 "so*7 nkafb" = { value = "sɔ̌ nkɑb", alias = ["s12o* nkafb", "so_star_7 nkafb", "so*12 nkafb", "so_star_12 nkafb", "s12o_star_ nkafb"] }
 "so7 nkeuto'o" = { value = "sǒ nkəto'o", alias = ["so12 nkeuto'o", "s7o nkeuto'o", "s12o nkeuto'o"] }
-"sogeu" = { value = "sogə" }
+"sogeu" = "sogə"
 "son* co*1" = { value = "soŋ cɔ̀", alias = ["son* co_star_1", "son_star_ co*1"] }
-"su" = { value = "su" }
-"su1beu" = { value = "sùbə" }
-"sub" = { value = "sub" }
-"subeu" = { value = "subə" }
+"su" = "su"
+"su1beu" = "sùbə"
+"sub" = "sub"
+"subeu" = "subə"
 "swadian*eu" = { value = "swadiaŋə", alias = ["swadian_star_eu"] }
-"swateu ncobeu" = { value = "swatə ncobə" }
-"swɛneu" = { value = "swɛnə" }
-"sɛneu" = { value = "sɛnə" }
+"swateu ncobeu" = "swatə ncobə"
+"swɛneu" = "swɛnə"
+"sɛneu" = "sɛnə"
 "sɛnni5" = { value = "sɛnnî", alias = ["sɛnni21", "sɛnn21i", "sɛnn5i"] }
-"ta" = { value = "ta" }
-"ta1" = { value = "tà" }
-"ta1mmbweu1" = { value = "tàmmbwə̀" }
-"Ta1mteu" = { value = "Tàmtə" }
-"ta1mteu1" = { value = "tàmtə̀" }
+"ta" = "ta"
+"ta1" = "tà"
+"ta1mmbweu1" = "tàmmbwə̀"
+"Ta1mteu" = "Tàmtə"
+"ta1mteu1" = "tàmtə̀"
 "ta1mteu1 ngo*1ngo*1" = { value = "tàmtə̀ ngɔ̀ngɔ̀", alias = ["ta1mteu1 ngo_star_1ngo_star_1"] }
 "ta1mteu7" = { value = "tàmtə̌", alias = ["ta1mteu12", "ta1mt7eu", "ta1mt12eu"] }
 "ta1n*eu" = { value = "tàŋə", alias = ["ta1n_star_eu"] }
@@ -1185,45 +1185,45 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "Ta7n*ngo*1" = { value = "Tǎŋngɔ̀", alias = ["Ta7n*ngo_star_1", "T7an*ngo*1", "Ta12n*ngo*1", "T12an*ngo*1", "Ta7n_star_ngo*1"] }
 "ta7to*1ngo*1" = { value = "tǎtɔ̀ngɔ̀", alias = ["ta7to_star_1ngo_star_1", "t7ato*1ngo*1", "ta12to*1ngo*1", "t12ato*1ngo*1"] }
 "ta7tu" = { value = "tǎtu", alias = ["t7atu", "ta12tu", "t12atu"] }
-"ta'a" = { value = "ta'a" }
-"tad" = { value = "tad" }
+"ta'a" = "ta'a"
+"tad" = "tad"
 "tad nu7m mfe1 gham" = { value = "tad nǔm mfè gham", alias = ["tad n12um mfe1 gham", "tad nu12m mfe1 gham", "tad n7um mfe1 gham"] }
 "tad nu7m nka1m gham" = { value = "tad nǔm nkàm gham", alias = ["tad n12um nka1m gham", "tad nu12m nka1m gham", "tad n7um nka1m gham"] }
 "tad nu7m tseu gham" = { value = "tad nǔm tsə gham", alias = ["tad n12um tseu gham", "tad nu12m tseu gham", "tad n7um tseu gham"] }
-"tadteu" = { value = "tadtə" }
-"tadteu1" = { value = "tadtə̀" }
-"taf" = { value = "tɑ" }
-"taf1" = { value = "tɑ̀" }
-"taf1bteu1" = { value = "tɑ̀btə̀" }
+"tadteu" = "tadtə"
+"tadteu1" = "tadtə̀"
+"taf" = "tɑ"
+"taf1" = "tɑ̀"
+"taf1bteu1" = "tɑ̀btə̀"
 "taf5" = { value = "tɑ̂", alias = ["t5af", "t21af", "taf21"] }
 "taf5 ba7gngo*1" = { value = "tɑ̂ bǎgngɔ̀", alias = ["t5af ba7gngo*1", "t21af ba7gngo*1", "taf21 ba7gngo*1", "taf5 ba7gngo_star_1", "taf5 b7agngo*1", "taf5 ba12gngo*1", "taf5 b12agngo*1"] }
 "taf5 fa1'" = { value = "tɑ̂ fà'", alias = ["t5af fa1'", "t21af fa1'", "taf21 fa1'"] }
 "taf5 ngo*1" = { value = "tɑ̂ ngɔ̀", alias = ["t5af ngo*1", "t21af ngo*1", "taf21 ngo*1", "taf5 ngo_star_1"] }
 "taf5 ta7n*ngo*1" = { value = "tɑ̂ tǎŋngɔ̀", alias = ["t5af ta7n*ngo*1", "t21af ta7n*ngo*1", "taf21 ta7n*ngo*1", "taf5 ta7n*ngo_star_1", "taf5 t7an*ngo*1", "taf5 ta12n*ngo*1", "taf5 t12an*ngo*1", "taf5 ta7n_star_ngo*1"] }
 "taf5nku-1d" = { value = "tɑ̂nkʉ̀d", alias = ["t5afnku-1d", "t21afnku-1d", "taf21nku-1d", "taf5nkuu1d"] }
-"tafbteu1" = { value = "tɑbtə̀" }
+"tafbteu1" = "tɑbtə̀"
 "tafbteu7" = { value = "tɑbtə̌", alias = ["tafbteu12", "tafbt7eu", "tafbt12eu"] }
-"tafm fu" = { value = "tɑm fu" }
-"tafm ndu'" = { value = "tɑm ndu'" }
-"tafm ntseu" = { value = "tɑm ntsə" }
-"tafm sa" = { value = "tɑm sa" }
-"tafn" = { value = "tɑn" }
+"tafm fu" = "tɑm fu"
+"tafm ndu'" = "tɑm ndu'"
+"tafm ntseu" = "tɑm ntsə"
+"tafm sa" = "tɑm sa"
+"tafn" = "tɑn"
 "Tai7d" = { value = "Tɛ̌d", alias = ["Tai12d", "T12aid", "T7aid"] }
-"tam ntseu" = { value = "tam ntsə" }
-"tameu" = { value = "tamə" }
-"tamka" = { value = "tamka" }
+"tam ntseu" = "tam ntsə"
+"tameu" = "tamə"
+"tamka" = "tamka"
 "tamteu7" = { value = "tamtə̌", alias = ["tamteu12", "tamt7eu", "tamt12eu"] }
 "tan*eu" = { value = "taŋə", alias = ["tan_star_eu"] }
-"tata" = { value = "tata" }
-"teu" = { value = "tə" }
-"teu bu" = { value = "tə bu" }
-"teu mfi1'" = { value = "tə mfì'" }
+"tata" = "tata"
+"teu" = "tə"
+"teu bu" = "tə bu"
+"teu mfi1'" = "tə mfì'"
 "teu ndu-1" = { value = "tə ndʉ̀", alias = ["teu nduu1"] }
-"teu nsi" = { value = "tə nsi" }
-"teu ntafneu" = { value = "tə ntɑnə" }
+"teu nsi" = "tə nsi"
+"teu ntafneu" = "tə ntɑnə"
 "teu nu7 tu5" = { value = "tə nǔ tû", alias = ["teu nu7 tu21", "teu nu7 t21u", "teu nu7 t5u", "teu n12u tu5", "teu nu12 tu5", "teu n7u tu5"] }
 "teu tu7n" = { value = "tə tǔn", alias = ["teu t12un", "teu tu12n", "teu t7un"] }
-"to" = { value = "to" }
+"to" = "to"
 "to*" = { value = "tɔ", alias = ["to_star_"] }
 "to* fin" = { value = "tɔ fin", alias = ["to_star_ fin"] }
 "to* kafb" = { value = "tɔ kɑb", alias = ["to_star_ kafb"] }
@@ -1239,47 +1239,47 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "to7g ntsi" = { value = "tǒg ntsi", alias = ["to12g ntsi", "t7og ntsi", "t12og ntsi"] }
 "to7n ndem" = { value = "tǒn ndem", alias = ["to12n ndem", "t7on ndem", "t12on ndem"] }
 "to'feu7'mbwogeu" = { value = "to'fə̌'mbwogə", alias = ["to'feu12'mbwogeu", "to'f7eu'mbwogeu", "to'f12eu'mbwogeu"] }
-"togeu" = { value = "togə" }
-"toneu" = { value = "tonə" }
+"togeu" = "togə"
+"toneu" = "tonə"
 "ton*eu" = { value = "toŋə", alias = ["ton_star_eu"] }
 "ton*ku1" = { value = "toŋkù", alias = ["ton_star_ku1"] }
-"to'o" = { value = "to'o" }
-"to'teu" = { value = "to'tə" }
-"troc’hañ" = { value = "troc’hañ" }
-"tsa'teu" = { value = "tsa'tə" }
+"to'o" = "to'o"
+"to'teu" = "to'tə"
+"troc’hañ" = "troc’hañ"
+"tsa'teu" = "tsa'tə"
 "tsi1nteu7" = { value = "tsìntə̌", alias = ["tsi1nteu12", "tsi1nt7eu", "tsi1nt12eu"] }
-"tsia1geu" = { value = "tsiàgə" }
+"tsia1geu" = "tsiàgə"
 "tsia1n*teu1" = { value = "tsiàŋtə̀", alias = ["tsia1n_star_teu1"] }
-"tsiageu" = { value = "tsiagə" }
+"tsiageu" = "tsiagə"
 "tsian*e" = { value = "tsiaŋe", alias = ["tsian_star_e"] }
 "tsian*eu" = { value = "tsiaŋə", alias = ["tsian_star_eu"] }
-"tsileu" = { value = "tsilə" }
-"tsin" = { value = "tsin" }
+"tsileu" = "tsilə"
+"tsin" = "tsin"
 "tsin fan*eu" = { value = "tsin faŋə", alias = ["tsin fan_star_eu"] }
 "tsin mba5gteu" = { value = "tsin mbâgtə", alias = ["tsin mb5agteu", "tsin mba21gteu", "tsin mb21agteu"] }
-"tsin mbɛdteu" = { value = "tsin mbɛdtə" }
-"tsin mcafmeu" = { value = "tsin mcɑmə" }
-"tsin ncafmeu" = { value = "tsin ncɑmə" }
+"tsin mbɛdteu" = "tsin mbɛdtə"
+"tsin mcafmeu" = "tsin mcɑmə"
+"tsin ncafmeu" = "tsin ncɑmə"
 "tsin ndo5 num nka" = { value = "tsin ndô num nka", alias = ["tsin nd5o num nka", "tsin nd21o num nka", "tsin ndo21 num nka"] }
-"tsin nka" = { value = "tsin nka" }
-"tsin nkageu" = { value = "tsin nkagə" }
+"tsin nka" = "tsin nka"
+"tsin nkageu" = "tsin nkagə"
 "tsin ntu-nteu" = { value = "tsin ntʉntə", alias = ["tsin ntuunteu"] }
 "tsin to1n*ncu-'" = { value = "tsin tòŋncʉ'", alias = ["tsin to1n_star_ncu-'", "tsin to1n*ncuu'"] }
 "tsin yon*ncu-'" = { value = "tsin yoŋncʉ'", alias = ["tsin yon_star_ncu-'", "tsin yon*ncuu'"] }
-"tsin zwiage" = { value = "tsin zwiage" }
-"tsineu" = { value = "tsinə" }
-"tswa1'a" = { value = "tswà'a" }
+"tsin zwiage" = "tsin zwiage"
+"tsineu" = "tsinə"
+"tswa1'a" = "tswà'a"
 "tswa1'teu7" = { value = "tswà'tə̌", alias = ["tswa1'teu12", "tswa1't7eu", "tswa1't12eu"] }
-"tswa'a" = { value = "tswa'a" }
-"tsweu" = { value = "tswə" }
+"tswa'a" = "tswa'a"
+"tsweu" = "tswə"
 "tsweu'cu5ncobeu" = { value = "tswə'cûncobə", alias = ["tsweu'cu21ncobeu", "tsweu'c21uncobeu", "tsweu'c5uncobeu"] }
 "tswi1'teu7" = { value = "tswì'tə̌", alias = ["tswi1'teu12", "tswi1't7eu", "tswi1't12eu"] }
 "tswit nku-n" = { value = "tswit nkʉn", alias = ["tswit nkuun"] }
-"tu" = { value = "tu" }
+"tu" = "tu"
 "tu-" = { value = "tʉ", alias = ["tuu"] }
 "tu-'" = { value = "tʉ'", alias = ["tuu'"] }
 "tu neu1 ghua' mfu-afg" = { value = "tu nə̀ ghua' mfʉɑg", alias = ["tu neu1 ghua' mfuuafg"] }
-"tu1n" = { value = "tùn" }
+"tu1n" = "tùn"
 "tu5 neu1 to nso'" = { value = "tû nə̀ to nso'", alias = ["tu21 neu1 to nso'", "t21u neu1 to nso'", "t5u neu1 to nso'"] }
 "tu5keukwi'" = { value = "tûkəkwi'", alias = ["tu21keukwi'", "t21ukeukwi'", "t5ukeukwi'"] }
 "tu5mlam" = { value = "tûmlam", alias = ["tu21mlam", "t21umlam", "t5umlam"] }
@@ -1291,111 +1291,111 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "tu7nku1" = { value = "tǔnkù", alias = ["t12unku1", "tu12nku1", "t7unku1"] }
 "tu7nncu-1'" = { value = "tǔnncʉ̀'", alias = ["tu7nncuu1'", "t12unncu-1'", "tu12nncu-1'", "t7unncu-1'"] }
 "tu7nndaf" = { value = "tǔnndɑ", alias = ["t12unndaf", "tu12nndaf", "t7unndaf"] }
-"tu'leu" = { value = "tu'lə" }
-"tumeu" = { value = "tumə" }
+"tu'leu" = "tu'lə"
+"tumeu" = "tumə"
 "tu-neu" = { value = "tʉnə", alias = ["tuuneu"] }
 "tu-nntsweu'eu" = { value = "tʉnntswə'ə", alias = ["tuunntsweu'eu"] }
 "tu-nteu" = { value = "tʉntə", alias = ["tuunteu"] }
 "tu-nteu1" = { value = "tʉntə̀", alias = ["tuunteu1"] }
-"tu'ntseu" = { value = "tu'ntsə" }
-"tu'u" = { value = "tu'u" }
-"tweu'" = { value = "twə'" }
-"twiageu" = { value = "twiagə" }
+"tu'ntseu" = "tu'ntsə"
+"tu'u" = "tu'u"
+"tweu'" = "twə'"
+"twiageu" = "twiagə"
 "twseu5ntu7n" = { value = "twsə̂ntǔn", alias = ["tws5euntu7n", "twseu21ntu7n", "tws21euntu7n", "twseu5nt12un", "twseu5ntu12n", "twseu5nt7un"] }
-"tɛneu" = { value = "tɛnə" }
-"unaniñ" = { value = "unaniñ" }
+"tɛneu" = "tɛnə"
+"unaniñ" = "unaniñ"
 "vai1dteu7" = { value = "vɛ̀dtə̌", alias = ["vai1dteu12", "vai1dt7eu", "vai1dt12eu"] }
-"vo1gteu1" = { value = "vògtə̀" }
+"vo1gteu1" = "vògtə̀"
 "vo5gncu-" = { value = "vôgncʉ", alias = ["v5ogncu-", "v21ogncu-", "vo21gncu-", "vo5gncuu"] }
-"vog" = { value = "vog" }
+"vog" = "vog"
 "vu-7" = { value = "vʉ̌", alias = ["v7uu", "vuu12", "v12uu", "vuu7"] }
 "vu-leu" = { value = "vʉlə", alias = ["vuuleu"] }
-"wa" = { value = "wa" }
-"wa1leu" = { value = "wàlə" }
+"wa" = "wa"
+"wa1leu" = "wàlə"
 "wa7d keu1lo*1" = { value = "wǎd kə̀lɔ̀", alias = ["wa7d keu1lo_star_1", "w7ad keu1lo*1", "wa12d keu1lo*1", "w12ad keu1lo*1"] }
-"we'e" = { value = "we'e" }
-"weu" = { value = "wə" }
+"we'e" = "we'e"
+"weu" = "wə"
 "wu-1" = { value = "wʉ̀", alias = ["wuu1"] }
-"wud" = { value = "wud" }
-"wud i" = { value = "wud i" }
+"wud" = "wud"
+"wud i" = "wud i"
 "ya ntu-" = { value = "ya ntʉ", alias = ["ya ntuu"] }
 "ya1teu7" = { value = "yàtə̌", alias = ["ya1teu12", "ya1t7eu", "ya1t12eu"] }
 "ya5g" = { value = "yâg", alias = ["y5ag", "ya21g", "y21ag"] }
 "ya5g tu wud" = { value = "yâg tu wud", alias = ["y5ag tu wud", "ya21g tu wud", "y21ag tu wud"] }
 "ya5ntu-" = { value = "yântʉ", alias = ["y5antu-", "ya21ntu-", "y21antu-", "ya5ntuu"] }
-"ya'a" = { value = "ya'a" }
-"yabeu" = { value = "yabə" }
-"yaf" = { value = "yɑ" }
-"yaf1geu" = { value = "yɑ̀gə" }
-"yaf1m" = { value = "yɑ̀m" }
+"ya'a" = "ya'a"
+"yabeu" = "yabə"
+"yaf" = "yɑ"
+"yaf1geu" = "yɑ̀gə"
+"yaf1m" = "yɑ̀m"
 "yaf5m" = { value = "yɑ̂m", alias = ["y5afm", "y21afm", "yaf21m"] }
 "yaf5m tu wud" = { value = "yɑ̂m tu wud", alias = ["y5afm tu wud", "y21afm tu wud", "yaf21m tu wud"] }
-"yafbeu" = { value = "yɑbə" }
-"yafm" = { value = "yɑm" }
-"yafmeu" = { value = "yɑmə" }
-"yag" = { value = "yag" }
-"yageu" = { value = "yagə" }
-"yanba1'" = { value = "yanbà'" }
+"yafbeu" = "yɑbə"
+"yafm" = "yɑm"
+"yafmeu" = "yɑmə"
+"yag" = "yag"
+"yageu" = "yagə"
+"yanba1'" = "yanbà'"
 "yan*ba1' nco1" = { value = "yaŋbà' ncò", alias = ["yan_star_ba1' nco1"] }
 "yan*ba7' gho1n" = { value = "yaŋbǎ' ghòn", alias = ["yan*b7a' gho1n", "yan*ba12' gho1n", "yan*b12a' gho1n", "yan_star_ba7' gho1n"] }
 "yan*ka" = { value = "yaŋka", alias = ["yan_star_ka"] }
 "yan*ka1g" = { value = "yaŋkàg", alias = ["yan_star_ka1g"] }
-"yenni" = { value = "yenni" }
+"yenni" = "yenni"
 "yeu5n ngeulan* laf" = { value = "yə̂n ngəlaŋ lɑ", alias = ["y5eun ngeulan* laf", "yeu21n ngeulan* laf", "y21eun ngeulan* laf", "yeu5n ngeulan_star_ laf"] }
-"yeun ngeu'" = { value = "yən ngə'" }
-"yeuneu" = { value = "yənə" }
-"yeunnaf" = { value = "yənnɑ" }
+"yeun ngeu'" = "yən ngə'"
+"yeuneu" = "yənə"
+"yeunnaf" = "yənnɑ"
 "yeunni5" = { value = "yənnî", alias = ["yeunni21", "yeunn21i", "yeunn5i"] }
-"yeunteufeu1" = { value = "yəntəfə̀" }
-"yi" = { value = "yi" }
-"yi1n" = { value = "yìn" }
+"yeunteufeu1" = "yəntəfə̀"
+"yi" = "yi"
+"yi1n" = "yìn"
 "yi5d ngeu1lan* af1" = { value = "yîd ngə̀laŋ ɑ̀", alias = ["yi21d ngeu1lan* af1", "y21id ngeu1lan* af1", "y5id ngeu1lan* af1", "yi5d ngeu1lan_star_ af1"] }
 "yi5n" = { value = "yîn", alias = ["yi21n", "y21in", "y5in"] }
 "yi5n tu wud" = { value = "yîn tu wud", alias = ["yi21n tu wud", "y21in tu wud", "y5in tu wud"] }
 "yilaf5" = { value = "yilɑ̂", alias = ["yil5af", "yil21af", "yilaf21"] }
-"yileu" = { value = "yilə" }
-"yin" = { value = "yin" }
-"yineu" = { value = "yinə" }
-"yo1g" = { value = "yòg" }
+"yileu" = "yilə"
+"yin" = "yin"
+"yineu" = "yinə"
+"yo1g" = "yòg"
 "yo*1geu" = { value = "yɔ̀gə", alias = ["yo_star_1geu"] }
 "yo1n*" = { value = "yòŋ", alias = ["yo1n_star_"] }
 "yo7g meu1n" = { value = "yǒg mə̀n", alias = ["yo12g meu1n", "y7og meu1n", "y12og meu1n"] }
-"yog nya1m" = { value = "yog nyàm" }
-"yu" = { value = "yu" }
-"yu1" = { value = "yù" }
-"yu1b" = { value = "yùb" }
-"yu1beu" = { value = "yùbə" }
+"yog nya1m" = "yog nyàm"
+"yu" = "yu"
+"yu1" = "yù"
+"yu1b" = "yùb"
+"yu1beu" = "yùbə"
 "yu5 tu wud" = { value = "yû tu wud", alias = ["yu21 tu wud", "y21u tu wud", "y5u tu wud"] }
 "yu5b" = { value = "yûb", alias = ["yu21b", "y21ub", "y5ub"] }
 "yu5b tu wud" = { value = "yûb tu wud", alias = ["yu21b tu wud", "y21ub tu wud", "y5ub tu wud"] }
-"yub" = { value = "yub" }
-"yubeu" = { value = "yubə" }
-"ywi1leu" = { value = "ywìlə" }
+"yub" = "yub"
+"yubeu" = "yubə"
+"ywi1leu" = "ywìlə"
 "ywimteu7" = { value = "ywimtə̌", alias = ["ywimteu12", "ywimt7eu", "ywimt12eu"] }
-"ywɛleu" = { value = "ywɛlə" }
-"ywɛneu" = { value = "ywɛnə" }
+"ywɛleu" = "ywɛlə"
+"ywɛneu" = "ywɛnə"
 "Yɛso*1" = { value = "Yɛsɔ̀", alias = ["Yɛso_star_1"] }
-"zeu" = { value = "zə" }
-"zeu1" = { value = "zə̀" }
+"zeu" = "zə"
+"zeu1" = "zə̀"
 "zeu1 tu5 wud" = { value = "zə̀ tû wud", alias = ["zeu1 tu21 wud", "zeu1 t21u wud", "zeu1 t5u wud"] }
 "zeu5ntseu" = { value = "zə̂ntsə", alias = ["z5euntseu", "zeu21ntseu", "z21euntseu"] }
 "zeu5nu1" = { value = "zə̂nù", alias = ["z5eunu1", "zeu21nu1", "z21eunu1"] }
-"zeunu1" = { value = "zənù" }
-"zeuteu" = { value = "zətə" }
+"zeunu1" = "zənù"
+"zeuteu" = "zətə"
 "zi du-1m" = { value = "zi dʉ̀m", alias = ["zi duu1m"] }
-"zi1n" = { value = "zìn" }
-"zi1neu" = { value = "zìnə" }
+"zi1n" = "zìn"
+"zi1neu" = "zìnə"
 "zi7" = { value = "zǐ", alias = ["zi12", "z12i", "z7i"] }
 "zi7ceu7'nku1" = { value = "zǐcə̌'nkù", alias = ["zi7ceu12'nku1", "zi7c7eu'nku1", "zi7c12eu'nku1", "zi12ceu7'nku1", "z12iceu7'nku1", "z7iceu7'nku1"] }
 "zi7kob" = { value = "zǐkob", alias = ["zi12kob", "z12ikob", "z7ikob"] }
 "zi7kum" = { value = "zǐkum", alias = ["zi12kum", "z12ikum", "z7ikum"] }
 "zi7nkeuto'o" = { value = "zǐnkəto'o", alias = ["zi12nkeuto'o", "z12inkeuto'o", "z7inkeuto'o"] }
 "zi7nzweu" = { value = "zǐnzwə", alias = ["zi12nzweu", "z12inzweu", "z7inzweu"] }
-"ziafgeu" = { value = "ziɑgə" }
-"zweu'" = { value = "zwə'" }
+"ziafgeu" = "ziɑgə"
+"zweu'" = "zwə'"
 "zweu5ntu-" = { value = "zwə̂ntʉ", alias = ["zw5euntu-", "zweu21ntu-", "zw21euntu-", "zweu5ntuu"] }
-"zwi" = { value = "zwi" }
+"zwi" = "zwi"
 "zwi7" = { value = "zwǐ", alias = ["zwi12", "zw12i", "zw7i"] }
-"zwia1g" = { value = "zwiàg" }
-"zwia1geu" = { value = "zwiàgə" }
-"zwi'teu" = { value = "zwi'tə" }
+"zwia1g" = "zwiàg"
+"zwia1geu" = "zwiàgə"
+"zwi'teu" = "zwi'tə"
