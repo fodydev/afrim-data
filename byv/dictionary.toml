@@ -670,7 +670,7 @@ source			=	"https://github.com/apertium/apertium-byv-fra/blob/ffe6ee294b404bd4a8
 "miaf1gteu1" = { value = "miɑ̀gtə̀" }
 "miaf5g tu-nteu1" = { value = "miɑ̂g tʉntə̀", alias = ["mi5afg tu-nteu1", "mi21afg tu-nteu1", "miaf21g tu-nteu1", "miaf5g tuunteu1"] }
 "miafg" = { value = "miɑg" }
-"miafg neu1̀ tum safmmbafhaf" = { value = "miɑg nə̀̀ tum sɑmmbɑhɑ" }
+"miafg neu1 tum safmmbafhaf" = { value = "miɑg nə̀ tum sɑmmbɑhɑ" }
 "miafgnkua1" = { value = "miɑgnkuà" }
 "mileu" = { value = "milə" }
 "mineu" = { value = "minə" }
