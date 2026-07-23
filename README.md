@@ -4,6 +4,10 @@
 
 *All language codes should follows as possible the [ISO 639-3](https://iso639-3.sil.org).*
 
+## [Medumba](byv)
+Configuration for the Medumba input method.
+- Dictionary of Medumba words
+
 ## [Clafrica](clafrica)
 Configuration for the Clafrica input method based on the Clafrica code of Resulam. 
 - Clafrica code for single characters
