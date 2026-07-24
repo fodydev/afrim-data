@@ -22,16 +22,23 @@ jobs:
           packages: libxtst-dev libevdev-dev libxdo-dev
           version: 1.0
 
+      - name: Ensure each file respect the max number of lines
+        run: |
+          find . -iname "*.toml" -exec awk 'FNR == 100001 { print "Error: " FILENAME " exceeds 100,000 lines, consider to split it!"; err=1; nextfile } END { exit err }' {} +
+
       - name: Dependencies
         run: |
           sudo apt-get install libxtst-dev libevdev-dev libxdo-dev --assume-yes
+      
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
       - uses: Swatinem/rust-cache@v2
+      
       - name: Install afrim
         run: |
           cargo install --git https://github.com/pythonbrad/afrim
+      
       - name: Checking config files
         run: |
           for f in $(find -type d -maxdepth 1 -iname "[a-Z]*"); do\
