@@ -1,7 +1,7 @@
 [info]
 name = "Amharic IM"
 description = "Amharic Config File"
-version = "2024-03-23"
+version = "2026-07-24"
 authors = []
 website = ""
 
@@ -11,9 +11,7 @@ auto_capitalize = false
 auto_commit = true
 
 [data]
-geez = { path = "../gez/code.toml" }
 geez_punctuation = { path = "../gez/punctuation.toml" }
-# The amharic code will overwrite the geez code
 amharic = { path = "./code.toml" }
 
 [translation]
