@@ -4,5 +4,26 @@ description = "This dataset is ordered by frequence"
 version = "2026-07-24"
 
 [translation]
-a = "dictionary/a.toml"
-b = "dictionary/b.toml"
+a = { path = "./dictionary/a.toml" }
+b = { path = "./dictionary/b.toml" }
+c = { path = "./dictionary/c.toml" }
+d = { path = "./dictionary/d.toml" }
+f = { path = "./dictionary/f.toml" }
+g = { path = "./dictionary/g.toml" }
+h = { path = "./dictionary/h.toml" }
+j = { path = "./dictionary/j.toml" }
+k = { path = "./dictionary/k.toml" }
+l = { path = "./dictionary/l.toml" }
+m = { path = "./dictionary/m.toml" }
+n = { path = "./dictionary/n.toml" }
+p = { path = "./dictionary/p.toml" }
+q = { path = "./dictionary/q.toml" }
+r = { path = "./dictionary/r.toml" }
+s = { path = "./dictionary/s.toml" }
+t = { path = "./dictionary/t.toml" }
+v = { path = "./dictionary/v.toml" }
+w = { path = "./dictionary/w.toml" }
+x = { path = "./dictionary/x.toml" }
+y1 = { path = "./dictionary/y1.toml" }
+y2 = { path = "./dictionary/y2.toml" }
+z = { path = "./dictionary/z.toml" }
