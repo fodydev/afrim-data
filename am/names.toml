@@ -1,1128 +1,1128 @@
 [info]
 source = "https://github.com/Simonbelete/kwat/blob/main/names/names.csv"
 description = "Ethiopic name"
-version = "2023-10-18"
+version = "2026-07-24"
 
 [translation]
-"AaTara" = { values = ["ዓጣራ"], alias = ["Atarah"] }
-"Aada" = { values = ["ዓዳ"], alias = ["Adah"] }
-"AadiAiel" = { values = ["ዓዲዔል"], alias = ["Adiel"] }
-"Aadin" = { values = ["ዓዲን"], alias = ["Adin"] }
-"Aadna" = { values = ["ዓድና"], alias = ["Adnah"] }
-"Aaksa" = { values = ["ዓክሳ"], alias = ["Ascah"] }
-"Aali" = { values = ["ዓሊ"], alias = ["Alex"] }
-"Aaliemiet" = { values = ["ዓሌሜት"], alias = ["Alemeth"] }
-"Aalwan" = { values = ["ዓልዋን"], alias = ["Alvan"] }
-"Aamasya" = { values = ["ዓማስያ"], alias = ["Amasiah"] }
-"Aamiaiel" = { values = ["ዓሚኤል"], alias = ["Ammiel"] }
-"Aana" = { values = ["ዓና"], alias = ["Anah"] }
-"Aassiaiel" = { values = ["ዓሢኤል"], alias = ["Asiel"] }
-"AazAiel" = { values = ["ዓዝዔል"], alias = ["Aziel"] }
-"Aazaryas" = { values = ["ዓዛርያስ"], alias = ["Uzziah", "Azaria"] }
-"Aazazya" = { values = ["ዓዛዝያ"], alias = ["Azaziah"] }
-"Aazraiel" = { values = ["ዓዝርኤል"], alias = ["Azriel"] }
-"Aebdaiel" = { values = ["ዐብድኤል"], alias = ["Abdeel"] }
-"Aiebor" = { values = ["ዔቦር"], alias = ["Eber"] }
-"Aiebri" = { values = ["ዔብሪ"], alias = ["Ibri"] }
-"Aiedien" = { values = ["ዔዴን"], alias = ["Eran"] }
-"Aiedn" = { values = ["ዔድን"], alias = ["Eden"] }
-"Aiegla" = { values = ["ዔግላ"], alias = ["Hoglah"] }
-"Aieli" = { values = ["ዔሊ"], alias = ["Eli"] }
-"Aieri" = { values = ["ዔሪ"], alias = ["Eri"] }
-"Aiesaw" = { values = ["ዔሳው"], alias = ["Esau"] }
-"Aiezri" = { values = ["ዔዝሪ"], alias = ["Ezri"] }
-"Aobal" = { values = ["ዖባል"], alias = ["Obal"] }
-"Aofra" = { values = ["ዖፍራ"], alias = ["Oprah"] }
-"Aorf" = { values = ["ዖርፍ"], alias = ["Orpah"] }
-"Assiaiel" = { values = ["ዕሢኤል"], alias = ["Jasiel"] }
-"Auzaiel" = { values = ["ዑዝኤል"], alias = ["Uzziel"] }
-"Azra" = { values = ["ዕዝራ"], alias = ["Ezrah", "Ezra"] }
-"Caltu" = { values = ["ጫልቱ"], alias = ["Chaltu"] }
-"Canyalew" = { values = ["ጫንያለው"], alias = ["Chanyalew"] }
-"Cebudie" = { values = ["ጨቡዴ"], alias = ["Chebude"] }
-"Hagi" = { values = ["ሓጊ"], alias = ["Haggi"] }
-"Hana" = { values = ["ሓና"], alias = ["Anna"] }
-"Hananya" = { values = ["ሓናንያ"], alias = ["Ananias", "Ananiah"] }
-"HeSro" = { values = ["ሐጽሮ"], alias = ["Hezrai"] }
-"Hedi" = { values = ["ሐዲ"], alias = ["Addi"] }
-"Hegya" = { values = ["ሐግያ"], alias = ["Haggiah"] }
-"Heman" = { values = ["ሐማን"], alias = ["Haman"] }
-"Hena" = { values = ["ሐና"], alias = ["Hannah"] }
-"Henan" = { values = ["ሐናን"], alias = ["Hanan"] }
-"Henanya" = { values = ["ሐናንያ"], alias = ["Hananiah"] }
-"Henon" = { values = ["ሐኖን"], alias = ["Hanun"] }
-"Heran" = { values = ["ሐራን"], alias = ["Haran"] }
-"Hezaiel" = { values = ["ሐዝኤል"], alias = ["Haziel"] }
-"Hiela" = { values = ["ሔላ"], alias = ["Helah"] }
-"Hielday" = { values = ["ሔልዳይ"], alias = ["Heldai"] }
-"Hielqay" = { values = ["ሔልቃይ"], alias = ["Helkai"] }
-"Hiewan" = { values = ["ሔዋን"], alias = ["Eve"] }
-"Hlqana" = { values = ["ሕልቃና"], alias = ["Elkanah"] }
-"Hodiex" = { values = ["ሖዴሽ"], alias = ["Hodesh"] }
-"Hor" = { values = ["ሖር"], alias = ["Hur"] }
-"Hosa" = { values = ["ሖሳ"], alias = ["Hosah"] }
-"Hoza" = { values = ["ሖዛ"], alias = ["Azzan"] }
-"Huxim" = { values = ["ሑሺም"], alias = ["Hushim"] }
-"Hzqaiel" = { values = ["ሕዝቅኤል"], alias = ["Ezekiel"] }
-"Hzqi" = { values = ["ሕዝቂ"], alias = ["Hizki"] }
-"Hzqyas" = { values = ["ሕዝቅያስ"], alias = ["Hezekiah", "Hizkiah"] }
-"Pawlos" = { values = ["ጳውሎስ"], alias = ["Paulos", "Paul"] }
-"PieTros" = { values = ["ጴጥሮስ"], alias = ["Peter"] }
-"PlaTos" = { values = ["ጵላጦስ"], alias = ["Pilate"] }
-"Prqla" = { values = ["ጵርቅላ"], alias = ["Priscilla"] }
-"SSeHey" = { values = ["ፀሐይ"], alias = ["Tsehay"] }
-"SSedeniya" = { values = ["ፀደኒያ"], alias = ["Tsedenia"] }
-"SSedey" = { values = ["ፀደይ"], alias = ["Tsedey"] }
-"SSgenet" = { values = ["ፅገነት"], alias = ["Etsegenet"] }
-"SSiaon" = { values = ["ፂኦን"], alias = ["Tsion"] }
-"SSozaya" = { values = ["ፆዛያ"], alias = ["Hazaiah"] }
-"Sega" = { values = ["ጸጋ"], alias = ["Tsega"] }
-"Segayie" = { values = ["ጸጋዬ"], alias = ["Tsegaye"] }
-"Sri" = { values = ["ጽሪ"], alias = ["Zeri"] }
-"Sruya" = { values = ["ጽሩያ"], alias = ["Zeruiah"] }
-"TaTaiel" = { values = ["ጣጥኤል"], alias = ["Tabeal"] }
-"Tabita" = { values = ["ጣቢታ"], alias = ["Tabitha"] }
-"Taytu" = { values = ["ጣይቱ"], alias = ["Taitu"] }
-"Tbebu" = { values = ["ጥበቡ"], alias = ["Tibebu"] }
-"Tbelya" = { values = ["ጥበልያ"], alias = ["Tabaliah"] }
-"Tersida" = { values = ["ጠርሲዳ"], alias = ["Persis"] }
-"Tielmon" = { values = ["ጤልሞን"], alias = ["Talmon"] }
-"Timona" = { values = ["ጢሞና"], alias = ["Timon"] }
-"Timotiewos" = { values = ["ጢሞቴዎስ"], alias = ["Timothy"] }
-"Tirofimosa" = { values = ["ጢሮፊሞሳ"], alias = ["Tryphosa"] }
-"Tlahun" = { values = ["ጥላሁን"], alias = ["Tilahun"] }
-"Tobya" = { values = ["ጦብያ"], alias = ["Tobiah", "Tobijah"] }
-"Trunex" = { values = ["ጥሩነሽ"], alias = ["Tirunesh"] }
-"Truwerq" = { values = ["ጥሩወርቅ"], alias = ["Tiruwork"] }
-"aeHlay" = { values = ["አሕላይ"], alias = ["Ahlai"] }
-"aePlos" = { values = ["አጵሎስ"], alias = ["Apollos"] }
-"aeSede" = { values = ["አጸደ"], alias = ["Atsede"] }
-"aeTlabacw" = { values = ["አጥላባችው"], alias = ["Atlabachew"] }
-"aeTnafu" = { values = ["አጥናፉ"], alias = ["Atinafu"] }
-"aebate" = { values = ["አባተ"], alias = ["Abate"] }
-"aebay" = { values = ["አባይ"], alias = ["Abay"] }
-"aebayneh" = { values = ["አባይነህ"], alias = ["Abayneh"] }
-"aebaynex" = { values = ["አባይነሽ"], alias = ["Abaynesh"] }
-"aebdela" = { values = ["አብደላ"], alias = ["Abdela"] }
-"aebdi" = { values = ["አብዲ"], alias = ["Abdi"] }
-"aebdu" = { values = ["አብዱ"], alias = ["Abdu"] }
-"aebdul" = { values = ["አብዱል"], alias = ["Abdul"] }
-"aebdulahi" = { values = ["አብዱላሂ"], alias = ["Abdulahi"] }
-"aebdyu" = { values = ["አብድዩ"], alias = ["Obadiah"] }
-"aebeba" = { values = ["አበባ"], alias = ["Abeba"] }
-"aebebawerq" = { values = ["አበባወርቅ"], alias = ["Abebawork"] }
-"aebebayie" = { values = ["አበባዬ"], alias = ["Abebaye"] }
-"aebebe" = { values = ["አበበ"], alias = ["Abebe"] }
-"aebebec" = { values = ["አበበች"], alias = ["Abebech"] }
-"aebegaz" = { values = ["አበጋዝ"], alias = ["Abegaz"] }
-"aebenier" = { values = ["አበኔር"], alias = ["Abner"] }
-"aebera" = { values = ["አበራ"], alias = ["Abera"] }
-"aeberax" = { values = ["አበራሽ"], alias = ["Aberash"] }
-"aebezu" = { values = ["አበዙ"], alias = ["Abezu"] }
-"aebiTal" = { values = ["አቢጣል"], alias = ["Abital"] }
-"aebiaezr" = { values = ["አቢአዝር"], alias = ["Abiezer"] }
-"aebiaiel" = { values = ["አቢኤል"], alias = ["Abiel"] }
-"aebidaS" = { values = ["አቢዳጽ"], alias = ["Abida"] }
-"aebidan" = { values = ["አቢዳን"], alias = ["Abidan"] }
-"aebiel" = { values = ["አቤል"], alias = ["Abel"] }
-"aebienaiezer" = { values = ["አቤንኤዘር"], alias = ["Ebenezer"] }
-"aebienezer" = { values = ["አቤነዘር"], alias = ["Abenezer"] }
-"aebieron" = { values = ["አቤሮን"], alias = ["Abiram"] }
-"aebiesielom" = { values = ["አቤሴሎም"], alias = ["Absalom"] }
-"aebigaaiel" = { values = ["አቢጋኤል"], alias = ["Abigail"] }
-"aebigiya" = { values = ["አቢጊያ"], alias = ["Abigia"] }
-"aebigya" = { values = ["አቢግያ"], alias = ["Abigail"] }
-"aebikaail" = { values = ["አቢካኢል"], alias = ["Abihail"] }
-"aebisa" = { values = ["አቢሳ"], alias = ["Abishai"] }
-"aebisan" = { values = ["አቢሳን"], alias = ["Abishag"] }
-"aebisu" = { values = ["አቢሱ"], alias = ["Abishua"] }
-"aebiya" = { values = ["አቢያ"], alias = ["Abijah"] }
-"aebiyot" = { values = ["አቢዮት"], alias = ["Abiot"] }
-"aebnet" = { values = ["አብነት"], alias = ["Abenet"] }
-"aebram" = { values = ["አብራም"], alias = ["Abram"] }
-"aebrham" = { values = ["አብርሃም"], alias = ["Abraham"] }
-"aebubeker" = { values = ["አቡበከር"], alias = ["Abubeker"] }
-"aeby" = { values = ["አብይ"], alias = ["Abiy"] }
-"aedam" = { values = ["አዳም"], alias = ["Adam"] }
-"aedane" = { values = ["አዳነ"], alias = ["Adane"] }
-"aedanec" = { values = ["አዳነች"], alias = ["Adanech"] }
-"aedey" = { values = ["አደይ"], alias = ["Adey"] }
-"aedina" = { values = ["አዲና"], alias = ["Adina"] }
-"aedis" = { values = ["አዲስ"], alias = ["Addis"] }
-"aedisu" = { values = ["አዲሱ"], alias = ["Addisu"] }
-"aedmasu" = { values = ["አድማሱ"], alias = ["Admasu"] }
-"aedonibiezieq" = { values = ["አዶኒቤዜቅ"], alias = ["Adoni-bezek"] }
-"aedonyas" = { values = ["አዶንያስ"], alias = ["Adonijah"] }
-"aedoram" = { values = ["አዶራም"], alias = ["Joram"] }
-"aeduNa" = { values = ["አዱኛ"], alias = ["Adugna"] }
-"aefbya" = { values = ["አፍብያ"], alias = ["Apphia"] }
-"aefwerq" = { values = ["አፍወርቅ"], alias = ["Afework"] }
-"aegar" = { values = ["አጋር"], alias = ["Hagar"] }
-"aehmed" = { values = ["አህመድ"], alias = ["Ahmed"] }
-"aekAab" = { values = ["አክዓብ"], alias = ["Ahab"] }
-"aekim" = { values = ["አኪም"], alias = ["Akim"] }
-"aeklil" = { values = ["አክሊል"], alias = ["Aklil"] }
-"aeklilu" = { values = ["አክሊሉ"], alias = ["Aklilu"] }
-"aeksum" = { values = ["አክሱም"], alias = ["Aksum"] }
-"aelAazar" = { values = ["አልዓዛር"], alias = ["Eleazar", "Lazarus"] }
-"aelazar" = { values = ["አላዛር"], alias = ["Alazar"] }
-"aelebacew" = { values = ["አለባቸው"], alias = ["Alebachew"] }
-"aelem" = { values = ["አለም"], alias = ["Alem"] }
-"aelemSSehay" = { values = ["አለምፀሃይ"], alias = ["Alemtsehay"] }
-"aelemaeyehu" = { values = ["አለምአየሁ"], alias = ["Alemayehu"] }
-"aelemitu" = { values = ["አለሚቱ"], alias = ["Alemitu"] }
-"aelemnex" = { values = ["አለምነሽ"], alias = ["Alemnesh"] }
-"aelemu" = { values = ["አለሙ"], alias = ["Alemu"] }
-"aelganex" = { values = ["አልጋነሽ"], alias = ["Algansh"] }
-"aelieks" = { values = ["አሌክስ"], alias = ["Alex"] }
-"aelieksndros" = { values = ["አሌክስንድሮስ"], alias = ["Alexander"] }
-"aelmaz" = { values = ["አልማዝ"], alias = ["Almaz"] }
-"aelnTo" = { values = ["አልንጦ"], alias = ["Olympas"] }
-"aelula" = { values = ["አሉላ"], alias = ["Alula"] }
-"aeman" = { values = ["አማን"], alias = ["Aman"] }
-"aemanuaiel" = { values = ["አማኑኤል"], alias = ["Amanuel", "Immanuel"] }
-"aemare" = { values = ["አማረ"], alias = ["Amare"] }
-"aemarec" = { values = ["አማረች"], alias = ["Amarech"] }
-"aemarya" = { values = ["አማርያ"], alias = ["Amariah"] }
-"aemasi" = { values = ["አማሲ"], alias = ["Amzi"] }
-"aemelewerq" = { values = ["አመለወርቅ"], alias = ["Amelework"] }
-"aemha" = { values = ["አምሃ"], alias = ["Amha"] }
-"aemiTal" = { values = ["አሚጣል"], alias = ["Hamutal"] }
-"aemiesyas" = { values = ["አሜስያስ"], alias = ["Amaziah"] }
-"aemin" = { values = ["አሚን"], alias = ["Amin"] }
-"aemoS" = { values = ["አሞጽ"], alias = ["Amos", "Amoz"] }
-"aemrafiel" = { values = ["አምራፌል"], alias = ["Amraphel"] }
-"aemsale" = { values = ["አምሳለ"], alias = ["Amsale"] }
-"aemsalewerq" = { values = ["አምሳለወርቅ"], alias = ["Amsalework"] }
-"aemsalu" = { values = ["አምሳሉ"], alias = ["Amsalu"] }
-"aenamaiel" = { values = ["አናምኤል"], alias = ["Hanameel"] }
-"aendargacew" = { values = ["አንዳርጋቸው"], alias = ["Andargachew"] }
-"aendiraniqo" = { values = ["አንዲራኒቆ"], alias = ["Andronicus"] }
-"aendnet" = { values = ["አንድነት"], alias = ["Andinet"] }
-"aendryas" = { values = ["አንድርያስ"], alias = ["Andrew"] }
-"aenduaelem" = { values = ["አንዱአለም"], alias = ["Andualem"] }
-"aeniaiel" = { values = ["አኒኤል"], alias = ["Haniel"] }
-"aenteneh" = { values = ["አንተነህ"], alias = ["Anteneh"] }
-"aeqila" = { values = ["አቂላ"], alias = ["Aquila"] }
-"aerTieks" = { values = ["አርጤክስ"], alias = ["Xerxes"] }
-"aerTiems" = { values = ["አርጤምስ"], alias = ["Artemis"] }
-"aerTimon" = { values = ["አርጢሞን"], alias = ["Artemas"] }
-"aeraiel" = { values = ["አርኤል"], alias = ["Ariel"] }
-"aeraieli" = { values = ["አርኤሊ"], alias = ["Areli"] }
-"aerdon" = { values = ["አርዶን"], alias = ["Ardon"] }
-"aergaw" = { values = ["አርጋው"], alias = ["Argaw"] }
-"aeron" = { values = ["አሮን"], alias = ["Aron"] }
-"aersiema" = { values = ["አርሴማ"], alias = ["Arssema"] }
-"aesa" = { values = ["አሳ"], alias = ["Asa"] }
-"aesaf" = { values = ["አሳፍ"], alias = ["Asaph"] }
-"aesan" = { values = ["አሳን"], alias = ["Jashen"] }
-"aescalew" = { values = ["አስቻለው"], alias = ["Aschalew"] }
-"aesefa" = { values = ["አሰፋ"], alias = ["Assefa", "Asefa"] }
-"aesegedec" = { values = ["አሰገደች"], alias = ["Asegedech"] }
-"aesfaw" = { values = ["አስፋው"], alias = ["Asfaw"] }
-"aesier" = { values = ["አሴር"], alias = ["Asher"] }
-"aesmamaw" = { values = ["አስማማው"], alias = ["Asmamaw"] }
-"aesnaqec" = { values = ["አስናቀች"], alias = ["Asnakech"] }
-"aesnat" = { values = ["አስናት"], alias = ["Asenath"] }
-"aesqiewa" = { values = ["አስቄዋ"], alias = ["Sceva"] }
-"aesrat" = { values = ["አስራት"], alias = ["Asrat"] }
-"aesron" = { values = ["አስሮን"], alias = ["Hezron"] }
-"aessaraiel" = { values = ["አሣርኤል"], alias = ["Asarel"] }
-"aessriaiel" = { values = ["አሥሪኤል"], alias = ["Asriel"] }
-"aestarot" = { values = ["አስታሮት"], alias = ["Ashtoreth"] }
-"aestier" = { values = ["አስቴር"], alias = ["Aster", "Esther"] }
-"aewgsTos" = { values = ["አውግስጦስ"], alias = ["Augustus"] }
-"aexbieAa" = { values = ["አሽቤዓ"], alias = ["Ashbea"] }
-"aexebr" = { values = ["አሸብር"], alias = ["Asheber"] }
-"aexenafi" = { values = ["አሸናፊ"], alias = ["Ashenafi"] }
-"aexraiela" = { values = ["አሽርኤላ"], alias = ["Asarelah"] }
-"aeyana" = { values = ["አያና"], alias = ["Ayana"] }
-"aeyda" = { values = ["አይዳ"], alias = ["Aida"] }
-"aeyele" = { values = ["አየለ"], alias = ["Ayele"] }
-"aeyelec" = { values = ["አየለች"], alias = ["Ayelech"] }
-"aeynalem" = { values = ["አይናለም"], alias = ["Aynalem"] }
-"aezalec" = { values = ["አዛለች"], alias = ["Azalech"] }
-"aezanya" = { values = ["አዛንያ"], alias = ["Azaniah"] }
-"aezaraiel" = { values = ["አዛርኤል"], alias = ["Azareel"] }
-"aezieb" = { values = ["አዜብ"], alias = ["Azeb"] }
-"aezin" = { values = ["አዚን"], alias = ["Hezion"] }
-"aibSan" = { values = ["ኢብጻን"], alias = ["Ibzan"] }
-"aibrahim" = { values = ["ኢብራሂም"], alias = ["Ibrahim"] }
-"aiday" = { values = ["ኢዳይ"], alias = ["Jaroah"] }
-"aieden" = { values = ["ኤደን"], alias = ["Eden"] }
-"aiedom" = { values = ["ኤዶም"], alias = ["Edom"] }
-"aiefriem" = { values = ["ኤፍሬም"], alias = ["Efrem", "Ephraim"] }
-"aiefron" = { values = ["ኤፍሮን"], alias = ["Ephron"] }
-"aielAad" = { values = ["ኤልዓድ"], alias = ["Elead"] }
-"aielAada" = { values = ["ኤልዓዳ"], alias = ["Eleadah"] }
-"aielAassa" = { values = ["ኤልዓሣ"], alias = ["Elasah"] }
-"aiela" = { values = ["ኤላ"], alias = ["Elah", "Ela"] }
-"aielam" = { values = ["ኤላም"], alias = ["Elam"] }
-"aielbrit" = { values = ["ኤልብሪት"], alias = ["Elberith"] }
-"aieldaAa" = { values = ["ኤልዳዓ"], alias = ["Eldaah"] }
-"aieldad" = { values = ["ኤልዳድ"], alias = ["Eldad", "Elidad"] }
-"aielfaz" = { values = ["ኤልፋዝ"], alias = ["Eliphaz"] }
-"aieliAiezer" = { values = ["ኤሊዔዘር"], alias = ["Eliezer"] }
-"aieliaiel" = { values = ["ኤሊኤል"], alias = ["Eliel"] }
-"aielidahie" = { values = ["ኤሊዳሄ"], alias = ["Eliada"] }
-"aielisama" = { values = ["ኤሊሳማ"], alias = ["Elishama"] }
-"aielisur" = { values = ["ኤሊሱር"], alias = ["Elizur"] }
-"aieliyas" = { values = ["ኤሊያስ"], alias = ["Elias"] }
-"aielizabiet" = { values = ["ኤሊዛቤት"], alias = ["Elizabeth"] }
-"aielmodad" = { values = ["ኤልሞዳድ"], alias = ["Almodad"] }
-"aielnatan" = { values = ["ኤልናታን"], alias = ["Elnathan"] }
-"aielon" = { values = ["ኤሎን"], alias = ["Elon"] }
-"aielsaSS" = { values = ["ኤልሳፅ"], alias = ["Elisha"] }
-"aielsabieT" = { values = ["ኤልሳቤጥ"], alias = ["Elizabeth", "Elisheba"] }
-"aielsabiet" = { values = ["ኤልሳቤት"], alias = ["Elsabeth"] }
-"aielxaday" = { values = ["ኤልሻዳይ"], alias = ["Elshaday"] }
-"aielyab" = { values = ["ኤልያብ"], alias = ["Eliab", "Eliam"] }
-"aielyanan" = { values = ["ኤልያናን"], alias = ["Elhanan"] }
-"aielyas" = { values = ["ኤልያስ"], alias = ["Elijah"] }
-"aielzabiel" = { values = ["ኤልዛቤል"], alias = ["Jezebel"] }
-"aienHedad" = { values = ["ኤንሐዳድ"], alias = ["Henadad"] }
-"aienya" = { values = ["ኤንያ"], alias = ["Aeneas"] }
-"aieras" = { values = ["ኤራስ"], alias = ["Hirah"] }
-"aieries" = { values = ["ኤሬስ"], alias = ["Heresh"] }
-"aiermiyas" = { values = ["ኤርሚያስ"], alias = ["Ermias"] }
-"aiermyas" = { values = ["ኤርምያስ"], alias = ["Jeremiah"] }
-"aiesban" = { values = ["ኤስባን"], alias = ["Eshban"] }
-"aiesdriaiel" = { values = ["ኤስድሪኤል"], alias = ["Adriel"] }
-"aiesebon" = { values = ["ኤሰቦን"], alias = ["Ozni"] }
-"aiesiel" = { values = ["ኤሴል"], alias = ["Azel"] }
-"aiesili" = { values = ["ኤሲሊ"], alias = ["Esli"] }
-"aietan" = { values = ["ኤታን"], alias = ["Ethan"] }
-"aietay" = { values = ["ኤታይ"], alias = ["Ithai"] }
-"aiewi" = { values = ["ኤዊ"], alias = ["Evi"] }
-"aiewnqie" = { values = ["ኤውንቄ"], alias = ["Eunice"] }
-"aiewodyan" = { values = ["ኤዎድያን"], alias = ["Euodia"] }
-"aiewsaT" = { values = ["ኤውሳጥ"], alias = ["Havilah"] }
-"aiexton" = { values = ["ኤሽቶን"], alias = ["Eshton"] }
-"aiezbay" = { values = ["ኤዝባይ"], alias = ["Ezbai"] }
-"aiezielyas" = { values = ["ኤዜልያስ"], alias = ["Azaliah"] }
-"aiezraiel" = { values = ["ኤዝርኤል"], alias = ["Azarael"] }
-"aiman" = { values = ["ኢማን"], alias = ["Eman"] }
-"airam" = { values = ["ኢራም"], alias = ["Iram"] }
-"airas" = { values = ["ኢራስ"], alias = ["Ira"] }
-"aisaq" = { values = ["ኢሳቅ"], alias = ["Issak"] }
-"aisayas" = { values = ["ኢሳያስ"], alias = ["Isayas"] }
-"aisayyas" = { values = ["ኢሳይያስ"], alias = ["Isaiah"] }
-"aisud" = { values = ["ኢሱድ"], alias = ["Ishod"] }
-"aitamr" = { values = ["ኢታምር"], alias = ["Ithamar"] }
-"aitiaiel" = { values = ["ኢቲኤል"], alias = ["Ithiel"] }
-"aiyaAiel" = { values = ["ኢያዔል"], alias = ["Jael"] }
-"aiyaAr" = { values = ["ኢያዕር"], alias = ["Jair"] }
-"aiyabies" = { values = ["ኢያቤስ"], alias = ["Jabesh"] }
-"aiyabis" = { values = ["ኢያቢስ"], alias = ["Jabin"] }
-"aiyason" = { values = ["ኢያሶን"], alias = ["Jason"] }
-"aiyasu" = { values = ["ኢያሱ"], alias = ["Joshua", "Jeshua"] }
-"aiyazraaiel" = { values = ["ኢያዝራኤል"], alias = ["Jezreel"] }
-"aiyedaiel" = { values = ["ኢየድኤል"], alias = ["Jahdiel"] }
-"aiyerusa" = { values = ["ኢየሩሳ"], alias = ["Jerusha"] }
-"aiyesus" = { values = ["ኢየሱስ"], alias = ["Jesus"] }
-"aiyoaeb" = { values = ["ኢዮአብ"], alias = ["Joab"] }
-"aiyoaetam" = { values = ["ኢዮአታም"], alias = ["Jotham"] }
-"aiyoaiel" = { values = ["ኢዮኤል"], alias = ["Joel", "Jeiel", "Vashni"] }
-"aiyoas" = { values = ["ኢዮእስ"], alias = ["Joash"] }
-"aiyob" = { values = ["ኢዮብ"], alias = ["Jobe"] }
-"aiyohiel" = { values = ["ኢዮሄል"], alias = ["Jarha"] }
-"aiyosTos" = { values = ["ኢዮስጦስ"], alias = ["Justus"] }
-"aiyossafT" = { values = ["ኢዮሣፍጥ"], alias = ["Jehoshaphat"] }
-"aiyosya" = { values = ["ኢዮስያ"], alias = ["Joshah"] }
-"aiyosyas" = { values = ["ኢዮስያስ"], alias = ["Josiah"] }
-"aizana" = { values = ["ኢዛና"], alias = ["Ezana"] }
-"ajgaeyehu" = { values = ["እጅግአየሁ"], alias = ["Ejigayehu"] }
-"alfnex" = { values = ["እልፍነሽ"], alias = ["Elfnesh"] }
-"amebiet" = { values = ["እመቤት"], alias = ["Emebet"] }
-"amri" = { values = ["እምሪ"], alias = ["Imri"] }
-"andale" = { values = ["እንዳለ"], alias = ["Endale"] }
-"andalkacew" = { values = ["እንዳልካቸው"], alias = ["Endalkachew"] }
-"andryas" = { values = ["እንድርያስ"], alias = ["Endrias"] }
-"anqu" = { values = ["እንቁ"], alias = ["Inku"] }
-"aoHola" = { values = ["ኦሖላ"], alias = ["Oholah"] }
-"aoHoliba" = { values = ["ኦሖሊባ"], alias = ["Oholibah"] }
-"aoSiem" = { values = ["ኦጼም"], alias = ["Ozem"] }
-"aomar" = { values = ["ኦማር"], alias = ["Omar"] }
-"aorien" = { values = ["ኦሬን"], alias = ["Oren"] }
-"aoryo" = { values = ["ኦርዮ"], alias = ["Uriah"] }
-"aozi" = { values = ["ኦዚ"], alias = ["Uzzi"] }
-"arqiesyos" = { values = ["እርቄስዮስ"], alias = ["Carshena"] }
-"asTi" = { values = ["እስጢ"], alias = ["Vashti"] }
-"asTifanos" = { values = ["እስጢፋኖስ"], alias = ["Stephanas", "Stephen", "Estifanos"] }
-"asiy" = { values = ["እሲይ"], alias = ["Jesse"] }
-"askedar" = { values = ["እስከዳር"], alias = ["Eskedar"] }
-"askndr" = { values = ["እስክንድር"], alias = ["Eskinder"] }
-"asmaaiel" = { values = ["እስማኤል"], alias = ["Ishmael"] }
-"asraaiel" = { values = ["እስራኤል"], alias = ["Israel"] }
-"atienex" = { values = ["እቴነሽ"], alias = ["Etenesh"] }
-"auaiesebi" = { values = ["ኡኤሰቢ"], alias = ["Shobi"] }
-"auri" = { values = ["ኡሪ"], alias = ["Uri"] }
-"auruaiel" = { values = ["ኡሩኤል"], alias = ["Uriel"] }
-"axetie" = { values = ["እሸቴ"], alias = ["Eshete"] }
-"axetu" = { values = ["እሸቱ"], alias = ["Eshetu"] }
-"ayasu" = { values = ["እያሱ"], alias = ["Eyasu"] }
-"ayerus" = { values = ["እየሩስ"], alias = ["Eyerus"] }
-"ayerusaelem" = { values = ["እየሩስአለም"], alias = ["Eyerusalem"] }
-"ayobiel" = { values = ["እዮቤል"], alias = ["Eyobel"] }
-"bahru" = { values = ["ባህሩ"], alias = ["Bahiru"] }
-"bala" = { values = ["ባላ"], alias = ["Bilhah", "Bera"] }
-"barkaiel" = { values = ["ባርክኤል"], alias = ["Barakel"] }
-"barok" = { values = ["ባሮክ"], alias = ["Barush"] }
-"baryaH" = { values = ["ባርያሕ"], alias = ["Bariah"] }
-"batuaiel" = { values = ["ባቱኤል"], alias = ["Bethuel", "Pethuel"] }
-"beSega" = { values = ["በጸጋ"], alias = ["Betsega"] }
-"beamnet" = { values = ["በእምነት"], alias = ["Bemnet"] }
-"befeqadu" = { values = ["በፈቃዱ"], alias = ["Befekadu"] }
-"behaylu" = { values = ["በሃይሉ"], alias = ["Behailu"] }
-"belacew" = { values = ["በላቸው"], alias = ["Belachew"] }
-"belasan" = { values = ["በላሳን"], alias = ["Bilshan"] }
-"belay" = { values = ["በላይ"], alias = ["Belay"] }
-"belayneh" = { values = ["በላይነህ"], alias = ["Belayneh"] }
-"belaynex" = { values = ["በላይነሽ"], alias = ["Belaynesh"] }
-"beleTe" = { values = ["በለጠ"], alias = ["Belete"] }
-"beleTu" = { values = ["በለጡ"], alias = ["Beletu"] }
-"beleTxacew" = { values = ["በለጥሻቸው"], alias = ["Beletshachew"] }
-"benaya" = { values = ["በናያ"], alias = ["Benaiah"] }
-"beqele" = { values = ["በቀለ"], alias = ["Bekele"] }
-"beqelec" = { values = ["በቀለች"], alias = ["Bekelech"] }
-"beqila" = { values = ["በቂላ"], alias = ["Bekila"] }
-"berTiemiewos" = { values = ["በርጤሜዎስ"], alias = ["Bartimaeus"] }
-"berakya" = { values = ["በራክያ"], alias = ["Berekiah"] }
-"bereket" = { values = ["በረከት"], alias = ["Bereket"] }
-"berhie" = { values = ["በርሄ"], alias = ["Berhe"] }
-"bernabas" = { values = ["በርናባስ"], alias = ["Barnabas"] }
-"berniqie" = { values = ["በርኒቄ"], alias = ["Bernice"] }
-"bertelomiewos" = { values = ["በርተሎሜዎስ"], alias = ["Bartholomew"] }
-"berya" = { values = ["በርያ"], alias = ["Adalia"] }
-"besufeqad" = { values = ["በሱፈቃድ"], alias = ["Besufekad"] }
-"beyene" = { values = ["በየነ"], alias = ["Beyene"] }
-"biebay" = { values = ["ቤባይ"], alias = ["Bebai"] }
-"biedya" = { values = ["ቤድያ"], alias = ["Bedeiah"] }
-"biekier" = { values = ["ቤኬር"], alias = ["Beker"] }
-"bien" = { values = ["ቤን"], alias = ["Ben"] }
-"bieri" = { values = ["ቤሪ"], alias = ["Beri"] }
-"biersabieh" = { values = ["ቤርሳቤህ"], alias = ["Bathshua", "Bathsheba"] }
-"biesay" = { values = ["ቤሳይ"], alias = ["Bezai"] }
-"biesiemot" = { values = ["ቤሴሞት"], alias = ["Basemath"] }
-"bieteaeb" = { values = ["ቤተአብ"], alias = ["Beteab"] }
-"bietel" = { values = ["ቤተል"], alias = ["Betel"] }
-"biethieliem" = { values = ["ቤትሄሌም"], alias = ["Betelhem"] }
-"bieza" = { values = ["ቤዛ"], alias = ["Beza"] }
-"biezawit" = { values = ["ቤዛዊት"], alias = ["Bezawit"] }
-"biftu" = { values = ["ቢፍቱ"], alias = ["Biftu"] }
-"binAa" = { values = ["ቢንዓ"], alias = ["Binea"] }
-"biniyam" = { values = ["ቢኒያም"], alias = ["Binyam"] }
-"bitya" = { values = ["ቢትያ"], alias = ["Bithiah"] }
-"blien" = { values = ["ብሌን"], alias = ["Bilen"] }
-"bnyam" = { values = ["ብንያም"], alias = ["Benjamin"] }
-"boAiez" = { values = ["ቦዔዝ"], alias = ["Boaz"] }
-"bohen" = { values = ["ቦሀን"], alias = ["Bohan"] }
-"brahanu" = { values = ["ብራሃኑ"], alias = ["Berhanu"] }
-"braya" = { values = ["ብራያ"], alias = ["Beraiah"] }
-"brtukan" = { values = ["ብርቱካን"], alias = ["Birtukan"] }
-"bruk" = { values = ["ብሩክ"], alias = ["Biruk"] }
-"bruktawit" = { values = ["ብሩክታዊት"], alias = ["Bruktawit"] }
-"bsrat" = { values = ["ብስራት"], alias = ["Bisrat"] }
-"buqya" = { values = ["ቡቅያ"], alias = ["Bukkiah"] }
-"bzunex" = { values = ["ብዙነሽ"], alias = ["Bizunesh"] }
-"cernet" = { values = ["ቸርነት"], alias = ["Cherenet"] }
-"daNacew" = { values = ["ዳኛቸው"], alias = ["Dagnachew"] }
-"daaiel" = { values = ["ዳኤል"], alias = ["Lael"] }
-"dagm" = { values = ["ዳግም"], alias = ["Dagim"] }
-"dagmawi" = { values = ["ዳግማዊ"], alias = ["Dagmawi"] }
-"dagmawit" = { values = ["ዳግማዊት"], alias = ["Dagmawit"] }
-"dan" = { values = ["ዳን"], alias = ["Dan"] }
-"danaiel" = { values = ["ዳንኤል"], alias = ["Daniel"] }
-"daniel" = { values = ["ዳኔል"], alias = ["Daniel"] }
-"daryos" = { values = ["ዳርዮስ"], alias = ["Darius"] }
-"datan" = { values = ["ዳታን"], alias = ["Dathan"] }
-"dawit" = { values = ["ዳዊት"], alias = ["Dawit", "David"] }
-"ddan" = { values = ["ድዳን"], alias = ["Dedan"] }
-"debebe" = { values = ["ደበበ"], alias = ["Debebe"] }
-"debray" = { values = ["ደብራይ"], alias = ["Dibri"] }
-"debritu" = { values = ["ደብሪቱ"], alias = ["Debritu"] }
-"dejen" = { values = ["ደጀን"], alias = ["Dejen"] }
-"delfon" = { values = ["ደልፎን"], alias = ["Dalphon"] }
-"delila" = { values = ["ደሊላ"], alias = ["Delilah"] }
-"demeqe" = { values = ["ደመቀ"], alias = ["Demeke"] }
-"demrew" = { values = ["ደምረው"], alias = ["Demerew"] }
-"demsie" = { values = ["ደምሴ"], alias = ["Demissie"] }
-"deral" = { values = ["ደራል"], alias = ["Dara"] }
-"derartu" = { values = ["ደራርቱ"], alias = ["Derartu"] }
-"derejie" = { values = ["ደረጄ"], alias = ["Dereje"] }
-"desaeleN" = { values = ["ደስአለኝ"], alias = ["Desalegn"] }
-"desta" = { values = ["ደስታ"], alias = ["Desta"] }
-"dibaba" = { values = ["ዲባባ"], alias = ["Dibaba"] }
-"dibora" = { values = ["ዲቦራ"], alias = ["Deborah"] }
-"dibya" = { values = ["ዲብያ"], alias = ["Zibia"] }
-"diebora" = { values = ["ዴቦራ"], alias = ["Deborah"] }
-"dina" = { values = ["ዲና"], alias = ["Dinah"] }
-"dlnesaw" = { values = ["ድልነሳው"], alias = ["Dilnesaw"] }
-"dmieTros" = { values = ["ድሜጥሮስ"], alias = ["Demetrius"] }
-"dnqnex" = { values = ["ድንቅነሽ"], alias = ["Dinknesh"] }
-"dorqa" = { values = ["ዶርቃ"], alias = ["Dorcas"] }
-"drusila" = { values = ["ድሩሲላ"], alias = ["Drusilla"] }
-"duma" = { values = ["ዱማ"], alias = ["Dumah"] }
-"dya" = { values = ["ድያ"], alias = ["Jupiter"] }
-"fSSum" = { values = ["ፍፁም"], alias = ["Fistum"] }
-"faliet" = { values = ["ፋሌት"], alias = ["Peleth"] }
-"fanuaiel" = { values = ["ፋኑኤል"], alias = ["Phanuel", "Penuel"] }
-"faquHie" = { values = ["ፋቁሔ"], alias = ["Pekah"] }
-"fasieHe" = { values = ["ፋሴሐ"], alias = ["Paseah"] }
-"fasika" = { values = ["ፋሲካ"], alias = ["Fasika"] }
-"fasil" = { values = ["ፋሲል"], alias = ["Fasil"] }
-"fedaya" = { values = ["ፈዳያ"], alias = ["Pedaiah"] }
-"fedlu" = { values = ["ፈድሉ"], alias = ["Fedlu"] }
-"fegegta" = { values = ["ፈገግታ"], alias = ["Fegegta"] }
-"felTi" = { values = ["ፈልጢ"], alias = ["Paltiel"] }
-"felaTya" = { values = ["ፈላጥያ"], alias = ["Pelatiah"] }
-"fiebie" = { values = ["ፌቤ"], alias = ["Phoebe"] }
-"fieven" = { values = ["ፌቨን"], alias = ["Feven"] }
-"filPos" = { values = ["ፊልጶስ"], alias = ["Philip"] }
-"filks" = { values = ["ፊልክስ"], alias = ["Felix"] }
-"filmona" = { values = ["ፊልሞና"], alias = ["Philemon"] }
-"finHes" = { values = ["ፊንሐስ"], alias = ["Phineas"] }
-"fisTos" = { values = ["ፊስጦስ"], alias = ["Festus"] }
-"fnana" = { values = ["ፍናና"], alias = ["Peninnah"] }
-"fqadu" = { values = ["ፍቃዱ"], alias = ["Fikadu"] }
-"fqr" = { values = ["ፍቅር"], alias = ["Feker"] }
-"fqremaryam" = { values = ["ፍቅረማርያም"], alias = ["Fikremariam"] }
-"fqrte" = { values = ["ፍቅርተ"], alias = ["Fekerte"] }
-"fqru" = { values = ["ፍቅሩ"], alias = ["Fikru"] }
-"friehiwet" = { values = ["ፍሬሂወት"], alias = ["Freyhiwot"] }
-"fries" = { values = ["ፍሬስ"], alias = ["Perez"] }
-"friezer" = { values = ["ፍሬዘር"], alias = ["Frezer"] }
-"fsehe" = { values = ["ፍሰሀ"], alias = ["Fiseha"] }
-"gadieyon" = { values = ["ጋዴዮን"], alias = ["Gideoni"] }
-"gaxaw" = { values = ["ጋሻው"], alias = ["Gashaw"] }
-"gaydad" = { values = ["ጋይዳድ"], alias = ["Irad"] }
-"gayyos" = { values = ["ጋይዮስ"], alias = ["Gaius"] }
-"gebraiel" = { values = ["ገብርኤል"], alias = ["Gabriel"] }
-"gelila" = { values = ["ገሊላ"], alias = ["Gelila"] }
-"gemalaiel" = { values = ["ገማልኤል"], alias = ["Gamaliel"] }
-"gemali" = { values = ["ገማሊ"], alias = ["Gemalli"] }
-"gemarya" = { values = ["ገማርያ"], alias = ["Gemariah"] }
-"gemecu" = { values = ["ገመቹ"], alias = ["Gemechu"] }
-"genet" = { values = ["ገነት"], alias = ["Genet"] }
-"gezaKeN" = { values = ["ገዛኸኝ"], alias = ["Gezahegn"] }
-"giediaon" = { values = ["ጌዲኦን"], alias = ["Gedion"] }
-"giediewon" = { values = ["ጌዴዎን"], alias = ["Gideon"] }
-"giedson" = { values = ["ጌድሶን"], alias = ["Gershon"] }
-"giersam" = { values = ["ጌርሳም"], alias = ["Gershom"] }
-"giesam" = { values = ["ጌሳም"], alias = ["Geshem"] }
-"gietacew" = { values = ["ጌታቸው"], alias = ["Getachew"] }
-"gietahun" = { values = ["ጌታሁን"], alias = ["Getahun"] }
-"gietnet" = { values = ["ጌትነት"], alias = ["Getnet"] }
-"godolya" = { values = ["ጎዶልያ"], alias = ["Gedaliah"] }
-"golyad" = { values = ["ጎልያድ"], alias = ["Goliath"] }
-"gomier" = { values = ["ጎሜር"], alias = ["Gomer"] }
-"gosayie" = { values = ["ጎሳዬ"], alias = ["Gosaye"] }
-"gotolya" = { values = ["ጎቶልያ"], alias = ["Athaliah"] }
-"gotonyal" = { values = ["ጎቶንያል"], alias = ["Othniel"] }
-"grma" = { values = ["ግርማ"], alias = ["Girma"] }
-"grmacew" = { values = ["ግርማቸው"], alias = ["Girmachew"] }
-"grum" = { values = ["ግሩም"], alias = ["Girum"] }
-"gudiaiel" = { values = ["ጉዲኤል"], alias = ["Gaddiel"] }
-"gyaz" = { values = ["ግያዝ"], alias = ["Gehazi"] }
-"gzacew" = { values = ["ግዛቸው"], alias = ["Gizachew"] }
-"haylie" = { values = ["ሃይሌ"], alias = ["Hailu", "Haile"] }
-"hebtamu" = { values = ["ሀብታሙ"], alias = ["Habtamu"] }
-"hebtie" = { values = ["ሀብቴ"], alias = ["Habte"] }
-"hedoram" = { values = ["ሀዶራም"], alias = ["Hadoram"] }
-"hegos" = { values = ["ሀጎስ"], alias = ["Hagos"] }
-"hemelmal" = { values = ["ሀመልማል"], alias = ["Hamelmal"] }
-"hemere" = { values = ["ሀመረ"], alias = ["Hamere"] }
-"hena" = { values = ["ሀና"], alias = ["Hanna"] }
-"henan" = { values = ["ሀናን"], alias = ["Hanan"] }
-"hereg" = { values = ["ሀረግ"], alias = ["Hareg"] }
-"hesen" = { values = ["ሀሰን"], alias = ["Hassen"] }
-"heyat" = { values = ["ሀያት"], alias = ["Hayat"] }
-"heymanot" = { values = ["ሀይማኖት"], alias = ["Haimanot"] }
-"hielen" = { values = ["ሄለን"], alias = ["Helen"] }
-"hienoH" = { values = ["ሄኖሕ"], alias = ["Enoch"] }
-"hienohh" = { values = ["ሄኖኅ"], alias = ["Hanoch"] }
-"hienok" = { values = ["ሄኖክ"], alias = ["Henok"] }
-"hienos" = { values = ["ሄኖስ"], alias = ["Enosh"] }
-"hiermiela" = { values = ["ሄርሜላ"], alias = ["Hermela"] }
-"hiermien" = { values = ["ሄርሜን"], alias = ["Hermes"] }
-"hiermon" = { values = ["ሄርሞን"], alias = ["Armoni"] }
-"hierod" = { values = ["ሄሮድ"], alias = ["Herod"] }
-"hierodyada" = { values = ["ሄሮድያዳ"], alias = ["Herodias"] }
-"hiewan" = { values = ["ሄዋን"], alias = ["Hewan"] }
-"hirut" = { values = ["ሂሩት"], alias = ["Hirut"] }
-"hiwet" = { values = ["ሂወት"], alias = ["Hiwot"] }
-"hlina" = { values = ["ህሊና"], alias = ["Helina"] }
-"hndekie" = { values = ["ህንደኬ"], alias = ["Candace"] }
-"hodaywa" = { values = ["ሆዳይዋ"], alias = ["Hodaviah"] }
-"hodiya" = { values = ["ሆዲያ"], alias = ["Hodiah", "Hodijah"] }
-"hosieSS" = { values = ["ሆሴፅ"], alias = ["Hosea"] }
-"hoxama" = { values = ["ሆሻማ"], alias = ["Hoshama"] }
-"hruy" = { values = ["ህሩይ"], alias = ["Hiruy"] }
-"husien" = { values = ["ሁሴን"], alias = ["Husein"] }
-"jemal" = { values = ["ጀማል"], alias = ["Jemal"] }
-"kalid" = { values = ["ካሊድ"], alias = ["Khalid"] }
-"kalieb" = { values = ["ካሌብ"], alias = ["Caleb"] }
-"kam" = { values = ["ካም"], alias = ["Ham"] }
-"kasahun" = { values = ["ካሳሁን"], alias = ["Kassahun"] }
-"kasayie" = { values = ["ካሳዬ"], alias = ["Kassaye"] }
-"kebede" = { values = ["ከበደ"], alias = ["Kebede"] }
-"kefyalew" = { values = ["ከፍያለው"], alias = ["Kefyalew"] }
-"keneAan" = { values = ["ከነዓን"], alias = ["Canaan"] }
-"kermi" = { values = ["ከርሚ"], alias = ["Carmi"] }
-"ketemahe" = { values = ["ከተማሀ"], alias = ["Ketema"] }
-"kflie" = { values = ["ክፍሌ"], alias = ["Kifle"] }
-"kieTi" = { values = ["ኬጢ"], alias = ["Heth"] }
-"kieTura" = { values = ["ኬጡራ"], alias = ["Keturah"] }
-"kiebron" = { values = ["ኬብሮን"], alias = ["Kebron"] }
-"kiefa" = { values = ["ኬፋ"], alias = ["Cephas"] }
-"kielies" = { values = ["ኬሌስ"], alias = ["Helez"] }
-"kielon" = { values = ["ኬሎን"], alias = ["Helon"] }
-"kielqyas" = { values = ["ኬልቅያስ"], alias = ["Hilkiah"] }
-"kieras" = { values = ["ኬራስ"], alias = ["Keros"] }
-"kiram" = { values = ["ኪራም"], alias = ["Hiram"] }
-"kiros" = { values = ["ኪሮስ"], alias = ["Kiros"] }
-"kirubiel" = { values = ["ኪሩቤል"], alias = ["Kirubel"] }
-"kislon" = { values = ["ኪስሎን"], alias = ["Kislon"] }
-"knani" = { values = ["ክናኒ"], alias = ["Kenani"] }
-"knanya" = { values = ["ክናንያ"], alias = ["Kenaniah"] }
-"kokebie" = { values = ["ኮከቤ"], alias = ["Kokebe"] }
-"konanya" = { values = ["ኮናንያ"], alias = ["Conaniah"] }
-"kotam" = { values = ["ኮታም"], alias = ["Hothan"] }
-"kran" = { values = ["ክራን"], alias = ["Keran"] }
-"kudan" = { values = ["ኩዳን"], alias = ["Hadad"] }
-"kusi" = { values = ["ኩሲ"], alias = ["Hushai", "Cushi"] }
-"kux" = { values = ["ኩሽ"], alias = ["Cush"] }
-"lAlt" = { values = ["ልዕልት"], alias = ["Lielt"] }
-"laba" = { values = ["ላባ"], alias = ["Laban"] }
-"lahad" = { values = ["ላሃድ"], alias = ["Jahath"] }
-"lamieH" = { values = ["ላሜሕ"], alias = ["Lamech"] }
-"laqe" = { values = ["ላቀ"], alias = ["Lake"] }
-"laul" = { values = ["ልኡል"], alias = ["Leul"] }
-"ldet" = { values = ["ልደት"], alias = ["Lidet"] }
-"ldya" = { values = ["ልድያ"], alias = ["Lydia"] }
-"leHmi" = { values = ["ለሕሚ"], alias = ["Lahmi"] }
-"legese" = { values = ["ለገሰ"], alias = ["Legesse"] }
-"leliesa" = { values = ["ለሌሳ"], alias = ["Laish"] }
-"lema" = { values = ["ለማ"], alias = ["Lemma"] }
-"lidiya" = { values = ["ሊዲያ"], alias = ["Lidiya"] }
-"liewi" = { values = ["ሌዊ"], alias = ["Levi"] }
-"linos" = { values = ["ሊኖስ"], alias = ["Linus"] }
-"liqHi" = { values = ["ሊቅሒ"], alias = ["Likhi"] }
-"liqu" = { values = ["ሊቁ"], alias = ["Liku"] }
-"liya" = { values = ["ሊያ"], alias = ["Liya"] }
-"lmuaiel" = { values = ["ልሙኤል"], alias = ["Lemuel"] }
-"loT" = { values = ["ሎጥ"], alias = ["Lot"] }
-"loTan" = { values = ["ሎጣን"], alias = ["Lotan"] }
-"loyd" = { values = ["ሎይድ"], alias = ["Lois"] }
-"lukyos" = { values = ["ሉክዮስ"], alias = ["Lucius"] }
-"luqas" = { values = ["ሉቃስ"], alias = ["Luke"] }
-"lusyos" = { values = ["ሉስዮስ"], alias = ["Lysias"] }
-"lya" = { values = ["ልያ"], alias = ["Leah"] }
-"lyu" = { values = ["ልዩ"], alias = ["Liyu"] }
-"mAraf" = { values = ["ምዕራፍ"], alias = ["Ashtoreth"] }
-"mNotie" = { values = ["ምኞቴ"], alias = ["Mignote"] }
-"mSraym" = { values = ["ምጽራይም"], alias = ["Mizraim"] }
-"maAliet" = { values = ["ማዕሌት"], alias = ["Mahalath"] }
-"mahder" = { values = ["ማህደር"], alias = ["Mahder"] }
-"mahleh" = { values = ["ማህለህ"], alias = ["Mahalia"] }
-"mahliet" = { values = ["ማህሌት"], alias = ["Mahlet"] }
-"makda" = { values = ["ማክዳ"], alias = ["Makeda"] }
-"maki" = { values = ["ማኪ"], alias = ["Maki"] }
-"maliesieAar" = { values = ["ማሌሴዓር"], alias = ["Marsena"] }
-"malkam" = { values = ["ማልካም"], alias = ["Malcam"] }
-"malkos" = { values = ["ማልኮስ"], alias = ["Malchus"] }
-"mamo" = { values = ["ማሞ"], alias = ["Mamo"] }
-"mamux" = { values = ["ማሙሽ"], alias = ["Mamush"] }
-"manuhie" = { values = ["ማኑሄ"], alias = ["Manoah"] }
-"mara" = { values = ["ማራ"], alias = ["Mara"] }
-"maraki" = { values = ["ማራኪ"], alias = ["Maraki"] }
-"mariyam" = { values = ["ማሪያም"], alias = ["Miriam"] }
-"marqos" = { values = ["ማርቆስ"], alias = ["Mark", "Markos"] }
-"marta" = { values = ["ማርታ"], alias = ["Martha"] }
-"maryam" = { values = ["ማርያም"], alias = ["Mary"] }
-"maryamawit" = { values = ["ማርያማዊት"], alias = ["Maramawit"] }
-"matanya" = { values = ["ማታንያ"], alias = ["Mattaniah"] }
-"matatyu" = { values = ["ማታትዩ"], alias = ["Mattathias"] }
-"matiewos" = { values = ["ማቴዎስ"], alias = ["Matthew"] }
-"matusala" = { values = ["ማቱሳላ"], alias = ["Methuselah"] }
-"matyas" = { values = ["ማትያስ"], alias = ["Matthias"] }
-"matyos" = { values = ["ማትዮስ"], alias = ["Matheos"] }
-"meAazya" = { values = ["መዓዝያ"], alias = ["Maaziah"] }
-"meAssay" = { values = ["መዕሣይ"], alias = ["Maasai"] }
-"meHelon" = { values = ["መሐሎን"], alias = ["Mahlon"] }
-"meaeza" = { values = ["መአዛ"], alias = ["Meaza"] }
-"mebratu" = { values = ["መብራቱ"], alias = ["Mebratu"] }
-"medhn" = { values = ["መድህን"], alias = ["Medhin"] }
-"mehemed" = { values = ["መሀመድ"], alias = ["Mohammed"] }
-"meheri" = { values = ["መሀሪ"], alias = ["Mehari"] }
-"mekbb" = { values = ["መክብብ"], alias = ["Mekbib"] }
-"mekonn" = { values = ["መኮንን"], alias = ["Mekonnen"] }
-"mekuriya" = { values = ["መኩሪያ"], alias = ["Mekuriya"] }
-"melTya" = { values = ["መልጥያ"], alias = ["Melatiah"] }
-"melaku" = { values = ["መላኩ"], alias = ["Melaku"] }
-"melkiaiel" = { values = ["መልኪኤል"], alias = ["Malkiel"] }
-"melkya" = { values = ["መልክያ"], alias = ["Malchiah", "Melchiah"] }
-"mena" = { values = ["መና"], alias = ["Menna"] }
-"menbere" = { values = ["መንበረ"], alias = ["Menbere"] }
-"mengstu" = { values = ["መንግስቱ"], alias = ["Mengistu"] }
-"meqdes" = { values = ["መቅደስ"], alias = ["Mekdes"] }
-"merdokyos" = { values = ["መርዶክዮስ"], alias = ["Mordecai"] }
-"merisa" = { values = ["መሪሳ"], alias = ["Mareshah"] }
-"merxa" = { values = ["መርሻ"], alias = ["Mersha"] }
-"mesay" = { values = ["መሳይ"], alias = ["Mesay"] }
-"meselu" = { values = ["መሰሉ"], alias = ["Meselu"] }
-"meseret" = { values = ["መሰረት"], alias = ["Messeret"] }
-"mesfn" = { values = ["መስፍን"], alias = ["Mesfin"] }
-"mesiefar" = { values = ["መሴፋር"], alias = ["Mizpah"] }
-"meskerem" = { values = ["መስከረም"], alias = ["Meskerem"] }
-"mestewat" = { values = ["መስተዋት"], alias = ["Mestewat"] }
-"metaferiya" = { values = ["መታፈሪያ"], alias = ["Metaferia"] }
-"metasebiya" = { values = ["መታሰቢያ"], alias = ["Metasebiya"] }
-"mezgebe" = { values = ["መዝገበ"], alias = ["Mezgebe"] }
-"mhret" = { values = ["ምህረት"], alias = ["Meheret"] }
-"mielat" = { values = ["ሜላት"], alias = ["Melat"] }
-"mieliek" = { values = ["ሜሌክ"], alias = ["Melech"] }
-"mielkisa" = { values = ["ሜልኪሳ"], alias = ["Malkishua"] }
-"mielkol" = { values = ["ሜልኮል"], alias = ["Michal"] }
-"mieries" = { values = ["ሜሬስ"], alias = ["Meres"] }
-"mierob" = { values = ["ሜሮብ"], alias = ["Merab"] }
-"mieron" = { values = ["ሜሮን"], alias = ["Meron"] }
-"miesolam" = { values = ["ሜሶላም"], alias = ["Meshullam"] }
-"mika" = { values = ["ሚካ"], alias = ["Micah", "Mica"] }
-"mikaaiel" = { values = ["ሚካኤል"], alias = ["Michael"] }
-"mikieaiel" = { values = ["ሚኬኤል"], alias = ["Michael"] }
-"mikiyas" = { values = ["ሚኪያስ"], alias = ["Mikias"] }
-"mikyas" = { values = ["ሚክያስ"], alias = ["Micaiah"] }
-"miliyon" = { values = ["ሚሊዮን"], alias = ["Million"] }
-"milka" = { values = ["ሚልካ"], alias = ["Milcah"] }
-"milki" = { values = ["ሚልኪ"], alias = ["Melki"] }
-"milkya" = { values = ["ሚልክያ"], alias = ["Malachi"] }
-"mimi" = { values = ["ሚሚ"], alias = ["Mimi"] }
-"minlik" = { values = ["ሚንሊክ"], alias = ["Menelik"] }
-"misaaiel" = { values = ["ሚሳኤል"], alias = ["Mishael"] }
-"mixam" = { values = ["ሚሻም"], alias = ["Misham"] }
-"miyamin" = { values = ["ሚያሚን"], alias = ["Mijamin"] }
-"mntesnot" = { values = ["ምንተስኖት"], alias = ["Mintesnot"] }
-"mntwab" = { values = ["ምንትዋብ"], alias = ["Mentewab"] }
-"moHoli" = { values = ["ሞሖሊ"], alias = ["Mahli"] }
-"modan" = { values = ["ሞዳን"], alias = ["Moza"] }
-"moges" = { values = ["ሞገስ"], alias = ["Moges"] }
-"mola" = { values = ["ሞላ"], alias = ["Molla"] }
-"molalN" = { values = ["ሞላልኝ"], alias = ["Molalign"] }
-"moriya" = { values = ["ሞሪያ"], alias = ["Moriah"] }
-"mosa" = { values = ["ሞሳ"], alias = ["Mesha"] }
-"mraya" = { values = ["ምራያ"], alias = ["Meraiah"] }
-"msgana" = { values = ["ምስጋና"], alias = ["Misgana"] }
-"msraq" = { values = ["ምስራቅ"], alias = ["Misrak"] }
-"mtku" = { values = ["ምትኩ"], alias = ["Mitiku"] }
-"mulu" = { values = ["ሙሉ"], alias = ["Mulu"] }
-"muluamebiet" = { values = ["ሙሉእመቤት"], alias = ["Muluemebet"] }
-"mulugieta" = { values = ["ሙሉጌታ"], alias = ["Mulugeta"] }
-"muluqen" = { values = ["ሙሉቀን"], alias = ["Muluken"] }
-"muna" = { values = ["ሙና"], alias = ["Muna"] }
-"musie" = { values = ["ሙሴ"], alias = ["Moses", "Mussie"] }
-"naAma" = { values = ["ናዕማ"], alias = ["Naama"] }
-"naAos" = { values = ["ናዖስ"], alias = ["Nahash"] }
-"naaomi" = { values = ["ናኦሚ"], alias = ["Naomi"] }
-"nabal" = { values = ["ናባል"], alias = ["Nabal"] }
-"nabaw" = { values = ["ናባው"], alias = ["Nebo"] }
-"nabi" = { values = ["ናቢ"], alias = ["Nahbi"] }
-"nahom" = { values = ["ናሆም"], alias = ["Nahum", "Nahom"] }
-"namiesi" = { values = ["ናሜሲ"], alias = ["Nimshi"] }
-"namrud" = { values = ["ናምሩድ"], alias = ["Nimrod"] }
-"nardos" = { values = ["ናርዶስ"], alias = ["Nardos"] }
-"natan" = { values = ["ናታን"], alias = ["Nathan"] }
-"natanya" = { values = ["ናታንያ"], alias = ["Nethaniah"] }
-"natnaaiel" = { values = ["ናትናኤል"], alias = ["Nathaniel"] }
-"natnayiel" = { values = ["ናትናዬል"], alias = ["Nathnael"] }
-"neAarya" = { values = ["ነዓርያ"], alias = ["Neariah"] }
-"neAra" = { values = ["ነዕራ"], alias = ["Naarah"] }
-"neHemani" = { values = ["ነሐማኒ"], alias = ["Nahamani"] }
-"neSSanet" = { values = ["ነፃነት"], alias = ["Netsanet"] }
-"neaeson" = { values = ["ነአሶን"], alias = ["Nahshon"] }
-"nebil" = { values = ["ነቢል"], alias = ["Nebil"] }
-"nebyat" = { values = ["ነብያት"], alias = ["Nebyat"] }
-"nebyu" = { values = ["ነብዩ"], alias = ["Nebiyou"] }
-"nedabya" = { values = ["ነዳብያ"], alias = ["Nedabiah"] }
-"nega" = { values = ["ነጋ"], alias = ["Nega"] }
-"negasi" = { values = ["ነጋሲ"], alias = ["Negassi"] }
-"negax" = { values = ["ነጋሽ"], alias = ["Negash"] }
-"nehmya" = { values = ["ነህምያ"], alias = ["Nehemiah"] }
-"nemuaiel" = { values = ["ነሙኤል"], alias = ["Nemual"] }
-"nftalie" = { values = ["ንፍታሌ"], alias = ["Naphtali"] }
-"ngst" = { values = ["ንግስት"], alias = ["Nigist"] }
-"ngusie" = { values = ["ንጉሴ"], alias = ["Niguse"] }
-"nieqoda" = { values = ["ኔቆዳ"], alias = ["Nekoda"] }
-"nieri" = { values = ["ኔሪ"], alias = ["Neri"] }
-"nierya" = { values = ["ኔርያ"], alias = ["Neariah"] }
-"nieseta" = { values = ["ኔሰታ"], alias = ["Nehusuhta"] }
-"nikaAu" = { values = ["ኒካዑ"], alias = ["Neco"] }
-"niqedimos" = { values = ["ኒቀዲሞስ"], alias = ["Nicodemus"] }
-"niqolawos" = { values = ["ኒቆላዎስ"], alias = ["Nicolas"] }
-"noAadya" = { values = ["ኖዓድያ"], alias = ["Noadiah"] }
-"nobay" = { values = ["ኖባይ"], alias = ["Nebai"] }
-"nohh" = { values = ["ኖኅ"], alias = ["Noah"] }
-"nolawi" = { values = ["ኖላዊ"], alias = ["Nolawi"] }
-"nrqesu" = { values = ["ንርቀሱ"], alias = ["Narcissus"] }
-"nsya" = { values = ["ንስያ"], alias = ["Neziah"] }
-"nuhhami" = { values = ["ኑኃሚ"], alias = ["Naomi"] }
-"nunu" = { values = ["ኑኑ"], alias = ["Nunu"] }
-"pieTros" = { values = ["ፔጥሮስ"], alias = ["Petros"] }
-"profimona" = { values = ["ፕሮፊሞና"], alias = ["Tryphena"] }
-"qAila" = { values = ["ቅዒላ"], alias = ["Keilah"] }
-"qaNew" = { values = ["ቃኘው"], alias = ["Kagnew"] }
-"qalay" = { values = ["ቃላይ"], alias = ["Kallai"] }
-"qalkidan" = { values = ["ቃልኪዳን"], alias = ["Kalkidan"] }
-"qarieya" = { values = ["ቃሬያ"], alias = ["Kareah"] }
-"qasya" = { values = ["ቃስያ"], alias = ["Keziah"] }
-"qayen" = { values = ["ቃየን"], alias = ["Cain"] }
-"qaynan" = { values = ["ቃይናን"], alias = ["Kenan"] }
-"qdst" = { values = ["ቅድስት"], alias = ["Kidist"] }
-"qdus" = { values = ["ቅዱስ"], alias = ["Kidus"] }
-"qedmaiel" = { values = ["ቀድምኤል"], alias = ["Kadmiel"] }
-"qelawdiewos" = { values = ["ቀላውዴዎስ"], alias = ["Claudius"] }
-"qelemua" = { values = ["ቀለሟ"], alias = ["Kelemua"] }
-"qeleyoPa" = { values = ["ቀለዮጳ"], alias = ["Cleopas"] }
-"qeliemTos" = { values = ["ቀሌምጦስ"], alias = ["Clement"] }
-"qeloAie" = { values = ["ቀሎዔ"], alias = ["Chloe"] }
-"qemuaiel" = { values = ["ቀሙኤል"], alias = ["Kemuel"] }
-"qiedar" = { values = ["ቄዳር"], alias = ["Kedar"] }
-"qiedma" = { values = ["ቄድማ"], alias = ["Kedemah"] }
-"qieniez" = { values = ["ቄኔዝ"], alias = ["Kenaz"] }
-"qierieniewos" = { values = ["ቄሬኔዎስ"], alias = ["Cyrenius"] }
-"qiessar" = { values = ["ቄሣር"], alias = ["Caesar"] }
-"qiras" = { values = ["ቂራስ"], alias = ["Keren"] }
-"qiros" = { values = ["ቂሮስ"], alias = ["Cyrus"] }
-"qis" = { values = ["ቂስ"], alias = ["Kish"] }
-"qisa" = { values = ["ቂሳ"], alias = ["Kishi"] }
-"qlawdiya" = { values = ["ቅላውዲያ"], alias = ["Claudia"] }
-"qoS" = { values = ["ቆጽ"], alias = ["Koz"] }
-"qolaya" = { values = ["ቆላያ"], alias = ["Kolaiah"] }
-"qoliTas" = { values = ["ቆሊጣስ"], alias = ["Kelita"] }
-"qonjt" = { values = ["ቆንጅት"], alias = ["Konjit"] }
-"qorie" = { values = ["ቆሬ"], alias = ["Korah", "Kore"] }
-"qornieliewos" = { values = ["ቆርኔሌዎስ"], alias = ["Cornelius"] }
-"qosam" = { values = ["ቆሳም"], alias = ["Cosam"] }
-"quaesTros" = { values = ["ቁአስጥሮስ"], alias = ["Quartus"] }
-"raAma" = { values = ["ራዕማ"], alias = ["Raamah"] }
-"raHiel" = { values = ["ራሔል"], alias = ["Rachel"] }
-"rafa" = { values = ["ራፋ"], alias = ["Rapha"] }
-"rafaaiel" = { values = ["ራፋኤል"], alias = ["Rephael"] }
-"raguaiel" = { values = ["ራጉኤል"], alias = ["Reuel"] }
-"ramya" = { values = ["ራምያ"], alias = ["Ramiah"] }
-"rbqa" = { values = ["ርብቃ"], alias = ["Rebekah", "Rebka"] }
-"reAamya" = { values = ["ረዓምያ"], alias = ["Raamiah"] }
-"reaeson" = { values = ["ረአሶን"], alias = ["Rezin"] }
-"rediet" = { values = ["ረዴት"], alias = ["Rediet"] }
-"reqiq" = { values = ["ረቂቅ"], alias = ["Rekik"] }
-"riSfa" = { values = ["ሪጽፋ"], alias = ["Rizpah"] }
-"riSya" = { values = ["ሪጽያ"], alias = ["Rezia"] }
-"ribay" = { values = ["ሪባይ"], alias = ["Ribai"] }
-"rieHma" = { values = ["ሬሕማ"], alias = ["Reumah"] }
-"riedwan" = { values = ["ሬድዋን"], alias = ["Redwan"] }
-"riefan" = { values = ["ሬፋን"], alias = ["Rephan"] }
-"riemon" = { values = ["ሬሞን"], alias = ["Rimmon"] }
-"riese" = { values = ["ሬሰ"], alias = ["Rhesa"] }
-"riesi" = { values = ["ሬሲ"], alias = ["Rei"] }
-"riesief" = { values = ["ሬሴፍ"], alias = ["Resheph"] }
-"riezon" = { values = ["ሬዞን"], alias = ["Rezon"] }
-"rina" = { values = ["ሪና"], alias = ["Rinnah"] }
-"robiel" = { values = ["ሮቤል"], alias = ["Reuben"] }
-"rodie" = { values = ["ሮዴ"], alias = ["Rhoda"] }
-"roman" = { values = ["ሮማን"], alias = ["Roman"] }
-"romielyu" = { values = ["ሮሜልዩ"], alias = ["Remaliah"] }
-"ros" = { values = ["ሮስ"], alias = ["Rosh"] }
-"roza" = { values = ["ሮዛ"], alias = ["Roza"] }
-"rufos" = { values = ["ሩፎስ"], alias = ["Rufus"] }
-"rut" = { values = ["ሩት"], alias = ["Ruth"] }
-"sTota" = { values = ["ስጦታ"], alias = ["Sitota"] }
-"saaol" = { values = ["ሳኦል"], alias = ["Saul"] }
-"saba" = { values = ["ሳባ"], alias = ["Seba", "Sheba"] }
-"sabya" = { values = ["ሳብያ"], alias = ["Zibiah"] }
-"saf" = { values = ["ሳፍ"], alias = ["Saph"] }
-"safam" = { values = ["ሳፋም"], alias = ["Shapham"] }
-"safan" = { values = ["ሳፋን"], alias = ["Shaphan"] }
-"sala" = { values = ["ሳላ"], alias = ["Salah"] }
-"saliem" = { values = ["ሳሌም"], alias = ["Salem"] }
-"samAa" = { values = ["ሳምዓ"], alias = ["Shimeah"] }
-"sama" = { values = ["ሳማ"], alias = ["Shamma"] }
-"samaya" = { values = ["ሳማያ"], alias = ["Shemaiah"] }
-"samna" = { values = ["ሳምና"], alias = ["Shebna"] }
-"samrawit" = { values = ["ሳምራዊት"], alias = ["Samrawit"] }
-"samson" = { values = ["ሳምሶን"], alias = ["Samson"] }
-"samuaiel" = { values = ["ሳሙኤል"], alias = ["Samuel"] }
-"samus" = { values = ["ሳሙስ"], alias = ["Shimea"] }
-"sara" = { values = ["ሳራ"], alias = ["Sara"] }
-"sarasar" = { values = ["ሳራሳር"], alias = ["Sharezer"] }
-"sargon" = { values = ["ሳርጎን"], alias = ["Sargon"] }
-"saron" = { values = ["ሳሮን"], alias = ["Sharon", "Saron"] }
-"sbhat" = { values = ["ስብሃት"], alias = ["Sebhat"] }
-"sePra" = { values = ["ሰጵራ"], alias = ["Sapphira"] }
-"seaid" = { values = ["ሰኢድ"], alias = ["Seid"] }
-"sebenya" = { values = ["ሰበንያ"], alias = ["Shebaniah"] }
-"seble" = { values = ["ሰብለ"], alias = ["Seble"] }
-"seblewengiel" = { values = ["ሰብለወንጌል"], alias = ["Seble-Wongel"] }
-"sebsbie" = { values = ["ሰብስቤ"], alias = ["Sebsebe"] }
-"sebta" = { values = ["ሰብታ"], alias = ["Sabteca"] }
-"sefanit" = { values = ["ሰፋኒት"], alias = ["Sefanit"] }
-"sefo" = { values = ["ሰፎ"], alias = ["Shephi"] }
-"selam" = { values = ["ሰላም"], alias = ["Selam"] }
-"selamawit" = { values = ["ሰላማዊት"], alias = ["Selamawit"] }
-"selamiaiel" = { values = ["ሰላሚኤል"], alias = ["Shemuel"] }
-"selatyal" = { values = ["ሰላትያል"], alias = ["Shealtiel"] }
-"selemiaiel" = { values = ["ሰለሚኤል"], alias = ["Shelumiel"] }
-"selemon" = { values = ["ሰለሞን"], alias = ["Solomon"] }
-"seliemya" = { values = ["ሰሌምያ"], alias = ["Shelemiah"] }
-"selmnasor" = { values = ["ሰልምናሶር"], alias = ["Shalman"] }
-"selmo" = { values = ["ሰልሞ"], alias = ["Salma"] }
-"selmon" = { values = ["ሰልሞን"], alias = ["Zalmon"] }
-"selom" = { values = ["ሰሎም"], alias = ["Shallum"] }
-"selomie" = { values = ["ሰሎሜ"], alias = ["Salome"] }
-"selomon" = { values = ["ሰሎሞን"], alias = ["Solomon"] }
-"selu" = { values = ["ሰሉ"], alias = ["Salu"] }
-"semAat" = { values = ["ሰምዓት"], alias = ["Shimeath", "Shimrith"] }
-"semakiya" = { values = ["ሰማኪያ"], alias = ["Ismakiah"] }
-"semakya" = { values = ["ሰማክያ"], alias = ["Semakiah"] }
-"semaraya" = { values = ["ሰማራያ"], alias = ["Shamariah", "Shemariah"] }
-"semieai" = { values = ["ሰሜኢ"], alias = ["Shimei"] }
-"semieber" = { values = ["ሰሜበር"], alias = ["Shemeber"] }
-"semira" = { values = ["ሰሚራ"], alias = ["Semira"] }
-"semlay" = { values = ["ሰምላይ"], alias = ["Shalmai"] }
-"semuaiel" = { values = ["ሰሙኤል"], alias = ["Shammua"] }
-"senayt" = { values = ["ሰናይት"], alias = ["Senait"] }
-"serabya" = { values = ["ሰራብያ"], alias = ["Sherebiah"] }
-"sergyos" = { values = ["ሰርግዮስ"], alias = ["Sergius"] }
-"serkaedis" = { values = ["ሰርክአዲስ"], alias = ["Serkadis"] }
-"serkaelem" = { values = ["ሰርክአለም"], alias = ["Serkalem"] }
-"setur" = { values = ["ሰቱር"], alias = ["Sethur"] }
-"seyTan" = { values = ["ሰይጣን"], alias = ["Satan"] }
-"seyfu" = { values = ["ሰይፉ"], alias = ["Seifu"] }
-"siAa" = { values = ["ሲዓ"], alias = ["Sia"] }
-"siara" = { values = ["ሲእራ"], alias = ["Sheerah"] }
-"sidraq" = { values = ["ሲድራቅ"], alias = ["Shadrach"] }
-"siedieqyas" = { values = ["ሴዴቅያስ"], alias = ["Zedekiah"] }
-"siekiem" = { values = ["ሴኬም"], alias = ["Shechem"] }
-"siekienya" = { values = ["ሴኬንያ"], alias = ["Shecaniah"] }
-"siela" = { values = ["ሴላ"], alias = ["Zillah"] }
-"sieliemi" = { values = ["ሴሌሚ"], alias = ["Shelomi"] }
-"sielo" = { values = ["ሴሎ"], alias = ["Shiloh"] }
-"sielona" = { values = ["ሴሎና"], alias = ["Shiloni"] }
-"siem" = { values = ["ሴም"], alias = ["Shem"] }
-"siemiey" = { values = ["ሴሜይ"], alias = ["Semei"] }
-"sienaAa" = { values = ["ሴናዓ"], alias = ["Senaah"] }
-"siesi" = { values = ["ሴሲ"], alias = ["Sheshai"] }
-"siesiey" = { values = ["ሴሴይ"], alias = ["Shashai"] }
-"siet" = { values = ["ሴት"], alias = ["Seth"] }
-"sihem" = { values = ["ሲሀም"], alias = ["Siham"] }
-"silas" = { values = ["ሲላስ"], alias = ["Silas"] }
-"sinTieki" = { values = ["ሲንጤኪ"], alias = ["Syntyche"] }
-"sipara" = { values = ["ሲፓራ"], alias = ["Shiphrah", "Zippora"] }
-"siraj" = { values = ["ሲራጅ"], alias = ["Siraj"] }
-"sisay" = { values = ["ሲሳይ"], alias = ["Sisay"] }
-"smAon" = { values = ["ስምዖን"], alias = ["Simon", "Simeon"] }
-"sndu" = { values = ["ስንዱ"], alias = ["Senedu"] }
-"sneTbeb" = { values = ["ስነጥበብ"], alias = ["Sinetebeb"] }
-"sntayehu" = { values = ["ስንታየሁ"], alias = ["Sintayehu"] }
-"sobay" = { values = ["ሶባይ"], alias = ["Shobai"] }
-"sofonyas" = { values = ["ሶፎንያስ"], alias = ["Zephaniah", "Sofonyas"] }
-"somson" = { values = ["ሶምሶን"], alias = ["Samson"] }
-"sosna" = { values = ["ሶስና"], alias = ["Susanna"] }
-"ssara" = { values = ["ሣራ"], alias = ["Sarah"] }
-"ssaraf" = { values = ["ሣራፍ"], alias = ["Saraph"] }
-"ssemla" = { values = ["ሠምላ"], alias = ["Samlah"] }
-"sseraya" = { values = ["ሠራያ"], alias = ["Seraiah"] }
-"ssobal" = { values = ["ሦባል"], alias = ["Shobal"] }
-"ssora" = { values = ["ሦራ"], alias = ["Sarai"] }
-"surafiel" = { values = ["ሱራፌል"], alias = ["Surafel"] }
-"suriaiel" = { values = ["ሱሪኤል"], alias = ["Zuriel"] }
-"suriseday" = { values = ["ሱሪሰዳይ"], alias = ["Zurishaddai"] }
-"susa" = { values = ["ሱሳ"], alias = ["Sheva"] }
-"susi" = { values = ["ሱሲ"], alias = ["Susi"] }
-"suwa" = { values = ["ሱዋ"], alias = ["Shua"] }
-"syum" = { values = ["ስዩም"], alias = ["Seyoum"] }
-"tAmar" = { values = ["ትዕማር"], alias = ["Tamar"] }
-"tadele" = { values = ["ታደለ"], alias = ["Tadele"] }
-"tadese" = { values = ["ታደሰ"], alias = ["Tadesse"] }
-"tadiewos" = { values = ["ታዴዎስ"], alias = ["Thaddeus"] }
-"tamene" = { values = ["ታመነ"], alias = ["Tamene"] }
-"tamrat" = { values = ["ታምራት"], alias = ["Tamrat"] }
-"tara" = { values = ["ታራ"], alias = ["Teresh"] }
-"tareqeN" = { values = ["ታረቀኝ"], alias = ["Tarekegn"] }
-"tarieAa" = { values = ["ታሬዓ"], alias = ["Tarea"] }
-"tarik" = { values = ["ታሪክ"], alias = ["Tarik"] }
-"tariku" = { values = ["ታሪኩ"], alias = ["Tariku"] }
-"taye" = { values = ["ታየ"], alias = ["Taye"] }
-"teHexe" = { values = ["ተሐሸ"], alias = ["Tahash"] }
-"tedl" = { values = ["ተድል"], alias = ["Tedla"] }
-"tefera" = { values = ["ተፈራ"], alias = ["Tefera"] }
-"teferi" = { values = ["ተፈሪ"], alias = ["Teferri"] }
-"tekeste" = { values = ["ተከስተ"], alias = ["Tekeste"] }
-"telami" = { values = ["ተላሚ"], alias = ["Talmai"] }
-"temesgen" = { values = ["ተመስገን"], alias = ["Temesgen"] }
-"tenaN" = { values = ["ተናኝ"], alias = ["Tenagne"] }
-"tersies" = { values = ["ተርሴስ"], alias = ["Tarshish"] }
-"tesema" = { values = ["ተሰማ"], alias = ["Tesema"] }
-"tesfayie" = { values = ["ተስፋዬ"], alias = ["Tesfaye"] }
-"tewabec" = { values = ["ተዋበች"], alias = ["Tewabech"] }
-"texome" = { values = ["ተሾመ"], alias = ["Teshome"] }
-"tgst" = { values = ["ትግስት"], alias = ["Tigist"] }
-"thut" = { values = ["ትሁት"], alias = ["Thut"] }
-"tiela" = { values = ["ቴላ"], alias = ["Telah"] }
-"tiema" = { values = ["ቴማ"], alias = ["Tamah", "Tema"] }
-"tieman" = { values = ["ቴማን"], alias = ["Teman"] }
-"tiemni" = { values = ["ቴምኒ"], alias = ["Temeni"] }
-"tieqiemnas" = { values = ["ቴቄምናስ"], alias = ["Tahpenes"] }
-"tieras" = { values = ["ቴራስ"], alias = ["Tiras"] }
-"tiewedros" = { values = ["ቴወድሮስ"], alias = ["Theodros"] }
-"tiewoflos" = { values = ["ቴዎፍሎስ"], alias = ["Theophilus"] }
-"tilon" = { values = ["ቲሎን"], alias = ["Tilon"] }
-"tirSa" = { values = ["ቲርጻ"], alias = ["Tirzah"] }
-"tito" = { values = ["ቲቶ"], alias = ["Titus"] }
-"tnbit" = { values = ["ትንቢት"], alias = ["Tinbit"] }
-"tobiel" = { values = ["ቶቤል"], alias = ["Tubal"] }
-"tomas" = { values = ["ቶማስ"], alias = ["Thomas"] }
-"trsit" = { values = ["ትርሲት"], alias = ["Tersit"] }
-"tzta" = { values = ["ትዝታ"], alias = ["Tizita"] }
-"wenya" = { values = ["ወንያ"], alias = ["Vaniah"] }
-"xAarya" = { values = ["ሽዓርያ"], alias = ["Sheariah"] }
-"xakya" = { values = ["ሻክያ"], alias = ["Sakia"] }
-"xama" = { values = ["ሻማ"], alias = ["Shama"] }
-"xamir" = { values = ["ሻሚር"], alias = ["Shamir"] }
-"xaxaq" = { values = ["ሻሻቅ"], alias = ["Shashak"] }
-"xeAal" = { values = ["ሸዓል"], alias = ["Sheal"] }
-"xebier" = { values = ["ሸቤር"], alias = ["Sheber"] }
-"xemay" = { values = ["ሸማይ"], alias = ["Shammai"] }
-"xemaya" = { values = ["ሸማያ"], alias = ["Shimeon"] }
-"xemida" = { values = ["ሸሚዳ"], alias = ["Shemida"] }
-"xeray" = { values = ["ሸራይ"], alias = ["Sharai"] }
-"xferaw" = { values = ["ሽፈራው"], alias = ["Shifferaw"] }
-"xienaSar" = { values = ["ሼናጻር"], alias = ["Shenazar"] }
-"ximri" = { values = ["ሺምሪ"], alias = ["Shimri"] }
-"ximron" = { values = ["ሺምሮን"], alias = ["Shimron"] }
-"xmaA" = { values = ["ሽማዕ"], alias = ["Shema"] }
-"xmaAa" = { values = ["ሽማዓ"], alias = ["Shemaah"] }
-"xmels" = { values = ["ሽመልስ"], alias = ["Shimelis"] }
-"xomier" = { values = ["ሾሜር"], alias = ["Shomer"] }
-"xuni" = { values = ["ሹኒ"], alias = ["Shual"] }
-"xwangzaw" = { values = ["ሽዋንግዛው"], alias = ["Shewangizaw"] }
-"yHiaieli" = { values = ["ይሒኤሊ"], alias = ["Jehieli"] }
-"yaAqob" = { values = ["ያዕቆብ"], alias = ["James", "Jacob"] }
-"yaHSaiel" = { values = ["ያሕጽኤል"], alias = ["Jahziel"] }
-"yaHliel" = { values = ["ያሕሌል"], alias = ["Jahleel"] }
-"yaHziaiel" = { values = ["ያሕዚኤል"], alias = ["Jahaziel"] }
-"yaazanya" = { values = ["ያእዛንያ"], alias = ["Jaazaniah"] }
-"yabal" = { values = ["ያባል"], alias = ["Jabal"] }
-"yabieS" = { values = ["ያቤጽ"], alias = ["Jabez"] }
-"yada" = { values = ["ያዳ"], alias = ["Jada"] }
-"yadiaiel" = { values = ["ያዲኤል"], alias = ["Jathniel"] }
-"yadon" = { values = ["ያዶን"], alias = ["Jadon"] }
-"yafiAa" = { values = ["ያፊዓ"], alias = ["Japhia"] }
-"yafiet" = { values = ["ያፌት"], alias = ["Japheth"] }
-"yahday" = { values = ["ያህዳይ"], alias = ["Jahdai"] }
-"yahwie" = { values = ["ያህዌ"], alias = ["Jehovah"] }
-"yakin" = { values = ["ያኪን"], alias = ["Jakin"] }
-"yalon" = { values = ["ያሎን"], alias = ["Jalon"] }
-"yaqim" = { values = ["ያቂም"], alias = ["Jakim"] }
-"yaraH" = { values = ["ያራሕ"], alias = ["Jerah"] }
-"yarib" = { values = ["ያሪብ"], alias = ["Jarib"] }
-"yaried" = { values = ["ያሬድ"], alias = ["Jared"] }
-"yariexya" = { values = ["ያሬሽያ"], alias = ["Jaresiah"] }
-"yawan" = { values = ["ያዋን"], alias = ["Javan"] }
-"yazaiel" = { values = ["ያዝኤል"], alias = ["Jehiel"] }
-"yaziz" = { values = ["ያዚዝ"], alias = ["Jaziz"] }
-"yazy" = { values = ["ያዝይ"], alias = ["Jeziah"] }
-"yazya" = { values = ["ያዝያ"], alias = ["Jaaziah"] }
-"ydida" = { values = ["ይዲዳ"], alias = ["Jedidah"] }
-"ydidya" = { values = ["ይዲድያ"], alias = ["jedidiah"] }
-"yeAlam" = { values = ["የዕላም"], alias = ["Jalam"] }
-"yeAra" = { values = ["የዕራ"], alias = ["Jarah"] }
-"yeHmay" = { values = ["የሕማይ"], alias = ["Jahmai"] }
-"yeHzya" = { values = ["የሕዝያ"], alias = ["Jahaziah"] }
-"yeSSla" = { values = ["የፅላ"], alias = ["Jaalah"] }
-"yeSSssu" = { values = ["የፅሡ"], alias = ["Jaasu"] }
-"yeaiela" = { values = ["የኤላ"], alias = ["Joelah"] }
-"yeriya" = { values = ["የሪያ"], alias = ["Irijah"] }
-"yesboq" = { values = ["የስቦቅ"], alias = ["Ishbak"] }
-"yesuwa" = { values = ["የሱዋ"], alias = ["Ishvah"] }
-"yesuwi" = { values = ["የሱዊ"], alias = ["Ishvi"] }
-"yexaya" = { values = ["የሻያ"], alias = ["Jeshaiah"] }
-"yexmaAa" = { values = ["የሽማዓ"], alias = ["Ishmaiah"] }
-"yeydaya" = { values = ["የይዳያ"], alias = ["Jedaiah"] }
-"yhuda" = { values = ["ይሁዳ"], alias = ["Judah", "Judas"] }
-"yieried" = { values = ["ዬሬድ"], alias = ["Jered"] }
-"yietier" = { values = ["ዬቴር"], alias = ["Jether"] }
-"yisimaiel" = { values = ["ዪሲምኤል"], alias = ["Jesimiel"] }
-"ykolya" = { values = ["ይኮልያ"], alias = ["Jecoliah"] }
-"ymima" = { values = ["ይሚማ"], alias = ["Jemima"] }
-"ymla" = { values = ["ይምላ"], alias = ["Imlah"] }
-"ymna" = { values = ["ይምና"], alias = ["Imna"] }
-"ymuaiel" = { values = ["ይሙኤል"], alias = ["Jemuel"] }
-"yoAadan" = { values = ["ዮዓዳን"], alias = ["Jehoaddin"] }
-"yoHena" = { values = ["ዮሐና"], alias = ["Joanna"] }
-"yoHenan" = { values = ["ዮሐናን"], alias = ["Johanan"] }
-"yoHens" = { values = ["ዮሐንስ"], alias = ["John"] }
-"yoad" = { values = ["ዮእድ"], alias = ["Joed"] }
-"yoaekin" = { values = ["ዮአኪን"], alias = ["Jeconiah"] }
-"yoaes" = { values = ["ዮአስ"], alias = ["Joah"] }
-"yoda" = { values = ["ዮዳ"], alias = ["Joda"] }
-"yodahie" = { values = ["ዮዳሄ"], alias = ["Joiada"] }
-"yodit" = { values = ["ዮዲት"], alias = ["Judith"] }
-"yona" = { values = ["ዮና"], alias = ["Janna"] }
-"yonan" = { values = ["ዮናን"], alias = ["Jonam"] }
-"yonas" = { values = ["ዮናስ"], alias = ["Jonah", "Jonas"] }
-"yonatan" = { values = ["ዮናታን"], alias = ["Jonathan"] }
-"yoram" = { values = ["ዮራም"], alias = ["Jorim"] }
-"yoray" = { values = ["ዮራይ"], alias = ["Jorai"] }
-"yosabiet" = { values = ["ዮሳቤት"], alias = ["Jehosheba"] }
-"yosieA" = { values = ["ዮሴዕ"], alias = ["Jose"] }
-"yosief" = { values = ["ዮሴፍ"], alias = ["Joseph"] }
-"yosifya" = { values = ["ዮሲፍያ"], alias = ["Josiphiah"] }
-"yoska" = { values = ["ዮስካ"], alias = ["Iscah"] }
-"yotor" = { values = ["ዮቶር"], alias = ["Jethro"] }
-"yoxawiya" = { values = ["ዮሻዊያ"], alias = ["Joshaviah"] }
-"yoxibya" = { values = ["ዮሺብያ"], alias = ["Joshibiah"] }
-"yozekar" = { values = ["ዮዘካር"], alias = ["Jozacar"] }
-"yqamya" = { values = ["ይቃምያ"], alias = ["Jekamiah"] }
-"yreHmaiel" = { values = ["ይረሕምኤል"], alias = ["Jerahmeel"] }
-"yriAot" = { values = ["ይሪዖት"], alias = ["Jerioth"] }
-"yriaiel" = { values = ["ይሪኤል"], alias = ["Jeriel"] }
-"yribay" = { values = ["ይሪባይ"], alias = ["Jeribai"] }
-"yriya" = { values = ["ይሪያ"], alias = ["Jeriah"] }
-"ysAar" = { values = ["ይስዓር"], alias = ["Izhar"] }
-"ysHeq" = { values = ["ይስሐቅ"], alias = ["Isaac"] }
-"ythham" = { values = ["ይትኃም"], alias = ["Ithream"] }
-"ytma" = { values = ["ይትማ"], alias = ["Ithmah"] }
-"ytran" = { values = ["ይትራን"], alias = ["Ithran"] }
-"yubal" = { values = ["ዩባል"], alias = ["Jubal"] }
-"yulya" = { values = ["ዩልያ"], alias = ["Julia"] }
-"yulyos" = { values = ["ዩልዮስ"], alias = ["Julius"] }
-"yxPa" = { values = ["ይሽጳ"], alias = ["Ishpah"] }
-"yxPan" = { values = ["ይሽጳን"], alias = ["Ishpan"] }
-"yxai" = { values = ["ይሽኢ"], alias = ["Ishi"] }
-"yxba" = { values = ["ይሽባ"], alias = ["Ishbah"] }
-"yxbibnob" = { values = ["ይሽቢብኖብ"], alias = ["Ishbi-Benob"] }
-"yxiya" = { values = ["ይሺያ"], alias = ["Ishijah", "Ishiah", "Jesiah"] }
-"yxmray" = { values = ["ይሽምራይ"], alias = ["Ishmerai"] }
-"yzaiel" = { values = ["ይዝኤል"], alias = ["Jeziel"] }
-"yzreHya" = { values = ["ይዝረሕያ"], alias = ["Izrahiah"] }
-"zaAwan" = { values = ["ዛዕዋን"], alias = ["Zavan"] }
-"zabhiel" = { values = ["ዛብሄል"], alias = ["Zebah"] }
-"zablon" = { values = ["ዛብሎን"], alias = ["Zebulon"] }
-"zara" = { values = ["ዛራ"], alias = ["Zerah"] }
-"zaza" = { values = ["ዛዛ"], alias = ["Zaza"] }
-"zbadya" = { values = ["ዝባድያ"], alias = ["Zebadiah"] }
-"zebay" = { values = ["ዘባይ"], alias = ["Zabbai"] }
-"zebdaiel" = { values = ["ዘብድኤል"], alias = ["Zabdiel"] }
-"zebdiewos" = { values = ["ዘብዴዎስ"], alias = ["Zebedee"] }
-"zebida" = { values = ["ዘቢዳ"], alias = ["Zebidah"] }
-"zebina" = { values = ["ዘቢና"], alias = ["Zebina"] }
-"zekaryas" = { values = ["ዘካርያስ"], alias = ["Zechariah", "Zachariah"] }
-"zelefa" = { values = ["ዘለፋ"], alias = ["Zilpah"] }
-"zenberi" = { values = ["ዘንበሪ"], alias = ["Zabdi", "Omri"] }
-"zeraaya" = { values = ["ዘራእያ"], alias = ["Zerahiah"] }
-"ziemas" = { values = ["ዜማስ"], alias = ["Zenas"] }
-"zietan" = { values = ["ዜታን"], alias = ["Zethan"] }
-"ziza" = { values = ["ዚዛ"], alias = ["Zina"] }
-"zmira" = { values = ["ዝሚራ"], alias = ["Zemira"] }
-"zosara" = { values = ["ዞሳራ"], alias = ["Zeresh"] }
-"zuaie" = { values = ["ዙኤ"], alias = ["Zia"] }
+"Aada" = { value = "ዓዳ", alias = ["AAda", "AaDA", "AaDa", "AadA"] }
+"AadiAiel" = { value = "ዓዲዔል", alias = ["AAdiAiel", "AaDIAiel", "AaDiAiel", "AadIAiel", "AadiAIEl", "AadiAIel", "AadiAiEl", "AadiAieL"] }
+"Aadin" = { value = "ዓዲን", alias = ["AAdin", "AaDIn", "AaDin", "AadIn"] }
+"Aadna" = { value = "ዓድና", alias = ["AAdna", "AaDna", "AadnA"] }
+"Aaksa" = { value = "ዓክሳ", alias = ["AAksa", "AaksA"] }
+"Aali" = { value = "ዓሊ", alias = ["AAli", "AaLI", "AaLi", "AalI"] }
+"Aaliemiet" = { value = "ዓሌሜት", alias = ["AAliemiet", "AaLIEmiet", "AaLIemiet", "AaLiEmiet", "AaLiemiet", "AalIEmiet", "AalIemiet", "AaliEmiet", "AalieMIEt", "AalieMIet", "AalieMiEt", "AalieMiet", "AaliemIEt", "AaliemIet", "AaliemiEt"] }
+"Aalwan" = { value = "ዓልዋን", alias = ["AAlwan", "AaLwan", "AalWAn", "AalWan", "AalwAn"] }
+"Aamasya" = { value = "ዓማስያ", alias = ["AAmasya", "AaMAsya", "AaMasya", "AamAsya", "AamasYA", "AamasYa", "AamasyA"] }
+"Aamiaiel" = { value = "ዓሚኤል", alias = ["AAmiaiel", "AaMIaiel", "AaMiaiel", "AamIaiel", "AamiaIEl", "AamiaIel", "AamiaiEl", "AamiaieL"] }
+"Aana" = { value = "ዓና", alias = ["AAna", "AanA"] }
+"Aassiaiel" = { value = "ዓሢኤል", alias = ["AAssiaiel", "AassIaiel", "AassiaIEl", "AassiaIel", "AassiaiEl", "AassiaieL"] }
+"AaTara" = { value = "ዓጣራ", alias = ["AATara", "AaTAra", "AaTaRA", "AaTaRa", "AaTarA"] }
+"AazAiel" = { value = "ዓዝዔል", alias = ["AAzAiel", "AazAIEl", "AazAIel", "AazAiEl", "AazAieL"] }
+"Aazaryas" = { value = "ዓዛርያስ", alias = ["AAzaryas", "AazAryas", "AazaRyas", "AazarYAs", "AazarYas", "AazaryAs"] }
+"Aazazya" = { value = "ዓዛዝያ", alias = ["AAzazya", "AazAzya", "AazazYA", "AazazYa", "AazazyA"] }
+"Aazraiel" = { value = "ዓዝርኤል", alias = ["AAzraiel", "AazRaiel", "AazraIEl", "AazraIel", "AazraiEl", "AazraieL"] }
+"aebate" = { value = "አባተ", alias = ["aEbate", "aeBAte", "aeBate", "aebAte", "aebatE"] }
+"aebay" = { value = "አባይ", alias = ["aEbay", "aeBAy", "aeBay", "aebAy", "aebaY"] }
+"aebayneh" = { value = "አባይነህ", alias = ["aEbayneh", "aeBAyneh", "aeBayneh", "aebAyneh", "aebaYneh", "aebaynEh"] }
+"aebaynex" = { value = "አባይነሽ", alias = ["aEbaynex", "aeBAynex", "aeBaynex", "aebAynex", "aebaYnex", "aebaynEx", "aebayneX"] }
+"Aebdaiel" = { value = "ዐብድኤል", alias = ["AEbdaiel", "AeBdaiel", "AebDaiel", "AebdaIEl", "AebdaIel", "AebdaiEl", "AebdaieL"] }
+"aebdela" = { value = "አብደላ", alias = ["aEbdela", "aeBdela", "aebDEla", "aebDela", "aebdEla", "aebdeLA", "aebdeLa", "aebdelA"] }
+"aebdi" = { value = "አብዲ", alias = ["aEbdi", "aeBdi", "aebDI", "aebDi", "aebdI"] }
+"aebdu" = { value = "አብዱ", alias = ["aEbdu", "aeBdu", "aebDU", "aebDu", "aebdU"] }
+"aebdul" = { value = "አብዱል", alias = ["aEbdul", "aeBdul", "aebDUl", "aebDul", "aebdUl", "aebduL"] }
+"aebdulahi" = { value = "አብዱላሂ", alias = ["aEbdulahi", "aeBdulahi", "aebDUlahi", "aebDulahi", "aebdUlahi", "aebduLAhi", "aebduLahi", "aebdulAhi", "aebdulahI"] }
+"aebdyu" = { value = "አብድዩ", alias = ["aEbdyu", "aeBdyu", "aebDyu", "aebdYU", "aebdYu", "aebdyU"] }
+"aebeba" = { value = "አበባ", alias = ["aEbeba", "aeBEba", "aeBeba", "aebEba", "aebeBA", "aebeBa", "aebebA"] }
+"aebebawerq" = { value = "አበባወርቅ", alias = ["aEbebawerq", "aeBEbawerq", "aeBebawerq", "aebEbawerq", "aebeBAwerq", "aebeBawerq", "aebebAwerq", "aebebaWErq", "aebebaWerq", "aebebawErq", "aebebaweRq", "aebebawerQ"] }
+"aebebayie" = { value = "አበባዬ", alias = ["aEbebayie", "aeBEbayie", "aeBebayie", "aebEbayie", "aebeBAyie", "aebeBayie", "aebebAyie", "aebebaYIE", "aebebaYIe", "aebebaYiE", "aebebaYie", "aebebayIE", "aebebayIe", "aebebayiE"] }
+"aebebe" = { value = "አበበ", alias = ["aEbebe", "aeBEBE", "aeBeBe", "aebEbE"] }
+"aebebec" = { value = "አበበች", alias = ["aEbebec", "aeBEBEc", "aeBeBec", "aebEbEc"] }
+"aebegaz" = { value = "አበጋዝ", alias = ["aEbegaz", "aeBEgaz", "aeBegaz", "aebEgaz", "aebeGAz", "aebeGaz", "aebegAz"] }
+"aebenier" = { value = "አበኔር", alias = ["aEbenier", "aeBEnier", "aeBenier", "aebEnier", "aebenIEr", "aebenIer", "aebeniEr", "aebenieR"] }
+"aebera" = { value = "አበራ", alias = ["aEbera", "aeBEra", "aeBera", "aebEra", "aebeRA", "aebeRa", "aeberA"] }
+"aeberax" = { value = "አበራሽ", alias = ["aEberax", "aeBErax", "aeBerax", "aebErax", "aebeRAx", "aebeRax", "aeberAx", "aeberaX"] }
+"aebezu" = { value = "አበዙ", alias = ["aEbezu", "aeBEzu", "aeBezu", "aebEzu", "aebezU"] }
+"aebiaezr" = { value = "አቢአዝር", alias = ["aEbiaEzr", "aeBIaezr", "aeBiaezr", "aebIaezr", "aebiaezR"] }
+"aebiaiel" = { value = "አቢኤል", alias = ["aEbiaiel", "aeBIaiel", "aeBiaiel", "aebIaiel", "aebiaIEl", "aebiaIel", "aebiaiEl", "aebiaieL"] }
+"aebidan" = { value = "አቢዳን", alias = ["aEbidan", "aeBIdan", "aeBidan", "aebIdan", "aebiDAn", "aebiDan", "aebidAn"] }
+"aebidaS" = { value = "አቢዳጽ", alias = ["aEbidaS", "aeBIdaS", "aeBidaS", "aebIdaS", "aebiDAS", "aebiDaS", "aebidAS"] }
+"aebiel" = { value = "አቤል", alias = ["aEbiel", "aeBIEl", "aeBIel", "aeBiEl", "aeBiel", "aebIEl", "aebIel", "aebiEl", "aebieL"] }
+"aebienaiezer" = { value = "አቤንኤዘር", alias = ["aEbienaiezer", "aeBIEnaiezer", "aeBIenaiezer", "aeBiEnaiezer", "aeBienaiezer", "aebIEnaiezer", "aebIenaiezer", "aebiEnaiezer", "aebienaIEzer", "aebienaIezer", "aebienaiEzer", "aebienaiezEr", "aebienaiezeR"] }
+"aebienezer" = { value = "አቤነዘር", alias = ["aEbienezer", "aeBIEnezer", "aeBIenezer", "aeBiEnezer", "aeBienezer", "aebIEnezer", "aebIenezer", "aebiEnezer", "aebienEzer", "aebienezEr", "aebienezeR"] }
+"aebieron" = { value = "አቤሮን", alias = ["aEbieron", "aeBIEron", "aeBIeron", "aeBiEron", "aeBieron", "aebIEron", "aebIeron", "aebiEron", "aebieROn", "aebieRon", "aebierOn"] }
+"aebiesielom" = { value = "አቤሴሎም", alias = ["aEbiesielom", "aeBIEsielom", "aeBIesielom", "aeBiEsielom", "aeBiesielom", "aebIEsielom", "aebIesielom", "aebiEsielom", "aebiesIElom", "aebiesIelom", "aebiesiElom", "aebiesieLOm", "aebiesieLom", "aebiesielOm", "aebiesieloM"] }
+"aebigaaiel" = { value = "አቢጋኤል", alias = ["aEbigaaiel", "aeBIgaaiel", "aeBigaaiel", "aebIgaaiel", "aebiGAaiel", "aebiGaaiel", "aebigAaiel", "aebigaaIEl", "aebigaaIel", "aebigaaiEl", "aebigaaieL"] }
+"aebigiya" = { value = "አቢጊያ", alias = ["aEbigiya", "aeBIgiya", "aeBigiya", "aebIgiya", "aebiGIya", "aebiGiya", "aebigIya", "aebigiYA", "aebigiYa", "aebigiyA"] }
+"aebigya" = { value = "አቢግያ", alias = ["aEbigya", "aeBIgya", "aeBigya", "aebIgya", "aebiGya", "aebigYA", "aebigYa", "aebigyA"] }
+"aebikaail" = { value = "አቢካኢል", alias = ["aEbikaail", "aeBIkaail", "aeBikaail", "aebIkaail", "aebikAail", "aebikaaIl", "aebikaaiL"] }
+"aebisa" = { value = "አቢሳ", alias = ["aEbisa", "aeBIsa", "aeBisa", "aebIsa", "aebisA"] }
+"aebisan" = { value = "አቢሳን", alias = ["aEbisan", "aeBIsan", "aeBisan", "aebIsan", "aebisAn"] }
+"aebisu" = { value = "አቢሱ", alias = ["aEbisu", "aeBIsu", "aeBisu", "aebIsu", "aebisU"] }
+"aebiTal" = { value = "አቢጣል", alias = ["aEbiTal", "aeBITal", "aeBiTal", "aebITal", "aebiTAl", "aebiTaL"] }
+"aebiya" = { value = "አቢያ", alias = ["aEbiya", "aeBIya", "aeBiya", "aebIya", "aebiYA", "aebiYa", "aebiyA"] }
+"aebiyot" = { value = "አቢዮት", alias = ["aEbiyot", "aeBIyot", "aeBiyot", "aebIyot", "aebiYOt", "aebiYot", "aebiyOt"] }
+"aebnet" = { value = "አብነት", alias = ["aEbnet", "aeBnet", "aebnEt"] }
+"aebram" = { value = "አብራም", alias = ["aEbram", "aeBram", "aebRAm", "aebRam", "aebrAm", "aebraM"] }
+"aebrham" = { value = "አብርሃም", alias = ["aEbrham", "aeBrham", "aebRham", "aebrhAm", "aebrhaM"] }
+"aebubeker" = { value = "አቡበከር", alias = ["aEbubeker", "aeBUbeker", "aeBubeker", "aebUbeker", "aebuBEker", "aebuBeker", "aebubEker", "aebubekEr", "aebubekeR"] }
+"aeby" = { value = "አብይ", alias = ["aEby", "aeBy", "aebY"] }
+"aedam" = { value = "አዳም", alias = ["aEdam", "aeDAm", "aeDam", "aedAm", "aedaM"] }
+"aedane" = { value = "አዳነ", alias = ["aEdane", "aeDAne", "aeDane", "aedAne", "aedanE"] }
+"aedanec" = { value = "አዳነች", alias = ["aEdanec", "aeDAnec", "aeDanec", "aedAnec", "aedanEc"] }
+"aedey" = { value = "አደይ", alias = ["aEdey", "aeDEy", "aeDey", "aedEy", "aedeY"] }
+"aedina" = { value = "አዲና", alias = ["aEdina", "aeDIna", "aeDina", "aedIna", "aedinA"] }
+"aedis" = { value = "አዲስ", alias = ["aEdis", "aeDIs", "aeDis", "aedIs"] }
+"aedisu" = { value = "አዲሱ", alias = ["aEdisu", "aeDIsu", "aeDisu", "aedIsu", "aedisU"] }
+"aedmasu" = { value = "አድማሱ", alias = ["aEdmasu", "aeDmasu", "aedMAsu", "aedMasu", "aedmAsu", "aedmasU"] }
+"aedonibiezieq" = { value = "አዶኒቤዜቅ", alias = ["aEdonibiezieq", "aeDOnibiezieq", "aeDonibiezieq", "aedOnibiezieq", "aedonIbiezieq", "aedoniBIEzieq", "aedoniBIezieq", "aedoniBiEzieq", "aedoniBiezieq", "aedonibIEzieq", "aedonibIezieq", "aedonibiEzieq", "aedonibiezIEq", "aedonibiezIeq", "aedonibieziEq", "aedonibiezieQ"] }
+"aedonyas" = { value = "አዶንያስ", alias = ["aEdonyas", "aeDOnyas", "aeDonyas", "aedOnyas", "aedonYAs", "aedonYas", "aedonyAs"] }
+"aedoram" = { value = "አዶራም", alias = ["aEdoram", "aeDOram", "aeDoram", "aedOram", "aedoRAm", "aedoRam", "aedorAm", "aedoraM"] }
+"aeduNa" = { value = "አዱኛ", alias = ["aEduNa", "aeDUNa", "aeDuNa", "aedUNa", "aeduNA"] }
+"aefbya" = { value = "አፍብያ", alias = ["aEfbya", "aeFbya", "aefBya", "aefbYA", "aefbYa", "aefbyA"] }
+"aefwerq" = { value = "አፍወርቅ", alias = ["aEfwerq", "aeFwerq", "aefWErq", "aefWerq", "aefwErq", "aefweRq", "aefwerQ"] }
+"aegar" = { value = "አጋር", alias = ["aEgar", "aeGAr", "aeGar", "aegAr", "aegaR"] }
+"aeHlay" = { value = "አሕላይ", alias = ["aEHlay", "aeHLAy", "aeHLay", "aeHlAy", "aeHlaY"] }
+"aehmed" = { value = "አህመድ", alias = ["aEhmed", "aehMEd", "aehMed", "aehmEd", "aehmeD"] }
+"aekAab" = { value = "አክዓብ", alias = ["aEkAab", "aekAAb", "aekAaB"] }
+"aekim" = { value = "አኪም", alias = ["aEkim", "aekIm", "aekiM"] }
+"aeklil" = { value = "አክሊል", alias = ["aEklil", "aekLIl", "aekLil", "aeklIl", "aekliL"] }
+"aeklilu" = { value = "አክሊሉ", alias = ["aEklilu", "aekLIlu", "aekLilu", "aeklIlu", "aekliLU", "aekliLu", "aeklilU"] }
+"aeksum" = { value = "አክሱም", alias = ["aEksum", "aeksUm", "aeksuM"] }
+"aelAazar" = { value = "አልዓዛር", alias = ["aElAazar", "aeLAazar", "aelAAzar", "aelAazAr", "aelAazaR"] }
+"aelazar" = { value = "አላዛር", alias = ["aElazar", "aeLAzar", "aeLazar", "aelAzar", "aelazAr", "aelazaR"] }
+"aelebacew" = { value = "አለባቸው", alias = ["aElebacew", "aeLEbacew", "aeLebacew", "aelEbacew", "aeleBAcew", "aeleBacew", "aelebAcew", "aelebacEw", "aelebaceW"] }
+"aelem" = { value = "አለም", alias = ["aElem", "aeLEm", "aeLem", "aelEm", "aeleM"] }
+"aelemaeyehu" = { value = "አለምአየሁ", alias = ["aElemaEyehu", "aeLEmaeyehu", "aeLemaeyehu", "aelEmaeyehu", "aeleMaeyehu", "aelemaeYEhu", "aelemaeYehu", "aelemaeyEhu", "aelemaeyehU"] }
+"aelemitu" = { value = "አለሚቱ", alias = ["aElemitu", "aeLEmitu", "aeLemitu", "aelEmitu", "aeleMItu", "aeleMitu", "aelemItu", "aelemitU"] }
+"aelemnex" = { value = "አለምነሽ", alias = ["aElemnex", "aeLEmnex", "aeLemnex", "aelEmnex", "aeleMnex", "aelemnEx", "aelemneX"] }
+"aelemSSehay" = { value = "አለምፀሃይ", alias = ["aElemSSehay", "aeLEmSSehay", "aeLemSSehay", "aelEmSSehay", "aeleMSSehay", "aelemSSEhay", "aelemSSehAy", "aelemSSehaY"] }
+"aelemu" = { value = "አለሙ", alias = ["aElemu", "aeLEmu", "aeLemu", "aelEmu", "aeleMU", "aeleMu", "aelemU"] }
+"aelganex" = { value = "አልጋነሽ", alias = ["aElganex", "aeLganex", "aelGAnex", "aelGanex", "aelgAnex", "aelganEx", "aelganeX"] }
+"aelieks" = { value = "አሌክስ", alias = ["aElieks", "aeLIEks", "aeLIeks", "aeLiEks", "aeLieks", "aelIEks", "aelIeks", "aeliEks"] }
+"aelieksndros" = { value = "አሌክስንድሮስ", alias = ["aElieksndros", "aeLIEksndros", "aeLIeksndros", "aeLiEksndros", "aeLieksndros", "aelIEksndros", "aelIeksndros", "aeliEksndros", "aelieksnDros", "aelieksndROs", "aelieksndRos", "aelieksndrOs"] }
+"aelmaz" = { value = "አልማዝ", alias = ["aElmaz", "aeLmaz", "aelMAz", "aelMaz", "aelmAz"] }
+"aelnTo" = { value = "አልንጦ", alias = ["aElnTo", "aeLnTo", "aelnTO"] }
+"aelula" = { value = "አሉላ", alias = ["aElula", "aeLUla", "aeLula", "aelUla", "aeluLA", "aeluLa", "aelulA"] }
+"aeman" = { value = "አማን", alias = ["aEman", "aeMAn", "aeMan", "aemAn"] }
+"aemanuaiel" = { value = "አማኑኤል", alias = ["aEmanuaiel", "aeMAnuaiel", "aeManuaiel", "aemAnuaiel", "aemanUaiel", "aemanuaIEl", "aemanuaIel", "aemanuaiEl", "aemanuaieL"] }
+"aemare" = { value = "አማረ", alias = ["aEmare", "aeMAre", "aeMare", "aemAre", "aemaRE", "aemaRe", "aemarE"] }
+"aemarec" = { value = "አማረች", alias = ["aEmarec", "aeMArec", "aeMarec", "aemArec", "aemaREc", "aemaRec", "aemarEc"] }
+"aemarya" = { value = "አማርያ", alias = ["aEmarya", "aeMArya", "aeMarya", "aemArya", "aemaRya", "aemarYA", "aemarYa", "aemaryA"] }
+"aemasi" = { value = "አማሲ", alias = ["aEmasi", "aeMAsi", "aeMasi", "aemAsi", "aemasI"] }
+"aemelewerq" = { value = "አመለወርቅ", alias = ["aEmelewerq", "aeMElewerq", "aeMelewerq", "aemElewerq", "aemeLEwerq", "aemeLewerq", "aemelEwerq", "aemeleWErq", "aemeleWerq", "aemelewErq", "aemeleweRq", "aemelewerQ"] }
+"aemha" = { value = "አምሃ", alias = ["aEmha", "aeMha", "aemhA"] }
+"aemiesyas" = { value = "አሜስያስ", alias = ["aEmiesyas", "aeMIEsyas", "aeMIesyas", "aeMiEsyas", "aeMiesyas", "aemIEsyas", "aemIesyas", "aemiEsyas", "aemiesYAs", "aemiesYas", "aemiesyAs"] }
+"aemin" = { value = "አሚን", alias = ["aEmin", "aeMIn", "aeMin", "aemIn"] }
+"aemiTal" = { value = "አሚጣል", alias = ["aEmiTal", "aeMITal", "aeMiTal", "aemITal", "aemiTAl", "aemiTaL"] }
+"aemoS" = { value = "አሞጽ", alias = ["aEmoS", "aeMOS", "aeMoS", "aemOS"] }
+"aemrafiel" = { value = "አምራፌል", alias = ["aEmrafiel", "aeMrafiel", "aemRAfiel", "aemRafiel", "aemrAfiel", "aemraFIEl", "aemraFIel", "aemraFiEl", "aemraFiel", "aemrafIEl", "aemrafIel", "aemrafiEl", "aemrafieL"] }
+"aemsale" = { value = "አምሳለ", alias = ["aEmsale", "aeMsale", "aemsAle", "aemsaLE", "aemsaLe", "aemsalE"] }
+"aemsalewerq" = { value = "አምሳለወርቅ", alias = ["aEmsalewerq", "aeMsalewerq", "aemsAlewerq", "aemsaLEwerq", "aemsaLewerq", "aemsalEwerq", "aemsaleWErq", "aemsaleWerq", "aemsalewErq", "aemsaleweRq", "aemsalewerQ"] }
+"aemsalu" = { value = "አምሳሉ", alias = ["aEmsalu", "aeMsalu", "aemsAlu", "aemsaLU", "aemsaLu", "aemsalU"] }
+"aenamaiel" = { value = "አናምኤል", alias = ["aEnamaiel", "aenAmaiel", "aenaMaiel", "aenamaIEl", "aenamaIel", "aenamaiEl", "aenamaieL"] }
+"aendargacew" = { value = "አንዳርጋቸው", alias = ["aEndargacew", "aenDArgacew", "aenDargacew", "aendArgacew", "aendaRgacew", "aendarGAcew", "aendarGacew", "aendargAcew", "aendargacEw", "aendargaceW"] }
+"aendiraniqo" = { value = "አንዲራኒቆ", alias = ["aEndiraniqo", "aenDIraniqo", "aenDiraniqo", "aendIraniqo", "aendiRAniqo", "aendiRaniqo", "aendirAniqo", "aendiranIqo", "aendiraniQO", "aendiraniQo", "aendiraniqO"] }
+"aendnet" = { value = "አንድነት", alias = ["aEndnet", "aenDnet", "aendnEt"] }
+"aendryas" = { value = "አንድርያስ", alias = ["aEndryas", "aenDryas", "aendRyas", "aendrYAs", "aendrYas", "aendryAs"] }
+"aenduaelem" = { value = "አንዱአለም", alias = ["aEnduaElem", "aenDUaelem", "aenDuaelem", "aendUaelem", "aenduaeLEm", "aenduaeLem", "aenduaelEm", "aenduaeleM"] }
+"aeniaiel" = { value = "አኒኤል", alias = ["aEniaiel", "aenIaiel", "aeniaIEl", "aeniaIel", "aeniaiEl", "aeniaieL"] }
+"aenteneh" = { value = "አንተነህ", alias = ["aEnteneh", "aentEneh", "aentenEh"] }
+"aePlos" = { value = "አጵሎስ", alias = ["aEPlos", "aePLOs", "aePLos", "aePlOs"] }
+"aeqila" = { value = "አቂላ", alias = ["aEqila", "aeQIla", "aeQila", "aeqIla", "aeqiLA", "aeqiLa", "aeqilA"] }
+"aeraiel" = { value = "አርኤል", alias = ["aEraiel", "aeRaiel", "aeraIEl", "aeraIel", "aeraiEl", "aeraieL"] }
+"aeraieli" = { value = "አርኤሊ", alias = ["aEraieli", "aeRaieli", "aeraIEli", "aeraIeli", "aeraiEli", "aeraieLI", "aeraieLi", "aeraielI"] }
+"aerdon" = { value = "አርዶን", alias = ["aErdon", "aeRdon", "aerDOn", "aerDon", "aerdOn"] }
+"aergaw" = { value = "አርጋው", alias = ["aErgaw", "aeRgaw", "aerGAw", "aerGaw", "aergAw", "aergaW"] }
+"aeron" = { value = "አሮን", alias = ["aEron", "aeROn", "aeRon", "aerOn"] }
+"aersiema" = { value = "አርሴማ", alias = ["aErsiema", "aeRsiema", "aersIEma", "aersIema", "aersiEma", "aersieMA", "aersieMa", "aersiemA"] }
+"aerTieks" = { value = "አርጤክስ", alias = ["aErTieks", "aeRTieks", "aerTIEks", "aerTIeks", "aerTiEks"] }
+"aerTiems" = { value = "አርጤምስ", alias = ["aErTiems", "aeRTiems", "aerTIEms", "aerTIems", "aerTiEms", "aerTieMs"] }
+"aerTimon" = { value = "አርጢሞን", alias = ["aErTimon", "aeRTimon", "aerTImon", "aerTiMOn", "aerTiMon", "aerTimOn"] }
+"aesa" = { value = "አሳ", alias = ["aEsa", "aesA"] }
+"aesaf" = { value = "አሳፍ", alias = ["aEsaf", "aesAf", "aesaF"] }
+"aesan" = { value = "አሳን", alias = ["aEsan", "aesAn"] }
+"aescalew" = { value = "አስቻለው", alias = ["aEscalew", "aescAlew", "aescaLEw", "aescaLew", "aescalEw", "aescaleW"] }
+"aeSede" = { value = "አጸደ", alias = ["aESede", "aeSEde", "aeSeDE", "aeSeDe", "aeSedE"] }
+"aesefa" = { value = "አሰፋ", alias = ["aEsefa", "aesEfa", "aeseFA", "aeseFa", "aesefA"] }
+"aesegedec" = { value = "አሰገደች", alias = ["aEsegedec", "aesEgedec", "aeseGEdec", "aeseGedec", "aesegEdec", "aesegeDEc", "aesegeDec", "aesegedEc"] }
+"aesfaw" = { value = "አስፋው", alias = ["aEsfaw", "aesFAw", "aesFaw", "aesfAw", "aesfaW"] }
+"aesier" = { value = "አሴር", alias = ["aEsier", "aesIEr", "aesIer", "aesiEr", "aesieR"] }
+"aesmamaw" = { value = "አስማማው", alias = ["aEsmamaw", "aesMAMAw", "aesMaMaw", "aesmAmAw", "aesmamaW"] }
+"aesnaqec" = { value = "አስናቀች", alias = ["aEsnaqec", "aesnAqec", "aesnaQEc", "aesnaQec", "aesnaqEc"] }
+"aesnat" = { value = "አስናት", alias = ["aEsnat", "aesnAt"] }
+"aesqiewa" = { value = "አስቄዋ", alias = ["aEsqiewa", "aesQIEwa", "aesQIewa", "aesQiEwa", "aesQiewa", "aesqIEwa", "aesqIewa", "aesqiEwa", "aesqieWA", "aesqieWa", "aesqiewA"] }
+"aesrat" = { value = "አስራት", alias = ["aEsrat", "aesRAt", "aesRat", "aesrAt"] }
+"aesron" = { value = "አስሮን", alias = ["aEsron", "aesROn", "aesRon", "aesrOn"] }
+"aessaraiel" = { value = "አሣርኤል", alias = ["aEssaraiel", "aessAraiel", "aessaRaiel", "aessaraIEl", "aessaraIel", "aessaraiEl", "aessaraieL"] }
+"aessriaiel" = { value = "አሥሪኤል", alias = ["aEssriaiel", "aessRIaiel", "aessRiaiel", "aessrIaiel", "aessriaIEl", "aessriaIel", "aessriaiEl", "aessriaieL"] }
+"aestarot" = { value = "አስታሮት", alias = ["aEstarot", "aestArot", "aestaROt", "aestaRot", "aestarOt"] }
+"aestier" = { value = "አስቴር", alias = ["aEstier", "aestIEr", "aestIer", "aestiEr", "aestieR"] }
+"aeTlabacw" = { value = "አጥላባችው", alias = ["aETlabacw", "aeTLAbacw", "aeTLabacw", "aeTlAbacw", "aeTlaBAcw", "aeTlaBacw", "aeTlabAcw", "aeTlabacW"] }
+"aeTnafu" = { value = "አጥናፉ", alias = ["aETnafu", "aeTnAfu", "aeTnaFU", "aeTnaFu", "aeTnafU"] }
+"aewgsTos" = { value = "አውግስጦስ", alias = ["aEwgsTos", "aeWgsTos", "aewGsTos", "aewgsTOs"] }
+"aexbieAa" = { value = "አሽቤዓ", alias = ["aExbieAa", "aeXbieAa", "aexBIEAa", "aexBIeAa", "aexBiEAa", "aexBieAa", "aexbIEAa", "aexbIeAa", "aexbiEAa", "aexbieAA"] }
+"aexebr" = { value = "አሸብር", alias = ["aExebr", "aeXEbr", "aeXebr", "aexEbr", "aexeBr", "aexebR"] }
+"aexenafi" = { value = "አሸናፊ", alias = ["aExenafi", "aeXEnafi", "aeXenafi", "aexEnafi", "aexenAfi", "aexenaFI", "aexenaFi", "aexenafI"] }
+"aexraiela" = { value = "አሽርኤላ", alias = ["aExraiela", "aeXraiela", "aexRaiela", "aexraIEla", "aexraIela", "aexraiEla", "aexraieLA", "aexraieLa", "aexraielA"] }
+"aeyana" = { value = "አያና", alias = ["aEyana", "aeYAna", "aeYana", "aeyAna", "aeyanA"] }
+"aeyda" = { value = "አይዳ", alias = ["aEyda", "aeYda", "aeyDA", "aeyDa", "aeydA"] }
+"aeyele" = { value = "አየለ", alias = ["aEyele", "aeYEle", "aeYele", "aeyEle", "aeyeLE", "aeyeLe", "aeyelE"] }
+"aeyelec" = { value = "አየለች", alias = ["aEyelec", "aeYElec", "aeYelec", "aeyElec", "aeyeLEc", "aeyeLec", "aeyelEc"] }
+"aeynalem" = { value = "አይናለም", alias = ["aEynalem", "aeYnalem", "aeynAlem", "aeynaLEm", "aeynaLem", "aeynalEm", "aeynaleM"] }
+"aezalec" = { value = "አዛለች", alias = ["aEzalec", "aezAlec", "aezaLEc", "aezaLec", "aezalEc"] }
+"aezanya" = { value = "አዛንያ", alias = ["aEzanya", "aezAnya", "aezanYA", "aezanYa", "aezanyA"] }
+"aezaraiel" = { value = "አዛርኤል", alias = ["aEzaraiel", "aezAraiel", "aezaRaiel", "aezaraIEl", "aezaraIel", "aezaraiEl", "aezaraieL"] }
+"aezieb" = { value = "አዜብ", alias = ["aEzieb", "aezIEb", "aezIeb", "aeziEb", "aezieB"] }
+"aezin" = { value = "አዚን", alias = ["aEzin", "aezIn"] }
+"aibrahim" = { value = "ኢብራሂም", alias = ["aIbrahim", "aiBrahim", "aibRAhim", "aibRahim", "aibrAhim", "aibrahIm", "aibrahiM"] }
+"aibSan" = { value = "ኢብጻን", alias = ["aIbSan", "aiBSan", "aibSAn"] }
+"aiday" = { value = "ኢዳይ", alias = ["aIday", "aiDAy", "aiDay", "aidAy", "aidaY"] }
+"Aiebor" = { value = "ዔቦር", alias = ["AIEbor", "AIebor", "AiEbor", "AieBOr", "AieBor", "AiebOr", "AieboR"] }
+"Aiebri" = { value = "ዔብሪ", alias = ["AIEbri", "AIebri", "AiEbri", "AieBri", "AiebRI", "AiebRi", "AiebrI"] }
+"aieden" = { value = "ኤደን", alias = ["aIEden", "aIeden", "aiEden", "aieDEn", "aieDen", "aiedEn"] }
+"Aiedien" = { value = "ዔዴን", alias = ["AIEdien", "AIedien", "AiEdien", "AieDIEn", "AieDIen", "AieDiEn", "AieDien", "AiedIEn", "AiedIen", "AiediEn"] }
+"Aiedn" = { value = "ዔድን", alias = ["AIEdn", "AIedn", "AiEdn", "AieDn"] }
+"aiedom" = { value = "ኤዶም", alias = ["aIEdom", "aIedom", "aiEdom", "aieDOm", "aieDom", "aiedOm", "aiedoM"] }
+"aiefriem" = { value = "ኤፍሬም", alias = ["aIEfriem", "aIefriem", "aiEfriem", "aieFriem", "aiefRIEm", "aiefRIem", "aiefRiEm", "aiefRiem", "aiefrIEm", "aiefrIem", "aiefriEm", "aiefrieM"] }
+"aiefron" = { value = "ኤፍሮን", alias = ["aIEfron", "aIefron", "aiEfron", "aieFron", "aiefROn", "aiefRon", "aiefrOn"] }
+"Aiegla" = { value = "ዔግላ", alias = ["AIEgla", "AIegla", "AiEgla", "AieGla", "AiegLA", "AiegLa", "AieglA"] }
+"aiela" = { value = "ኤላ", alias = ["aIEla", "aIela", "aiEla", "aieLA", "aieLa", "aielA"] }
+"aielAad" = { value = "ኤልዓድ", alias = ["aIElAad", "aIelAad", "aiElAad", "aieLAad", "aielAAd", "aielAaD"] }
+"aielAada" = { value = "ኤልዓዳ", alias = ["aIElAada", "aIelAada", "aiElAada", "aieLAada", "aielAAda", "aielAaDA", "aielAaDa", "aielAadA"] }
+"aielAassa" = { value = "ኤልዓሣ", alias = ["aIElAassa", "aIelAassa", "aiElAassa", "aieLAassa", "aielAAssa", "aielAassA"] }
+"aielam" = { value = "ኤላም", alias = ["aIElam", "aIelam", "aiElam", "aieLAm", "aieLam", "aielAm", "aielaM"] }
+"aielbrit" = { value = "ኤልብሪት", alias = ["aIElbrit", "aIelbrit", "aiElbrit", "aieLbrit", "aielBrit", "aielbRIt", "aielbRit", "aielbrIt"] }
+"aieldaAa" = { value = "ኤልዳዓ", alias = ["aIEldaAa", "aIeldaAa", "aiEldaAa", "aieLdaAa", "aielDAAa", "aielDaAa", "aieldAAa", "aieldaAA"] }
+"aieldad" = { value = "ኤልዳድ", alias = ["aIEldad", "aIeldad", "aiEldad", "aieLdad", "aielDAd", "aielDad", "aieldAd", "aieldaD"] }
+"aielfaz" = { value = "ኤልፋዝ", alias = ["aIElfaz", "aIelfaz", "aiElfaz", "aieLfaz", "aielFAz", "aielFaz", "aielfAz"] }
+"Aieli" = { value = "ዔሊ", alias = ["AIEli", "AIeli", "AiEli", "AieLI", "AieLi", "AielI"] }
+"aieliaiel" = { value = "ኤሊኤል", alias = ["aIEliaIEl", "aIeliaIel", "aiEliaiEl", "aieLIaiel", "aieLiaiel", "aielIaiel", "aieliaieL"] }
+"aieliAiezer" = { value = "ኤሊዔዘር", alias = ["aIEliAiezer", "aIeliAiezer", "aiEliAiezer", "aieLIAiezer", "aieLiAiezer", "aielIAiezer", "aieliAIEzer", "aieliAIezer", "aieliAiEzer", "aieliAiezEr", "aieliAiezeR"] }
+"aielidahie" = { value = "ኤሊዳሄ", alias = ["aIElidahie", "aIelidahie", "aiElidahie", "aieLIdahie", "aieLidahie", "aielIdahie", "aieliDAhie", "aieliDahie", "aielidAhie", "aielidahIE", "aielidahIe", "aielidahiE"] }
+"aielisama" = { value = "ኤሊሳማ", alias = ["aIElisama", "aIelisama", "aiElisama", "aieLIsama", "aieLisama", "aielIsama", "aielisAma", "aielisaMA", "aielisaMa", "aielisamA"] }
+"aielisur" = { value = "ኤሊሱር", alias = ["aIElisur", "aIelisur", "aiElisur", "aieLIsur", "aieLisur", "aielIsur", "aielisUr", "aielisuR"] }
+"aieliyas" = { value = "ኤሊያስ", alias = ["aIEliyas", "aIeliyas", "aiEliyas", "aieLIyas", "aieLiyas", "aielIyas", "aieliYAs", "aieliYas", "aieliyAs"] }
+"aielizabiet" = { value = "ኤሊዛቤት", alias = ["aIElizabiet", "aIelizabiet", "aiElizabiet", "aieLIzabiet", "aieLizabiet", "aielIzabiet", "aielizAbiet", "aielizaBIEt", "aielizaBIet", "aielizaBiEt", "aielizaBiet", "aielizabIEt", "aielizabIet", "aielizabiEt"] }
+"aielmodad" = { value = "ኤልሞዳድ", alias = ["aIElmodad", "aIelmodad", "aiElmodad", "aieLmodad", "aielMOdad", "aielModad", "aielmOdad", "aielmoDAd", "aielmoDad", "aielmodAd", "aielmodaD"] }
+"aielnatan" = { value = "ኤልናታን", alias = ["aIElnatan", "aIelnatan", "aiElnatan", "aieLnatan", "aielnAtan", "aielnatAn"] }
+"aielon" = { value = "ኤሎን", alias = ["aIElon", "aIelon", "aiElon", "aieLOn", "aieLon", "aielOn"] }
+"aielsabiet" = { value = "ኤልሳቤት", alias = ["aIElsabiet", "aIelsabiet", "aiElsabiet", "aieLsabiet", "aielsAbiet", "aielsaBIEt", "aielsaBIet", "aielsaBiEt", "aielsaBiet", "aielsabIEt", "aielsabIet", "aielsabiEt"] }
+"aielsabieT" = { value = "ኤልሳቤጥ", alias = ["aIElsabieT", "aIelsabieT", "aiElsabieT", "aieLsabieT", "aielsAbieT", "aielsaBIET", "aielsaBIeT", "aielsaBiET", "aielsaBieT", "aielsabIET", "aielsabIeT", "aielsabiET"] }
+"aielsaSS" = { value = "ኤልሳፅ", alias = ["aIElsaSS", "aIelsaSS", "aiElsaSS", "aieLsaSS", "aielsASS"] }
+"aielxaday" = { value = "ኤልሻዳይ", alias = ["aIElxaday", "aIelxaday", "aiElxaday", "aieLxaday", "aielXAday", "aielXaday", "aielxAday", "aielxaDAy", "aielxaDay", "aielxadAy", "aielxadaY"] }
+"aielyab" = { value = "ኤልያብ", alias = ["aIElyab", "aIelyab", "aiElyab", "aieLyab", "aielYAb", "aielYab", "aielyAb", "aielyaB"] }
+"aielyanan" = { value = "ኤልያናን", alias = ["aIElyanan", "aIelyanan", "aiElyanan", "aieLyanan", "aielYAnan", "aielYanan", "aielyAnan", "aielyanAn"] }
+"aielyas" = { value = "ኤልያስ", alias = ["aIElyas", "aIelyas", "aiElyas", "aieLyas", "aielYAs", "aielYas", "aielyAs"] }
+"aielzabiel" = { value = "ኤልዛቤል", alias = ["aIElzabiel", "aIelzabiel", "aiElzabiel", "aieLzabieL", "aielzAbiel", "aielzaBIEl", "aielzaBIel", "aielzaBiEl", "aielzaBiel", "aielzabIEl", "aielzabIel", "aielzabiEl"] }
+"aienHedad" = { value = "ኤንሐዳድ", alias = ["aIEnHedad", "aIenHedad", "aiEnHedad", "aienHEdad", "aienHeDAd", "aienHeDad", "aienHedAd", "aienHedaD"] }
+"aienya" = { value = "ኤንያ", alias = ["aIEnya", "aIenya", "aiEnya", "aienYA", "aienYa", "aienyA"] }
+"aieras" = { value = "ኤራስ", alias = ["aIEras", "aIeras", "aiEras", "aieRAs", "aieRas", "aierAs"] }
+"Aieri" = { value = "ዔሪ", alias = ["AIEri", "AIeri", "AiEri", "AieRI", "AieRi", "AierI"] }
+"aieries" = { value = "ኤሬስ", alias = ["aIEries", "aIeries", "aiEries", "aieRIEs", "aieRIes", "aieRiEs", "aieRies", "aierIEs", "aierIes", "aieriEs"] }
+"aiermiyas" = { value = "ኤርሚያስ", alias = ["aIErmiyas", "aIermiyas", "aiErmiyas", "aieRmiyas", "aierMIyas", "aierMiyas", "aiermIyas", "aiermiYAs", "aiermiYas", "aiermiyAs"] }
+"aiermyas" = { value = "ኤርምያስ", alias = ["aIErmyas", "aIermyas", "aiErmyas", "aieRmyas", "aierMyas", "aiermYAs", "aiermYas", "aiermyAs"] }
+"Aiesaw" = { value = "ዔሳው", alias = ["AIEsaw", "AIesaw", "AiEsaw", "AiesAw", "AiesaW"] }
+"aiesban" = { value = "ኤስባን", alias = ["aIEsban", "aIesban", "aiEsban", "aiesBAn", "aiesBan", "aiesbAn"] }
+"aiesdriaiel" = { value = "ኤስድሪኤል", alias = ["aIEsdriaIEl", "aIesdriaIel", "aiEsdriaiEl", "aiesDriaiel", "aiesdRIaiel", "aiesdRiaiel", "aiesdrIaiel", "aiesdriaieL"] }
+"aiesebon" = { value = "ኤሰቦን", alias = ["aIEsebon", "aIesebon", "aiEsebon", "aiesEbon", "aieseBOn", "aieseBon", "aiesebOn"] }
+"aiesiel" = { value = "ኤሴል", alias = ["aIEsiel", "aIesiel", "aiEsiel", "aiesIEl", "aiesIel", "aiesiEl", "aiesieL"] }
+"aiesili" = { value = "ኤሲሊ", alias = ["aIEsili", "aIesili", "aiEsili", "aiesIli", "aiesiLI", "aiesiLi", "aiesilI"] }
+"aietan" = { value = "ኤታን", alias = ["aIEtan", "aIetan", "aiEtan", "aietAn"] }
+"aietay" = { value = "ኤታይ", alias = ["aIEtay", "aIetay", "aiEtay", "aietAy", "aietaY"] }
+"aiewi" = { value = "ኤዊ", alias = ["aIEwi", "aIewi", "aiEwi", "aieWI", "aieWi", "aiewI"] }
+"aiewnqie" = { value = "ኤውንቄ", alias = ["aIEwnqie", "aIewnqie", "aiEwnqie", "aieWnqie", "aiewnQIE", "aiewnQIe", "aiewnQiE", "aiewnQie", "aiewnqIE", "aiewnqIe", "aiewnqiE"] }
+"aiewodyan" = { value = "ኤዎድያን", alias = ["aIEwodyan", "aIewodyan", "aiEwodyan", "aieWOdyan", "aieWodyan", "aiewOdyan", "aiewoDyan", "aiewodYAn", "aiewodYan", "aiewodyAn"] }
+"aiewsaT" = { value = "ኤውሳጥ", alias = ["aIEwsaT", "aIewsaT", "aiEwsaT", "aieWsaT", "aiewsAT"] }
+"aiexton" = { value = "ኤሽቶን", alias = ["aIExton", "aIexton", "aiExton", "aieXton", "aiextOn"] }
+"aiezbay" = { value = "ኤዝባይ", alias = ["aIEzbay", "aIezbay", "aiEzbay", "aiezBAy", "aiezBay", "aiezbAy", "aiezbaY"] }
+"aiezielyas" = { value = "ኤዜልያስ", alias = ["aIEzielyas", "aIezielyas", "aiEzielyas", "aiezIElyas", "aiezIelyas", "aieziElyas", "aiezieLyas", "aiezielYAs", "aiezielYas", "aiezielyAs"] }
+"aiezraiel" = { value = "ኤዝርኤል", alias = ["aIEzraIEl", "aIezraIel", "aiEzraiEl", "aiezRaiel", "aiezraieL"] }
+"Aiezri" = { value = "ዔዝሪ", alias = ["AIEzri", "AIezri", "AiEzri", "AiezRI", "AiezRi", "AiezrI"] }
+"aiman" = { value = "ኢማን", alias = ["aIman", "aiMAn", "aiMan", "aimAn"] }
+"airam" = { value = "ኢራም", alias = ["aIram", "aiRAm", "aiRam", "airAm", "airaM"] }
+"airas" = { value = "ኢራስ", alias = ["aIras", "aiRAs", "aiRas", "airAs"] }
+"aisaq" = { value = "ኢሳቅ", alias = ["aIsaq", "aisAq", "aisaQ"] }
+"aisayas" = { value = "ኢሳያስ", alias = ["aIsayas", "aisAyas", "aisaYAs", "aisaYas", "aisayAs"] }
+"aisayyas" = { value = "ኢሳይያስ", alias = ["aIsayyas", "aisAyyas", "aisaYyas", "aisayYAs", "aisayYas", "aisayyAs"] }
+"aisud" = { value = "ኢሱድ", alias = ["aIsud", "aisUd", "aisuD"] }
+"aitamr" = { value = "ኢታምር", alias = ["aItamr", "aitAmr", "aitaMr", "aitamR"] }
+"aitiaiel" = { value = "ኢቲኤል", alias = ["aItiaiel", "aitIaiel", "aitiaIEl", "aitiaIel", "aitiaiEl", "aitiaieL"] }
+"aiyaAiel" = { value = "ኢያዔል", alias = ["aIyaAiel", "aiYAAiel", "aiYaAiel", "aiyAAiel", "aiyaAIEl", "aiyaAIel", "aiyaAiEl", "aiyaAieL"] }
+"aiyaAr" = { value = "ኢያዕር", alias = ["aIyaAr", "aiYAAr", "aiYaAr", "aiyAAr", "aiyaAR"] }
+"aiyabies" = { value = "ኢያቤስ", alias = ["aIyabies", "aiYAbies", "aiYabies", "aiyAbies", "aiyaBIEs", "aiyaBIes", "aiyaBiEs", "aiyaBies", "aiyabIEs", "aiyabIes", "aiyabiEs"] }
+"aiyabis" = { value = "ኢያቢስ", alias = ["aIyabis", "aiYAbis", "aiYabis", "aiyAbis", "aiyaBIs", "aiyaBis", "aiyabIs"] }
+"aiyason" = { value = "ኢያሶን", alias = ["aIyason", "aiYAson", "aiYason", "aiyAson", "aiyasOn"] }
+"aiyasu" = { value = "ኢያሱ", alias = ["aIyasu", "aiYAsu", "aiYasu", "aiyAsu", "aiyasU"] }
+"aiyazraaiel" = { value = "ኢያዝራኤል", alias = ["aIyazraaiel", "aiYAzraaiel", "aiYazraaiel", "aiyAzraaiel", "aiyazRAaiel", "aiyazRaaiel", "aiyazrAaiel", "aiyazraaIEl", "aiyazraaIel", "aiyazraaiEl", "aiyazraaieL"] }
+"aiyedaiel" = { value = "ኢየድኤል", alias = ["aIyedaiel", "aiYEdaiel", "aiYedaiel", "aiyEdaiel", "aiyeDaiel", "aiyedaIEl", "aiyedaIel", "aiyedaiEl", "aiyedaieL"] }
+"aiyerusa" = { value = "ኢየሩሳ", alias = ["aIyerusa", "aiYErusa", "aiYerusa", "aiyErusa", "aiyeRUsa", "aiyeRusa", "aiyerUsa", "aiyerusA"] }
+"aiyesus" = { value = "ኢየሱስ", alias = ["aIyesus", "aiYEsus", "aiYesus", "aiyEsus", "aiyesUs"] }
+"aiyoaeb" = { value = "ኢዮአብ", alias = ["aIyoaeb", "aiYOaeb", "aiYoaeb", "aiyOaeb", "aiyoaEb", "aiyoaeB"] }
+"aiyoaetam" = { value = "ኢዮአታም", alias = ["aIyoaetam", "aiYOaetam", "aiYoaetam", "aiyOaetam", "aiyoaEtam", "aiyoaetAm", "aiyoaetaM"] }
+"aiyoaiel" = { value = "ኢዮኤል", alias = ["aIyoaiel", "aiYOaiel", "aiYoaiel", "aiyOaiel", "aiyoaIEl", "aiyoaIel", "aiyoaiEl", "aiyoaieL"] }
+"aiyoas" = { value = "ኢዮእስ", alias = ["aIyoas", "aiYOas", "aiYoas", "aiyOas"] }
+"aiyob" = { value = "ኢዮብ", alias = ["aIyob", "aiYOb", "aiYob", "aiyOb", "aiyoB"] }
+"aiyohiel" = { value = "ኢዮሄል", alias = ["aIyohiel", "aiYOhiel", "aiYohiel", "aiyOhiel", "aiyohIEl", "aiyohIel", "aiyohiEl", "aiyohieL"] }
+"aiyossafT" = { value = "ኢዮሣፍጥ", alias = ["aIyossafT", "aiYOssafT", "aiYossafT", "aiyOssafT", "aiyossAfT", "aiyossaFT"] }
+"aiyosTos" = { value = "ኢዮስጦስ", alias = ["aIyosTos", "aiYOsTos", "aiYosTos", "aiyOsTos", "aiyosTOs"] }
+"aiyosya" = { value = "ኢዮስያ", alias = ["aIyosya", "aiYOsya", "aiYosya", "aiyOsya", "aiyosYA", "aiyosYa", "aiyosyA"] }
+"aiyosyas" = { value = "ኢዮስያስ", alias = ["aIyosyas", "aiYOsyas", "aiYosyas", "aiyOsyas", "aiyosYAs", "aiyosYas", "aiyosyAs"] }
+"aizana" = { value = "ኢዛና", alias = ["aIzana", "aizAna", "aizanA"] }
+"ajgaeyehu" = { value = "እጅግአየሁ", alias = ["aJgaeyehu", "ajGaeyehu", "ajgaEyehu", "ajgaeYEhu", "ajgaeYehu", "ajgaeyEhu", "ajgaeyehU"] }
+"alfnex" = { value = "እልፍነሽ", alias = ["aLfnex", "alFnex", "alfnEx", "alfneX"] }
+"amebiet" = { value = "እመቤት", alias = ["aMEbiet", "aMebiet", "amEbiet", "ameBIEt", "ameBIet", "ameBiEt", "ameBiet", "amebIEt", "amebIet", "amebiEt"] }
+"amri" = { value = "እምሪ", alias = ["aMri", "amRI", "amRi", "amrI"] }
+"andale" = { value = "እንዳለ", alias = ["anDAle", "anDale", "andAle", "andaLE", "andaLe", "andalE"] }
+"andalkacew" = { value = "እንዳልካቸው", alias = ["anDAlkacew", "anDalkacew", "andAlkacew", "andaLkacew", "andalkAcew", "andalkacEw", "andalkaceW"] }
+"andryas" = { value = "እንድርያስ", alias = ["anDryas", "andRyas", "andrYAs", "andrYas", "andryAs"] }
+"anqu" = { value = "እንቁ", alias = ["anQU", "anQu", "anqU"] }
+"Aobal" = { value = "ዖባል", alias = ["AObal", "AoBAl", "AoBal", "AobAl", "AobaL"] }
+"Aofra" = { value = "ዖፍራ", alias = ["AOfra", "AoFra", "AofRA", "AofRa", "AofrA"] }
+"aoHola" = { value = "ኦሖላ", alias = ["aOHola", "aoHOla", "aoHoLA", "aoHoLa", "aoHolA"] }
+"aoHoliba" = { value = "ኦሖሊባ", alias = ["aOHoliba", "aoHOliba", "aoHoLIba", "aoHoLiba", "aoHolIba", "aoHoliBA", "aoHoliBa", "aoHolibA"] }
+"aomar" = { value = "ኦማር", alias = ["aOmar", "aoMAr", "aoMar", "aomAr", "aomaR"] }
+"Aorf" = { value = "ዖርፍ", alias = ["AOrf", "AoRf", "AorF"] }
+"aorien" = { value = "ኦሬን", alias = ["aOrien", "aoRIEn", "aoRIen", "aoRiEn", "aoRien", "aorIEn", "aorIen", "aoriEn"] }
+"aoryo" = { value = "ኦርዮ", alias = ["aOryo", "aoRyo", "aorYO", "aorYo", "aoryO"] }
+"aoSiem" = { value = "ኦጼም", alias = ["aOSiem", "aoSIEm", "aoSIem", "aoSiEm", "aoSieM"] }
+"aozi" = { value = "ኦዚ", alias = ["aOzi", "aozI"] }
+"arqiesyos" = { value = "እርቄስዮስ", alias = ["aRqiesyos", "arQIEsyos", "arQIesyos", "arQiEsyos", "arQiesyos", "arqIEsyos", "arqIesyos", "arqiEsyos", "arqiesYOs", "arqiesYos", "arqiesyOs"] }
+"asiy" = { value = "እሲይ", alias = ["asIy", "asiY"] }
+"askedar" = { value = "እስከዳር", alias = ["askEdar", "askeDAr", "askeDar", "askedAr", "askedaR"] }
+"askndr" = { value = "እስክንድር", alias = ["asknDr", "askndR"] }
+"asmaaiel" = { value = "እስማኤል", alias = ["asMAaiel", "asMaaiel", "asmAaiel", "asmaaIEl", "asmaaIel", "asmaaiEl", "asmaaieL"] }
+"asraaiel" = { value = "እስራኤል", alias = ["asRAaiel", "asRaaiel", "asrAaiel", "asraaIEl", "asraaIel", "asraaiEl", "asraaieL"] }
+"Assiaiel" = { value = "ዕሢኤል", alias = ["AssIaiel", "AssiaIEl", "AssiaIel", "AssiaiEl", "AssiaieL"] }
+"asTi" = { value = "እስጢ", alias = ["asTI"] }
+"asTifanos" = { value = "እስጢፋኖስ", alias = ["asTIfanos", "asTiFAnos", "asTiFanos", "asTifAnos", "asTifanOs"] }
+"atienex" = { value = "እቴነሽ", alias = ["atIEnex", "atIenex", "atiEnex", "atienEx", "atieneX"] }
+"auaiesebi" = { value = "ኡኤሰቢ", alias = ["aUaiesebi", "auaIEsebi", "auaIesebi", "auaiEsebi", "auaiesEbi", "auaieseBI", "auaieseBi", "auaiesebI"] }
+"auri" = { value = "ኡሪ", alias = ["aUri", "auRI", "auRi", "aurI"] }
+"auruaiel" = { value = "ኡሩኤል", alias = ["aUruaiel", "auRUaiel", "auRuaiel", "aurUaiel", "auruaIEl", "auruaIel", "auruaiEl", "auruaieL"] }
+"Auzaiel" = { value = "ዑዝኤል", alias = ["AUzaiel", "AuzaIEl", "AuzaIel", "AuzaiEl", "AuzaieL"] }
+"axetie" = { value = "እሸቴ", alias = ["aXEtie", "aXetie", "axEtie", "axetIE", "axetIe", "axetiE"] }
+"axetu" = { value = "እሸቱ", alias = ["aXEtu", "aXetu", "axEtu", "axetU"] }
+"ayasu" = { value = "እያሱ", alias = ["aYAsu", "aYasu", "ayAsu", "ayasU"] }
+"ayerus" = { value = "እየሩስ", alias = ["aYErus", "aYerus", "ayErus", "ayeRUs", "ayeRus", "ayerUs"] }
+"ayerusaelem" = { value = "እየሩስአለም", alias = ["aYErusaelem", "aYerusaelem", "ayErusaelem", "ayeRUsaelem", "ayeRusaelem", "ayerUsaelem", "ayerusaElem", "ayerusaeLEm", "ayerusaeLem", "ayerusaelEm", "ayerusaeleM"] }
+"ayobiel" = { value = "እዮቤል", alias = ["aYObiel", "aYobiel", "ayObiel", "ayoBIEl", "ayoBIel", "ayoBiEl", "ayoBiel", "ayobIEl", "ayobIel", "ayobiEl", "ayobieL"] }
+"Azra" = { value = "ዕዝራ", alias = ["AzRA", "AzRa", "AzrA"] }
+"bahru" = { value = "ባህሩ", alias = ["BAhru", "Bahru", "bAhru", "bahRU", "bahRu", "bahrU"] }
+"bala" = { value = "ባላ", alias = ["BAla", "Bala", "bAla", "baLA", "baLa", "balA"] }
+"barkaiel" = { value = "ባርክኤል", alias = ["BArkaiel", "Barkaiel", "bArkaiel", "baRkaiel", "barkaIEl", "barkaIel", "barkaiEl", "barkaieL"] }
+"barok" = { value = "ባሮክ", alias = ["BArok", "Barok", "bArok", "baROk", "baRok", "barOk"] }
+"baryaH" = { value = "ባርያሕ", alias = ["BAryaH", "BaryaH", "bAryaH", "baRyaH", "barYAH", "barYaH", "baryAH"] }
+"batuaiel" = { value = "ባቱኤል", alias = ["BAtuaiel", "Batuaiel", "bAtuaiel", "batUaiel", "batuaIEl", "batuaIel", "batuaiEl", "batuaieL"] }
+"beamnet" = { value = "በእምነት", alias = ["BEamnet", "Beamnet", "bEamnet", "beaMnet", "beamnEt"] }
+"befeqadu" = { value = "በፈቃዱ", alias = ["BEfeqadu", "Befeqadu", "bEfeqadu", "beFEqadu", "beFeqadu", "befEqadu", "befeQAdu", "befeQadu", "befeqAdu", "befeqaDU", "befeqaDu", "befeqadU"] }
+"behaylu" = { value = "በሃይሉ", alias = ["BEhaylu", "Behaylu", "bEhaylu", "behAylu", "behaYlu", "behayLU", "behayLu", "behaylU"] }
+"belacew" = { value = "በላቸው", alias = ["BElacew", "Belacew", "bElacew", "beLAcew", "beLacew", "belAcew", "belacEw", "belaceW"] }
+"belasan" = { value = "በላሳን", alias = ["BElasan", "Belasan", "bElasan", "beLAsan", "beLasan", "belAsan", "belasAn"] }
+"belay" = { value = "በላይ", alias = ["BElay", "Belay", "bElay", "beLAy", "beLay", "belAy", "belaY"] }
+"belayneh" = { value = "በላይነህ", alias = ["BElayneh", "Belayneh", "bElayneh", "beLAyneh", "beLayneh", "belAyneh", "belaYneh", "belaynEh"] }
+"belaynex" = { value = "በላይነሽ", alias = ["BElaynex", "Belaynex", "bElaynex", "beLAynex", "beLaynex", "belAynex", "belaYnex", "belaynEx", "belayneX"] }
+"beleTe" = { value = "በለጠ", alias = ["BEleTe", "BeleTe", "bEleTe", "beLETe", "beLeTe", "belETe", "beleTE"] }
+"beleTu" = { value = "በለጡ", alias = ["BEleTu", "BeleTu", "bEleTu", "beLETu", "beLeTu", "belETu", "beleTU"] }
+"beleTxacew" = { value = "በለጥሻቸው", alias = ["BEleTxacew", "BeleTxacew", "bEleTxacew", "beLETxacew", "beLeTxacew", "belETxacew", "beleTXAcew", "beleTXacew", "beleTxAcew", "beleTxacEw", "beleTxaceW"] }
+"benaya" = { value = "በናያ", alias = ["BEnaya", "Benaya", "bEnaya", "benAya", "benaYA", "benaYa", "benayA"] }
+"beqele" = { value = "በቀለ", alias = ["BEqele", "Beqele", "bEqele", "beQEle", "beQele", "beqEle", "beqeLE", "beqeLe", "beqelE"] }
+"beqelec" = { value = "በቀለች", alias = ["BEqelec", "Beqelec", "bEqelec", "beQElec", "beQelec", "beqElec", "beqeLEc", "beqeLec", "beqelEc"] }
+"beqila" = { value = "በቂላ", alias = ["BEqila", "Beqila", "bEqila", "beQIla", "beQila", "beqIla", "beqiLA", "beqiLa", "beqilA"] }
+"berakya" = { value = "በራክያ", alias = ["BErakya", "Berakya", "bErakya", "beRAkya", "beRakya", "berAkya", "berakYA", "berakYa", "berakyA"] }
+"bereket" = { value = "በረከት", alias = ["BEreket", "Bereket", "bEreket", "beREket", "beReket", "berEket", "berekEt"] }
+"berhie" = { value = "በርሄ", alias = ["BErhie", "Berhie", "bErhie", "beRhie", "berhIE", "berhIe", "berhiE"] }
+"bernabas" = { value = "በርናባስ", alias = ["BErnabas", "Bernabas", "bErnabas", "beRnabas", "bernAbas", "bernaBAs", "bernaBas", "bernabAs"] }
+"berniqie" = { value = "በርኒቄ", alias = ["BErniqie", "Berniqie", "bErniqie", "beRniqie", "bernIqie", "berniQIE", "berniQIe", "berniQiE", "berniQie", "berniqIE", "berniqIe", "berniqiE"] }
+"bertelomiewos" = { value = "በርተሎሜዎስ", alias = ["BErtelomiewos", "Bertelomiewos", "bErtelomiewos", "beRtelomiewos", "bertElomiewos", "berteLOmiewos", "berteLomiewos", "bertelOmiewos", "berteloMIEwos", "berteloMIewos", "berteloMiEwos", "berteloMiewos", "bertelomIEwos", "bertelomIewos", "bertelomiEwos", "bertelomieWOs", "bertelomieWos", "bertelomiewOs"] }
+"berTiemiewos" = { value = "በርጤሜዎስ", alias = ["BErTiemiewos", "BerTiemiewos", "bErTiemiewos", "beRTiemiewos", "berTIEmiewos", "berTIemiewos", "berTiEmiewos", "berTieMIEwos", "berTieMIewos", "berTieMiEwos", "berTieMiewos", "berTiemIEwos", "berTiemIewos", "berTiemiEwos", "berTiemieWOs", "berTiemieWos", "berTiemiewOs"] }
+"berya" = { value = "በርያ", alias = ["BErya", "Berya", "bErya", "beRya", "berYA", "berYa", "beryA"] }
+"beSega" = { value = "በጸጋ", alias = ["BESega", "BeSega", "bESega", "beSEga", "beSeGA", "beSeGa", "beSegA"] }
+"besufeqad" = { value = "በሱፈቃድ", alias = ["BEsufeqad", "Besufeqad", "bEsufeqad", "besUfeqad", "besuFEqad", "besuFeqad", "besufEqad", "besufeQAd", "besufeQad", "besufeqAd", "besufeqaD"] }
+"beyene" = { value = "በየነ", alias = ["BEyene", "Beyene", "bEyene", "beYEne", "beYene", "beyEne", "beyenE"] }
+"biebay" = { value = "ቤባይ", alias = ["BIEbay", "BIebay", "BiEbay", "Biebay", "bIEbay", "bIebay", "biEbay", "bieBAy", "bieBay", "biebAy", "biebaY"] }
+"biedya" = { value = "ቤድያ", alias = ["BIEdya", "BIedya", "BiEdya", "Biedya", "bIEdya", "bIedya", "biEdya", "bieDya", "biedYA", "biedYa", "biedyA"] }
+"biekier" = { value = "ቤኬር", alias = ["BIEkier", "BIekier", "BiEkier", "Biekier", "bIEkier", "bIekier", "biEkier", "biekIEr", "biekIer", "biekiEr", "biekieR"] }
+"bien" = { value = "ቤን", alias = ["BIEn", "BIen", "BiEn", "Bien", "bIEn", "bIen", "biEn"] }
+"bieri" = { value = "ቤሪ", alias = ["BIEri", "BIeri", "BiEri", "Bieri", "bIEri", "bIeri", "biEri", "bieRI", "bieRi", "bierI"] }
+"biersabieh" = { value = "ቤርሳቤህ", alias = ["BIErsaBIEh", "BIersaBIeh", "BiErsaBiEh", "BiersaBieh", "bIErsabIEh", "bIersabIeh", "biErsabiEh", "bieRsabieh", "biersAbieh"] }
+"biesay" = { value = "ቤሳይ", alias = ["BIEsay", "BIesay", "BiEsay", "Biesay", "bIEsay", "bIesay", "biEsay", "biesAy", "biesaY"] }
+"biesiemot" = { value = "ቤሴሞት", alias = ["BIEsiemot", "BIesiemot", "BiEsiemot", "Biesiemot", "bIEsiemot", "bIesiemot", "biEsiemot", "biesIEmot", "biesIemot", "biesiEmot", "biesieMOt", "biesieMot", "biesiemOt"] }
+"bieteaeb" = { value = "ቤተአብ", alias = ["BIEteaeb", "BIeteaeb", "BiEteaeb", "Bieteaeb", "bIEteaeb", "bIeteaeb", "biEteaeb", "bietEaeb", "bieteaEb", "bieteaeB"] }
+"bietel" = { value = "ቤተል", alias = ["BIEtel", "BIetel", "BiEtel", "Bietel", "bIEtel", "bIetel", "biEtel", "bietEl", "bieteL"] }
+"biethieliem" = { value = "ቤትሄሌም", alias = ["BIEthieliem", "BIethieliem", "BiEthieliem", "Biethieliem", "bIEthieliem", "bIethieliem", "biEthieliem", "biethIEliem", "biethIeliem", "biethiEliem", "biethieLIEm", "biethieLIem", "biethieLiEm", "biethieLiem", "biethielIEm", "biethielIem", "biethieliEm", "biethielieM"] }
+"bieza" = { value = "ቤዛ", alias = ["BIEza", "BIeza", "BiEza", "Bieza", "bIEza", "bIeza", "biEza", "biezA"] }
+"biezawit" = { value = "ቤዛዊት", alias = ["BIEzawit", "BIezawit", "BiEzawit", "Biezawit", "bIEzawit", "bIezawit", "biEzawit", "biezAwit", "biezaWIt", "biezaWit", "biezawIt"] }
+"biftu" = { value = "ቢፍቱ", alias = ["BIftu", "Biftu", "bIftu", "biFtu", "biftU"] }
+"binAa" = { value = "ቢንዓ", alias = ["BInAa", "BinAa", "bInAa", "binAA"] }
+"biniyam" = { value = "ቢኒያም", alias = ["BIniyam", "Biniyam", "bIniyam", "binIyam", "biniYAm", "biniYam", "biniyAm", "biniyaM"] }
+"bitya" = { value = "ቢትያ", alias = ["BItya", "Bitya", "bItya", "bitYA", "bitYa", "bityA"] }
+"blien" = { value = "ብሌን", alias = ["Blien", "bLIEn", "bLIen", "bLiEn", "bLien", "blIEn", "blIen", "bliEn"] }
+"bnyam" = { value = "ብንያም", alias = ["Bnyam", "bnYAm", "bnYam", "bnyAm", "bnyaM"] }
+"boAiez" = { value = "ቦዔዝ", alias = ["BOAiez", "BoAiez", "bOAiez", "boAIEz", "boAIez", "boAiEz"] }
+"bohen" = { value = "ቦሀን", alias = ["BOhen", "Bohen", "bOhen", "bohEn"] }
+"brahanu" = { value = "ብራሃኑ", alias = ["Brahanu", "bRAhanu", "bRahanu", "brAhanu", "brahAnu", "brahanU"] }
+"braya" = { value = "ብራያ", alias = ["Braya", "bRAya", "bRaya", "brAya", "braYA", "braYa", "brayA"] }
+"brtukan" = { value = "ብርቱካን", alias = ["Brtukan", "bRtukan", "brtUkan", "brtukAn"] }
+"bruk" = { value = "ብሩክ", alias = ["Bruk", "bRUk", "bRuk", "brUk"] }
+"bruktawit" = { value = "ብሩክታዊት", alias = ["Bruktawit", "bRUktawit", "bRuktawit", "brUktawit", "bruktAwit", "bruktaWIt", "bruktaWit", "bruktawIt"] }
+"bsrat" = { value = "ብስራት", alias = ["Bsrat", "bsRAt", "bsRat", "bsrAt"] }
+"buqya" = { value = "ቡቅያ", alias = ["BUqya", "Buqya", "bUqya", "buQya", "buqYA", "buqYa", "buqyA"] }
+"bzunex" = { value = "ብዙነሽ", alias = ["Bzunex", "bzUnex", "bzunEx", "bzuneX"] }
+"Caltu" = { value = "ጫልቱ", alias = ["CAltu", "CaLtu", "CaltU"] }
+"Canyalew" = { value = "ጫንያለው", alias = ["CAnyalew", "CanYAlew", "CanYalew", "CanyAlew", "CanyaLEw", "CanyaLew", "CanyalEw", "CanyaleW"] }
+"Cebudie" = { value = "ጨቡዴ", alias = ["CEbudie", "CeBUdie", "CeBudie", "CebUdie", "CebuDIE", "CebuDIe", "CebuDiE", "CebuDie", "CebudIE", "CebudIe", "CebudiE"] }
+"cernet" = { value = "ቸርነት", alias = ["cErnet", "ceRnet", "cernEt"] }
+"daaiel" = { value = "ዳኤል", alias = ["DAaiel", "Daaiel", "dAaiel", "daaIEl", "daaIel", "daaiEl", "daaieL"] }
+"dagm" = { value = "ዳግም", alias = ["DAgm", "Dagm", "dAgm", "daGm", "dagM"] }
+"dagmawi" = { value = "ዳግማዊ", alias = ["DAgmawi", "Dagmawi", "dAgmawi", "daGmawi", "dagMAwi", "dagMawi", "dagmAwi", "dagmaWI", "dagmaWi", "dagmawI"] }
+"dagmawit" = { value = "ዳግማዊት", alias = ["DAgmawit", "Dagmawit", "dAgmawit", "daGmawit", "dagMAwit", "dagMawit", "dagmAwit", "dagmaWIt", "dagmaWit", "dagmawIt"] }
+"dan" = { value = "ዳን", alias = ["DAn", "Dan", "dAn"] }
+"daNacew" = { value = "ዳኛቸው", alias = ["DANacew", "DaNacew", "dANacew", "daNAcew", "daNacEw", "daNaceW"] }
+"danaiel" = { value = "ዳንኤል", alias = ["DAnaiel", "Danaiel", "dAnaiel", "danaIEl", "danaIel", "danaiEl", "danaieL"] }
+"daniel" = { value = "ዳኔል", alias = ["DAniel", "Daniel", "dAniel", "danIEl", "danIel", "daniEl", "danieL"] }
+"daryos" = { value = "ዳርዮስ", alias = ["DAryos", "Daryos", "dAryos", "daRyos", "darYOs", "darYos", "daryOs"] }
+"datan" = { value = "ዳታን", alias = ["DAtan", "Datan", "dAtan", "datAn"] }
+"dawit" = { value = "ዳዊት", alias = ["DAwit", "Dawit", "dAwit", "daWIt", "daWit", "dawIt"] }
+"ddan" = { value = "ድዳን", alias = ["Ddan", "dDAn", "dDan", "ddAn"] }
+"debebe" = { value = "ደበበ", alias = ["DEbebe", "Debebe", "dEbebe", "deBEBE", "deBeBe", "debEbE"] }
+"debray" = { value = "ደብራይ", alias = ["DEbray", "Debray", "dEbray", "deBray", "debRAy", "debRay", "debrAy", "debraY"] }
+"debritu" = { value = "ደብሪቱ", alias = ["DEbritu", "Debritu", "dEbritu", "deBritu", "debRItu", "debRitu", "debrItu", "debritU"] }
+"dejen" = { value = "ደጀን", alias = ["DEjen", "Dejen", "dEjen", "deJEn", "deJen", "dejEn"] }
+"delfon" = { value = "ደልፎን", alias = ["DElfon", "Delfon", "dElfon", "deLfon", "delFOn", "delFon", "delfOn"] }
+"delila" = { value = "ደሊላ", alias = ["DElila", "Delila", "dElila", "deLIla", "deLila", "delIla", "deliLA", "deliLa", "delilA"] }
+"demeqe" = { value = "ደመቀ", alias = ["DEmeqe", "Demeqe", "dEmeqe", "deMEqe", "deMeqe", "demEqe", "demeQE", "demeQe", "demeqE"] }
+"demrew" = { value = "ደምረው", alias = ["DEmrew", "Demrew", "dEmrew", "deMrew", "demREw", "demRew", "demrEw", "demreW"] }
+"demsie" = { value = "ደምሴ", alias = ["DEmsie", "Demsie", "dEmsie", "deMsie", "demsIE", "demsIe", "demsiE"] }
+"deral" = { value = "ደራል", alias = ["DEral", "Deral", "dEral", "deRAl", "deRal", "derAl", "deraL"] }
+"derartu" = { value = "ደራርቱ", alias = ["DErartu", "Derartu", "dErartu", "deRArtu", "deRartu", "derArtu", "deraRtu", "derartU"] }
+"derejie" = { value = "ደረጄ", alias = ["DErejie", "Derejie", "dErejie", "deREjie", "deRejie", "derEjie", "dereJIE", "dereJIe", "dereJiE", "dereJie", "derejIE", "derejIe", "derejiE"] }
+"desaeleN" = { value = "ደስአለኝ", alias = ["DEsaeleN", "DesaeleN", "dEsaeleN", "desaEleN", "desaeLEN", "desaeLeN", "desaelEN"] }
+"desta" = { value = "ደስታ", alias = ["DEsta", "Desta", "dEsta", "destA"] }
+"dibaba" = { value = "ዲባባ", alias = ["DIbaba", "Dibaba", "dIbaba", "diBABA", "diBaBa", "dibAbA"] }
+"dibora" = { value = "ዲቦራ", alias = ["DIbora", "Dibora", "dIbora", "diBOra", "diBora", "dibOra", "diboRA", "diboRa", "diborA"] }
+"dibya" = { value = "ዲብያ", alias = ["DIbya", "Dibya", "dIbya", "diBya", "dibYA", "dibYa", "dibyA"] }
+"diebora" = { value = "ዴቦራ", alias = ["DIEbora", "DIebora", "DiEbora", "Diebora", "dIEbora", "dIebora", "diEbora", "dieBOra", "dieBora", "diebOra", "dieboRA", "dieboRa", "dieborA"] }
+"dina" = { value = "ዲና", alias = ["DIna", "Dina", "dIna", "dinA"] }
+"dlnesaw" = { value = "ድልነሳው", alias = ["Dlnesaw", "dLnesaw", "dlnEsaw", "dlnesAw", "dlnesaW"] }
+"dmieTros" = { value = "ድሜጥሮስ", alias = ["DmieTros", "dMIETros", "dMIeTros", "dMiETros", "dMieTros", "dmIETros", "dmIeTros", "dmiETros", "dmieTROs", "dmieTRos", "dmieTrOs"] }
+"dnqnex" = { value = "ድንቅነሽ", alias = ["Dnqnex", "dnQnex", "dnqnEx", "dnqneX"] }
+"dorqa" = { value = "ዶርቃ", alias = ["DOrqa", "Dorqa", "dOrqa", "doRqa", "dorQA", "dorQa", "dorqA"] }
+"drusila" = { value = "ድሩሲላ", alias = ["Drusila", "dRUsila", "dRusila", "drUsila", "drusIla", "drusiLA", "drusiLa", "drusilA"] }
+"duma" = { value = "ዱማ", alias = ["DUma", "Duma", "dUma", "duMA", "duMa", "dumA"] }
+"dya" = { value = "ድያ", alias = ["Dya", "dYA", "dYa", "dyA"] }
+"faliet" = { value = "ፋሌት", alias = ["FAliet", "Faliet", "fAliet", "faLIEt", "faLIet", "faLiEt", "faLiet", "falIEt", "falIet", "faliEt"] }
+"fanuaiel" = { value = "ፋኑኤል", alias = ["FAnuaiel", "Fanuaiel", "fAnuaiel", "fanUaiel", "fanuaIEl", "fanuaIel", "fanuaiEl", "fanuaieL"] }
+"faquHie" = { value = "ፋቁሔ", alias = ["FAquHie", "FaquHie", "fAquHie", "faQUHie", "faQuHie", "faqUHie", "faquHIE", "faquHIe", "faquHiE"] }
+"fasieHe" = { value = "ፋሴሐ", alias = ["FAsieHe", "FasieHe", "fAsieHe", "fasIEHe", "fasIeHe", "fasiEHe", "fasieHE"] }
+"fasika" = { value = "ፋሲካ", alias = ["FAsika", "Fasika", "fAsika", "fasIka", "fasikA"] }
+"fasil" = { value = "ፋሲል", alias = ["FAsil", "Fasil", "fAsil", "fasIl", "fasiL"] }
+"fedaya" = { value = "ፈዳያ", alias = ["FEdaya", "Fedaya", "fEdaya", "feDAya", "feDaya", "fedAya", "fedaYA", "fedaYa", "fedayA"] }
+"fedlu" = { value = "ፈድሉ", alias = ["FEdlu", "Fedlu", "fEdlu", "feDlu", "fedLU", "fedLu", "fedlU"] }
+"fegegta" = { value = "ፈገግታ", alias = ["FEgegta", "Fegegta", "fEgegta", "feGEgta", "feGegta", "fegEgta", "fegeGta", "fegegtA"] }
+"felaTya" = { value = "ፈላጥያ", alias = ["FElaTya", "FelaTya", "fElaTya", "feLATya", "feLaTya", "felATya", "felaTYA", "felaTYa", "felaTyA"] }
+"felTi" = { value = "ፈልጢ", alias = ["FElTi", "FelTi", "fElTi", "feLTi", "felTI"] }
+"fiebie" = { value = "ፌቤ", alias = ["FIEbie", "FIebie", "FiEbie", "Fiebie", "fIEbie", "fIebie", "fiEbie", "fieBIE", "fieBIe", "fieBiE", "fieBie", "fiebIE", "fiebIe", "fiebiE"] }
+"fieven" = { value = "ፌቨን", alias = ["FIEven", "FIeven", "FiEven", "Fieven", "fIEven", "fIeven", "fiEven", "fieVEn", "fieVen", "fievEn"] }
+"filks" = { value = "ፊልክስ", alias = ["FIlks", "Filks", "fIlks", "fiLks"] }
+"filmona" = { value = "ፊልሞና", alias = ["FIlmona", "Filmona", "fIlmona", "fiLmona", "filMOna", "filMona", "filmOna", "filmonA"] }
+"filPos" = { value = "ፊልጶስ", alias = ["FIlPos", "FilPos", "fIlPos", "fiLPos", "filPOs"] }
+"finHes" = { value = "ፊንሐስ", alias = ["FInHes", "FinHes", "fInHes", "finHEs"] }
+"fisTos" = { value = "ፊስጦስ", alias = ["FIsTos", "FisTos", "fIsTos", "fisTOs"] }
+"fnana" = { value = "ፍናና", alias = ["Fnana", "fnAnA"] }
+"fqadu" = { value = "ፍቃዱ", alias = ["Fqadu", "fQAdu", "fQadu", "fqAdu", "fqaDU", "fqaDu", "fqadU"] }
+"fqr" = { value = "ፍቅር", alias = ["Fqr", "fQr", "fqR"] }
+"fqremaryam" = { value = "ፍቅረማርያም", alias = ["Fqremaryam", "fQremaryam", "fqREmaryam", "fqRemaryam", "fqrEmaryam", "fqreMAryam", "fqreMaryam", "fqremAryam", "fqremaRyam", "fqremarYAm", "fqremarYam", "fqremaryAm", "fqremaryaM"] }
+"fqrte" = { value = "ፍቅርተ", alias = ["Fqrte", "fQrte", "fqRte", "fqrtE"] }
+"fqru" = { value = "ፍቅሩ", alias = ["Fqru", "fQru", "fqRU", "fqRu", "fqrU"] }
+"friehiwet" = { value = "ፍሬሂወት", alias = ["Friehiwet", "fRIEhiwet", "fRIehiwet", "fRiEhiwet", "fRiehiwet", "frIEhiwet", "frIehiwet", "friEhiwet", "friehIwet", "friehiWEt", "friehiWet", "friehiwEt"] }
+"fries" = { value = "ፍሬስ", alias = ["Fries", "fRIEs", "fRIes", "fRiEs", "fRies", "frIEs", "frIes", "friEs"] }
+"friezer" = { value = "ፍሬዘር", alias = ["Friezer", "fRIEzer", "fRIezer", "fRiEzer", "fRiezer", "frIEzer", "frIezer", "friEzer", "friezEr", "friezeR"] }
+"fsehe" = { value = "ፍሰሀ", alias = ["Fsehe", "fsEhe", "fsehE"] }
+"fSSum" = { value = "ፍፁም", alias = ["FSSum", "fSSUm", "fSSuM"] }
+"gadieyon" = { value = "ጋዴዮን", alias = ["GAdieyon", "Gadieyon", "gAdieyon", "gaDIEyon", "gaDIeyon", "gaDiEyon", "gaDieyon", "gadIEyon", "gadIeyon", "gadiEyon", "gadieYOn", "gadieYon", "gadieyOn"] }
+"gaxaw" = { value = "ጋሻው", alias = ["GAxaw", "Gaxaw", "gAxaw", "gaXAw", "gaXaw", "gaxAw", "gaxaW"] }
+"gaydad" = { value = "ጋይዳድ", alias = ["GAydad", "Gaydad", "gAydad", "gaYdad", "gayDAd", "gayDad", "gaydAd", "gaydaD"] }
+"gayyos" = { value = "ጋይዮስ", alias = ["GAyyos", "Gayyos", "gAyyos", "gaYyos", "gayYOs", "gayYos", "gayyOs"] }
+"gebraiel" = { value = "ገብርኤል", alias = ["GEbraiel", "Gebraiel", "gEbraiel", "geBraiel", "gebRaiel", "gebraIEl", "gebraIel", "gebraiEl", "gebraieL"] }
+"gelila" = { value = "ገሊላ", alias = ["GElila", "Gelila", "gElila", "geLIla", "geLila", "gelIla", "geliLA", "geliLa", "gelilA"] }
+"gemalaiel" = { value = "ገማልኤል", alias = ["GEmalaiel", "Gemalaiel", "gEmalaiel", "geMAlaiel", "geMalaiel", "gemAlaiel", "gemaLaieL", "gemalaIEl", "gemalaIel", "gemalaiEl"] }
+"gemali" = { value = "ገማሊ", alias = ["GEmali", "Gemali", "gEmali", "geMAli", "geMali", "gemAli", "gemaLI", "gemaLi", "gemalI"] }
+"gemarya" = { value = "ገማርያ", alias = ["GEmarya", "Gemarya", "gEmarya", "geMArya", "geMarya", "gemArya", "gemaRya", "gemarYA", "gemarYa", "gemaryA"] }
+"gemecu" = { value = "ገመቹ", alias = ["GEmecu", "Gemecu", "gEmecu", "geMEcu", "geMecu", "gemEcu", "gemecU"] }
+"genet" = { value = "ገነት", alias = ["GEnet", "Genet", "gEnet", "genEt"] }
+"gezaKeN" = { value = "ገዛኸኝ", alias = ["GEzaKeN", "GezaKeN", "gEzaKeN", "gezAKeN", "gezaKEN"] }
+"giediaon" = { value = "ጌዲኦን", alias = ["GIEdiaon", "GIediaon", "GiEdiaon", "Giediaon", "gIEdiaon", "gIediaon", "giEdiaon", "gieDIaon", "gieDiaon", "giedIaon", "giediaOn"] }
+"giediewon" = { value = "ጌዴዎን", alias = ["GIEdiewon", "GIediewon", "GiEdiewon", "Giediewon", "gIEdiewon", "gIediewon", "giEdiewon", "gieDIEwon", "gieDIewon", "gieDiEwon", "gieDiewon", "giedIEwon", "giedIewon", "giediEwon", "giedieWOn", "giedieWon", "giediewOn"] }
+"giedson" = { value = "ጌድሶን", alias = ["GIEdson", "GIedson", "GiEdson", "Giedson", "gIEdson", "gIedson", "giEdson", "gieDson", "giedsOn"] }
+"giersam" = { value = "ጌርሳም", alias = ["GIErsam", "GIersam", "GiErsam", "Giersam", "gIErsam", "gIersam", "giErsam", "gieRsam", "giersAm", "giersaM"] }
+"giesam" = { value = "ጌሳም", alias = ["GIEsam", "GIesam", "GiEsam", "Giesam", "gIEsam", "gIesam", "giEsam", "giesAm", "giesaM"] }
+"gietacew" = { value = "ጌታቸው", alias = ["GIEtacew", "GIetacew", "GiEtacew", "Gietacew", "gIEtacew", "gIetacew", "giEtacew", "gietAcew", "gietacEw", "gietaceW"] }
+"gietahun" = { value = "ጌታሁን", alias = ["GIEtahun", "GIetahun", "GiEtahun", "Gietahun", "gIEtahun", "gIetahun", "giEtahun", "gietAhun", "gietahUn"] }
+"gietnet" = { value = "ጌትነት", alias = ["GIEtnet", "GIetnet", "GiEtnet", "Gietnet", "gIEtnet", "gIetnet", "giEtnet", "gietnEt"] }
+"godolya" = { value = "ጎዶልያ", alias = ["GOdolya", "Godolya", "gOdolya", "goDOlya", "goDolya", "godOlya", "godoLya", "godolYA", "godolYa", "godolyA"] }
+"golyad" = { value = "ጎልያድ", alias = ["GOlyad", "Golyad", "gOlyad", "goLyad", "golYAd", "golYad", "golyAd", "golyaD"] }
+"gomier" = { value = "ጎሜር", alias = ["GOmier", "Gomier", "gOmier", "goMIEr", "goMIer", "goMiEr", "goMier", "gomIEr", "gomIer", "gomiEr", "gomieR"] }
+"gosayie" = { value = "ጎሳዬ", alias = ["GOsayie", "Gosayie", "gOsayie", "gosAyie", "gosaYIE", "gosaYIe", "gosaYiE", "gosaYie", "gosayIE", "gosayIe", "gosayiE"] }
+"gotolya" = { value = "ጎቶልያ", alias = ["GOtolya", "Gotolya", "gOtolya", "gotOlya", "gotoLya", "gotolYA", "gotolYa", "gotolyA"] }
+"gotonyal" = { value = "ጎቶንያል", alias = ["GOtonyal", "Gotonyal", "gOtonyal", "gotOnyal", "gotonYAl", "gotonYal", "gotonyAl", "gotonyaL"] }
+"grma" = { value = "ግርማ", alias = ["Grma", "gRma", "grMA", "grMa", "grmA"] }
+"grmacew" = { value = "ግርማቸው", alias = ["Grmacew", "gRmacew", "grMAcew", "grMacew", "grmAcew", "grmacEw", "grmaceW"] }
+"grum" = { value = "ግሩም", alias = ["Grum", "gRUm", "gRum", "grUm", "gruM"] }
+"gudiaiel" = { value = "ጉዲኤል", alias = ["GUdiaiel", "Gudiaiel", "gUdiaiel", "guDIaiel", "guDiaiel", "gudIaiel", "gudiaIEl", "gudiaIel", "gudiaiEl", "gudiaieL"] }
+"gyaz" = { value = "ግያዝ", alias = ["Gyaz", "gYAz", "gYaz", "gyAz"] }
+"gzacew" = { value = "ግዛቸው", alias = ["Gzacew", "gzAcew", "gzacEw", "gzaceW"] }
+"Hagi" = { value = "ሓጊ", alias = ["HAgi", "HaGI", "HaGi", "HagI"] }
+"Hana" = { value = "ሓና", alias = ["HAna", "HanA"] }
+"Hananya" = { value = "ሓናንያ", alias = ["HAnanya", "HanAnya", "HananYA", "HananYa", "HananyA"] }
+"haylie" = { value = "ሃይሌ", alias = ["hAylie", "haYlie", "hayLIE", "hayLIe", "hayLiE", "hayLie", "haylIE", "haylIe", "hayliE"] }
+"hebtamu" = { value = "ሀብታሙ", alias = ["hEbtamu", "heBtamu", "hebtAmu", "hebtaMU", "hebtaMu", "hebtamU"] }
+"hebtie" = { value = "ሀብቴ", alias = ["hEbtie", "heBtie", "hebtIE", "hebtIe", "hebtiE"] }
+"Hedi" = { value = "ሐዲ", alias = ["HEdi", "HeDI", "HeDi", "HedI"] }
+"hedoram" = { value = "ሀዶራም", alias = ["hEdoram", "heDOram", "heDoram", "hedOram", "hedoRAm", "hedoRam", "hedorAm", "hedoraM"] }
+"hegos" = { value = "ሀጎስ", alias = ["hEgos", "heGOs", "heGos", "hegOs"] }
+"Hegya" = { value = "ሐግያ", alias = ["HEgya", "HeGya", "HegYA", "HegYa", "HegyA"] }
+"Heman" = { value = "ሐማን", alias = ["HEman", "HeMAn", "HeMan", "HemAn"] }
+"hemelmal" = { value = "ሀመልማል", alias = ["hEmelmal", "heMElmal", "heMelmal", "hemElmal", "hemeLmaL", "hemelMAl", "hemelMal", "hemelmAl"] }
+"hemere" = { value = "ሀመረ", alias = ["hEmere", "heMEre", "heMere", "hemEre", "hemeRE", "hemeRe", "hemerE"] }
+"hena" = { value = "ሀና", alias = ["hEna", "henA"] }
+"Hena" = { value = "ሐና", alias = ["HEna", "HenA"] }
+"henan" = { value = "ሀናን", alias = ["hEnan", "henAn"] }
+"Henan" = { value = "ሐናን", alias = ["HEnan", "HenAn"] }
+"Henanya" = { value = "ሐናንያ", alias = ["HEnanya", "HenAnya", "HenanYA", "HenanYa", "HenanyA"] }
+"Henon" = { value = "ሐኖን", alias = ["HEnon", "HenOn"] }
+"Heran" = { value = "ሐራን", alias = ["HEran", "HeRAn", "HeRan", "HerAn"] }
+"hereg" = { value = "ሀረግ", alias = ["hEreg", "heREg", "heReg", "herEg", "hereG"] }
+"hesen" = { value = "ሀሰን", alias = ["hEsen", "hesEn"] }
+"HeSro" = { value = "ሐጽሮ", alias = ["HESro", "HeSRO", "HeSRo", "HeSrO"] }
+"heyat" = { value = "ሀያት", alias = ["hEyat", "heYAt", "heYat", "heyAt"] }
+"heymanot" = { value = "ሀይማኖት", alias = ["hEymanot", "heYmanot", "heyMAnot", "heyManot", "heymAnot", "heymanOt"] }
+"Hezaiel" = { value = "ሐዝኤል", alias = ["HEzaiel", "HezaIEl", "HezaIel", "HezaiEl", "HezaieL"] }
+"Hiela" = { value = "ሔላ", alias = ["HIEla", "HIela", "HiEla", "HieLA", "HieLa", "HielA"] }
+"Hielday" = { value = "ሔልዳይ", alias = ["HIElday", "HIelday", "HiElday", "HieLday", "HielDAy", "HielDay", "HieldAy", "HieldaY"] }
+"hielen" = { value = "ሄለን", alias = ["hIElen", "hIelen", "hiElen", "hieLEn", "hieLen", "hielEn"] }
+"Hielqay" = { value = "ሔልቃይ", alias = ["HIElqay", "HIelqay", "HiElqay", "HieLqay", "HielQAy", "HielQay", "HielqAy", "HielqaY"] }
+"hienoH" = { value = "ሄኖሕ", alias = ["hIEnoH", "hIenoH", "hiEnoH", "hienOH"] }
+"hienohh" = { value = "ሄኖኅ", alias = ["hIEnohh", "hIenohh", "hiEnohh", "hienOhh"] }
+"hienok" = { value = "ሄኖክ", alias = ["hIEnok", "hIenok", "hiEnok", "hienOk"] }
+"hienos" = { value = "ሄኖስ", alias = ["hIEnos", "hIenos", "hiEnos", "hienOs"] }
+"hiermiela" = { value = "ሄርሜላ", alias = ["hIErmiela", "hIermiela", "hiErmiela", "hieRmiela", "hierMIEla", "hierMIela", "hierMiEla", "hierMiela", "hiermIEla", "hiermIela", "hiermiEla", "hiermieLA", "hiermieLa", "hiermielA"] }
+"hiermien" = { value = "ሄርሜን", alias = ["hIErmien", "hIermien", "hiErmien", "hieRmien", "hierMIEn", "hierMIen", "hierMiEn", "hierMien", "hiermIEn", "hiermIen", "hiermiEn"] }
+"hiermon" = { value = "ሄርሞን", alias = ["hIErmon", "hIermon", "hiErmon", "hieRmon", "hierMOn", "hierMon", "hiermOn"] }
+"hierod" = { value = "ሄሮድ", alias = ["hIErod", "hIerod", "hiErod", "hieROd", "hieRod", "hierOd", "hieroD"] }
+"hierodyada" = { value = "ሄሮድያዳ", alias = ["hIErodyada", "hIerodyada", "hiErodyada", "hieROdyada", "hieRodyada", "hierOdyada", "hieroDyada", "hierodYAda", "hierodYada", "hierodyAda", "hierodyaDA", "hierodyaDa", "hierodyadA"] }
+"hiewan" = { value = "ሄዋን", alias = ["hIEwan", "hIewan", "hiEwan", "hieWAn", "hieWan", "hiewAn"] }
+"Hiewan" = { value = "ሔዋን", alias = ["HIEwan", "HIewan", "HiEwan", "HieWAn", "HieWan", "HiewAn"] }
+"hirut" = { value = "ሂሩት", alias = ["hIrut", "hiRUt", "hiRut", "hirUt"] }
+"hiwet" = { value = "ሂወት", alias = ["hIwet", "hiWEt", "hiWet", "hiwEt"] }
+"hlina" = { value = "ህሊና", alias = ["hLIna", "hLina", "hlIna", "hlinA"] }
+"Hlqana" = { value = "ሕልቃና", alias = ["HLqana", "HlQAna", "HlQana", "HlqAna", "HlqanA"] }
+"hndekie" = { value = "ህንደኬ", alias = ["hnDEkie", "hnDekie", "hndEkie", "hndekIE", "hndekIe", "hndekiE"] }
+"hodaywa" = { value = "ሆዳይዋ", alias = ["hOdaywa", "hoDAywa", "hoDaywa", "hodAywa", "hodaYwa", "hodayWA", "hodayWa", "hodaywA"] }
+"Hodiex" = { value = "ሖዴሽ", alias = ["HOdiex", "HoDIEx", "HoDIex", "HoDiEx", "HoDiex", "HodIEx", "HodIex", "HodiEx", "HodieX"] }
+"hodiya" = { value = "ሆዲያ", alias = ["hOdiya", "hoDIya", "hoDiya", "hodIya", "hodiYA", "hodiYa", "hodiyA"] }
+"Hor" = { value = "ሖር", alias = ["HOr", "HoR"] }
+"Hosa" = { value = "ሖሳ", alias = ["HOsa", "HosA"] }
+"hosieSS" = { value = "ሆሴፅ", alias = ["hOsieSS", "hosIESS", "hosIeSS", "hosiESS"] }
+"hoxama" = { value = "ሆሻማ", alias = ["hOxama", "hoXAma", "hoXama", "hoxAma", "hoxaMA", "hoxaMa", "hoxamA"] }
+"Hoza" = { value = "ሖዛ", alias = ["HOza", "HozA"] }
+"hruy" = { value = "ህሩይ", alias = ["hRUy", "hRuy", "hrUy", "hruY"] }
+"husien" = { value = "ሁሴን", alias = ["hUsien", "husIEn", "husIen", "husiEn"] }
+"Huxim" = { value = "ሑሺም", alias = ["HUxim", "HuXIm", "HuXim", "HuxIm", "HuxiM"] }
+"Hzqaiel" = { value = "ሕዝቅኤል", alias = ["HzQaiel", "HzqaIEl", "HzqaIel", "HzqaiEl", "HzqaieL"] }
+"Hzqi" = { value = "ሕዝቂ", alias = ["HzQI", "HzQi", "HzqI"] }
+"Hzqyas" = { value = "ሕዝቅያስ", alias = ["HzQyas", "HzqYAs", "HzqYas", "HzqyAs"] }
+"jemal" = { value = "ጀማል", alias = ["JEmal", "Jemal", "jEmal", "jeMAl", "jeMal", "jemAl", "jemaL"] }
+"kalid" = { value = "ካሊድ", alias = ["kAlid", "kaLId", "kaLid", "kalId", "kaliD"] }
+"kalieb" = { value = "ካሌብ", alias = ["kAlieb", "kaLIEb", "kaLIeb", "kaLiEb", "kaLieb", "kalIEb", "kalIeb", "kaliEb", "kalieB"] }
+"kam" = { value = "ካም", alias = ["kAm", "kaM"] }
+"kasahun" = { value = "ካሳሁን", alias = ["kAsahun", "kasAhun", "kasahUn"] }
+"kasayie" = { value = "ካሳዬ", alias = ["kAsayie", "kasAyie", "kasaYIE", "kasaYIe", "kasaYiE", "kasaYie", "kasayIE", "kasayIe", "kasayiE"] }
+"kebede" = { value = "ከበደ", alias = ["kEbede", "keBEde", "keBede", "kebEde", "kebeDE", "kebeDe", "kebedE"] }
+"kefyalew" = { value = "ከፍያለው", alias = ["kEfyalew", "keFyalew", "kefYAlew", "kefYalew", "kefyAlew", "kefyaLEw", "kefyaLew", "kefyalEw", "kefyaleW"] }
+"keneAan" = { value = "ከነዓን", alias = ["kEneAan", "kenEAan", "keneAAn"] }
+"kermi" = { value = "ከርሚ", alias = ["kErmi", "keRmi", "kerMI", "kerMi", "kermI"] }
+"ketemahe" = { value = "ከተማሀ", alias = ["kEtemahe", "ketEmahe", "keteMAhe", "keteMahe", "ketemAhe", "ketemahE"] }
+"kflie" = { value = "ክፍሌ", alias = ["kFlie", "kfLIE", "kfLIe", "kfLiE", "kfLie", "kflIE", "kflIe", "kfliE"] }
+"kiebron" = { value = "ኬብሮን", alias = ["kIEbron", "kIebron", "kiEbron", "kieBron", "kiebROn", "kiebRon", "kiebrOn"] }
+"kiefa" = { value = "ኬፋ", alias = ["kIEfa", "kIefa", "kiEfa", "kieFA", "kieFa", "kiefA"] }
+"kielies" = { value = "ኬሌስ", alias = ["kIElies", "kIelies", "kiElies", "kieLIEs", "kieLIes", "kieLiEs", "kieLies", "kielIEs", "kielIes", "kieliEs"] }
+"kielon" = { value = "ኬሎን", alias = ["kIElon", "kIelon", "kiElon", "kieLOn", "kieLon", "kielOn"] }
+"kielqyas" = { value = "ኬልቅያስ", alias = ["kIElqyas", "kIelqyas", "kiElqyas", "kieLqyas", "kielQyas", "kielqYAs", "kielqYas", "kielqyAs"] }
+"kieras" = { value = "ኬራስ", alias = ["kIEras", "kIeras", "kiEras", "kieRAs", "kieRas", "kierAs"] }
+"kieTi" = { value = "ኬጢ", alias = ["kIETi", "kIeTi", "kiETi", "kieTI"] }
+"kieTura" = { value = "ኬጡራ", alias = ["kIETura", "kIeTura", "kiETura", "kieTUra", "kieTuRA", "kieTuRa", "kieTurA"] }
+"kiram" = { value = "ኪራም", alias = ["kIram", "kiRAm", "kiRam", "kirAm", "kiraM"] }
+"kiros" = { value = "ኪሮስ", alias = ["kIros", "kiROs", "kiRos", "kirOs"] }
+"kirubiel" = { value = "ኪሩቤል", alias = ["kIrubiel", "kiRUbiel", "kiRubiel", "kirUbiel", "kiruBIEl", "kiruBIel", "kiruBiEl", "kiruBiel", "kirubIEl", "kirubIel", "kirubiEl", "kirubieL"] }
+"kislon" = { value = "ኪስሎን", alias = ["kIslon", "kisLOn", "kisLon", "kislOn"] }
+"knani" = { value = "ክናኒ", alias = ["knAni", "knanI"] }
+"knanya" = { value = "ክናንያ", alias = ["knAnya", "knanYA", "knanYa", "knanyA"] }
+"kokebie" = { value = "ኮከቤ", alias = ["kOkebie", "kokEbie", "kokeBIE", "kokeBIe", "kokeBiE", "kokeBie", "kokebIE", "kokebIe", "kokebiE"] }
+"konanya" = { value = "ኮናንያ", alias = ["kOnanya", "konAnya", "konanYA", "konanYa", "konanyA"] }
+"kotam" = { value = "ኮታም", alias = ["kOtam", "kotAm", "kotaM"] }
+"kran" = { value = "ክራን", alias = ["kRAn", "kRan", "krAn"] }
+"kudan" = { value = "ኩዳን", alias = ["kUdan", "kuDAn", "kuDan", "kudAn"] }
+"kusi" = { value = "ኩሲ", alias = ["kUsi", "kusI"] }
+"kux" = { value = "ኩሽ", alias = ["kUx", "kuX"] }
+"laba" = { value = "ላባ", alias = ["LAba", "Laba", "lAba", "laBA", "laBa", "labA"] }
+"lahad" = { value = "ላሃድ", alias = ["LAhad", "Lahad", "lAhad", "lahAd", "lahaD"] }
+"lAlt" = { value = "ልዕልት", alias = ["LALt"] }
+"lamieH" = { value = "ላሜሕ", alias = ["LAmieH", "LamieH", "lAmieH", "laMIEH", "laMIeH", "laMiEH", "laMieH", "lamIEH", "lamIeH", "lamiEH"] }
+"laqe" = { value = "ላቀ", alias = ["LAqe", "Laqe", "lAqe", "laQE", "laQe", "laqE"] }
+"laul" = { value = "ልኡል", alias = ["LauL", "laUl"] }
+"ldet" = { value = "ልደት", alias = ["Ldet", "lDEt", "lDet", "ldEt"] }
+"ldya" = { value = "ልድያ", alias = ["Ldya", "lDya", "ldYA", "ldYa", "ldyA"] }
+"legese" = { value = "ለገሰ", alias = ["LEgese", "Legese", "lEgese", "leGEse", "leGese", "legEse", "legesE"] }
+"leHmi" = { value = "ለሕሚ", alias = ["LEHmi", "LeHmi", "lEHmi", "leHMI", "leHMi", "leHmI"] }
+"leliesa" = { value = "ለሌሳ", alias = ["LEliesa", "Leliesa", "lEliesa", "leLIEsa", "leLIesa", "leLiEsa", "leLiesa", "lelIEsa", "lelIesa", "leliEsa", "leliesA"] }
+"lema" = { value = "ለማ", alias = ["LEma", "Lema", "lEma", "leMA", "leMa", "lemA"] }
+"lidiya" = { value = "ሊዲያ", alias = ["LIdiya", "Lidiya", "lIdiya", "liDIya", "liDiya", "lidIya", "lidiYA", "lidiYa", "lidiyA"] }
+"liewi" = { value = "ሌዊ", alias = ["LIEwi", "LIewi", "LiEwi", "Liewi", "lIEwi", "lIewi", "liEwi", "lieWI", "lieWi", "liewI"] }
+"linos" = { value = "ሊኖስ", alias = ["LInos", "Linos", "lInos", "linOs"] }
+"liqHi" = { value = "ሊቅሒ", alias = ["LIqHi", "LiqHi", "lIqHi", "liQHi", "liqHI"] }
+"liqu" = { value = "ሊቁ", alias = ["LIqu", "Liqu", "lIqu", "liQU", "liQu", "liqU"] }
+"liya" = { value = "ሊያ", alias = ["LIya", "Liya", "lIya", "liYA", "liYa", "liyA"] }
+"lmuaiel" = { value = "ልሙኤል", alias = ["LmuaieL", "lMUaiel", "lMuaiel", "lmUaiel", "lmuaIEl", "lmuaIel", "lmuaiEl"] }
+"loT" = { value = "ሎጥ", alias = ["LOT", "LoT", "lOT"] }
+"loTan" = { value = "ሎጣን", alias = ["LOTan", "LoTan", "lOTan", "loTAn"] }
+"loyd" = { value = "ሎይድ", alias = ["LOyd", "Loyd", "lOyd", "loYd", "loyD"] }
+"lukyos" = { value = "ሉክዮስ", alias = ["LUkyos", "Lukyos", "lUkyos", "lukYOs", "lukYos", "lukyOs"] }
+"luqas" = { value = "ሉቃስ", alias = ["LUqas", "Luqas", "lUqas", "luQAs", "luQas", "luqAs"] }
+"lusyos" = { value = "ሉስዮስ", alias = ["LUsyos", "Lusyos", "lUsyos", "lusYOs", "lusYos", "lusyOs"] }
+"lya" = { value = "ልያ", alias = ["Lya", "lYA", "lYa", "lyA"] }
+"lyu" = { value = "ልዩ", alias = ["Lyu", "lYU", "lYu", "lyU"] }
+"maAliet" = { value = "ማዕሌት", alias = ["MAAliet", "MaAliet", "mAAliet", "maALIEt", "maALIet", "maALiEt", "maALiet", "maAlIEt", "maAlIet", "maAliEt"] }
+"mahder" = { value = "ማህደር", alias = ["MAhder", "Mahder", "mAhder", "mahDEr", "mahDer", "mahdEr", "mahdeR"] }
+"mahleh" = { value = "ማህለህ", alias = ["MAhleh", "Mahleh", "mAhleh", "mahLEh", "mahLeh", "mahlEh"] }
+"mahliet" = { value = "ማህሌት", alias = ["MAhliet", "Mahliet", "mAhliet", "mahLIEt", "mahLIet", "mahLiEt", "mahLiet", "mahlIEt", "mahlIet", "mahliEt"] }
+"makda" = { value = "ማክዳ", alias = ["MAkda", "Makda", "mAkda", "makDA", "makDa", "makdA"] }
+"maki" = { value = "ማኪ", alias = ["MAki", "Maki", "mAki", "makI"] }
+"maliesieAar" = { value = "ማሌሴዓር", alias = ["MAliesieAar", "MaliesieAar", "mAliesieAar", "maLIEsieAar", "maLIesieAar", "maLiEsieAar", "maLiesieAar", "malIEsieAar", "malIesieAar", "maliEsieAar", "maliesIEAar", "maliesIeAar", "maliesiEAar", "maliesieAAr", "maliesieAaR"] }
+"malkam" = { value = "ማልካም", alias = ["MAlkam", "Malkam", "mAlkam", "maLkam", "malkAm", "malkaM"] }
+"malkos" = { value = "ማልኮስ", alias = ["MAlkos", "Malkos", "mAlkos", "maLkos", "malkOs"] }
+"mamo" = { value = "ማሞ", alias = ["MAmo", "Mamo", "mAmo", "maMO", "maMo", "mamO"] }
+"mamux" = { value = "ማሙሽ", alias = ["MAmux", "Mamux", "mAmux", "maMUx", "maMux", "mamUx", "mamuX"] }
+"manuhie" = { value = "ማኑሄ", alias = ["MAnuhie", "Manuhie", "mAnuhie", "manUhie", "manuhIE", "manuhIe", "manuhiE"] }
+"mara" = { value = "ማራ", alias = ["MAra", "Mara", "mAra", "maRA", "maRa", "marA"] }
+"mAraf" = { value = "ምዕራፍ", alias = ["MAraf", "mARAf", "mARaf", "mArAf", "mAraF"] }
+"maraki" = { value = "ማራኪ", alias = ["MAraki", "Maraki", "mAraki", "maRAki", "maRaki", "marAki", "marakI"] }
+"mariyam" = { value = "ማሪያም", alias = ["MAriyam", "Mariyam", "mAriyam", "maRIyam", "maRiyam", "marIyam", "mariYAm", "mariYam", "mariyAm", "mariyaM"] }
+"marqos" = { value = "ማርቆስ", alias = ["MArqos", "Marqos", "mArqos", "maRqos", "marQOs", "marQos", "marqOs"] }
+"marta" = { value = "ማርታ", alias = ["MArta", "Marta", "mArta", "maRta", "martA"] }
+"maryam" = { value = "ማርያም", alias = ["MAryam", "Maryam", "mAryam", "maRyam", "marYAm", "marYam", "maryAm", "maryaM"] }
+"maryamawit" = { value = "ማርያማዊት", alias = ["MAryaMAwit", "MaryaMawit", "mAryamAwit", "maRyamawit", "marYAmawit", "marYamawit", "maryAmawit", "maryamaWIt", "maryamaWit", "maryamawIt"] }
+"matanya" = { value = "ማታንያ", alias = ["MAtanya", "Matanya", "mAtanya", "matAnya", "matanYA", "matanYa", "matanyA"] }
+"matatyu" = { value = "ማታትዩ", alias = ["MAtatyu", "Matatyu", "mAtatyu", "matAtyu", "matatYU", "matatYu", "matatyU"] }
+"matiewos" = { value = "ማቴዎስ", alias = ["MAtiewos", "Matiewos", "mAtiewos", "matIEwos", "matIewos", "matiEwos", "matieWOs", "matieWos", "matiewOs"] }
+"matusala" = { value = "ማቱሳላ", alias = ["MAtusala", "Matusala", "mAtusala", "matUsala", "matusAla", "matusaLA", "matusaLa", "matusalA"] }
+"matyas" = { value = "ማትያስ", alias = ["MAtyas", "Matyas", "mAtyas", "matYAs", "matYas", "matyAs"] }
+"matyos" = { value = "ማትዮስ", alias = ["MAtyos", "Matyos", "mAtyos", "matYOs", "matYos", "matyOs"] }
+"meAazya" = { value = "መዓዝያ", alias = ["MEAazya", "MeAazya", "mEAazya", "meAAzya", "meAazYA", "meAazYa", "meAazyA"] }
+"meaeza" = { value = "መአዛ", alias = ["MEaeza", "Meaeza", "mEaeza", "meaEza", "meaezA"] }
+"meAssay" = { value = "መዕሣይ", alias = ["MEAssay", "MeAssay", "mEAssay", "meAssAy", "meAssaY"] }
+"mebratu" = { value = "መብራቱ", alias = ["MEbratu", "Mebratu", "mEbratu", "meBratu", "mebRAtu", "mebRatu", "mebrAtu", "mebratU"] }
+"medhn" = { value = "መድህን", alias = ["MEdhn", "Medhn", "mEdhn", "meDhn"] }
+"meHelon" = { value = "መሐሎን", alias = ["MEHelon", "MeHelon", "mEHelon", "meHElon", "meHeLOn", "meHeLon", "meHelOn"] }
+"mehemed" = { value = "መሀመድ", alias = ["MEheMEd", "MeheMed", "mEhemEd", "mehEmed", "mehemeD"] }
+"meheri" = { value = "መሀሪ", alias = ["MEheri", "Meheri", "mEheri", "mehEri", "meheRI", "meheRi", "meherI"] }
+"mekbb" = { value = "መክብብ", alias = ["MEkbb", "Mekbb", "mEkbb", "mekBB"] }
+"mekonn" = { value = "መኮንን", alias = ["MEkonn", "Mekonn", "mEkonn", "mekOnn"] }
+"mekuriya" = { value = "መኩሪያ", alias = ["MEkuriya", "Mekuriya", "mEkuriya", "mekUriya", "mekuRIya", "mekuRiya", "mekurIya", "mekuriYA", "mekuriYa", "mekuriyA"] }
+"melaku" = { value = "መላኩ", alias = ["MElaku", "Melaku", "mElaku", "meLAku", "meLaku", "melAku", "melakU"] }
+"melkiaiel" = { value = "መልኪኤል", alias = ["MElkiaiel", "Melkiaiel", "mElkiaiel", "meLkiaieL", "melkIaiel", "melkiaIEl", "melkiaIel", "melkiaiEl"] }
+"melkya" = { value = "መልክያ", alias = ["MElkya", "Melkya", "mElkya", "meLkya", "melkYA", "melkYa", "melkyA"] }
+"melTya" = { value = "መልጥያ", alias = ["MElTya", "MelTya", "mElTya", "meLTya", "melTYA", "melTYa", "melTyA"] }
+"mena" = { value = "መና", alias = ["MEna", "Mena", "mEna", "menA"] }
+"menbere" = { value = "መንበረ", alias = ["MEnbere", "Menbere", "mEnbere", "menBEre", "menBere", "menbEre", "menbeRE", "menbeRe", "menberE"] }
+"mengstu" = { value = "መንግስቱ", alias = ["MEngstu", "Mengstu", "mEngstu", "menGstu", "mengstU"] }
+"meqdes" = { value = "መቅደስ", alias = ["MEqdes", "Meqdes", "mEqdes", "meQdes", "meqDEs", "meqDes", "meqdEs"] }
+"merdokyos" = { value = "መርዶክዮስ", alias = ["MErdokyos", "Merdokyos", "mErdokyos", "meRdokyos", "merDOkyos", "merDokyos", "merdOkyos", "merdokYOs", "merdokYos", "merdokyOs"] }
+"merisa" = { value = "መሪሳ", alias = ["MErisa", "Merisa", "mErisa", "meRIsa", "meRisa", "merIsa", "merisA"] }
+"merxa" = { value = "መርሻ", alias = ["MErxa", "Merxa", "mErxa", "meRxa", "merXA", "merXa", "merxA"] }
+"mesay" = { value = "መሳይ", alias = ["MEsay", "Mesay", "mEsay", "mesAy", "mesaY"] }
+"meselu" = { value = "መሰሉ", alias = ["MEselu", "Meselu", "mEselu", "mesElu", "meseLU", "meseLu", "meselU"] }
+"meseret" = { value = "መሰረት", alias = ["MEseret", "Meseret", "mEseret", "mesEret", "meseREt", "meseRet", "meserEt"] }
+"mesfn" = { value = "መስፍን", alias = ["MEsfn", "Mesfn", "mEsfn", "mesFn"] }
+"mesiefar" = { value = "መሴፋር", alias = ["MEsiefar", "Mesiefar", "mEsiefar", "mesIEfar", "mesIefar", "mesiEfar", "mesieFAr", "mesieFar", "mesiefAr", "mesiefaR"] }
+"meskerem" = { value = "መስከረም", alias = ["MEskerem", "Meskerem", "mEskerem", "meskErem", "meskeREm", "meskeRem", "meskerEm", "meskereM"] }
+"mestewat" = { value = "መስተዋት", alias = ["MEstewat", "Mestewat", "mEstewat", "mestEwat", "mesteWAt", "mesteWat", "mestewAt"] }
+"metaferiya" = { value = "መታፈሪያ", alias = ["MEtaferiya", "Metaferiya", "mEtaferiya", "metAferiya", "metaFEriya", "metaFeriya", "metafEriya", "metafeRIya", "metafeRiya", "metaferIya", "metaferiYA", "metaferiYa", "metaferiyA"] }
+"metasebiya" = { value = "መታሰቢያ", alias = ["MEtasebiya", "Metasebiya", "mEtasebiya", "metAsebiya", "metasEbiya", "metaseBIya", "metaseBiya", "metasebIya", "metasebiYA", "metasebiYa", "metasebiyA"] }
+"mezgebe" = { value = "መዝገበ", alias = ["MEzgebe", "Mezgebe", "mEzgebe", "mezGEbe", "mezGebe", "mezgEbe", "mezgeBE", "mezgeBe", "mezgebE"] }
+"mhret" = { value = "ምህረት", alias = ["Mhret", "mhREt", "mhRet", "mhrEt"] }
+"mielat" = { value = "ሜላት", alias = ["MIElat", "MIelat", "MiElat", "Mielat", "mIElat", "mIelat", "miElat", "mieLAt", "mieLat", "mielAt"] }
+"mieliek" = { value = "ሜሌክ", alias = ["MIEliek", "MIeliek", "MiEliek", "Mieliek", "mIEliek", "mIeliek", "miEliek", "mieLIEk", "mieLIek", "mieLiEk", "mieLiek", "mielIEk", "mielIek", "mieliEk"] }
+"mielkisa" = { value = "ሜልኪሳ", alias = ["MIElkisa", "MIelkisa", "MiElkisa", "Mielkisa", "mIElkisa", "mIelkisa", "miElkisa", "mieLkisa", "mielkIsa", "mielkisA"] }
+"mielkol" = { value = "ሜልኮል", alias = ["MIElkol", "MIelkol", "MiElkol", "Mielkol", "mIElkol", "mIelkol", "miElkol", "mieLkoL", "mielkOl"] }
+"mieries" = { value = "ሜሬስ", alias = ["MIEries", "MIeries", "MiEries", "Mieries", "mIEries", "mIeries", "miEries", "mieRIEs", "mieRIes", "mieRiEs", "mieRies", "mierIEs", "mierIes", "mieriEs"] }
+"mierob" = { value = "ሜሮብ", alias = ["MIErob", "MIerob", "MiErob", "Mierob", "mIErob", "mIerob", "miErob", "mieROb", "mieRob", "mierOb", "mieroB"] }
+"mieron" = { value = "ሜሮን", alias = ["MIEron", "MIeron", "MiEron", "Mieron", "mIEron", "mIeron", "miEron", "mieROn", "mieRon", "mierOn"] }
+"miesolam" = { value = "ሜሶላም", alias = ["MIEsolam", "MIesolam", "MiEsolam", "Miesolam", "mIEsolam", "mIesolam", "miEsolam", "miesOlam", "miesoLAm", "miesoLam", "miesolAm", "miesolaM"] }
+"mika" = { value = "ሚካ", alias = ["MIka", "Mika", "mIka", "mikA"] }
+"mikaaiel" = { value = "ሚካኤል", alias = ["MIkaaiel", "Mikaaiel", "mIkaaiel", "mikAaiel", "mikaaIEl", "mikaaIel", "mikaaiEl", "mikaaieL"] }
+"mikieaiel" = { value = "ሚኬኤል", alias = ["MIkieaiel", "Mikieaiel", "mIkieaiel", "mikIEaiel", "mikIeaiel", "mikiEaiel", "mikieaIEl", "mikieaIel", "mikieaiEl", "mikieaieL"] }
+"mikiyas" = { value = "ሚኪያስ", alias = ["MIkiyas", "Mikiyas", "mIkiyas", "mikIyas", "mikiYAs", "mikiYas", "mikiyAs"] }
+"mikyas" = { value = "ሚክያስ", alias = ["MIkyas", "Mikyas", "mIkyas", "mikYAs", "mikYas", "mikyAs"] }
+"miliyon" = { value = "ሚሊዮን", alias = ["MIliyon", "Miliyon", "mIliyon", "miLIyon", "miLiyon", "milIyon", "miliYOn", "miliYon", "miliyOn"] }
+"milka" = { value = "ሚልካ", alias = ["MIlka", "Milka", "mIlka", "miLka", "milkA"] }
+"milki" = { value = "ሚልኪ", alias = ["MIlki", "Milki", "mIlki", "miLki", "milkI"] }
+"milkya" = { value = "ሚልክያ", alias = ["MIlkya", "Milkya", "mIlkya", "miLkya", "milkYA", "milkYa", "milkyA"] }
+"mimi" = { value = "ሚሚ", alias = ["MIMI", "MiMi", "mImI"] }
+"minlik" = { value = "ሚንሊክ", alias = ["MInlik", "Minlik", "mInlik", "minLIk", "minLik", "minlIk"] }
+"misaaiel" = { value = "ሚሳኤል", alias = ["MIsaaiel", "Misaaiel", "mIsaaiel", "misAaiel", "misaaIEl", "misaaIel", "misaaiEl", "misaaieL"] }
+"mixam" = { value = "ሚሻም", alias = ["MIxam", "Mixam", "mIxam", "miXAm", "miXam", "mixAm", "mixaM"] }
+"miyamin" = { value = "ሚያሚን", alias = ["MIyaMIn", "MiyaMin", "mIyamIn", "miYAmin", "miYamin", "miyAmin"] }
+"mNotie" = { value = "ምኞቴ", alias = ["MNotie", "mNOtie", "mNotIE", "mNotIe", "mNotiE"] }
+"mntesnot" = { value = "ምንተስኖት", alias = ["Mntesnot", "mntEsnot", "mntesnOt"] }
+"mntwab" = { value = "ምንትዋብ", alias = ["Mntwab", "mntWAb", "mntWab", "mntwAb", "mntwaB"] }
+"modan" = { value = "ሞዳን", alias = ["MOdan", "Modan", "mOdan", "moDAn", "moDan", "modAn"] }
+"moges" = { value = "ሞገስ", alias = ["MOges", "Moges", "mOges", "moGEs", "moGes", "mogEs"] }
+"moHoli" = { value = "ሞሖሊ", alias = ["MOHoli", "MoHoli", "mOHoli", "moHOli", "moHoLI", "moHoLi", "moHolI"] }
+"mola" = { value = "ሞላ", alias = ["MOla", "Mola", "mOla", "moLA", "moLa", "molA"] }
+"molalN" = { value = "ሞላልኝ", alias = ["MOlalN", "MolalN", "mOlalN", "moLAlN", "moLalN", "molAlN", "molaLN"] }
+"moriya" = { value = "ሞሪያ", alias = ["MOriya", "Moriya", "mOriya", "moRIya", "moRiya", "morIya", "moriYA", "moriYa", "moriyA"] }
+"mosa" = { value = "ሞሳ", alias = ["MOsa", "Mosa", "mOsa", "mosA"] }
+"mraya" = { value = "ምራያ", alias = ["Mraya", "mRAya", "mRaya", "mrAya", "mraYA", "mraYa", "mrayA"] }
+"msgana" = { value = "ምስጋና", alias = ["Msgana", "msGAna", "msGana", "msgAna", "msganA"] }
+"msraq" = { value = "ምስራቅ", alias = ["Msraq", "msRAq", "msRaq", "msrAq", "msraQ"] }
+"mSraym" = { value = "ምጽራይም", alias = ["MSrayM", "mSRAym", "mSRaym", "mSrAym", "mSraYm"] }
+"mtku" = { value = "ምትኩ", alias = ["Mtku", "mtkU"] }
+"mulu" = { value = "ሙሉ", alias = ["MUlu", "Mulu", "mUlu", "muLU", "muLu", "mulU"] }
+"muluamebiet" = { value = "ሙሉእመቤት", alias = ["MUluamebiet", "Muluamebiet", "mUluamebiet", "muLUamebiet", "muLuamebiet", "mulUamebiet", "muluaMEbiet", "muluaMebiet", "muluamEbiet", "muluameBIEt", "muluameBIet", "muluameBiEt", "muluameBiet", "muluamebIEt", "muluamebIet", "muluamebiEt"] }
+"mulugieta" = { value = "ሙሉጌታ", alias = ["MUlugieta", "Mulugieta", "mUlugieta", "muLUgieta", "muLugieta", "mulUgieta", "muluGIEta", "muluGIeta", "muluGiEta", "muluGieta", "mulugIEta", "mulugIeta", "mulugiEta", "mulugietA"] }
+"muluqen" = { value = "ሙሉቀን", alias = ["MUluqen", "Muluqen", "mUluqen", "muLUqen", "muLuqen", "mulUqen", "muluQEn", "muluQen", "muluqEn"] }
+"muna" = { value = "ሙና", alias = ["MUna", "Muna", "mUna", "munA"] }
+"musie" = { value = "ሙሴ", alias = ["MUsie", "Musie", "mUsie", "musIE", "musIe", "musiE"] }
+"naAma" = { value = "ናዕማ", alias = ["nAAma", "naAMA", "naAMa", "naAmA"] }
+"naaomi" = { value = "ናኦሚ", alias = ["nAaomi", "naaOmi", "naaoMI", "naaoMi", "naaomI"] }
+"naAos" = { value = "ናዖስ", alias = ["nAAos", "naAOs"] }
+"nabal" = { value = "ናባል", alias = ["nAbal", "naBAl", "naBal", "nabAl", "nabaL"] }
+"nabaw" = { value = "ናባው", alias = ["nAbaw", "naBAw", "naBaw", "nabAw", "nabaW"] }
+"nabi" = { value = "ናቢ", alias = ["nAbi", "naBI", "naBi", "nabI"] }
+"nahom" = { value = "ናሆም", alias = ["nAhom", "nahOm", "nahoM"] }
+"namiesi" = { value = "ናሜሲ", alias = ["nAmiesi", "naMIEsi", "naMIesi", "naMiEsi", "naMiesi", "namIEsi", "namIesi", "namiEsi", "namiesI"] }
+"namrud" = { value = "ናምሩድ", alias = ["nAmrud", "naMrud", "namRUd", "namRud", "namrUd", "namruD"] }
+"nardos" = { value = "ናርዶስ", alias = ["nArdos", "naRdos", "narDOs", "narDos", "nardOs"] }
+"natan" = { value = "ናታን", alias = ["nAtan", "natAn"] }
+"natanya" = { value = "ናታንያ", alias = ["nAtanya", "natAnya", "natanYA", "natanYa", "natanyA"] }
+"natnaaiel" = { value = "ናትናኤል", alias = ["nAtnAaiel", "natnaaIEl", "natnaaIel", "natnaaiEl", "natnaaieL"] }
+"natnayiel" = { value = "ናትናዬል", alias = ["nAtnAyiel", "natnaYIEl", "natnaYIel", "natnaYiEl", "natnaYiel", "natnayIEl", "natnayIel", "natnayiEl", "natnayieL"] }
+"neAarya" = { value = "ነዓርያ", alias = ["nEAarya", "neAArya", "neAaRya", "neAarYA", "neAarYa", "neAaryA"] }
+"neaeson" = { value = "ነአሶን", alias = ["nEaeson", "neaEson", "neaesOn"] }
+"neAra" = { value = "ነዕራ", alias = ["nEAra", "neARA", "neARa", "neArA"] }
+"nebil" = { value = "ነቢል", alias = ["nEbil", "neBIl", "neBil", "nebIl", "nebiL"] }
+"nebyat" = { value = "ነብያት", alias = ["nEbyat", "neByat", "nebYAt", "nebYat", "nebyAt"] }
+"nebyu" = { value = "ነብዩ", alias = ["nEbyu", "neByu", "nebYU", "nebYu", "nebyU"] }
+"nedabya" = { value = "ነዳብያ", alias = ["nEdabya", "neDAbya", "neDabya", "nedAbya", "nedaBya", "nedabYA", "nedabYa", "nedabyA"] }
+"nega" = { value = "ነጋ", alias = ["nEga", "neGA", "neGa", "negA"] }
+"negasi" = { value = "ነጋሲ", alias = ["nEgasi", "neGAsi", "neGasi", "negAsi", "negasI"] }
+"negax" = { value = "ነጋሽ", alias = ["nEgax", "neGAx", "neGax", "negAx", "negaX"] }
+"neHemani" = { value = "ነሐማኒ", alias = ["nEHemani", "neHEmani", "neHeMAni", "neHeMani", "neHemAni", "neHemanI"] }
+"nehmya" = { value = "ነህምያ", alias = ["nEhmya", "nehMya", "nehmYA", "nehmYa", "nehmyA"] }
+"nemuaiel" = { value = "ነሙኤል", alias = ["nEmuaiel", "neMUaiel", "neMuaiel", "nemUaiel", "nemuaIEl", "nemuaIel", "nemuaiEl", "nemuaieL"] }
+"neSSanet" = { value = "ነፃነት", alias = ["nESSanEt", "neSSAnet"] }
+"nftalie" = { value = "ንፍታሌ", alias = ["nFtalie", "nftAlie", "nftaLIE", "nftaLIe", "nftaLiE", "nftaLie", "nftalIE", "nftalIe", "nftaliE"] }
+"ngst" = { value = "ንግስት", alias = ["nGst"] }
+"ngusie" = { value = "ንጉሴ", alias = ["nGUsie", "nGusie", "ngUsie", "ngusIE", "ngusIe", "ngusiE"] }
+"nieqoda" = { value = "ኔቆዳ", alias = ["nIEqoda", "nIeqoda", "niEqoda", "nieQOda", "nieQoda", "nieqOda", "nieqoDA", "nieqoDa", "nieqodA"] }
+"nieri" = { value = "ኔሪ", alias = ["nIEri", "nIeri", "niEri", "nieRI", "nieRi", "nierI"] }
+"nierya" = { value = "ኔርያ", alias = ["nIErya", "nIerya", "niErya", "nieRya", "nierYA", "nierYa", "nieryA"] }
+"nieseta" = { value = "ኔሰታ", alias = ["nIEseta", "nIeseta", "niEseta", "niesEta", "niesetA"] }
+"nikaAu" = { value = "ኒካዑ", alias = ["nIkaAu", "nikAAu", "nikaAU"] }
+"niqedimos" = { value = "ኒቀዲሞስ", alias = ["nIqedimos", "niQEdimos", "niQedimos", "niqEdimos", "niqeDImos", "niqeDimos", "niqedImos", "niqediMOs", "niqediMos", "niqedimOs"] }
+"niqolawos" = { value = "ኒቆላዎስ", alias = ["nIqolawos", "niQOlawos", "niQolawos", "niqOlawos", "niqoLAwos", "niqoLawos", "niqolAwos", "niqolaWOs", "niqolaWos", "niqolawOs"] }
+"noAadya" = { value = "ኖዓድያ", alias = ["nOAadya", "noAAdya", "noAaDya", "noAadYA", "noAadYa", "noAadyA"] }
+"nobay" = { value = "ኖባይ", alias = ["nObay", "noBAy", "noBay", "nobAy", "nobaY"] }
+"nohh" = { value = "ኖኅ", alias = ["nOhh"] }
+"nolawi" = { value = "ኖላዊ", alias = ["nOlawi", "noLAwi", "noLawi", "nolAwi", "nolaWI", "nolaWi", "nolawI"] }
+"nrqesu" = { value = "ንርቀሱ", alias = ["nRqesu", "nrQEsu", "nrQesu", "nrqEsu", "nrqesU"] }
+"nsya" = { value = "ንስያ", alias = ["nsYA", "nsYa", "nsyA"] }
+"nuhhami" = { value = "ኑኃሚ", alias = ["nUhhami", "nuhhAmi", "nuhhaMI", "nuhhaMi", "nuhhamI"] }
+"nunu" = { value = "ኑኑ", alias = ["nUnU"] }
+"Pawlos" = { value = "ጳውሎስ", alias = ["PAwlos", "PaWlos", "PawLOs", "PawLos", "PawlOs"] }
+"PieTros" = { value = "ጴጥሮስ", alias = ["PIETros", "PIeTros", "PiETros", "PieTROs", "PieTRos", "PieTrOs"] }
+"pieTros" = { value = "ፔጥሮስ", alias = ["pIETros", "pIeTros", "piETros", "pieTROs", "pieTRos", "pieTrOs"] }
+"PlaTos" = { value = "ጵላጦስ", alias = ["PLATos", "PLaTos", "PlATos", "PlaTOs"] }
+"profimona" = { value = "ፕሮፊሞና", alias = ["pROfimona", "pRofimona", "prOfimona", "proFImona", "proFimona", "profImona", "profiMOna", "profiMona", "profimOna", "profimonA"] }
+"Prqla" = { value = "ጵርቅላ", alias = ["PRqla", "PrQla", "PrqLA", "PrqLa", "PrqlA"] }
+"qAila" = { value = "ቅዒላ", alias = ["QAila", "qAIla", "qAiLA", "qAiLa", "qAilA"] }
+"qalay" = { value = "ቃላይ", alias = ["QAlay", "Qalay", "qAlay", "qaLAy", "qaLay", "qalAy", "qalaY"] }
+"qalkidan" = { value = "ቃልኪዳን", alias = ["QAlkidan", "Qalkidan", "qAlkidan", "qaLkidan", "qalkIdan", "qalkiDAn", "qalkiDan", "qalkidAn"] }
+"qaNew" = { value = "ቃኘው", alias = ["QANew", "QaNew", "qANew", "qaNEw", "qaNeW"] }
+"qarieya" = { value = "ቃሬያ", alias = ["QArieya", "Qarieya", "qArieya", "qaRIEya", "qaRIeya", "qaRiEya", "qaRieya", "qarIEya", "qarIeya", "qariEya", "qarieYA", "qarieYa", "qarieyA"] }
+"qasya" = { value = "ቃስያ", alias = ["QAsya", "Qasya", "qAsya", "qasYA", "qasYa", "qasyA"] }
+"qayen" = { value = "ቃየን", alias = ["QAyen", "Qayen", "qAyen", "qaYEn", "qaYen", "qayEn"] }
+"qaynan" = { value = "ቃይናን", alias = ["QAynan", "Qaynan", "qAynan", "qaYnan", "qaynAn"] }
+"qdst" = { value = "ቅድስት", alias = ["Qdst", "qDst"] }
+"qdus" = { value = "ቅዱስ", alias = ["Qdus", "qDUs", "qDus", "qdUs"] }
+"qedmaiel" = { value = "ቀድምኤል", alias = ["QEdmaiel", "Qedmaiel", "qEdmaiel", "qeDmaiel", "qedMaiel", "qedmaIEl", "qedmaIel", "qedmaiEl", "qedmaieL"] }
+"qelawdiewos" = { value = "ቀላውዴዎስ", alias = ["QElawdiewos", "Qelawdiewos", "qElawdiewos", "qeLAwdiewos", "qeLawdiewos", "qelAwdiewos", "qelaWdiewos", "qelawDIEwos", "qelawDIewos", "qelawDiEwos", "qelawDiewos", "qelawdIEwos", "qelawdIewos", "qelawdiEwos", "qelawdieWOs", "qelawdieWos", "qelawdiewOs"] }
+"qelemua" = { value = "ቀለሟ", alias = ["QElemua", "Qelemua", "qElemua", "qeLEmua", "qeLemua", "qelEmua", "qeleMUA", "qeleMUa", "qeleMuA", "qeleMua", "qelemUA", "qelemUa", "qelemuA"] }
+"qeleyoPa" = { value = "ቀለዮጳ", alias = ["QEleyoPa", "QeleyoPa", "qEleyoPa", "qeLEyoPa", "qeLeyoPa", "qelEyoPa", "qeleYOPa", "qeleYoPa", "qeleyOPa", "qeleyoPA"] }
+"qeliemTos" = { value = "ቀሌምጦስ", alias = ["QEliemTos", "QeliemTos", "qEliemTos", "qeLIEmTos", "qeLIemTos", "qeLiEmTos", "qeLiemTos", "qelIEmTos", "qelIemTos", "qeliEmTos", "qelieMTos", "qeliemTOs"] }
+"qeloAie" = { value = "ቀሎዔ", alias = ["QEloAie", "QeloAie", "qEloAie", "qeLOAie", "qeLoAie", "qelOAie", "qeloAIE", "qeloAIe", "qeloAiE"] }
+"qemuaiel" = { value = "ቀሙኤል", alias = ["QEmuaiel", "Qemuaiel", "qEmuaiel", "qeMUaiel", "qeMuaiel", "qemUaiel", "qemuaIEl", "qemuaIel", "qemuaiEl", "qemuaieL"] }
+"qiedar" = { value = "ቄዳር", alias = ["QIEdar", "QIedar", "QiEdar", "Qiedar", "qIEdar", "qIedar", "qiEdar", "qieDAr", "qieDar", "qiedAr", "qiedaR"] }
+"qiedma" = { value = "ቄድማ", alias = ["QIEdma", "QIedma", "QiEdma", "Qiedma", "qIEdma", "qIedma", "qiEdma", "qieDma", "qiedMA", "qiedMa", "qiedmA"] }
+"qieniez" = { value = "ቄኔዝ", alias = ["QIEniez", "QIeniez", "QiEniez", "Qieniez", "qIEniez", "qIeniez", "qiEniez", "qienIEz", "qienIez", "qieniEz"] }
+"qierieniewos" = { value = "ቄሬኔዎስ", alias = ["QIErieniewos", "QIerieniewos", "QiErieniewos", "Qierieniewos", "qIErieniewos", "qIerieniewos", "qiErieniewos", "qieRIEniewos", "qieRIeniewos", "qieRiEniewos", "qieRieniewos", "qierIEniewos", "qierIeniewos", "qieriEniewos", "qierienIEwos", "qierienIewos", "qierieniEwos", "qierienieWOs", "qierienieWos", "qierieniewOs"] }
+"qiessar" = { value = "ቄሣር", alias = ["QIEssar", "QIessar", "QiEssar", "Qiessar", "qIEssar", "qIessar", "qiEssar", "qiessAr", "qiessaR"] }
+"qiras" = { value = "ቂራስ", alias = ["QIras", "Qiras", "qIras", "qiRAs", "qiRas", "qirAs"] }
+"qiros" = { value = "ቂሮስ", alias = ["QIros", "Qiros", "qIros", "qiROs", "qiRos", "qirOs"] }
+"qis" = { value = "ቂስ", alias = ["QIs", "Qis", "qIs"] }
+"qisa" = { value = "ቂሳ", alias = ["QIsa", "Qisa", "qIsa", "qisA"] }
+"qlawdiya" = { value = "ቅላውዲያ", alias = ["Qlawdiya", "qLAwdiya", "qLawdiya", "qlAwdiya", "qlaWdiya", "qlawDIya", "qlawDiya", "qlawdIya", "qlawdiYA", "qlawdiYa", "qlawdiyA"] }
+"qolaya" = { value = "ቆላያ", alias = ["QOlaya", "Qolaya", "qOlaya", "qoLAya", "qoLaya", "qolAya", "qolaYA", "qolaYa", "qolayA"] }
+"qoliTas" = { value = "ቆሊጣስ", alias = ["QOliTas", "QoliTas", "qOliTas", "qoLITas", "qoLiTas", "qolITas", "qoliTAs"] }
+"qonjt" = { value = "ቆንጅት", alias = ["QOnjt", "Qonjt", "qOnjt", "qonJt"] }
+"qorie" = { value = "ቆሬ", alias = ["QOrie", "Qorie", "qOrie", "qoRIE", "qoRIe", "qoRiE", "qoRie", "qorIE", "qorIe", "qoriE"] }
+"qornieliewos" = { value = "ቆርኔሌዎስ", alias = ["QOrnieliewos", "Qornieliewos", "qOrnieliewos", "qoRnieliewos", "qornIEliewos", "qornIeliewos", "qorniEliewos", "qornieLIEwos", "qornieLIewos", "qornieLiEwos", "qornieLiewos", "qornielIEwos", "qornielIewos", "qornieliEwos", "qornielieWOs", "qornielieWos", "qornieliewOs"] }
+"qoS" = { value = "ቆጽ", alias = ["QOS", "QoS", "qOS"] }
+"qosam" = { value = "ቆሳም", alias = ["QOsam", "Qosam", "qOsam", "qosAm", "qosaM"] }
+"quaesTros" = { value = "ቁአስጥሮስ", alias = ["QUaesTros", "QuaesTros", "qUaesTros", "quaEsTros", "quaesTROs", "quaesTRos", "quaesTrOs"] }
+"raAma" = { value = "ራዕማ", alias = ["RAAma", "RaAma", "rAAma", "raAMA", "raAMa", "raAmA"] }
+"rafa" = { value = "ራፋ", alias = ["RAfa", "Rafa", "rAfa", "raFA", "raFa", "rafA"] }
+"rafaaiel" = { value = "ራፋኤል", alias = ["RAfaaiel", "Rafaaiel", "rAfaaiel", "raFAaiel", "raFaaiel", "rafAaiel", "rafaaIEl", "rafaaIel", "rafaaiEl", "rafaaieL"] }
+"raguaiel" = { value = "ራጉኤል", alias = ["RAguaiel", "Raguaiel", "rAguaiel", "raGUaiel", "raGuaiel", "ragUaiel", "raguaIEl", "raguaIel", "raguaiEl", "raguaieL"] }
+"raHiel" = { value = "ራሔል", alias = ["RAHiel", "RaHiel", "rAHiel", "raHIEl", "raHIel", "raHiEl", "raHieL"] }
+"ramya" = { value = "ራምያ", alias = ["RAmya", "Ramya", "rAmya", "raMya", "ramYA", "ramYa", "ramyA"] }
+"rbqa" = { value = "ርብቃ", alias = ["Rbqa", "rBqa", "rbQA", "rbQa", "rbqA"] }
+"reAamya" = { value = "ረዓምያ", alias = ["REAamya", "ReAamya", "rEAamya", "reAAmya", "reAaMya", "reAamYA", "reAamYa", "reAamyA"] }
+"reaeson" = { value = "ረአሶን", alias = ["REaeson", "Reaeson", "rEaeson", "reaEson", "reaesOn"] }
+"rediet" = { value = "ረዴት", alias = ["REdiet", "Rediet", "rEdiet", "reDIEt", "reDIet", "reDiEt", "reDiet", "redIEt", "redIet", "rediEt"] }
+"reqiq" = { value = "ረቂቅ", alias = ["REqiq", "Reqiq", "rEqiq", "reQIq", "reQiq", "reqIq", "reqiQ"] }
+"ribay" = { value = "ሪባይ", alias = ["RIbay", "Ribay", "rIbay", "riBAy", "riBay", "ribAy", "ribaY"] }
+"riedwan" = { value = "ሬድዋን", alias = ["RIEdwan", "RIedwan", "RiEdwan", "Riedwan", "rIEdwan", "rIedwan", "riEdwan", "rieDwan", "riedWAn", "riedWan", "riedwAn"] }
+"riefan" = { value = "ሬፋን", alias = ["RIEfan", "RIefan", "RiEfan", "Riefan", "rIEfan", "rIefan", "riEfan", "rieFAn", "rieFan", "riefAn"] }
+"rieHma" = { value = "ሬሕማ", alias = ["RIEHma", "RIeHma", "RiEHma", "RieHma", "rIEHma", "rIeHma", "riEHma", "rieHMA", "rieHMa", "rieHmA"] }
+"riemon" = { value = "ሬሞን", alias = ["RIEmon", "RIemon", "RiEmon", "Riemon", "rIEmon", "rIemon", "riEmon", "rieMOn", "rieMon", "riemOn"] }
+"riese" = { value = "ሬሰ", alias = ["RIEse", "RIese", "RiEse", "Riese", "rIEse", "rIese", "riEse", "riesE"] }
+"riesi" = { value = "ሬሲ", alias = ["RIEsi", "RIesi", "RiEsi", "Riesi", "rIEsi", "rIesi", "riEsi", "riesI"] }
+"riesief" = { value = "ሬሴፍ", alias = ["RIEsief", "RIesief", "RiEsief", "Riesief", "rIEsief", "rIesief", "riEsief", "riesIEf", "riesIef", "riesiEf", "riesieF"] }
+"riezon" = { value = "ሬዞን", alias = ["RIEzon", "RIezon", "RiEzon", "Riezon", "rIEzon", "rIezon", "riEzon", "riezOn"] }
+"rina" = { value = "ሪና", alias = ["RIna", "Rina", "rIna", "rinA"] }
+"riSfa" = { value = "ሪጽፋ", alias = ["RISfa", "RiSfa", "rISfa", "riSFA", "riSFa", "riSfA"] }
+"riSya" = { value = "ሪጽያ", alias = ["RISya", "RiSya", "rISya", "riSYA", "riSYa", "riSyA"] }
+"robiel" = { value = "ሮቤል", alias = ["RObiel", "Robiel", "rObiel", "roBIEl", "roBIel", "roBiEl", "roBiel", "robIEl", "robIel", "robiEl", "robieL"] }
+"rodie" = { value = "ሮዴ", alias = ["ROdie", "Rodie", "rOdie", "roDIE", "roDIe", "roDiE", "roDie", "rodIE", "rodIe", "rodiE"] }
+"roman" = { value = "ሮማን", alias = ["ROman", "Roman", "rOman", "roMAn", "roMan", "romAn"] }
+"romielyu" = { value = "ሮሜልዩ", alias = ["ROmielyu", "Romielyu", "rOmielyu", "roMIElyu", "roMIelyu", "roMiElyu", "roMielyu", "romIElyu", "romIelyu", "romiElyu", "romieLyu", "romielYU", "romielYu", "romielyU"] }
+"ros" = { value = "ሮስ", alias = ["ROs", "Ros", "rOs"] }
+"roza" = { value = "ሮዛ", alias = ["ROza", "Roza", "rOza", "rozA"] }
+"rufos" = { value = "ሩፎስ", alias = ["RUfos", "Rufos", "rUfos", "ruFOs", "ruFos", "rufOs"] }
+"rut" = { value = "ሩት", alias = ["RUt", "Rut", "rUt"] }
+"saaol" = { value = "ሳኦል", alias = ["sAaol", "saaOl", "saaoL"] }
+"saba" = { value = "ሳባ", alias = ["sAba", "saBA", "saBa", "sabA"] }
+"sabya" = { value = "ሳብያ", alias = ["sAbya", "saBya", "sabYA", "sabYa", "sabyA"] }
+"saf" = { value = "ሳፍ", alias = ["sAf", "saF"] }
+"safam" = { value = "ሳፋም", alias = ["sAfam", "saFAm", "saFam", "safAm", "safaM"] }
+"safan" = { value = "ሳፋን", alias = ["sAfan", "saFAn", "saFan", "safAn"] }
+"sala" = { value = "ሳላ", alias = ["sAla", "saLA", "saLa", "salA"] }
+"saliem" = { value = "ሳሌም", alias = ["sAliem", "saLIEm", "saLIem", "saLiEm", "saLiem", "salIEm", "salIem", "saliEm", "salieM"] }
+"sama" = { value = "ሳማ", alias = ["sAma", "saMA", "saMa", "samA"] }
+"samAa" = { value = "ሳምዓ", alias = ["sAmAa", "saMAa", "samAA"] }
+"samaya" = { value = "ሳማያ", alias = ["sAmaya", "saMAya", "saMaya", "samAya", "samaYA", "samaYa", "samayA"] }
+"samna" = { value = "ሳምና", alias = ["sAmna", "saMna", "samnA"] }
+"samrawit" = { value = "ሳምራዊት", alias = ["sAmrawit", "saMrawit", "samRAwit", "samRawit", "samrAwit", "samraWIt", "samraWit", "samrawIt"] }
+"samson" = { value = "ሳምሶን", alias = ["sAmson", "saMson", "samsOn"] }
+"samuaiel" = { value = "ሳሙኤል", alias = ["sAmuaiel", "saMUaiel", "saMuaiel", "samUaiel", "samuaIEl", "samuaIel", "samuaiEl", "samuaieL"] }
+"samus" = { value = "ሳሙስ", alias = ["sAmus", "saMUs", "saMus", "samUs"] }
+"sara" = { value = "ሳራ", alias = ["sAra", "saRA", "saRa", "sarA"] }
+"sarasar" = { value = "ሳራሳር", alias = ["sArasAr", "saRAsar", "saRasar", "sarAsar", "sarasaR"] }
+"sargon" = { value = "ሳርጎን", alias = ["sArgon", "saRgon", "sarGOn", "sarGon", "sargOn"] }
+"saron" = { value = "ሳሮን", alias = ["sAron", "saROn", "saRon", "sarOn"] }
+"sbhat" = { value = "ስብሃት", alias = ["sBhat", "sbhAt"] }
+"seaid" = { value = "ሰኢድ", alias = ["sEaid", "seaId", "seaiD"] }
+"sebenya" = { value = "ሰበንያ", alias = ["sEbenya", "seBEnya", "seBenya", "sebEnya", "sebenYA", "sebenYa", "sebenyA"] }
+"seble" = { value = "ሰብለ", alias = ["sEble", "seBle", "sebLE", "sebLe", "seblE"] }
+"seblewengiel" = { value = "ሰብለወንጌል", alias = ["sEblewengiel", "seBlewengiel", "sebLEwengiel", "sebLewengiel", "seblEwengiel", "sebleWEngiel", "sebleWengiel", "seblewEngiel", "seblewenGIEl", "seblewenGIel", "seblewenGiEl", "seblewenGiel", "seblewengIEl", "seblewengIel", "seblewengiEl", "seblewengieL"] }
+"sebsbie" = { value = "ሰብስቤ", alias = ["sEbsbie", "seBsbie", "sebsBIE", "sebsBIe", "sebsBiE", "sebsBie", "sebsbIE", "sebsbIe", "sebsbiE"] }
+"sebta" = { value = "ሰብታ", alias = ["sEbta", "seBta", "sebtA"] }
+"sefanit" = { value = "ሰፋኒት", alias = ["sEfanit", "seFAnit", "seFanit", "sefAnit", "sefanIt"] }
+"sefo" = { value = "ሰፎ", alias = ["sEfo", "seFO", "seFo", "sefO"] }
+"Sega" = { value = "ጸጋ", alias = ["SEga", "SeGA", "SeGa", "SegA"] }
+"Segayie" = { value = "ጸጋዬ", alias = ["SEgayie", "SeGAyie", "SeGayie", "SegAyie", "SegaYIE", "SegaYIe", "SegaYiE", "SegaYie", "SegayIE", "SegayIe", "SegayiE"] }
+"selam" = { value = "ሰላም", alias = ["sElam", "seLAm", "seLam", "selAm", "selaM"] }
+"selamawit" = { value = "ሰላማዊት", alias = ["sElamawit", "seLAmawit", "seLamawit", "selAmawit", "selaMAwit", "selaMawit", "selamAwit", "selamaWIt", "selamaWit", "selamawIt"] }
+"selamiaiel" = { value = "ሰላሚኤል", alias = ["sElamiaiel", "seLAmiaiel", "seLamiaiel", "selAmiaiel", "selaMIaiel", "selaMiaiel", "selamIaiel", "selamiaIEl", "selamiaIel", "selamiaiEl", "selamiaieL"] }
+"selatyal" = { value = "ሰላትያል", alias = ["sElatyal", "seLAtyal", "seLatyal", "selAtyal", "selatYAl", "selatYal", "selatyAl", "selatyaL"] }
+"selemiaiel" = { value = "ሰለሚኤል", alias = ["sElemiaiel", "seLEmiaiel", "seLemiaiel", "selEmiaiel", "seleMIaiel", "seleMiaiel", "selemIaiel", "selemiaIEl", "selemiaIel", "selemiaiEl", "selemiaieL"] }
+"selemon" = { value = "ሰለሞን", alias = ["sElemon", "seLEmon", "seLemon", "selEmon", "seleMOn", "seleMon", "selemOn"] }
+"seliemya" = { value = "ሰሌምያ", alias = ["sEliemya", "seLIEmya", "seLIemya", "seLiEmya", "seLiemya", "selIEmya", "selIemya", "seliEmya", "selieMya", "seliemYA", "seliemYa", "seliemyA"] }
+"selmnasor" = { value = "ሰልምናሶር", alias = ["sElmnasor", "seLmnasor", "selMnasor", "selmnAsor", "selmnasOr", "selmnasoR"] }
+"selmo" = { value = "ሰልሞ", alias = ["sElmo", "seLmo", "selMO", "selMo", "selmO"] }
+"selmon" = { value = "ሰልሞን", alias = ["sElmon", "seLmon", "selMOn", "selMon", "selmOn"] }
+"selom" = { value = "ሰሎም", alias = ["sElom", "seLOm", "seLom", "selOm", "seloM"] }
+"selomie" = { value = "ሰሎሜ", alias = ["sElomie", "seLOmie", "seLomie", "selOmie", "seloMIE", "seloMIe", "seloMiE", "seloMie", "selomIE", "selomIe", "selomiE"] }
+"selomon" = { value = "ሰሎሞን", alias = ["sElomon", "seLOmon", "seLomon", "selOmon", "seloMOn", "seloMon", "selomOn"] }
+"selu" = { value = "ሰሉ", alias = ["sElu", "seLU", "seLu", "selU"] }
+"semAat" = { value = "ሰምዓት", alias = ["sEmAat", "seMAat", "semAAt"] }
+"semakiya" = { value = "ሰማኪያ", alias = ["sEmakiya", "seMAkiya", "seMakiya", "semAkiya", "semakIya", "semakiYA", "semakiYa", "semakiyA"] }
+"semakya" = { value = "ሰማክያ", alias = ["sEmakya", "seMAkya", "seMakya", "semAkya", "semakYA", "semakYa", "semakyA"] }
+"semaraya" = { value = "ሰማራያ", alias = ["sEmaraya", "seMAraya", "seMaraya", "semAraya", "semaRAya", "semaRaya", "semarAya", "semaraYA", "semaraYa", "semarayA"] }
+"semieai" = { value = "ሰሜኢ", alias = ["sEmieai", "seMIEai", "seMIeai", "seMiEai", "seMieai", "semIEai", "semIeai", "semiEai", "semieaI"] }
+"semieber" = { value = "ሰሜበር", alias = ["sEmieber", "seMIEber", "seMIeber", "seMiEber", "seMieber", "semIEber", "semIeber", "semiEber", "semieBEr", "semieBer", "semiebEr", "semiebeR"] }
+"semira" = { value = "ሰሚራ", alias = ["sEmira", "seMIra", "seMira", "semIra", "semiRA", "semiRa", "semirA"] }
+"semlay" = { value = "ሰምላይ", alias = ["sEmlay", "seMlay", "semLAy", "semLay", "semlAy", "semlaY"] }
+"semuaiel" = { value = "ሰሙኤል", alias = ["sEmuaiel", "seMUaiel", "seMuaiel", "semUaiel", "semuaIEl", "semuaIel", "semuaiEl", "semuaieL"] }
+"senayt" = { value = "ሰናይት", alias = ["sEnayt", "senAyt", "senaYt"] }
+"sePra" = { value = "ሰጵራ", alias = ["sEPra", "sePRA", "sePRa", "sePrA"] }
+"serabya" = { value = "ሰራብያ", alias = ["sErabya", "seRAbya", "seRabya", "serAbya", "seraBya", "serabYA", "serabYa", "serabyA"] }
+"sergyos" = { value = "ሰርግዮስ", alias = ["sErgyos", "seRgyos", "serGyos", "sergYOs", "sergYos", "sergyOs"] }
+"serkaedis" = { value = "ሰርክአዲስ", alias = ["sErkaedis", "seRkaedis", "serkaEdis", "serkaeDIs", "serkaeDis", "serkaedIs"] }
+"serkaelem" = { value = "ሰርክአለም", alias = ["sErkaelem", "seRkaelem", "serkaElem", "serkaeLEm", "serkaeLem", "serkaelEm", "serkaeleM"] }
+"setur" = { value = "ሰቱር", alias = ["sEtur", "setUr", "setuR"] }
+"seyfu" = { value = "ሰይፉ", alias = ["sEyfu", "seYfu", "seyFU", "seyFu", "seyfU"] }
+"seyTan" = { value = "ሰይጣን", alias = ["sEyTan", "seYTan", "seyTAn"] }
+"siAa" = { value = "ሲዓ", alias = ["sIAa", "siAA"] }
+"siara" = { value = "ሲእራ", alias = ["sIara", "siaRA", "siaRa", "siarA"] }
+"sidraq" = { value = "ሲድራቅ", alias = ["sIdraq", "siDraq", "sidRAq", "sidRaq", "sidrAq", "sidraQ"] }
+"siedieqyas" = { value = "ሴዴቅያስ", alias = ["sIEdieqyas", "sIedieqyas", "siEdieqyas", "sieDIEqyas", "sieDIeqyas", "sieDiEqyas", "sieDieqyas", "siedIEqyas", "siedIeqyas", "siediEqyas", "siedieQyas", "siedieqYAs", "siedieqYas", "siedieqyAs"] }
+"siekiem" = { value = "ሴኬም", alias = ["sIEkiem", "sIekiem", "siEkiem", "siekIEm", "siekIem", "siekiEm", "siekieM"] }
+"siekienya" = { value = "ሴኬንያ", alias = ["sIEkienya", "sIekienya", "siEkienya", "siekIEnya", "siekIenya", "siekiEnya", "siekienYA", "siekienYa", "siekienyA"] }
+"siela" = { value = "ሴላ", alias = ["sIEla", "sIela", "siEla", "sieLA", "sieLa", "sielA"] }
+"sieliemi" = { value = "ሴሌሚ", alias = ["sIEliemi", "sIeliemi", "siEliemi", "sieLIEmi", "sieLIemi", "sieLiEmi", "sieLiemi", "sielIEmi", "sielIemi", "sieliEmi", "sielieMI", "sielieMi", "sieliemI"] }
+"sielo" = { value = "ሴሎ", alias = ["sIElo", "sIelo", "siElo", "sieLO", "sieLo", "sielO"] }
+"sielona" = { value = "ሴሎና", alias = ["sIElona", "sIelona", "siElona", "sieLOna", "sieLona", "sielOna", "sielonA"] }
+"siem" = { value = "ሴም", alias = ["sIEm", "sIem", "siEm", "sieM"] }
+"siemiey" = { value = "ሴሜይ", alias = ["sIEmiey", "sIemiey", "siEmiey", "sieMIEy", "sieMIey", "sieMiEy", "sieMiey", "siemIEy", "siemIey", "siemiEy", "siemieY"] }
+"sienaAa" = { value = "ሴናዓ", alias = ["sIEnaAa", "sIenaAa", "siEnaAa", "sienAAa", "sienaAA"] }
+"siesi" = { value = "ሴሲ", alias = ["sIEsi", "sIesi", "siEsi", "siesI"] }
+"siesiey" = { value = "ሴሴይ", alias = ["sIEsIEy", "sIesIey", "siEsiEy", "siesieY"] }
+"siet" = { value = "ሴት", alias = ["sIEt", "sIet", "siEt"] }
+"sihem" = { value = "ሲሀም", alias = ["sIhem", "sihEm", "siheM"] }
+"silas" = { value = "ሲላስ", alias = ["sIlas", "siLAs", "siLas", "silAs"] }
+"sinTieki" = { value = "ሲንጤኪ", alias = ["sInTieki", "sinTIEki", "sinTIeki", "sinTiEki", "sinTiekI"] }
+"sipara" = { value = "ሲፓራ", alias = ["sIpara", "sipAra", "sipaRA", "sipaRa", "siparA"] }
+"siraj" = { value = "ሲራጅ", alias = ["sIraj", "siRAj", "siRaj", "sirAj", "siraJ"] }
+"sisay" = { value = "ሲሳይ", alias = ["sIsay", "sisAy", "sisaY"] }
+"smAon" = { value = "ስምዖን", alias = ["sMAon", "smAOn"] }
+"sndu" = { value = "ስንዱ", alias = ["snDU", "snDu", "sndU"] }
+"sneTbeb" = { value = "ስነጥበብ", alias = ["snETbeb", "sneTBEb", "sneTBeb", "sneTbEb", "sneTbeB"] }
+"sntayehu" = { value = "ስንታየሁ", alias = ["sntAyehu", "sntaYEhu", "sntaYehu", "sntayEhu", "sntayehU"] }
+"sobay" = { value = "ሶባይ", alias = ["sObay", "soBAy", "soBay", "sobAy", "sobaY"] }
+"sofonyas" = { value = "ሶፎንያስ", alias = ["sOfonyas", "soFOnyas", "soFonyas", "sofOnyas", "sofonYAs", "sofonYas", "sofonyAs"] }
+"somson" = { value = "ሶምሶን", alias = ["sOmsOn", "soMson"] }
+"sosna" = { value = "ሶስና", alias = ["sOsna", "sosnA"] }
+"Sri" = { value = "ጽሪ", alias = ["SRI", "SRi", "SrI"] }
+"Sruya" = { value = "ጽሩያ", alias = ["SRUya", "SRuya", "SrUya", "SruYA", "SruYa", "SruyA"] }
+"ssara" = { value = "ሣራ", alias = ["ssAra", "ssaRA", "ssaRa", "ssarA"] }
+"ssaraf" = { value = "ሣራፍ", alias = ["ssAraf", "ssaRAf", "ssaRaf", "ssarAf", "ssaraF"] }
+"SSedeniya" = { value = "ፀደኒያ", alias = ["SSEdeniya", "SSeDEniya", "SSeDeniya", "SSedEniya", "SSedenIya", "SSedeniYA", "SSedeniYa", "SSedeniyA"] }
+"SSedey" = { value = "ፀደይ", alias = ["SSEdey", "SSeDEy", "SSeDey", "SSedEy", "SSedeY"] }
+"SSeHey" = { value = "ፀሐይ", alias = ["SSEHey", "SSeHEy", "SSeHeY"] }
+"ssemla" = { value = "ሠምላ", alias = ["ssEmla", "sseMla", "ssemLA", "ssemLa", "ssemlA"] }
+"sseraya" = { value = "ሠራያ", alias = ["ssEraya", "sseRAya", "sseRaya", "sserAya", "sseraYA", "sseraYa", "sserayA"] }
+"SSgenet" = { value = "ፅገነት", alias = ["SSGEnet", "SSGenet", "SSgEnet", "SSgenEt"] }
+"SSiaon" = { value = "ፂኦን", alias = ["SSIaon", "SSiaOn"] }
+"ssobal" = { value = "ሦባል", alias = ["ssObal", "ssoBAl", "ssoBal", "ssobAl", "ssobaL"] }
+"ssora" = { value = "ሦራ", alias = ["ssOra", "ssoRA", "ssoRa", "ssorA"] }
+"SSozaya" = { value = "ፆዛያ", alias = ["SSOzaya", "SSozAya", "SSozaYA", "SSozaYa", "SSozayA"] }
+"sTota" = { value = "ስጦታ", alias = ["sTOta", "sTotA"] }
+"surafiel" = { value = "ሱራፌል", alias = ["sUrafiel", "suRAfiel", "suRafiel", "surAfiel", "suraFIEl", "suraFIel", "suraFiEl", "suraFiel", "surafIEl", "surafIel", "surafiEl", "surafieL"] }
+"suriaiel" = { value = "ሱሪኤል", alias = ["sUriaiel", "suRIaiel", "suRiaiel", "surIaiel", "suriaIEl", "suriaIel", "suriaiEl", "suriaieL"] }
+"suriseday" = { value = "ሱሪሰዳይ", alias = ["sUriseday", "suRIseday", "suRiseday", "surIseday", "surisEday", "suriseDAy", "suriseDay", "surisedAy", "surisedaY"] }
+"susa" = { value = "ሱሳ", alias = ["sUsa", "susA"] }
+"susi" = { value = "ሱሲ", alias = ["sUsi", "susI"] }
+"suwa" = { value = "ሱዋ", alias = ["sUwa", "suWA", "suWa", "suwA"] }
+"syum" = { value = "ስዩም", alias = ["sYUm", "sYum", "syUm", "syuM"] }
+"Tabita" = { value = "ጣቢታ", alias = ["TAbita", "TaBIta", "TaBita", "TabIta", "TabitA"] }
+"tadele" = { value = "ታደለ", alias = ["tAdele", "taDEle", "taDele", "tadEle", "tadeLE", "tadeLe", "tadelE"] }
+"tadese" = { value = "ታደሰ", alias = ["tAdese", "taDEse", "taDese", "tadEse", "tadesE"] }
+"tadiewos" = { value = "ታዴዎስ", alias = ["tAdiewos", "taDIEwos", "taDIewos", "taDiEwos", "taDiewos", "tadIEwos", "tadIewos", "tadiEwos", "tadieWOs", "tadieWos", "tadiewOs"] }
+"tAmar" = { value = "ትዕማር", alias = ["tAMAr", "tAMar", "tAmAr", "tAmaR"] }
+"tamene" = { value = "ታመነ", alias = ["tAmene", "taMEne", "taMene", "tamEne", "tamenE"] }
+"tamrat" = { value = "ታምራት", alias = ["tAmrat", "taMrat", "tamRAt", "tamRat", "tamrAt"] }
+"tara" = { value = "ታራ", alias = ["tAra", "taRA", "taRa", "tarA"] }
+"tareqeN" = { value = "ታረቀኝ", alias = ["tAreqeN", "taREqeN", "taReqeN", "tarEqeN", "tareQEN", "tareQeN", "tareqEN"] }
+"tarieAa" = { value = "ታሬዓ", alias = ["tArieAa", "taRIEAa", "taRIeAa", "taRiEAa", "taRieAa", "tarIEAa", "tarIeAa", "tariEAa", "tarieAA"] }
+"tarik" = { value = "ታሪክ", alias = ["tArik", "taRIk", "taRik", "tarIk"] }
+"tariku" = { value = "ታሪኩ", alias = ["tAriku", "taRIku", "taRiku", "tarIku", "tarikU"] }
+"TaTaiel" = { value = "ጣጥኤል", alias = ["TATaiel", "TaTaIEl", "TaTaIel", "TaTaiEl", "TaTaieL"] }
+"taye" = { value = "ታየ", alias = ["tAye", "taYE", "taYe", "tayE"] }
+"Taytu" = { value = "ጣይቱ", alias = ["TAytu", "TaYtu", "TaytU"] }
+"Tbebu" = { value = "ጥበቡ", alias = ["TBEbu", "TBebu", "TbEbu", "TbeBU", "TbeBu", "TbebU"] }
+"Tbelya" = { value = "ጥበልያ", alias = ["TBElya", "TBelya", "TbElya", "TbeLya", "TbelYA", "TbelYa", "TbelyA"] }
+"tedl" = { value = "ተድል", alias = ["tEdl", "teDl", "tedL"] }
+"tefera" = { value = "ተፈራ", alias = ["tEfera", "teFEra", "teFera", "tefEra", "tefeRA", "tefeRa", "teferA"] }
+"teferi" = { value = "ተፈሪ", alias = ["tEferi", "teFEri", "teFeri", "tefEri", "tefeRI", "tefeRi", "teferI"] }
+"teHexe" = { value = "ተሐሸ", alias = ["tEHexe", "teHExe", "teHeXE", "teHeXe", "teHexE"] }
+"tekeste" = { value = "ተከስተ", alias = ["tEkestE", "tekEste"] }
+"telami" = { value = "ተላሚ", alias = ["tElami", "teLAmi", "teLami", "telAmi", "telaMI", "telaMi", "telamI"] }
+"temesgen" = { value = "ተመስገን", alias = ["tEmesgen", "teMEsgen", "teMesgen", "temEsgen", "temesGEn", "temesGen", "temesgEn"] }
+"tenaN" = { value = "ተናኝ", alias = ["tEnaN", "tenAN"] }
+"Tersida" = { value = "ጠርሲዳ", alias = ["TErsida", "TeRsida", "TersIda", "TersiDA", "TersiDa", "TersidA"] }
+"tersies" = { value = "ተርሴስ", alias = ["tErsies", "teRsies", "tersIEs", "tersIes", "tersiEs"] }
+"tesema" = { value = "ተሰማ", alias = ["tEsema", "tesEma", "teseMA", "teseMa", "tesemA"] }
+"tesfayie" = { value = "ተስፋዬ", alias = ["tEsfayie", "tesFAyie", "tesFayie", "tesfAyie", "tesfaYIE", "tesfaYIe", "tesfaYiE", "tesfaYie", "tesfayIE", "tesfayIe", "tesfayiE"] }
+"tewabec" = { value = "ተዋበች", alias = ["tEwabec", "teWAbec", "teWabec", "tewAbec", "tewaBEc", "tewaBec", "tewabEc"] }
+"texome" = { value = "ተሾመ", alias = ["tExome", "teXOme", "teXome", "texOme", "texoME", "texoMe", "texomE"] }
+"tgst" = { value = "ትግስት", alias = ["tGst"] }
+"thut" = { value = "ትሁት", alias = ["thUt"] }
+"tiela" = { value = "ቴላ", alias = ["tIEla", "tIela", "tiEla", "tieLA", "tieLa", "tielA"] }
+"Tielmon" = { value = "ጤልሞን", alias = ["TIElmon", "TIelmon", "TiElmon", "TieLmon", "TielMOn", "TielMon", "TielmOn"] }
+"tiema" = { value = "ቴማ", alias = ["tIEma", "tIema", "tiEma", "tieMA", "tieMa", "tiemA"] }
+"tieman" = { value = "ቴማን", alias = ["tIEman", "tIeman", "tiEman", "tieMAn", "tieMan", "tiemAn"] }
+"tiemni" = { value = "ቴምኒ", alias = ["tIEmni", "tIemni", "tiEmni", "tieMni", "tiemnI"] }
+"tieqiemnas" = { value = "ቴቄምናስ", alias = ["tIEqiemnas", "tIeqiemnas", "tiEqiemnas", "tieQIEmnas", "tieQIemnas", "tieQiEmnas", "tieQiemnas", "tieqIEmnas", "tieqIemnas", "tieqiEmnas", "tieqieMnas", "tieqiemnAs"] }
+"tieras" = { value = "ቴራስ", alias = ["tIEras", "tIeras", "tiEras", "tieRAs", "tieRas", "tierAs"] }
+"tiewedros" = { value = "ቴወድሮስ", alias = ["tIEwedros", "tIewedros", "tiEwedros", "tieWEdros", "tieWedros", "tiewEdros", "tieweDros", "tiewedROs", "tiewedRos", "tiewedrOs"] }
+"tiewoflos" = { value = "ቴዎፍሎስ", alias = ["tIEwoflos", "tIewoflos", "tiEwoflos", "tieWOflos", "tieWoflos", "tiewOflos", "tiewoFlos", "tiewofLOs", "tiewofLos", "tiewoflOs"] }
+"tilon" = { value = "ቲሎን", alias = ["tIlon", "tiLOn", "tiLon", "tilOn"] }
+"Timona" = { value = "ጢሞና", alias = ["TImona", "TiMOna", "TiMona", "TimOna", "TimonA"] }
+"Timotiewos" = { value = "ጢሞቴዎስ", alias = ["TImotiewos", "TiMOtiewos", "TiMotiewos", "TimOtiewos", "TimotIEwos", "TimotIewos", "TimotiEwos", "TimotieWOs", "TimotieWos", "TimotiewOs"] }
+"Tirofimosa" = { value = "ጢሮፊሞሳ", alias = ["TIrofimosa", "TiROfimosa", "TiRofimosa", "TirOfimosa", "TiroFImosa", "TiroFimosa", "TirofImosa", "TirofiMOsa", "TirofiMosa", "TirofimOsa", "TirofimosA"] }
+"tirSa" = { value = "ቲርጻ", alias = ["tIrSa", "tiRSa", "tirSA"] }
+"tito" = { value = "ቲቶ", alias = ["tIto", "titO"] }
+"Tlahun" = { value = "ጥላሁን", alias = ["TLAhun", "TLahun", "TlAhun", "TlahUn"] }
+"tnbit" = { value = "ትንቢት", alias = ["tnBIt", "tnBit", "tnbIt"] }
+"tobiel" = { value = "ቶቤል", alias = ["tObiel", "toBIEl", "toBIel", "toBiEl", "toBiel", "tobIEl", "tobIel", "tobiEl", "tobieL"] }
+"Tobya" = { value = "ጦብያ", alias = ["TObya", "ToBya", "TobYA", "TobYa", "TobyA"] }
+"tomas" = { value = "ቶማስ", alias = ["tOmas", "toMAs", "toMas", "tomAs"] }
+"trsit" = { value = "ትርሲት", alias = ["tRsit", "trsIt"] }
+"Trunex" = { value = "ጥሩነሽ", alias = ["TRUnex", "TRunex", "TrUnex", "TrunEx", "TruneX"] }
+"Truwerq" = { value = "ጥሩወርቅ", alias = ["TRUwerq", "TRuwerq", "TrUwerq", "TruWErq", "TruWerq", "TruwErq", "TruweRq", "TruwerQ"] }
+"tzta" = { value = "ትዝታ", alias = ["tztA"] }
+"wenya" = { value = "ወንያ", alias = ["WEnya", "Wenya", "wEnya", "wenYA", "wenYa", "wenyA"] }
+"xAarya" = { value = "ሽዓርያ", alias = ["XAarya", "xAArya", "xAaRya", "xAarYA", "xAarYa", "xAaryA"] }
+"xakya" = { value = "ሻክያ", alias = ["XAkya", "Xakya", "xAkya", "xakYA", "xakYa", "xakyA"] }
+"xama" = { value = "ሻማ", alias = ["XAma", "Xama", "xAma", "xaMA", "xaMa", "xamA"] }
+"xamir" = { value = "ሻሚር", alias = ["XAmir", "Xamir", "xAmir", "xaMIr", "xaMir", "xamIr", "xamiR"] }
+"xaxaq" = { value = "ሻሻቅ", alias = ["XAXAq", "XaXaq", "xAxAq", "xaxaQ"] }
+"xeAal" = { value = "ሸዓል", alias = ["XEAal", "XeAal", "xEAal", "xeAAl", "xeAaL"] }
+"xebier" = { value = "ሸቤር", alias = ["XEbier", "Xebier", "xEbier", "xeBIEr", "xeBIer", "xeBiEr", "xeBier", "xebIEr", "xebIer", "xebiEr", "xebieR"] }
+"xemay" = { value = "ሸማይ", alias = ["XEmay", "Xemay", "xEmay", "xeMAy", "xeMay", "xemAy", "xemaY"] }
+"xemaya" = { value = "ሸማያ", alias = ["XEmaya", "Xemaya", "xEmaya", "xeMAya", "xeMaya", "xemAya", "xemaYA", "xemaYa", "xemayA"] }
+"xemida" = { value = "ሸሚዳ", alias = ["XEmida", "Xemida", "xEmida", "xeMIda", "xeMida", "xemIda", "xemiDA", "xemiDa", "xemidA"] }
+"xeray" = { value = "ሸራይ", alias = ["XEray", "Xeray", "xEray", "xeRAy", "xeRay", "xerAy", "xeraY"] }
+"xferaw" = { value = "ሽፈራው", alias = ["Xferaw", "xFEraw", "xFeraw", "xfEraw", "xfeRAw", "xfeRaw", "xferAw", "xferaW"] }
+"xienaSar" = { value = "ሼናጻር", alias = ["XIEnaSar", "XIenaSar", "XiEnaSar", "XienaSar", "xIEnaSar", "xIenaSar", "xiEnaSar", "xienASar", "xienaSAr", "xienaSaR"] }
+"ximri" = { value = "ሺምሪ", alias = ["XImri", "Ximri", "xImri", "xiMri", "ximRI", "ximRi", "ximrI"] }
+"ximron" = { value = "ሺምሮን", alias = ["XImron", "Ximron", "xImron", "xiMron", "ximROn", "ximRon", "ximrOn"] }
+"xmaA" = { value = "ሽማዕ", alias = ["XmaA", "xMAA", "xMaA", "xmAA"] }
+"xmaAa" = { value = "ሽማዓ", alias = ["XmaAa", "xMAAa", "xMaAa", "xmAAa", "xmaAA"] }
+"xmels" = { value = "ሽመልስ", alias = ["Xmels", "xMEls", "xMels", "xmEls", "xmeLs"] }
+"xomier" = { value = "ሾሜር", alias = ["XOmier", "Xomier", "xOmier", "xoMIEr", "xoMIer", "xoMiEr", "xoMier", "xomIEr", "xomIer", "xomiEr", "xomieR"] }
+"xuni" = { value = "ሹኒ", alias = ["XUni", "Xuni", "xUni", "xunI"] }
+"xwangzaw" = { value = "ሽዋንግዛው", alias = ["Xwangzaw", "xWAngzaw", "xWangzaw", "xwAngzaw", "xwanGzaw", "xwangzAw", "xwangzaW"] }
+"yaAqob" = { value = "ያዕቆብ", alias = ["YAAqob", "YaAqob", "yAAqob", "yaAQOb", "yaAQob", "yaAqOb", "yaAqoB"] }
+"yaazanya" = { value = "ያእዛንያ", alias = ["YAazanYA", "YaazanYa", "yAazanyA", "yaazAnya"] }
+"yabal" = { value = "ያባል", alias = ["YAbal", "Yabal", "yAbal", "yaBAl", "yaBal", "yabAl", "yabaL"] }
+"yabieS" = { value = "ያቤጽ", alias = ["YAbieS", "YabieS", "yAbieS", "yaBIES", "yaBIeS", "yaBiES", "yaBieS", "yabIES", "yabIeS", "yabiES"] }
+"yada" = { value = "ያዳ", alias = ["YAda", "Yada", "yAda", "yaDA", "yaDa", "yadA"] }
+"yadiaiel" = { value = "ያዲኤል", alias = ["YAdiaiel", "Yadiaiel", "yAdiaiel", "yaDIaiel", "yaDiaiel", "yadIaiel", "yadiaIEl", "yadiaIel", "yadiaiEl", "yadiaieL"] }
+"yadon" = { value = "ያዶን", alias = ["YAdon", "Yadon", "yAdon", "yaDOn", "yaDon", "yadOn"] }
+"yafiAa" = { value = "ያፊዓ", alias = ["YAfiAa", "YafiAa", "yAfiAa", "yaFIAa", "yaFiAa", "yafIAa", "yafiAA"] }
+"yafiet" = { value = "ያፌት", alias = ["YAfiet", "Yafiet", "yAfiet", "yaFIEt", "yaFIet", "yaFiEt", "yaFiet", "yafIEt", "yafIet", "yafiEt"] }
+"yahday" = { value = "ያህዳይ", alias = ["YAhday", "Yahday", "yAhday", "yahDAy", "yahDay", "yahdAy", "yahdaY"] }
+"yaHliel" = { value = "ያሕሌል", alias = ["YAHliel", "YaHliel", "yAHliel", "yaHLIEl", "yaHLIel", "yaHLiEl", "yaHLiel", "yaHlIEl", "yaHlIel", "yaHliEl", "yaHlieL"] }
+"yaHSaiel" = { value = "ያሕጽኤል", alias = ["YAHSaiel", "YaHSaiel", "yAHSaiel", "yaHSaIEl", "yaHSaIel", "yaHSaiEl", "yaHSaieL"] }
+"yahwie" = { value = "ያህዌ", alias = ["YAhwie", "Yahwie", "yAhwie", "yahWIE", "yahWIe", "yahWiE", "yahWie", "yahwIE", "yahwIe", "yahwiE"] }
+"yaHziaiel" = { value = "ያሕዚኤል", alias = ["YAHziaiel", "YaHziaiel", "yAHziaiel", "yaHzIaiel", "yaHziaIEl", "yaHziaIel", "yaHziaiEl", "yaHziaieL"] }
+"yakin" = { value = "ያኪን", alias = ["YAkin", "Yakin", "yAkin", "yakIn"] }
+"yalon" = { value = "ያሎን", alias = ["YAlon", "Yalon", "yAlon", "yaLOn", "yaLon", "yalOn"] }
+"yaqim" = { value = "ያቂም", alias = ["YAqim", "Yaqim", "yAqim", "yaQIm", "yaQim", "yaqIm", "yaqiM"] }
+"yaraH" = { value = "ያራሕ", alias = ["YAraH", "YaraH", "yAraH", "yaRAH", "yaRaH", "yarAH"] }
+"yarib" = { value = "ያሪብ", alias = ["YArib", "Yarib", "yArib", "yaRIb", "yaRib", "yarIb", "yariB"] }
+"yaried" = { value = "ያሬድ", alias = ["YAried", "Yaried", "yAried", "yaRIEd", "yaRIed", "yaRiEd", "yaRied", "yarIEd", "yarIed", "yariEd", "yarieD"] }
+"yariexya" = { value = "ያሬሽያ", alias = ["YAriexYA", "YariexYa", "yAriexyA", "yaRIExya", "yaRIexya", "yaRiExya", "yaRiexya", "yarIExya", "yarIexya", "yariExya", "yarieXya"] }
+"yawan" = { value = "ያዋን", alias = ["YAwan", "Yawan", "yAwan", "yaWAn", "yaWan", "yawAn"] }
+"yazaiel" = { value = "ያዝኤል", alias = ["YAzaiel", "Yazaiel", "yAzaiel", "yazaIEl", "yazaIel", "yazaiEl", "yazaieL"] }
+"yaziz" = { value = "ያዚዝ", alias = ["YAziz", "Yaziz", "yAziz", "yazIz"] }
+"yazy" = { value = "ያዝይ", alias = ["YAzy", "Yazy", "yAzy", "yazY"] }
+"yazya" = { value = "ያዝያ", alias = ["YAzYA", "YazYa", "yAzyA"] }
+"ydida" = { value = "ይዲዳ", alias = ["Ydida", "yDIda", "yDida", "ydIda", "ydiDA", "ydiDa", "ydidA"] }
+"ydidya" = { value = "ይዲድያ", alias = ["Ydidya", "yDIdya", "yDidya", "ydIdya", "ydiDya", "ydidYA", "ydidYa", "ydidyA"] }
+"yeaiela" = { value = "የኤላ", alias = ["YEaiela", "Yeaiela", "yEaiela", "yeaIEla", "yeaIela", "yeaiEla", "yeaieLA", "yeaieLa", "yeaielA"] }
+"yeAlam" = { value = "የዕላም", alias = ["YEAlam", "YeAlam", "yEAlam", "yeALAm", "yeALam", "yeAlAm", "yeAlaM"] }
+"yeAra" = { value = "የዕራ", alias = ["YEAra", "YeAra", "yEAra", "yeARA", "yeARa", "yeArA"] }
+"yeHmay" = { value = "የሕማይ", alias = ["YEHmay", "YeHmay", "yEHmay", "yeHMAy", "yeHMay", "yeHmAy", "yeHmaY"] }
+"yeHzya" = { value = "የሕዝያ", alias = ["YEHzya", "YeHzya", "yEHzya", "yeHzYA", "yeHzYa", "yeHzyA"] }
+"yeriya" = { value = "የሪያ", alias = ["YEriya", "Yeriya", "yEriya", "yeRIya", "yeRiya", "yerIya", "yeriYA", "yeriYa", "yeriyA"] }
+"yesboq" = { value = "የስቦቅ", alias = ["YEsboq", "Yesboq", "yEsboq", "yesBOq", "yesBoq", "yesbOq", "yesboQ"] }
+"yeSSla" = { value = "የፅላ", alias = ["YESSla", "YeSSla", "yESSla", "yeSSLA", "yeSSLa", "yeSSlA"] }
+"yeSSssu" = { value = "የፅሡ", alias = ["YESSssu", "YeSSssu", "yESSssu", "yeSSssU"] }
+"yesuwa" = { value = "የሱዋ", alias = ["YEsuwa", "Yesuwa", "yEsuwa", "yesUwa", "yesuWA", "yesuWa", "yesuwA"] }
+"yesuwi" = { value = "የሱዊ", alias = ["YEsuwi", "Yesuwi", "yEsuwi", "yesUwi", "yesuWI", "yesuWi", "yesuwI"] }
+"yexaya" = { value = "የሻያ", alias = ["YExaya", "Yexaya", "yExaya", "yeXAya", "yeXaya", "yexAya", "yexaYA", "yexaYa", "yexayA"] }
+"yexmaAa" = { value = "የሽማዓ", alias = ["YExmaAa", "YexmaAa", "yExmaAa", "yeXmaAa", "yexMAAa", "yexMaAa", "yexmAAa", "yexmaAA"] }
+"yeydaya" = { value = "የይዳያ", alias = ["YEydaya", "Yeydaya", "yEydaya", "yeYdaya", "yeyDAya", "yeyDaya", "yeydAya", "yeydaYA", "yeydaYa", "yeydayA"] }
+"yHiaieli" = { value = "ይሒኤሊ", alias = ["YHiaieli", "yHIaieli", "yHiaIEli", "yHiaIeli", "yHiaiEli", "yHiaieLI", "yHiaieLi", "yHiaielI"] }
+"yhuda" = { value = "ይሁዳ", alias = ["Yhuda", "yhUda", "yhuDA", "yhuDa", "yhudA"] }
+"yieried" = { value = "ዬሬድ", alias = ["YIEried", "YIeried", "YiEried", "Yieried", "yIEried", "yIeried", "yiEried", "yieRIEd", "yieRIed", "yieRiEd", "yieRied", "yierIEd", "yierIed", "yieriEd", "yierieD"] }
+"yietier" = { value = "ዬቴር", alias = ["YIEtier", "YIetier", "YiEtier", "Yietier", "yIEtier", "yIetier", "yiEtier", "yietIEr", "yietIer", "yietiEr", "yietieR"] }
+"yisimaiel" = { value = "ዪሲምኤል", alias = ["YIsimaiel", "Yisimaiel", "yIsimaiel", "yisImaiel", "yisiMaiel", "yisimaIEl", "yisimaIel", "yisimaiEl", "yisimaieL"] }
+"ykolya" = { value = "ይኮልያ", alias = ["Ykolya", "ykOlya", "ykoLya", "ykolYA", "ykolYa", "ykolyA"] }
+"ymima" = { value = "ይሚማ", alias = ["Ymima", "yMIma", "yMima", "ymIma", "ymiMA", "ymiMa", "ymimA"] }
+"ymla" = { value = "ይምላ", alias = ["Ymla", "yMla", "ymLA", "ymLa", "ymlA"] }
+"ymna" = { value = "ይምና", alias = ["Ymna", "yMna", "ymnA"] }
+"ymuaiel" = { value = "ይሙኤል", alias = ["Ymuaiel", "yMUaiel", "yMuaiel", "ymUaiel", "ymuaIEl", "ymuaIel", "ymuaiEl", "ymuaieL"] }
+"yoAadan" = { value = "ዮዓዳን", alias = ["YOAadan", "YoAadan", "yOAadan", "yoAAdan", "yoAaDAn", "yoAaDan", "yoAadAn"] }
+"yoad" = { value = "ዮእድ", alias = ["YOad", "Yoad", "yOad", "yoaD"] }
+"yoaekin" = { value = "ዮአኪን", alias = ["YOaekin", "Yoaekin", "yOaekin", "yoaEkin", "yoaekIn"] }
+"yoaes" = { value = "ዮአስ", alias = ["YOaes", "Yoaes", "yOaes", "yoaEs"] }
+"yoda" = { value = "ዮዳ", alias = ["YOda", "Yoda", "yOda", "yoDA", "yoDa", "yodA"] }
+"yodahie" = { value = "ዮዳሄ", alias = ["YOdahie", "Yodahie", "yOdahie", "yoDAhie", "yoDahie", "yodAhie", "yodahIE", "yodahIe", "yodahiE"] }
+"yodit" = { value = "ዮዲት", alias = ["YOdit", "Yodit", "yOdit", "yoDIt", "yoDit", "yodIt"] }
+"yoHena" = { value = "ዮሐና", alias = ["YOHena", "YoHena", "yOHena", "yoHEna", "yoHenA"] }
+"yoHenan" = { value = "ዮሐናን", alias = ["YOHenan", "YoHenan", "yOHenan", "yoHEnan", "yoHenAn"] }
+"yoHens" = { value = "ዮሐንስ", alias = ["YOHens", "YoHens", "yOHens", "yoHEns"] }
+"yona" = { value = "ዮና", alias = ["YOna", "Yona", "yOna", "yonA"] }
+"yonan" = { value = "ዮናን", alias = ["YOnan", "Yonan", "yOnan", "yonAn"] }
+"yonas" = { value = "ዮናስ", alias = ["YOnas", "Yonas", "yOnas", "yonAs"] }
+"yonatan" = { value = "ዮናታን", alias = ["YOnatan", "Yonatan", "yOnatan", "yonAtan", "yonatAn"] }
+"yoram" = { value = "ዮራም", alias = ["YOram", "Yoram", "yOram", "yoRAm", "yoRam", "yorAm", "yoraM"] }
+"yoray" = { value = "ዮራይ", alias = ["YOray", "Yoray", "yOray", "yoRAy", "yoRay", "yorAy", "yoraY"] }
+"yosabiet" = { value = "ዮሳቤት", alias = ["YOsabiet", "Yosabiet", "yOsabiet", "yosAbiet", "yosaBIEt", "yosaBIet", "yosaBiEt", "yosaBiet", "yosabIEt", "yosabIet", "yosabiEt"] }
+"yosieA" = { value = "ዮሴዕ", alias = ["YOsieA", "YosieA", "yOsieA", "yosIEA", "yosIeA", "yosiEA"] }
+"yosief" = { value = "ዮሴፍ", alias = ["YOsief", "Yosief", "yOsief", "yosIEf", "yosIef", "yosiEf", "yosieF"] }
+"yosifya" = { value = "ዮሲፍያ", alias = ["YOsifya", "Yosifya", "yOsifya", "yosIfya", "yosiFya", "yosifYA", "yosifYa", "yosifyA"] }
+"yoska" = { value = "ዮስካ", alias = ["YOska", "Yoska", "yOska", "yoskA"] }
+"yotor" = { value = "ዮቶር", alias = ["YOtor", "Yotor", "yOtor", "yotOr", "yotoR"] }
+"yoxawiya" = { value = "ዮሻዊያ", alias = ["YOxawiya", "Yoxawiya", "yOxawiya", "yoXAwiya", "yoXawiya", "yoxAwiya", "yoxaWIya", "yoxaWiya", "yoxawIya", "yoxawiYA", "yoxawiYa", "yoxawiyA"] }
+"yoxibya" = { value = "ዮሺብያ", alias = ["YOxibya", "Yoxibya", "yOxibya", "yoXIbya", "yoXibya", "yoxIbya", "yoxiBya", "yoxibYA", "yoxibYa", "yoxibyA"] }
+"yozekar" = { value = "ዮዘካር", alias = ["YOzekar", "Yozekar", "yOzekar", "yozEkar", "yozekAr", "yozekaR"] }
+"yqamya" = { value = "ይቃምያ", alias = ["Yqamya", "yQAmya", "yQamya", "yqAmya", "yqaMya", "yqamYA", "yqamYa", "yqamyA"] }
+"yreHmaiel" = { value = "ይረሕምኤል", alias = ["YreHmaiel", "yREHmaiel", "yReHmaiel", "yrEHmaiel", "yreHMaiel", "yreHmaIEl", "yreHmaIel", "yreHmaiEl", "yreHmaieL"] }
+"yriaiel" = { value = "ይሪኤል", alias = ["Yriaiel", "yRIaiel", "yRiaiel", "yrIaiel", "yriaIEl", "yriaIel", "yriaiEl", "yriaieL"] }
+"yriAot" = { value = "ይሪዖት", alias = ["YriAot", "yRIAot", "yRiAot", "yrIAot", "yriAOt"] }
+"yribay" = { value = "ይሪባይ", alias = ["YribaY", "yRIbay", "yRibay", "yrIbay", "yriBAy", "yriBay", "yribAy"] }
+"yriya" = { value = "ይሪያ", alias = ["Yriya", "yRIya", "yRiya", "yrIya", "yriYA", "yriYa", "yriyA"] }
+"ysAar" = { value = "ይስዓር", alias = ["YsAar", "ysAAr", "ysAaR"] }
+"ysHeq" = { value = "ይስሐቅ", alias = ["YsHeq", "ysHEq", "ysHeQ"] }
+"ythham" = { value = "ይትኃም", alias = ["Ythham", "ythhAm", "ythhaM"] }
+"ytma" = { value = "ይትማ", alias = ["Ytma", "ytMA", "ytMa", "ytmA"] }
+"ytran" = { value = "ይትራን", alias = ["Ytran", "ytRAn", "ytRan", "ytrAn"] }
+"yubal" = { value = "ዩባል", alias = ["YUbal", "Yubal", "yUbal", "yuBAl", "yuBal", "yubAl", "yubaL"] }
+"yulya" = { value = "ዩልያ", alias = ["YUlya", "Yulya", "yUlya", "yuLya", "yulYA", "yulYa", "yulyA"] }
+"yulyos" = { value = "ዩልዮስ", alias = ["YUlyos", "Yulyos", "yUlyos", "yuLyos", "yulYOs", "yulYos", "yulyOs"] }
+"yxai" = { value = "ይሽኢ", alias = ["Yxai", "yXai", "yxaI"] }
+"yxba" = { value = "ይሽባ", alias = ["Yxba", "yXba", "yxBA", "yxBa", "yxbA"] }
+"yxbibnob" = { value = "ይሽቢብኖብ", alias = ["Yxbibnob", "yXbibnob", "yxBIbnob", "yxBibnob", "yxbIbnob", "yxbiBnoB", "yxbibnOb"] }
+"yxiya" = { value = "ይሺያ", alias = ["Yxiya", "yXIya", "yXiya", "yxIya", "yxiYA", "yxiYa", "yxiyA"] }
+"yxmray" = { value = "ይሽምራይ", alias = ["YxmraY", "yXmray", "yxMray", "yxmRAy", "yxmRay", "yxmrAy"] }
+"yxPa" = { value = "ይሽጳ", alias = ["YxPa", "yXPa", "yxPA"] }
+"yxPan" = { value = "ይሽጳን", alias = ["YxPan", "yXPan", "yxPAn"] }
+"yzaiel" = { value = "ይዝኤል", alias = ["Yzaiel", "yzaIEl", "yzaIel", "yzaiEl", "yzaieL"] }
+"yzreHya" = { value = "ይዝረሕያ", alias = ["YzreHya", "yzREHya", "yzReHya", "yzrEHya", "yzreHYA", "yzreHYa", "yzreHyA"] }
+"zaAwan" = { value = "ዛዕዋን", alias = ["zAAwan", "zaAWAn", "zaAWan", "zaAwAn"] }
+"zabhiel" = { value = "ዛብሄል", alias = ["zAbhiel", "zaBhiel", "zabhIEl", "zabhIel", "zabhiEl", "zabhieL"] }
+"zablon" = { value = "ዛብሎን", alias = ["zAblon", "zaBlon", "zabLOn", "zabLon", "zablOn"] }
+"zara" = { value = "ዛራ", alias = ["zAra", "zaRA", "zaRa", "zarA"] }
+"zaza" = { value = "ዛዛ", alias = ["zAzA"] }
+"zbadya" = { value = "ዝባድያ", alias = ["zBAdya", "zBadya", "zbAdya", "zbaDya", "zbadYA", "zbadYa", "zbadyA"] }
+"zebay" = { value = "ዘባይ", alias = ["zEbay", "zeBAy", "zeBay", "zebAy", "zebaY"] }
+"zebdaiel" = { value = "ዘብድኤል", alias = ["zEbdaiel", "zeBdaiel", "zebDaiel", "zebdaIEl", "zebdaIel", "zebdaiEl", "zebdaieL"] }
+"zebdiewos" = { value = "ዘብዴዎስ", alias = ["zEbdiewos", "zeBdiewos", "zebDIEwos", "zebDIewos", "zebDiEwos", "zebDiewos", "zebdIEwos", "zebdIewos", "zebdiEwos", "zebdieWOs", "zebdieWos", "zebdiewOs"] }
+"zebida" = { value = "ዘቢዳ", alias = ["zEbida", "zeBIda", "zeBida", "zebIda", "zebiDA", "zebiDa", "zebidA"] }
+"zebina" = { value = "ዘቢና", alias = ["zEbina", "zeBIna", "zeBina", "zebIna", "zebinA"] }
+"zekaryas" = { value = "ዘካርያስ", alias = ["zEkaryas", "zekAryas", "zekaRyas", "zekarYAs", "zekarYas", "zekaryAs"] }
+"zelefa" = { value = "ዘለፋ", alias = ["zElefa", "zeLEfa", "zeLefa", "zelEfa", "zeleFA", "zeleFa", "zelefA"] }
+"zenberi" = { value = "ዘንበሪ", alias = ["zEnberi", "zenBEri", "zenBeri", "zenbEri", "zenbeRI", "zenbeRi", "zenberI"] }
+"zeraaya" = { value = "ዘራእያ", alias = ["zEraaya", "zeRAaya", "zeRaaya", "zerAaya", "zeraaYA", "zeraaYa", "zeraayA"] }
+"ziemas" = { value = "ዜማስ", alias = ["zIEmas", "zIemas", "ziEmas", "zieMAs", "zieMas", "ziemAs"] }
+"zietan" = { value = "ዜታን", alias = ["zIEtan", "zIetan", "ziEtan", "zietAn"] }
+"ziza" = { value = "ዚዛ", alias = ["zIza", "zizA"] }
+"zmira" = { value = "ዝሚራ", alias = ["zMIra", "zMira", "zmIra", "zmiRA", "zmiRa", "zmirA"] }
+"zosara" = { value = "ዞሳራ", alias = ["zOsara", "zosAra", "zosaRA", "zosaRa", "zosarA"] }
+"zuaie" = { value = "ዙኤ", alias = ["zUaie", "zuaIE", "zuaIe", "zuaiE"] }
