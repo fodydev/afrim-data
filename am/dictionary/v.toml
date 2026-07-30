@@ -1,532 +1,295 @@
-[translation]
-"vagan" = { value = "ቫጋን", alias = ["VAgan", "Vagan", "vAgan", "vaGAn", "vaGan", "vagAn"] }
-"vagen" = { value = "ቫገን", alias = ["VAgen", "Vagen", "vAgen", "vaGEn", "vaGen", "vagEn"] }
-"vagner" = { value = "ቫግነር", alias = ["VAgner", "Vagner", "vAgner", "vaGner", "vagnEr", "vagneR"] }
-"vahan" = { value = "ቫሃን", alias = ["VAhan", "Vahan", "vAhan", "vahAn"] }
-"vahanm" = { value = "ቫሃንም", alias = ["VAhanm", "Vahanm", "vAhanm", "vahAnm", "vahanM"] }
-"vaka" = { value = "ቫካ", alias = ["VAka", "Vaka", "vAka", "vakA"] }
-"vakana" = { value = "ቫካና", alias = ["VAkana", "Vakana", "vAkana", "vakAna", "vakanA"] }
-"vakiexn" = { value = "ቫኬሽን", alias = ["VAkiexn", "Vakiexn", "vAkiexn", "vakIExn", "vakIexn", "vakiExn", "vakieXn"] }
-"vakiexnna" = { value = "ቫኬሽንና", alias = ["VAkiexnna", "Vakiexnna", "vAkiexnna", "vakIExnna", "vakIexnna", "vakiExnna", "vakieXnna", "vakiexnnA"] }
-"vakita" = { value = "ቫኪታ", alias = ["VAkita", "Vakita", "vAkita", "vakIta", "vakitA"] }
-"vakiyum" = { value = "ቫኪዩም", alias = ["VAkiyum", "Vakiyum", "vAkiyum", "vakIyum", "vakiYUm", "vakiYum", "vakiyUm", "vakiyuM"] }
-"vaknin" = { value = "ቫክኒን", alias = ["VAknin", "Vaknin", "vAknin", "vaknIn"] }
-"vaksin" = { value = "ቫክሲን", alias = ["VAksin", "Vaksin", "vAksin", "vaksIn"] }
-"vaksman" = { value = "ቫክስማን", alias = ["VAksman", "Vaksman", "vAksman", "vaksMAn", "vaksMan", "vaksmAn"] }
-"vaktang" = { value = "ቫክታንግ", alias = ["VAktang", "Vaktang", "vAktang", "vaktAng", "vaktanG"] }
-"vakteriya" = { value = "ቫክተሪያ", alias = ["VAkteriya", "Vakteriya", "vAkteriya", "vaktEriya", "vakteRIya", "vakteRiya", "vakterIya", "vakteriYA", "vakteriYa", "vakteriyA"] }
-"vaktieriya" = { value = "ቫክቴሪያ", alias = ["VAktieriya", "Vaktieriya", "vAktieriya", "vaktIEriya", "vaktIeriya", "vaktiEriya", "vaktieRIya", "vaktieRiya", "vaktierIya", "vaktieriYA", "vaktieriYa", "vaktieriyA"] }
-"vaktieriyaw" = { value = "ቫክቴሪያው", alias = ["VAktieriyaw", "Vaktieriyaw", "vAktieriyaw", "vaktIEriyaw", "vaktIeriyaw", "vaktiEriyaw", "vaktieRIyaw", "vaktieRiyaw", "vaktierIyaw", "vaktieriYAw", "vaktieriYaw", "vaktieriyAw", "vaktieriyaW"] }
-"vaktieriyawoc" = { value = "ቫክቴሪያዎች", alias = ["VAktieriyawoc", "Vaktieriyawoc", "vAktieriyawoc", "vaktIEriyawoc", "vaktIeriyawoc", "vaktiEriyawoc", "vaktieRIyawoc", "vaktieRiyawoc", "vaktierIyawoc", "vaktieriYAwoc", "vaktieriYawoc", "vaktieriyAwoc", "vaktieriyaWOc", "vaktieriyaWoc", "vaktieriyawOc"] }
-"vakyum" = { value = "ቫክዩም", alias = ["VAkyum", "Vakyum", "vAkyum", "vakYUm", "vakYum", "vakyUm", "vakyuM"] }
-"val" = { value = "ቫል", alias = ["VAl", "Val", "vAl", "vaL"] }
-"valdes" = { value = "ቫልደስ", alias = ["VAldes", "Valdes", "vAldes", "vaLdes", "valDEs", "valDes", "valdEs"] }
-"valdiek" = { value = "ቫልዴክ", alias = ["VAldiek", "Valdiek", "vAldiek", "vaLdiek", "valDIEk", "valDIek", "valDiEk", "valDiek", "valdIEk", "valdIek", "valdiEk"] }
-"valdis" = { value = "ቫልዲስ", alias = ["VAldis", "Valdis", "vAldis", "vaLdis", "valDIs", "valDis", "valdIs"] }
-"valens" = { value = "ቫለንስ", alias = ["VAlens", "Valens", "vAlens", "vaLEns", "vaLens", "valEns"] }
-"valentayenn" = { value = "ቫለንታየንን", alias = ["VAlentayenn", "Valentayenn", "vAlentayenn", "vaLEntayenn", "vaLentayenn", "valEntayenn", "valentAyenn", "valentaYEnn", "valentaYenn", "valentayEnn"] }
-"valentayn" = { value = "ቫለንታይን", alias = ["VAlentayn", "Valentayn", "vAlentayn", "vaLEntayn", "vaLentayn", "valEntayn", "valentAyn", "valentaYn"] }
-"valentaynn" = { value = "ቫለንታይንን", alias = ["VAlentaynn", "Valentaynn", "vAlentaynn", "vaLEntaynn", "vaLentaynn", "valEntaynn", "valentAynn", "valentaYnn"] }
-"valentayns" = { value = "ቫለንታይንስ", alias = ["VAlentayns", "Valentayns", "vAlentayns", "vaLEntayns", "vaLentayns", "valEntayns", "valentAyns", "valentaYns"] }
+"vaaalauT" = { value = "ቭኣእልኡጥ", alias = ["VaaalauT", "vaAalauT", "vaaaLauT", "vaaalaUT"] }
+"vabie" = { value = "ቭእቤ", alias = ["Vabie", "vaBIE", "vaBIe", "vaBiE", "vaBie", "vabIE", "vabIe", "vabiE"] }
+"vabini" = { value = "ቫቢኒ", alias = ["VAbini", "Vabini", "vAbini", "vaBIni", "vaBini", "vabIni", "vabinI"] }
+"vacuaum" = { value = "ቫቹኡም", alias = ["VAcuaum", "Vacuaum", "vAcuaum", "vacUaum", "vacuaUm", "vacuauM"] }
+"vadim" = { value = "ቫዲም", alias = ["VAdim", "Vadim", "vAdim", "vaDIm", "vaDim", "vadIm", "vadiM"] }
+"vaj" = { value = "ቫጅ", alias = ["VAj", "Vaj", "vAj", "vaJ"] }
+"vakuae" = { value = "ቫኩአ", alias = ["VAkuae", "Vakuae", "vAkuae", "vakUae", "vakuaE"] }
+"valdamir" = { value = "ቫልዳሚር", alias = ["VAldamir", "Valdamir", "vAldamir", "vaLdamir", "valDAmir", "valDamir", "valdAmir", "valdaMIr", "valdaMir", "valdamIr", "valdamiR"] }
+"valdimir" = { value = "ቫልዲሚር", alias = ["VAldimir", "Valdimir", "vAldimir", "vaLdimir", "valDImir", "valDimir", "valdImir", "valdiMIr", "valdiMir", "valdimIr", "valdimiR"] }
 "valentin" = { value = "ቫለንቲን", alias = ["VAlentin", "Valentin", "vAlentin", "vaLEntin", "vaLentin", "valEntin", "valentIn"] }
-"valentina" = { value = "ቫለንቲና", alias = ["VAlentina", "Valentina", "vAlentina", "vaLEntina", "vaLentina", "valEntina", "valentIna", "valentinA"] }
-"valentinam" = { value = "ቫለንቲናም", alias = ["VAlentinam", "Valentinam", "vAlentinam", "vaLEntinam", "vaLentinam", "valEntinam", "valentInam", "valentinAm", "valentinaM"] }
-"valentino" = { value = "ቫለንቲኖ", alias = ["VAlentino", "Valentino", "vAlentino", "vaLEntino", "vaLentino", "valEntino", "valentIno", "valentinO"] }
-"valer" = { value = "ቫለር", alias = ["VAler", "Valer", "vAler", "vaLEr", "vaLer", "valEr", "valeR"] }
-"valeri" = { value = "ቫለሪ", alias = ["VAleri", "Valeri", "vAleri", "vaLEri", "vaLeri", "valEri", "valeRI", "valeRi", "valerI"] }
-"valerin" = { value = "ቫለሪን", alias = ["VAlerin", "Valerin", "vAlerin", "vaLErin", "vaLerin", "valErin", "valeRIn", "valeRin", "valerIn"] }
+"valeta" = { value = "ቫለታ", alias = ["VAleta", "Valeta", "vAleta", "vaLEta", "vaLeta", "valEta", "valetA"] }
 "vali" = { value = "ቫሊ", alias = ["VAli", "Vali", "vAli", "vaLI", "vaLi", "valI"] }
-"valiensiya" = { value = "ቫሌንሲያ", alias = ["VAliensiya", "Valiensiya", "vAliensiya", "vaLIEnsiya", "vaLIensiya", "vaLiEnsiya", "vaLiensiya", "valIEnsiya", "valIensiya", "valiEnsiya", "valiensIya", "valiensiYA", "valiensiYa", "valiensiyA"] }
-"valiensiyan" = { value = "ቫሌንሲያን", alias = ["VAliensiyan", "Valiensiyan", "vAliensiyan", "vaLIEnsiyan", "vaLIensiyan", "vaLiEnsiyan", "vaLiensiyan", "valIEnsiyan", "valIensiyan", "valiEnsiyan", "valiensIyan", "valiensiYAn", "valiensiYan", "valiensiyAn"] }
-"valienti" = { value = "ቫሌንቲ", alias = ["VAlienti", "Valienti", "vAlienti", "vaLIEnti", "vaLIenti", "vaLiEnti", "vaLienti", "valIEnti", "valIenti", "valiEnti", "valientI"] }
-"valientin" = { value = "ቫሌንቲን", alias = ["VAlientin", "Valientin", "vAlientin", "vaLIEntin", "vaLIentin", "vaLiEntin", "vaLientin", "valIEntin", "valIentin", "valiEntin", "valientIn"] }
-"valientina" = { value = "ቫሌንቲና", alias = ["VAlientina", "Valientina", "vAlientina", "vaLIEntina", "vaLIentina", "vaLiEntina", "vaLientina", "valIEntina", "valIentina", "valiEntina", "valientIna", "valientinA"] }
-"valienxiya" = { value = "ቫሌንሺያ", alias = ["VAlienxiya", "Valienxiya", "vAlienxiya", "vaLIEnxiya", "vaLIenxiya", "vaLiEnxiya", "vaLienxiya", "valIEnxiya", "valIenxiya", "valiEnxiya", "valienXIya", "valienXiya", "valienxIya", "valienxiYA", "valienxiYa", "valienxiyA"] }
-"valienxiyan" = { value = "ቫሌንሺያን", alias = ["VAlienxiyan", "Valienxiyan", "vAlienxiyan", "vaLIEnxiyan", "vaLIenxiyan", "vaLiEnxiyan", "vaLienxiyan", "valIEnxiyan", "valIenxiyan", "valiEnxiyan", "valienXIyan", "valienXiyan", "valienxIyan", "valienxiYAn", "valienxiYan", "valienxiyAn"] }
-"valiera" = { value = "ቫሌራ", alias = ["VAliera", "Valiera", "vAliera", "vaLIEra", "vaLIera", "vaLiEra", "vaLiera", "valIEra", "valIera", "valiEra", "valieRA", "valieRa", "valierA"] }
+"valienxiyana" = { value = "ቫሌንሺያና", alias = ["VAlienxiyana", "Valienxiyana", "vAlienxiyana", "vaLIEnxiyana", "vaLIenxiyana", "vaLiEnxiyana", "vaLienxiyana", "valIEnxiyana", "valIenxiyana", "valiEnxiyana", "valienXIyana", "valienXiyana", "valienxIyana", "valienxiYAna", "valienxiYana", "valienxiyAna", "valienxiyanA"] }
 "valieri" = { value = "ቫሌሪ", alias = ["VAlieri", "Valieri", "vAlieri", "vaLIEri", "vaLIeri", "vaLiEri", "vaLieri", "valIEri", "valIeri", "valiEri", "valieRI", "valieRi", "valierI"] }
-"valierim" = { value = "ቫሌሪም", alias = ["VAlierim", "Valierim", "vAlierim", "vaLIErim", "vaLIerim", "vaLiErim", "vaLierim", "valIErim", "valIerim", "valiErim", "valieRIm", "valieRim", "valierIm", "valieriM"] }
-"valieriyes" = { value = "ቫሌሪየስ", alias = ["VAlieriyes", "Valieriyes", "vAlieriyes", "vaLIEriyes", "vaLIeriyes", "vaLiEriyes", "vaLieriyes", "valIEriyes", "valIeriyes", "valiEriyes", "valieRIyes", "valieRiyes", "valierIyes", "valieriYEs", "valieriYes", "valieriyEs"] }
-"valieryus" = { value = "ቫሌርዩስ", alias = ["VAlieryus", "Valieryus", "vAlieryus", "vaLIEryus", "vaLIeryus", "vaLiEryus", "vaLieryus", "valIEryus", "valIeryus", "valiEryus", "valieRyus", "valierYUs", "valierYus", "valieryUs"] }
-"valiesa" = { value = "ቫሌሳ", alias = ["VAliesa", "Valiesa", "vAliesa", "vaLIEsa", "vaLIesa", "vaLiEsa", "vaLiesa", "valIEsa", "valIesa", "valiEsa", "valiesA"] }
-"valieta" = { value = "ቫሌታ", alias = ["VAlieta", "Valieta", "vAlieta", "vaLIEta", "vaLIeta", "vaLiEta", "vaLieta", "valIEta", "valIeta", "valiEta", "valietA"] }
-"valiyo" = { value = "ቫሊዮ", alias = ["VAliyo", "Valiyo", "vAliyo", "vaLIyo", "vaLiyo", "valIyo", "valiYO", "valiYo", "valiyO"] }
-"valiza" = { value = "ቫሊዛ", alias = ["VAliza", "Valiza", "vAliza", "vaLIza", "vaLiza", "valIza", "valizA"] }
-"valkie" = { value = "ቫልኬ", alias = ["VAlkie", "Valkie", "vAlkie", "vaLkie", "valkIE", "valkIe", "valkiE"] }
-"valpurgis" = { value = "ቫልፑርጊስ", alias = ["VAlpurgis", "Valpurgis", "vAlpurgis", "vaLpurgis", "valpUrgis", "valpuRgis", "valpurGIs", "valpurGis", "valpurgIs"] }
-"valter" = { value = "ቫልተር", alias = ["VAlter", "Valter", "vAlter", "vaLter", "valtEr", "valteR"] }
+"valieriyani" = { value = "ቫሌሪያኒ", alias = ["VAlieriyani", "Valieriyani", "vAlieriyani", "vaLIEriyani", "vaLIeriyani", "vaLiEriyani", "vaLieriyani", "valIEriyani", "valIeriyani", "valiEriyani", "valieRIyani", "valieRiyani", "valierIyani", "valieriYAni", "valieriYani", "valieriyAni", "valieriyanI"] }
+"valiero" = { value = "ቫሌሮ", alias = ["VAliero", "Valiero", "vAliero", "vaLIEro", "vaLIero", "vaLiEro", "vaLiero", "valIEro", "valIero", "valiEro", "valieRO", "valieRo", "valierO"] }
+"valiezi" = { value = "ቫሌዚ", alias = ["VAliezi", "Valiezi", "vAliezi", "vaLIEzi", "vaLIezi", "vaLiEzi", "vaLiezi", "valIEzi", "valIezi", "valiEzi", "valiezI"] }
+"valin" = { value = "ቫሊን", alias = ["VAlin", "Valin", "vAlin", "vaLIn", "vaLin", "valIn"] }
+"valina" = { value = "ቫሊና", alias = ["VAlina", "Valina", "vAlina", "vaLIna", "vaLina", "valIna", "valinA"] }
+"valiro" = { value = "ቫሊሮ", alias = ["VAliro", "Valiro", "vAliro", "vaLIro", "vaLiro", "valIro", "valiRO", "valiRo", "valirO"] }
+"valley" = { value = "ቫልለይ", alias = ["VAlley", "Valley", "vAlley", "vaLley", "valLEy", "valLey", "vallEy", "valleY"] }
+"valom" = { value = "ቫሎም", alias = ["VAlom", "Valom", "vAlom", "vaLOm", "vaLom", "valOm", "valoM"] }
+"valori" = { value = "ቫሎሪ", alias = ["VAlori", "Valori", "vAlori", "vaLOri", "vaLori", "valOri", "valoRI", "valoRi", "valorI"] }
+"valotan" = { value = "ቫሎታን", alias = ["VAlotan", "Valotan", "vAlotan", "vaLOtan", "vaLotan", "valOtan", "valotAn"] }
+"valuae" = { value = "ቫሉአ", alias = ["VAluae", "Valuae", "vAluae", "vaLUae", "vaLuae", "valUae", "valuaE"] }
 "valuta" = { value = "ቫሉታ", alias = ["VAluta", "Valuta", "vAluta", "vaLUta", "vaLuta", "valUta", "valutA"] }
-"valv" = { value = "ቫልቭ", alias = ["VAlv", "Valv", "vAlv", "vaLv", "valV"] }
-"valvoc" = { value = "ቫልቮች", alias = ["VAlvoc", "Valvoc", "vAlvoc", "vaLvoc", "valVOc", "valVoc", "valvOc"] }
-"valyu" = { value = "ቫልዩ", alias = ["VAlyu", "Valyu", "vAlyu", "vaLyu", "valYU", "valYu", "valyU"] }
-"valyus" = { value = "ቫልዩስ", alias = ["VAlyus", "Valyus", "vAlyus", "vaLyus", "valYUs", "valYus", "valyUs"] }
-"valZa" = { value = "ቫልዣ", alias = ["VAlZa", "ValZa", "vAlZa", "vaLZa", "valZA"] }
-"valZan" = { value = "ቫልዣን", alias = ["VAlZan", "ValZan", "vAlZan", "vaLZan", "valZAn"] }
-"vampayer" = { value = "ቫምፓየር", alias = ["VAmpayer", "Vampayer", "vAmpayer", "vaMpayer", "vampAyer", "vampaYEr", "vampaYer", "vampayEr", "vampayeR"] }
-"vampayr" = { value = "ቫምፓይር", alias = ["VAmpayr", "Vampayr", "vAmpayr", "vaMpayr", "vampAyr", "vampaYr", "vampayR"] }
+"valutam" = { value = "ቫሉታም", alias = ["VAlutam", "Valutam", "vAlutam", "vaLUtam", "vaLutam", "valUtam", "valutAm", "valutaM"] }
 "van" = { value = "ቫን", alias = ["VAn", "Van", "vAn"] }
-"vaNa" = { value = "ቫኛ", alias = ["VANa", "VaNa", "vANa", "vaNA"] }
-"vanatu" = { value = "ቫናቱ", alias = ["VAnatu", "Vanatu", "vAnatu", "vanAtu", "vanatU"] }
-"vanda" = { value = "ቫንዳ", alias = ["VAnda", "Vanda", "vAnda", "vanDA", "vanDa", "vandA"] }
-"vandersar" = { value = "ቫንደርሳር", alias = ["VAndersar", "Vandersar", "vAndersar", "vanDErsar", "vanDersar", "vandErsar", "vandeRsaR", "vandersAr"] }
-"vangal" = { value = "ቫንጋል", alias = ["VAngal", "Vangal", "vAngal", "vanGAl", "vanGal", "vangAl", "vangaL"] }
-"vangardern" = { value = "ቫንጋርደርን", alias = ["VAngardern", "Vangardern", "vAngardern", "vanGArdern", "vanGardern", "vangArdern", "vangaRdeRn", "vangarDErn", "vangarDern", "vangardErn"] }
-"vangarederen" = { value = "ቫንጋረደረን", alias = ["VAngarederen", "Vangarederen", "vAngarederen", "vanGArederen", "vanGarederen", "vangArederen", "vangaREdeREn", "vangaRedeRen", "vangarEderEn", "vangareDEren", "vangareDeren", "vangaredEren"] }
-"vangue" = { value = "ቫንጐ", alias = ["VAngue", "Vangue", "vAngue", "vanGUE", "vanGUe", "vanGuE", "vanGue", "vangUE", "vangUe", "vanguE"] }
-"vangwardiya" = { value = "ቫንግዋርዲያ", alias = ["VAngwardiya", "Vangwardiya", "vAngwardiya", "vanGwardiya", "vangWArdiya", "vangWardiya", "vangwArdiya", "vangwaRdiya", "vangwarDIya", "vangwarDiya", "vangwardIya", "vangwardiYA", "vangwardiYa", "vangwardiyA"] }
-"vanhaln" = { value = "ቫንሃልን", alias = ["VAnhaln", "Vanhaln", "vAnhaln", "vanhAln", "vanhaLn"] }
-"vani" = { value = "ቫኒ", alias = ["VAni", "Vani", "vAni", "vanI"] }
-"vaniesa" = { value = "ቫኔሳ", alias = ["VAniesa", "Vaniesa", "vAniesa", "vanIEsa", "vanIesa", "vaniEsa", "vaniesA"] }
-"vaniesam" = { value = "ቫኔሳም", alias = ["VAniesam", "Vaniesam", "vAniesam", "vanIEsam", "vanIesam", "vaniEsam", "vaniesAm", "vaniesaM"] }
-"vanin" = { value = "ቫኒን", alias = ["VAnin", "Vanin", "vAnin", "vanIn"] }
-"vanir" = { value = "ቫኒር", alias = ["VAnir", "Vanir", "vAnir", "vanIr", "vaniR"] }
-"vanisa" = { value = "ቫኒሳ", alias = ["VAnisa", "Vanisa", "vAnisa", "vanIsa", "vanisA"] }
+"vanaiesa" = { value = "ቫንኤሳ", alias = ["VAnaiesa", "Vanaiesa", "vAnaiesa", "vanaIEsa", "vanaIesa", "vanaiEsa", "vanaiesA"] }
+"vandahov" = { value = "ቫንዳሆቭ", alias = ["VAndahov", "Vandahov", "vAndahov", "vanDAhov", "vanDahov", "vandAhov", "vandahOv", "vandahoV"] }
+"vandenberg" = { value = "ቫንደንበርግ", alias = ["VAndenberg", "Vandenberg", "vAndenberg", "vanDEnberg", "vanDenberg", "vandEnberg", "vandenBErg", "vandenBerg", "vandenbErg", "vandenbeRg", "vandenberG"] }
+"vander" = { value = "ቫንደር", alias = ["VAnder", "Vander", "vAnder", "vanDEr", "vanDer", "vandEr", "vandeR"] }
+"vandilen" = { value = "ቫንዲለን", alias = ["VAndilen", "Vandilen", "vAndilen", "vanDIlen", "vanDilen", "vandIlen", "vandiLEn", "vandiLen", "vandilEn"] }
+"vandilier" = { value = "ቫንዲሌር", alias = ["VAndilier", "Vandilier", "vAndilier", "vanDIlier", "vanDilier", "vandIlier", "vandiLIEr", "vandiLIer", "vandiLiEr", "vandiLier", "vandilIEr", "vandilIer", "vandiliEr", "vandilieR"] }
+"vaniel" = { value = "ቫኔል", alias = ["VAniel", "Vaniel", "vAniel", "vanIEl", "vanIel", "vaniEl", "vanieL"] }
 "vankover" = { value = "ቫንኮቨር", alias = ["VAnkover", "Vankover", "vAnkover", "vankOver", "vankoVEr", "vankoVer", "vankovEr", "vankoveR"] }
-"vankuver" = { value = "ቫንኩቨር", alias = ["VAnkuver", "Vankuver", "vAnkuver", "vankUver", "vankuVEr", "vankuVer", "vankuvEr", "vankuveR"] }
-"vankuverm" = { value = "ቫንኩቨርም", alias = ["VAnkuverm", "Vankuverm", "vAnkuverm", "vankUverm", "vankuVErm", "vankuVerm", "vankuvErm", "vankuveRm", "vankuverM"] }
-"vankuvern" = { value = "ቫንኩቨርን", alias = ["VAnkuvern", "Vankuvern", "vAnkuvern", "vankUvern", "vankuVErn", "vankuVern", "vankuvErn", "vankuveRn"] }
-"vans" = { value = "ቫንስ", alias = ["VAns", "Vans", "vAns"] }
-"vant" = { value = "ቫንት", alias = ["VAnt", "Vant", "vAnt"] }
-"vanuaetu" = { value = "ቫኑአቱ", alias = ["VAnuaetu", "Vanuaetu", "vAnuaetu", "vanUaetu", "vanuaEtu", "vanuaetU"] }
-"vanwatu" = { value = "ቫንዋቱ", alias = ["VAnwatu", "Vanwatu", "vAnwatu", "vanWAtu", "vanWatu", "vanwAtu", "vanwatU"] }
-"vaoae" = { value = "ቭኦአ", alias = ["Vaoae", "vaOae", "vaoaE"] }
-"vaoaie" = { value = "ቭኦኤ", alias = ["Vaoaie", "vaOaie", "vaoaIE", "vaoaIe", "vaoaiE"] }
-"vaper" = { value = "ቫፐር", alias = ["VAper", "Vaper", "vAper", "vapEr", "vapeR"] }
-"vapto" = { value = "ቫፕቶ", alias = ["VApto", "Vapto", "vApto", "vaptO"] }
-"vardi" = { value = "ቫርዲ", alias = ["VArdi", "Vardi", "vArdi", "vaRdi", "varDI", "varDi", "vardI"] }
-"vargas" = { value = "ቫርጋስ", alias = ["VArgas", "Vargas", "vArgas", "vaRgas", "varGAs", "varGas", "vargAs"] }
-"vari" = { value = "ቫሪ", alias = ["VAri", "Vari", "vAri", "vaRI", "vaRi", "varI"] }
-"varikos" = { value = "ቫሪኮስ", alias = ["VArikos", "Varikos", "vArikos", "vaRIkos", "vaRikos", "varIkos", "varikOs"] }
-"varofakis" = { value = "ቫሮፋኪስ", alias = ["VArofakis", "Varofakis", "vArofakis", "vaROfakis", "vaRofakis", "varOfakis", "varoFAkis", "varoFakis", "varofAkis", "varofakIs"] }
-"varoxiloc" = { value = "ቫሮሺሎች", alias = ["VAroxiloc", "Varoxiloc", "vAroxiloc", "vaROxiloc", "vaRoxiloc", "varOxiloc", "varoXIloc", "varoXiloc", "varoxIloc", "varoxiLOc", "varoxiLoc", "varoxilOc"] }
-"vartan" = { value = "ቫርታን", alias = ["VArtan", "Vartan", "vArtan", "vaRtan", "vartAn"] }
-"vartburg" = { value = "ቫርትቡርግ", alias = ["VArtburg", "Vartburg", "vArtburg", "vaRtbuRg", "vartBUrg", "vartBurg", "vartbUrg", "vartburG"] }
-"varya" = { value = "ቫርያ", alias = ["VArya", "Varya", "vArya", "vaRya", "varYA", "varYa", "varyA"] }
-"vasa" = { value = "ቫሳ", alias = ["VAsa", "Vasa", "vAsa", "vasA"] }
-"vasalo" = { value = "ቫሳሎ", alias = ["VAsalo", "Vasalo", "vAsalo", "vasAlo", "vasaLO", "vasaLo", "vasalO"] }
-"vasalom" = { value = "ቫሳሎም", alias = ["VAsalom", "Vasalom", "vAsalom", "vasAlom", "vasaLOm", "vasaLom", "vasalOm", "vasaloM"] }
-"vasari" = { value = "ቫሳሪ", alias = ["VAsari", "Vasari", "vAsari", "vasAri", "vasaRI", "vasaRi", "vasarI"] }
+"vanyo" = { value = "ቫንዮ", alias = ["VAnyo", "Vanyo", "vAnyo", "vanYO", "vanYo", "vanyO"] }
+"vaoaa" = { value = "ቭኦኣ", alias = ["Vaoaa", "vaOaa", "vaoaA"] }
+"vaoaan" = { value = "ቭኦኣን", alias = ["Vaoaan", "vaOaan", "vaoaAn"] }
+"vaor" = { value = "ቭኦር", alias = ["Vaor", "vaOr", "vaoR"] }
+"vaquaxxob" = { value = "ቫቋሽሾብ", alias = ["VAquaxxob", "Vaquaxxob", "vAquaxxob", "vaQUAxxob", "vaQUaxxob", "vaQuAxxob", "vaQuaxxob", "vaqUAxxob", "vaqUaxxob", "vaquAxxob", "vaquaXxob", "vaquaxXOb", "vaquaxXob", "vaquaxxOb", "vaquaxxoB"] }
+"var" = { value = "ቫር", alias = ["VAr", "Var", "vAr", "vaR"] }
+"variaeble" = { value = "ቫሪአብለ", alias = ["VAriaeble", "Variaeble", "vAriaeble", "vaRIaeble", "vaRiaeble", "varIaeble", "variaEble", "variaeBle", "variaebLE", "variaebLe", "variaeblE"] }
+"variaebles" = { value = "ቫሪአብለስ", alias = ["VAriaebles", "Variaebles", "vAriaebles", "vaRIaebles", "vaRiaebles", "varIaebles", "variaEbles", "variaeBles", "variaebLEs", "variaebLes", "variaeblEs"] }
+"variaebliaes" = { value = "ቫሪአብሊአስ", alias = ["VAriaebliaes", "Variaebliaes", "vAriaebliaes", "vaRIaebliaes", "vaRiaebliaes", "varIaebliaes", "variaEbliaEs", "variaeBliaes", "variaebLIaes", "variaebLiaes", "variaeblIaes"] }
+"variena" = { value = "ቫሬና", alias = ["VAriena", "Variena", "vAriena", "vaRIEna", "vaRIena", "vaRiEna", "vaRiena", "varIEna", "varIena", "variEna", "varienA"] }
+"variyola" = { value = "ቫሪዮላ", alias = ["VAriyola", "Variyola", "vAriyola", "vaRIyola", "vaRiyola", "varIyola", "variYOla", "variYola", "variyOla", "variyoLA", "variyoLa", "variyolA"] }
+"varner" = { value = "ቫርነር", alias = ["VArner", "Varner", "vArner", "vaRneR", "varnEr"] }
+"varniero" = { value = "ቫርኔሮ", alias = ["VArniero", "Varniero", "vArniero", "vaRniero", "varnIEro", "varnIero", "varniEro", "varnieRO", "varnieRo", "varnierO"] }
+"vasen" = { value = "ቫሰን", alias = ["VAsen", "Vasen", "vAsen", "vasEn"] }
+"vasielu" = { value = "ቫሴሉ", alias = ["VAsielu", "Vasielu", "vAsielu", "vasIElu", "vasIelu", "vasiElu", "vasieLU", "vasieLu", "vasielU"] }
 "vasil" = { value = "ቫሲል", alias = ["VAsil", "Vasil", "vAsil", "vasIl", "vasiL"] }
-"vasili" = { value = "ቫሲሊ", alias = ["VAsili", "Vasili", "vAsili", "vasIli", "vasiLI", "vasiLi", "vasilI"] }
-"vasko" = { value = "ቫስኮ", alias = ["VAsko", "Vasko", "vAsko", "vaskO"] }
-"vaskular" = { value = "ቫስኩላር", alias = ["VAskular", "Vaskular", "vAskular", "vaskUlar", "vaskuLAr", "vaskuLar", "vaskulAr", "vaskulaR"] }
-"vaslafski" = { value = "ቫስላፍስኪ", alias = ["VAslafski", "Vaslafski", "vAslafski", "vasLAfski", "vasLafski", "vaslAfski", "vaslaFski", "vaslafskI"] }
-"vaslin" = { value = "ቫስሊን", alias = ["VAslin", "Vaslin", "vAslin", "vasLIn", "vasLin", "vaslIn"] }
-"vasudieva" = { value = "ቫሱዴቫ", alias = ["VAsudieVA", "VasudieVa", "vAsudievA", "vasUdieva", "vasuDIEva", "vasuDIeva", "vasuDiEva", "vasuDieva", "vasudIEva", "vasudIeva", "vasudiEva"] }
 "vat" = { value = "ቫት", alias = ["VAt", "Vat", "vAt"] }
-"vatanirapl" = { value = "ቫታኒራፕል", alias = ["VAtanirapl", "Vatanirapl", "vAtanirapl", "vatAnirapl", "vatanIrapl", "vataniRApl", "vataniRapl", "vatanirApl", "vatanirapL"] }
+"vaters" = { value = "ቫተርስ", alias = ["VAters", "Vaters", "vAters", "vatErs", "vateRs"] }
 "vatikan" = { value = "ቫቲካን", alias = ["VAtikan", "Vatikan", "vAtikan", "vatIkan", "vatikAn"] }
-"vatikanes" = { value = "ቫቲካነስ", alias = ["VAtikanes", "Vatikanes", "vAtikanes", "vatIkanes", "vatikAnes", "vatikanEs"] }
-"vatikann" = { value = "ቫቲካንን", alias = ["VAtikann", "Vatikann", "vAtikann", "vatIkann", "vatikAnn"] }
-"vatikanna" = { value = "ቫቲካንና", alias = ["VAtikanna", "Vatikanna", "vAtikanna", "vatIkanna", "vatikAnna", "vatikannA"] }
-"vatikanus" = { value = "ቫቲካኑስ", alias = ["VAtikanus", "Vatikanus", "vAtikanus", "vatIkanus", "vatikAnus", "vatikanUs"] }
 "vatn" = { value = "ቫትን", alias = ["VAtn", "Vatn", "vAtn"] }
-"vavaw" = { value = "ቫቫው", alias = ["VAVAw", "VaVaw", "vAvAw", "vavaW"] }
+"vatna" = { value = "ቫትና", alias = ["VAtna", "Vatna", "vAtna", "vatnA"] }
 "vawcer" = { value = "ቫውቸር", alias = ["VAwcer", "Vawcer", "vAwcer", "vaWcer", "vawcEr", "vawceR"] }
-"vayelens" = { value = "ቫየለንስ", alias = ["VAyelens", "Vayelens", "vAyelens", "vaYElens", "vaYelens", "vayElens", "vayeLEns", "vayeLens", "vayelEns"] }
-"vayking" = { value = "ቫይኪንግ", alias = ["VAyking", "Vayking", "vAyking", "vaYking", "vaykIng", "vaykinG"] }
+"vayeresu" = { value = "ቫየረሱ", alias = ["VAyeresu", "Vayeresu", "vAyeresu", "vaYEresu", "vaYeresu", "vayEresu", "vayeREsu", "vayeResu", "vayerEsu", "vayeresU"] }
 "vayn" = { value = "ቫይን", alias = ["VAyn", "Vayn", "vAyn", "vaYn"] }
-"vaynolojistoc" = { value = "ቫይኖሎጂስቶች", alias = ["VAynolojistoc", "Vaynolojistoc", "vAynolojistoc", "vaYnolojistoc", "vaynOlojistoc", "vaynoLOjistoc", "vaynoLojistoc", "vaynolOjistoc", "vaynoloJIstoc", "vaynoloJistoc", "vaynolojIstoc", "vaynolojistOc"] }
 "vayns" = { value = "ቫይንስ", alias = ["VAyns", "Vayns", "vAyns", "vaYns"] }
+"vayolenes" = { value = "ቫዮለነስ", alias = ["VAyolenes", "Vayolenes", "vAyolenes", "vaYOlenes", "vaYolenes", "vayOlenes", "vayoLEnes", "vayoLenes", "vayolEnes", "vayolenEs"] }
 "vayolens" = { value = "ቫዮለንስ", alias = ["VAyolens", "Vayolens", "vAyolens", "vaYOlens", "vaYolens", "vayOlens", "vayoLEns", "vayoLens", "vayolEns"] }
-"vayolent" = { value = "ቫዮለንት", alias = ["VAyolent", "Vayolent", "vAyolent", "vaYOlent", "vaYolent", "vayOlent", "vayoLEnt", "vayoLent", "vayolEnt"] }
-"vayoliet" = { value = "ቫዮሌት", alias = ["VAyoliet", "Vayoliet", "vAyoliet", "vaYOliet", "vaYoliet", "vayOliet", "vayoLIEt", "vayoLIet", "vayoLiEt", "vayoLiet", "vayolIEt", "vayolIet", "vayoliEt"] }
-"vayolietm" = { value = "ቫዮሌትም", alias = ["VAyolietm", "Vayolietm", "vAyolietm", "vaYOlietm", "vaYolietm", "vayOlietm", "vayoLIEtm", "vayoLIetm", "vayoLiEtm", "vayoLietm", "vayolIEtm", "vayolIetm", "vayoliEtm", "vayolietM"] }
-"vayolin" = { value = "ቫዮሊን", alias = ["VAyolin", "Vayolin", "vAyolin", "vaYOlin", "vaYolin", "vayOlin", "vayoLIn", "vayoLin", "vayolIn"] }
-"vayolinie" = { value = "ቫዮሊኔ", alias = ["VAyolinie", "Vayolinie", "vAyolinie", "vaYOlinie", "vaYolinie", "vayOlinie", "vayoLInie", "vayoLinie", "vayolInie", "vayolinIE", "vayolinIe", "vayoliniE"] }
-"vayolinien" = { value = "ቫዮሊኔን", alias = ["VAyolinien", "Vayolinien", "vAyolinien", "vaYOlinien", "vaYolinien", "vayOlinien", "vayoLInien", "vayoLinien", "vayolInien", "vayolinIEn", "vayolinIen", "vayoliniEn"] }
-"vayre" = { value = "ቫይረ", alias = ["VAyre", "Vayre", "vAyre", "vaYre", "vayRE", "vayRe", "vayrE"] }
+"vayral" = { value = "ቫይራል", alias = ["VAyral", "Vayral", "vAyral", "vaYral", "vayRAl", "vayRal", "vayrAl", "vayraL"] }
 "vayres" = { value = "ቫይረስ", alias = ["VAyres", "Vayres", "vAyres", "vaYres", "vayREs", "vayRes", "vayrEs"] }
-"vayresm" = { value = "ቫይረስም", alias = ["VAyresm", "Vayresm", "vAyresm", "vaYresm", "vayREsm", "vayResm", "vayrEsm", "vayresM"] }
+"vayrese" = { value = "ቫይረሰ", alias = ["VAyrese", "Vayrese", "vAyrese", "vaYrese", "vayREse", "vayRese", "vayrEse", "vayresE"] }
 "vayresn" = { value = "ቫይረስን", alias = ["VAyresn", "Vayresn", "vAyresn", "vaYresn", "vayREsn", "vayResn", "vayrEsn"] }
 "vayresna" = { value = "ቫይረስና", alias = ["VAyresna", "Vayresna", "vAyresna", "vaYresna", "vayREsna", "vayResna", "vayrEsna", "vayresnA"] }
-"vayresnet" = { value = "ቫይረስነት", alias = ["VAyresnet", "Vayresnet", "vAyresnet", "vaYresnet", "vayREsnet", "vayResnet", "vayrEsnet", "vayresnEt"] }
 "vayresoc" = { value = "ቫይረሶች", alias = ["VAyresoc", "Vayresoc", "vAyresoc", "vaYresoc", "vayREsoc", "vayResoc", "vayrEsoc", "vayresOc"] }
-"vayresocm" = { value = "ቫይረሶችም", alias = ["VAyresocm", "Vayresocm", "vAyresocm", "vaYresocm", "vayREsocm", "vayResocm", "vayrEsocm", "vayresOcm", "vayresocM"] }
-"vayresocn" = { value = "ቫይረሶችን", alias = ["VAyresocn", "Vayresocn", "vAyresocn", "vaYresocn", "vayREsocn", "vayResocn", "vayrEsocn", "vayresOcn"] }
-"vayresocna" = { value = "ቫይረሶችና", alias = ["VAyresocna", "Vayresocna", "vAyresocna", "vaYresocna", "vayREsocna", "vayResocna", "vayrEsocna", "vayresOcna", "vayresocnA"] }
-"vayresocnna" = { value = "ቫይረሶችንና", alias = ["VAyresocnna", "Vayresocnna", "vAyresocnna", "vaYresocnna", "vayREsocnna", "vayResocnna", "vayrEsocnna", "vayresOcnna", "vayresocnnA"] }
 "vayresocu" = { value = "ቫይረሶቹ", alias = ["VAyresocu", "Vayresocu", "vAyresocu", "vaYresocu", "vayREsocu", "vayResocu", "vayrEsocu", "vayresOcu", "vayresocU"] }
-"vayresocun" = { value = "ቫይረሶቹን", alias = ["VAyresocun", "Vayresocun", "vAyresocun", "vaYresocun", "vayREsocun", "vayResocun", "vayrEsocun", "vayresOcun", "vayresocUn"] }
 "vayresu" = { value = "ቫይረሱ", alias = ["VAyresu", "Vayresu", "vAyresu", "vaYresu", "vayREsu", "vayResu", "vayrEsu", "vayresU"] }
-"vayresum" = { value = "ቫይረሱም", alias = ["VAyresum", "Vayresum", "vAyresum", "vaYresum", "vayREsum", "vayResum", "vayrEsum", "vayresUm", "vayresuM"] }
 "vayresun" = { value = "ቫይረሱን", alias = ["VAyresun", "Vayresun", "vAyresun", "vaYresun", "vayREsun", "vayResun", "vayrEsun", "vayresUn"] }
-"vaytal" = { value = "ቫይታል", alias = ["VAytal", "Vaytal", "vAytal", "vaYtal", "vaytAl", "vaytaL"] }
+"vayrs" = { value = "ቫይርስ", alias = ["VAyrs", "Vayrs", "vAyrs", "vaYrs", "vayRs"] }
+"vays" = { value = "ቫይስ", alias = ["VAys", "Vays", "vAys", "vaYs"] }
 "vaytamin" = { value = "ቫይታሚን", alias = ["VAytamin", "Vaytamin", "vAytamin", "vaYtamin", "vaytAmin", "vaytaMIn", "vaytaMin", "vaytamIn"] }
-"vaytaminna" = { value = "ቫይታሚንና", alias = ["VAytaminna", "Vaytaminna", "vAytaminna", "vaYtaminna", "vaytAminna", "vaytaMInna", "vaytaMinna", "vaytamInna", "vaytaminnA"] }
 "vaytaminoc" = { value = "ቫይታሚኖች", alias = ["VAytaminoc", "Vaytaminoc", "vAytaminoc", "vaYtaminoc", "vaytAminoc", "vaytaMInoc", "vaytaMinoc", "vaytamInoc", "vaytaminOc"] }
-"vaytaminocn" = { value = "ቫይታሚኖችን", alias = ["VAytaminocn", "Vaytaminocn", "vAytaminocn", "vaYtaminocn", "vaytAminocn", "vaytaMInocn", "vaytaMinocn", "vaytamInocn", "vaytaminOcn"] }
-"vaytaminocna" = { value = "ቫይታሚኖችና", alias = ["VAytaminocna", "Vaytaminocna", "vAytaminocna", "vaYtaminocna", "vaytAminocna", "vaytaMInocna", "vaytaMinocna", "vaytamInocna", "vaytaminOcna", "vaytaminocnA"] }
+"vaytaminu" = { value = "ቫይታሚኑ", alias = ["VAytaminu", "Vaytaminu", "vAytaminu", "vaYtaminu", "vaytAminu", "vaytaMInu", "vaytaMinu", "vaytamInu", "vaytaminU"] }
+"vayvaksna" = { value = "ቫይቫክስና", alias = ["VAyVAksna", "VayVaksna", "vAyvAksna", "vaYvaksna", "vayvaksnA"] }
 "vayzeroc" = { value = "ቫይዘሮች", alias = ["VAyzeroc", "Vayzeroc", "vAyzeroc", "vaYzeroc", "vayzEroc", "vayzeROc", "vayzeRoc", "vayzerOc"] }
-"vaz" = { value = "ቫዝ", alias = ["VAz", "Vaz", "vAz"] }
-"vaza" = { value = "ቫዛ", alias = ["VAza", "Vaza", "vAza", "vazA"] }
-"vaziektomi" = { value = "ቫዜክቶሚ", alias = ["VAziektomi", "Vaziektomi", "vAziektomi", "vazIEktomi", "vazIektomi", "vaziEktomi", "vaziektOmi", "vaziektoMI", "vaziektoMi", "vaziektomI"] }
+"vayzerocn" = { value = "ቫይዘሮችን", alias = ["VAyzerocn", "Vayzerocn", "vAyzerocn", "vaYzerocn", "vayzErocn", "vayzeROcn", "vayzeRocn", "vayzerOcn"] }
+"vayzerocna" = { value = "ቫይዘሮችና", alias = ["VAyzerocna", "Vayzerocna", "vAyzerocna", "vaYzerocna", "vayzErocna", "vayzeROcna", "vayzeRocna", "vayzerOcna", "vayzerocnA"] }
 "vazlin" = { value = "ቫዝሊን", alias = ["VAzlin", "Vazlin", "vAzlin", "vazLIn", "vazLin", "vazlIn"] }
-"vdiyo" = { value = "ቭዲዮ", alias = ["Vdiyo", "vDIyo", "vDiyo", "vdIyo", "vdiYO", "vdiYo", "vdiyO"] }
-"vejtebl" = { value = "ቨጅተብል", alias = ["VEjtebl", "Vejtebl", "vEjtebl", "veJtebl", "vejtEbl", "vejteBl", "vejtebL"] }
-"vekersma" = { value = "ቨከርስማ", alias = ["VEkersma", "Vekersma", "vEkersma", "vekErsma", "vekeRsma", "vekersMA", "vekersMa", "vekersmA"] }
-"veladimir" = { value = "ቨላዲሚር", alias = ["VEladimir", "Veladimir", "vEladimir", "veLAdimir", "veLadimir", "velAdimir", "velaDImir", "velaDimir", "veladImir", "veladiMIr", "veladiMir", "veladimIr", "veladimiR"] }
-"vele" = { value = "ቨለ", alias = ["VEle", "Vele", "vEle", "veLE", "veLe", "velE"] }
-"velie" = { value = "ቨሌ", alias = ["VElie", "Velie", "vElie", "veLIE", "veLIe", "veLiE", "veLie", "velIE", "velIe", "veliE"] }
-"velt" = { value = "ቨልት", alias = ["VElt", "Velt", "vElt", "veLt"] }
-"veniesa" = { value = "ቨኔሳ", alias = ["VEniesa", "Veniesa", "vEniesa", "venIEsa", "venIesa", "veniEsa", "veniesA"] }
-"veniesan" = { value = "ቨኔሳን", alias = ["VEniesan", "Veniesan", "vEniesan", "venIEsan", "venIesan", "veniEsan", "veniesAn"] }
-"verdan" = { value = "ቨርዳን", alias = ["VErdan", "Verdan", "vErdan", "veRdan", "verDAn", "verDan", "verdAn"] }
-"verde" = { value = "ቨርደ", alias = ["VErde", "Verde", "vErde", "veRde", "verDE", "verDe", "verdE"] }
-"verdi" = { value = "ቨርዲ", alias = ["VErdi", "Verdi", "vErdi", "veRdi", "verDI", "verDi", "verdI"] }
+"vekter" = { value = "ቨክተር", alias = ["VEkter", "Vekter", "vEkter", "vektEr", "vekteR"] }
+"velvie" = { value = "ቨልቬ", alias = ["VElvie", "Velvie", "vElvie", "veLvie", "velVIE", "velVIe", "velViE", "velVie", "velvIE", "velvIe", "velviE"] }
+"ventures" = { value = "ቨንቱረስ", alias = ["VEntures", "Ventures", "vEntures", "ventUres", "ventuREs", "ventuRes", "venturEs"] }
+"veqisove" = { value = "ቨቂሶቨ", alias = ["VEqisoVE", "VeqisoVe", "vEqisovE", "veQIsove", "veQisove", "veqIsove", "veqisOve"] }
+"veqixo" = { value = "ቨቂሾ", alias = ["VEqixo", "Veqixo", "vEqixo", "veQIxo", "veQixo", "veqIxo", "veqiXO", "veqiXo", "veqixO"] }
+"vequie" = { value = "ቨቌ", alias = ["VEquie", "Vequie", "vEquie", "veQUIE", "veQUIe", "veQUiE", "veQUie", "veQuIE", "veQuIe", "veQuiE", "veQuie", "veqUIE", "veqUIe", "veqUiE", "veqUie", "vequIE", "vequIe", "vequiE"] }
+"verbun" = { value = "ቨርቡን", alias = ["VErbun", "Verbun", "vErbun", "veRbun", "verBUn", "verBun", "verbUn"] }
 "verdie" = { value = "ቨርዴ", alias = ["VErdie", "Verdie", "vErdie", "veRdie", "verDIE", "verDIe", "verDiE", "verDie", "verdIE", "verdIe", "verdiE"] }
-"verejinya" = { value = "ቨረጂንያ", alias = ["VErejinya", "Verejinya", "vErejinya", "veREjinya", "veRejinya", "verEjinya", "vereJInya", "vereJinya", "verejInya", "verejinYA", "verejinYa", "verejinyA"] }
-"vergis" = { value = "ቨርጊስ", alias = ["VErgis", "Vergis", "vErgis", "veRgis", "verGIs", "verGis", "vergIs"] }
-"vericip" = { value = "ቨሪቺፕ", alias = ["VEricip", "Vericip", "vEricip", "veRIcip", "veRicip", "verIcip", "vericIp"] }
+"verdinie" = { value = "ቨርዲኔ", alias = ["VErdinie", "Verdinie", "vErdinie", "veRdinie", "verDInie", "verDinie", "verdInie", "verdinIE", "verdinIe", "verdiniE"] }
 "verjin" = { value = "ቨርጂን", alias = ["VErjin", "Verjin", "vErjin", "veRjin", "verJIn", "verJin", "verjIn"] }
-"verjinis" = { value = "ቨርጂኒስ", alias = ["VErjinis", "Verjinis", "vErjinis", "veRjinis", "verJInis", "verJinis", "verjInis", "verjinIs"] }
 "verjiniya" = { value = "ቨርጂኒያ", alias = ["VErjiniya", "Verjiniya", "vErjiniya", "veRjiniya", "verJIniya", "verJiniya", "verjIniya", "verjinIya", "verjiniYA", "verjiniYa", "verjiniyA"] }
-"verjiniyan" = { value = "ቨርጂኒያን", alias = ["VErjiniyan", "Verjiniyan", "vErjiniyan", "veRjiniyan", "verJIniyan", "verJiniyan", "verjIniyan", "verjinIyan", "verjiniYAn", "verjiniYan", "verjiniyAn"] }
 "verjiniyana" = { value = "ቨርጂኒያና", alias = ["VErjiniyana", "Verjiniyana", "vErjiniyana", "veRjiniyana", "verJIniyana", "verJiniyana", "verjIniyana", "verjinIyana", "verjiniYAna", "verjiniYana", "verjiniyAna", "verjiniyanA"] }
 "verjinya" = { value = "ቨርጂንያ", alias = ["VErjinya", "Verjinya", "vErjinya", "veRjinya", "verJInya", "verJinya", "verjInya", "verjinYA", "verjinYa", "verjinyA"] }
-"verjn" = { value = "ቨርጅን", alias = ["VErjn", "Verjn", "vErjn", "veRjn", "verJn"] }
-"verjniya" = { value = "ቨርጅኒያ", alias = ["VErjniya", "Verjniya", "vErjniya", "veRjniya", "verJniya", "verjnIya", "verjniYA", "verjniYa", "verjniyA"] }
-"verjnya" = { value = "ቨርጅንያ", alias = ["VErjnya", "Verjnya", "vErjnya", "veRjnya", "verJnya", "verjnYA", "verjnYa", "verjnyA"] }
-"verma" = { value = "ቨርማ", alias = ["VErma", "Verma", "vErma", "veRma", "verMA", "verMa", "vermA"] }
-"vermi" = { value = "ቨርሚ", alias = ["VErmi", "Vermi", "vErmi", "veRmi", "verMI", "verMi", "vermI"] }
+"verlag" = { value = "ቨርላግ", alias = ["VErlag", "Verlag", "vErlag", "veRlag", "verLAg", "verLag", "verlAg", "verlaG"] }
+"vermas" = { value = "ቨርማስ", alias = ["VErmas", "Vermas", "vErmas", "veRmas", "verMAs", "verMas", "vermAs"] }
 "verner" = { value = "ቨርነር", alias = ["VErner", "Verner", "vErner", "veRneR", "vernEr"] }
-"verses" = { value = "ቨርሰስ", alias = ["VErses", "Verses", "vErses", "veRses", "versEs"] }
-"versitiw" = { value = "ቨርሲቲው", alias = ["VErsitiw", "Versitiw", "vErsitiw", "veRsitiw", "versItiw", "versitIw", "versitiW"] }
 "verss" = { value = "ቨርስስ", alias = ["VErss", "Verss", "vErss", "veRss"] }
-"vertikal" = { value = "ቨርቲካል", alias = ["VErtikal", "Vertikal", "vErtikal", "veRtikal", "vertIkal", "vertikAl", "vertikaL"] }
 "verxn" = { value = "ቨርሽን", alias = ["VErxn", "Verxn", "vErxn", "veRxn", "verXn"] }
-"verxnn" = { value = "ቨርሽንን", alias = ["VErxnn", "Verxnn", "vErxnn", "veRxnn", "verXnn"] }
-"verZn" = { value = "ቨርዥን", alias = ["VErZn", "VerZn", "vErZn", "veRZn"] }
-"verZns" = { value = "ቨርዥንስ", alias = ["VErZns", "VerZns", "vErZns", "veRZns"] }
-"vespieZiyan" = { value = "ቨስፔዢያን", alias = ["VEspieZiyan", "VespieZiyan", "vEspieZiyan", "vespIEZiyan", "vespIeZiyan", "vespiEZiyan", "vespieZIyan", "vespieZiYAn", "vespieZiYan", "vespieZiyAn"] }
-"vespieZyan" = { value = "ቨስፔዥያን", alias = ["VEspieZyan", "VespieZyan", "vEspieZyan", "vespIEZyan", "vespIeZyan", "vespiEZyan", "vespieZYAn", "vespieZYan", "vespieZyAn"] }
-"vespieZyanna" = { value = "ቨስፔዥያንና", alias = ["VEspieZyanna", "VespieZyanna", "vEspieZyanna", "vespIEZyanna", "vespIeZyanna", "vespiEZyanna", "vespieZYAnna", "vespieZYanna", "vespieZyAnna", "vespieZyannA"] }
-"vestdoce" = { value = "ቨስትዶቸ", alias = ["VEstdoce", "Vestdoce", "vEstdoce", "vestDOce", "vestDoce", "vestdOce", "vestdocE"] }
-"vestment" = { value = "ቨስትመንት", alias = ["VEstment", "Vestment", "vEstment", "vestMEnt", "vestMent", "vestmEnt"] }
-"viaeypi" = { value = "ቪአይፒ", alias = ["VIaeypi", "Viaeypi", "vIaeypi", "viaEypi", "viaeYpi", "viaeypI"] }
-"viaies" = { value = "ቪኤስ", alias = ["VIaies", "Viaies", "vIaies", "viaIEs", "viaIes", "viaiEs"] }
-"viaieti" = { value = "ቪኤቲ", alias = ["VIaieti", "Viaieti", "vIaieti", "viaIEti", "viaIeti", "viaiEti", "viaietI"] }
-"viaikod" = { value = "ቪኢኮድ", alias = ["VIaikod", "Viaikod", "vIaikod", "viaIkod", "viaikOd", "viaikoD"] }
-"viao" = { value = "ቪኦ", alias = ["VIao", "Viao", "vIao", "viaO"] }
+"vevan" = { value = "ቨቫን", alias = ["VEvan", "Vevan", "vEvan", "veVAn", "veVan", "vevAn"] }
+"viae" = { value = "ቪአ", alias = ["VIae", "Viae", "vIae", "viaE"] }
+"viaebility" = { value = "ቪአቢሊትይ", alias = ["VIaebility", "Viaebility", "vIaebility", "viaEbility", "viaeBIlity", "viaeBility", "viaebIlity", "viaebiLIty", "viaebiLity", "viaebilIty", "viaebilitY"] }
 "viaoaie" = { value = "ቪኦኤ", alias = ["VIaoaie", "Viaoaie", "vIaoaie", "viaOaie", "viaoaIE", "viaoaIe", "viaoaiE"] }
 "viaoaiem" = { value = "ቪኦኤም", alias = ["VIaoaiem", "Viaoaiem", "vIaoaiem", "viaOaiem", "viaoaIEm", "viaoaIem", "viaoaiEm", "viaoaieM"] }
-"viaoaien" = { value = "ቪኦኤን", alias = ["VIaoaien", "Viaoaien", "vIaoaien", "viaOaien", "viaoaIEn", "viaoaIen", "viaoaiEn"] }
-"viaoaiena" = { value = "ቪኦኤና", alias = ["VIaoaiena", "Viaoaiena", "vIaoaiena", "viaOaiena", "viaoaIEna", "viaoaIena", "viaoaiEna", "viaoaienA"] }
-"viaozied" = { value = "ቪኦዜድ", alias = ["VIaozied", "Viaozied", "vIaozied", "viaOzied", "viaozIEd", "viaozIed", "viaoziEd", "viaozieD"] }
-"vid" = { value = "ቪድ", alias = ["VId", "Vid", "vId", "viD"] }
-"vida" = { value = "ቪዳ", alias = ["VIda", "Vida", "vIda", "viDA", "viDa", "vidA"] }
-"vidal" = { value = "ቪዳል", alias = ["VIdal", "Vidal", "vIdal", "viDAl", "viDal", "vidAl", "vidaL"] }
-"vidalye" = { value = "ቪዳልየ", alias = ["VIdalye", "Vidalye", "vIdalye", "viDAlye", "viDalye", "vidAlye", "vidaLye", "vidalYE", "vidalYe", "vidalyE"] }
-"videwe" = { value = "ቪደወ", alias = ["VIdewe", "Videwe", "vIdewe", "viDEwe", "viDewe", "vidEwe", "videWE", "videWe", "videwE"] }
-"videwew" = { value = "ቪደወው", alias = ["VIdewew", "Videwew", "vIdewew", "viDEwew", "viDewew", "vidEwew", "videWEw", "videWew", "videwEw", "videweW"] }
-"videyo" = { value = "ቪደዮ", alias = ["VIdeyo", "Videyo", "vIdeyo", "viDEyo", "viDeyo", "vidEyo", "videYO", "videYo", "videyO"] }
-"vidic" = { value = "ቪዲች", alias = ["VIdic", "Vidic", "vIdic", "viDIc", "viDic", "vidIc"] }
-"vidiewe" = { value = "ቪዴወ", alias = ["VIdiewe", "Vidiewe", "vIdiewe", "viDIEwe", "viDIewe", "viDiEwe", "viDiewe", "vidIEwe", "vidIewe", "vidiEwe", "vidieWE", "vidieWe", "vidiewE"] }
+"viaoaienna" = { value = "ቪኦኤንና", alias = ["VIaoaienna", "Viaoaienna", "vIaoaienna", "viaOaienna", "viaoaIEnna", "viaoaIenna", "viaoaiEnna", "viaoaiennA"] }
+"vichy" = { value = "ቪችህይ", alias = ["VIchy", "Vichy", "vIchy", "vichY"] }
+"vidiao" = { value = "ቪዲኦ", alias = ["VIdiao", "Vidiao", "vIdiao", "viDIao", "viDiao", "vidIao", "vidiaO"] }
 "vidiyo" = { value = "ቪዲዮ", alias = ["VIdiyo", "Vidiyo", "vIdiyo", "viDIyo", "viDiyo", "vidIyo", "vidiYO", "vidiYo", "vidiyO"] }
-"vidiyoc" = { value = "ቪዲዮች", alias = ["VIdiyoc", "Vidiyoc", "vIdiyoc", "viDIyoc", "viDiyoc", "vidIyoc", "vidiYOc", "vidiYoc", "vidiyOc"] }
-"vidiyocn" = { value = "ቪዲዮችን", alias = ["VIdiyocn", "Vidiyocn", "vIdiyocn", "viDIyocn", "viDiyocn", "vidIyocn", "vidiYOcn", "vidiYocn", "vidiyOcn"] }
 "vidiyom" = { value = "ቪዲዮም", alias = ["VIdiyom", "Vidiyom", "vIdiyom", "viDIyom", "viDiyom", "vidIyom", "vidiYOm", "vidiYom", "vidiyOm", "vidiyoM"] }
-"vidiyon" = { value = "ቪዲዮን", alias = ["VIdiyon", "Vidiyon", "vIdiyon", "viDIyon", "viDiyon", "vidIyon", "vidiYOn", "vidiYon", "vidiyOn"] }
 "vidiyona" = { value = "ቪዲዮና", alias = ["VIdiyona", "Vidiyona", "vIdiyona", "viDIyona", "viDiyona", "vidIyona", "vidiYOna", "vidiYona", "vidiyOna", "vidiyonA"] }
 "vidiyow" = { value = "ቪዲዮው", alias = ["VIdiyow", "Vidiyow", "vIdiyow", "viDIyow", "viDiyow", "vidIyow", "vidiYOw", "vidiYow", "vidiyOw", "vidiyoW"] }
-"vidiyowko" = { value = "ቪዲዮውኮ", alias = ["VIdiyowko", "Vidiyowko", "vIdiyowko", "viDIyowko", "viDiyowko", "vidIyowko", "vidiYOwko", "vidiYowko", "vidiyOwko", "vidiyoWko", "vidiyowkO"] }
-"vidiyown" = { value = "ቪዲዮውን", alias = ["VIdiyown", "Vidiyown", "vIdiyown", "viDIyown", "viDiyown", "vidIyown", "vidiYOwn", "vidiYown", "vidiyOwn", "vidiyoWn"] }
-"vidiyowoc" = { value = "ቪዲዮዎች", alias = ["VIdiyowoc", "Vidiyowoc", "vIdiyowoc", "viDIyowoc", "viDiyowoc", "vidIyowoc", "vidiYOwoc", "vidiYowoc", "vidiyOwoc", "vidiyoWOc", "vidiyoWoc", "vidiyowOc"] }
-"vidiyowocacn" = { value = "ቪዲዮዎቻችን", alias = ["VIdiyowocacn", "Vidiyowocacn", "vIdiyowocacn", "viDIyowocacn", "viDiyowocacn", "vidIyowocacn", "vidiYOwocacn", "vidiYowocacn", "vidiyOwocacn", "vidiyoWOcacn", "vidiyoWocacn", "vidiyowOcacn", "vidiyowocAcn"] }
-"vidiyowocacnn" = { value = "ቪዲዮዎቻችንን", alias = ["VIdiyowocacnn", "Vidiyowocacnn", "vIdiyowocacnn", "viDIyowocacnn", "viDiyowocacnn", "vidIyowocacnn", "vidiYOwocacnn", "vidiYowocacnn", "vidiyOwocacnn", "vidiyoWOcacnn", "vidiyoWocacnn", "vidiyowOcacnn", "vidiyowocAcnn"] }
-"vidiyowocm" = { value = "ቪዲዮዎችም", alias = ["VIdiyowocm", "Vidiyowocm", "vIdiyowocm", "viDIyowocm", "viDiyowocm", "vidIyowocm", "vidiYOwocm", "vidiYowocm", "vidiyOwocm", "vidiyoWOcm", "vidiyoWocm", "vidiyowOcm", "vidiyowocM"] }
-"vidiyowocn" = { value = "ቪዲዮዎችን", alias = ["VIdiyowocn", "Vidiyowocn", "vIdiyowocn", "viDIyowocn", "viDiyowocn", "vidIyowocn", "vidiYOwocn", "vidiYowocn", "vidiyOwocn", "vidiyoWOcn", "vidiyoWocn", "vidiyowOcn"] }
-"vidiyowocna" = { value = "ቪዲዮዎችና", alias = ["VIdiyowocna", "Vidiyowocna", "vIdiyowocna", "viDIyowocna", "viDiyowocna", "vidIyowocna", "vidiYOwocna", "vidiYowocna", "vidiyOwocna", "vidiyoWOcna", "vidiyoWocna", "vidiyowOcna", "vidiyowocnA"] }
-"vidiyowocu" = { value = "ቪዲዮዎቹ", alias = ["VIdiyowocu", "Vidiyowocu", "vIdiyowocu", "viDIyowocu", "viDiyowocu", "vidIyowocu", "vidiYOwocu", "vidiYowocu", "vidiyOwocu", "vidiyoWOcu", "vidiyoWocu", "vidiyowOcu", "vidiyowocU"] }
-"vidiyowocun" = { value = "ቪዲዮዎቹን", alias = ["VIdiyowocun", "Vidiyowocun", "vIdiyowocun", "viDIyowocun", "viDiyowocun", "vidIyowocun", "vidiYOwocun", "vidiYowocun", "vidiyOwocun", "vidiyoWOcun", "vidiyoWocun", "vidiyowOcun", "vidiyowocUn"] }
-"vido" = { value = "ቪዶ", alias = ["VIdo", "Vido", "vIdo", "viDO", "viDo", "vidO"] }
-"vidvits" = { value = "ቪድቪትስ", alias = ["VIdVIts", "VidVits", "vIdvIts", "viDvits"] }
 "vidyo" = { value = "ቪድዮ", alias = ["VIdyo", "Vidyo", "vIdyo", "viDyo", "vidYO", "vidYo", "vidyO"] }
-"vidyoc" = { value = "ቪድዮች", alias = ["VIdyoc", "Vidyoc", "vIdyoc", "viDyoc", "vidYOc", "vidYoc", "vidyOc"] }
-"vidyocn" = { value = "ቪድዮችን", alias = ["VIdyocn", "Vidyocn", "vIdyocn", "viDyocn", "vidYOcn", "vidYocn", "vidyOcn"] }
-"vidyon" = { value = "ቪድዮን", alias = ["VIdyon", "Vidyon", "vIdyon", "viDyon", "vidYOn", "vidYon", "vidyOn"] }
-"vidyow" = { value = "ቪድዮው", alias = ["VIdyow", "Vidyow", "vIdyow", "viDyow", "vidYOw", "vidYow", "vidyOw", "vidyoW"] }
-"vidyown" = { value = "ቪድዮውን", alias = ["VIdyown", "Vidyown", "vIdyown", "viDyown", "vidYOwn", "vidYown", "vidyOwn", "vidyoWn"] }
-"vidyowoc" = { value = "ቪድዮዎች", alias = ["VIdyowoc", "Vidyowoc", "vIdyowoc", "viDyowoc", "vidYOwoc", "vidYowoc", "vidyOwoc", "vidyoWOc", "vidyoWoc", "vidyowOc"] }
-"vidyowocn" = { value = "ቪድዮዎችን", alias = ["VIdyowocn", "Vidyowocn", "vIdyowocn", "viDyowocn", "vidYOwocn", "vidYowocn", "vidyOwocn", "vidyoWOcn", "vidyoWocn", "vidyowOcn"] }
-"vidyowocna" = { value = "ቪድዮዎችና", alias = ["VIdyowocna", "Vidyowocna", "vIdyowocna", "viDyowocna", "vidYOwocna", "vidYowocna", "vidyOwocna", "vidyoWOcna", "vidyoWocna", "vidyowOcna", "vidyowocnA"] }
-"vidyowocnna" = { value = "ቪድዮዎችንና", alias = ["VIdyowocnna", "Vidyowocnna", "vIdyowocnna", "viDyowocnna", "vidYOwocnna", "vidYowocnna", "vidyOwocnna", "vidyoWOcnna", "vidyoWocnna", "vidyowOcnna", "vidyowocnnA"] }
-"vidyowun" = { value = "ቪድዮዉን", alias = ["VIdyowun", "Vidyowun", "vIdyowun", "viDyowun", "vidYOwun", "vidYowun", "vidyOwun", "vidyoWUn", "vidyoWun", "vidyowUn"] }
-"vieaoaie" = { value = "ቬኦኤ", alias = ["VIEaoaie", "VIeaoaie", "ViEaoaie", "Vieaoaie", "vIEaoaie", "vIeaoaie", "viEaoaie", "vieaOaie", "vieaoaIE", "vieaoaIe", "vieaoaiE"] }
-"vieber" = { value = "ቬበር", alias = ["VIEber", "VIeber", "ViEber", "Vieber", "vIEber", "vIeber", "viEber", "vieBEr", "vieBer", "viebEr", "viebeR"] }
-"vieblen" = { value = "ቬብለን", alias = ["VIEblen", "VIeblen", "ViEblen", "Vieblen", "vIEblen", "vIeblen", "viEblen", "vieBlen", "viebLEn", "viebLen", "vieblEn"] }
-"vieda" = { value = "ቬዳ", alias = ["VIEda", "VIeda", "ViEda", "Vieda", "vIEda", "vIeda", "viEda", "vieDA", "vieDa", "viedA"] }
-"viedin" = { value = "ቬዲን", alias = ["VIEdin", "VIedin", "ViEdin", "Viedin", "vIEdin", "vIedin", "viEdin", "vieDIn", "vieDin", "viedIn"] }
-"viegas" = { value = "ቬጋስ", alias = ["VIEgas", "VIegas", "ViEgas", "Viegas", "vIEgas", "vIegas", "viEgas", "vieGAs", "vieGas", "viegAs"] }
-"viegie" = { value = "ቬጌ", alias = ["VIEgie", "VIegie", "ViEgie", "Viegie", "vIEgie", "vIegie", "viEgie", "vieGIE", "vieGIe", "vieGiE", "vieGie", "viegIE", "viegIe", "viegiE"] }
-"vieja" = { value = "ቬጃ", alias = ["VIEja", "VIeja", "ViEja", "Vieja", "vIEja", "vIeja", "viEja", "vieJA", "vieJa", "viejA"] }
-"viekiexn" = { value = "ቬኬሽን", alias = ["VIEkiexn", "VIekiexn", "ViEkiexn", "Viekiexn", "vIEkiexn", "vIekiexn", "viEkiexn", "viekIExn", "viekIexn", "viekiExn", "viekieXn"] }
+"vieaiervakie" = { value = "ቬኤርቫኬ", alias = ["VIEaiervakie", "VIeaiervakie", "ViEaiervakie", "Vieaiervakie", "vIEaiervakie", "vIeaiervakie", "viEaiervakie", "vieaIErvakie", "vieaIervakie", "vieaiErvakie", "vieaieRvakie", "vieaierVAkie", "vieaierVakie", "vieaiervAkie", "vieaiervakIE", "vieaiervakIe", "vieaiervakiE"] }
+"viebron" = { value = "ቬብሮን", alias = ["VIEbron", "VIebron", "ViEbron", "Viebron", "vIEbron", "vIebron", "viEbron", "vieBron", "viebROn", "viebRon", "viebrOn"] }
+"viejtiebl" = { value = "ቬጅቴብል", alias = ["VIEjtiebl", "VIejtiebl", "ViEjtiebl", "Viejtiebl", "vIEjtiebl", "vIejtiebl", "viEjtiebl", "vieJtiebl", "viejtIEbl", "viejtIebl", "viejtiEbl", "viejtieBl", "viejtiebL"] }
 "viekter" = { value = "ቬክተር", alias = ["VIEkter", "VIekter", "ViEkter", "Viekter", "vIEkter", "vIekter", "viEkter", "viektEr", "viekteR"] }
-"viekteru" = { value = "ቬክተሩ", alias = ["VIEkteru", "VIekteru", "ViEkteru", "Viekteru", "vIEkteru", "vIekteru", "viEkteru", "viektEru", "viekteRU", "viekteRu", "viekterU"] }
-"viel" = { value = "ቬል", alias = ["VIEl", "VIel", "ViEl", "Viel", "vIEl", "vIel", "viEl", "vieL"] }
-"viele" = { value = "ቬለ", alias = ["VIEle", "VIele", "ViEle", "Viele", "vIEle", "vIele", "viEle", "vieLE", "vieLe", "vielE"] }
-"vieles" = { value = "ቬለስ", alias = ["VIEles", "VIeles", "ViEles", "Vieles", "vIEles", "vIeles", "viEles", "vieLEs", "vieLes", "vielEs"] }
+"vieli" = { value = "ቬሊ", alias = ["VIEli", "VIeli", "ViEli", "Vieli", "vIEli", "vIeli", "viEli", "vieLI", "vieLi", "vielI"] }
 "vielie" = { value = "ቬሌ", alias = ["VIElie", "VIelie", "ViElie", "Vielie", "vIElie", "vIelie", "viElie", "vieLIE", "vieLIe", "vieLiE", "vieLie", "vielIE", "vielIe", "vieliE"] }
 "vielo" = { value = "ቬሎ", alias = ["VIElo", "VIelo", "ViElo", "Vielo", "vIElo", "vIelo", "viElo", "vieLO", "vieLo", "vielO"] }
-"vieloni" = { value = "ቬሎኒ", alias = ["VIEloni", "VIeloni", "ViEloni", "Vieloni", "vIEloni", "vIeloni", "viEloni", "vieLOni", "vieLoni", "vielOni", "vielonI"] }
+"vielow" = { value = "ቬሎው", alias = ["VIElow", "VIelow", "ViElow", "Vielow", "vIElow", "vIelow", "viElow", "vieLOw", "vieLow", "vielOw", "vieloW"] }
+"vielowoc" = { value = "ቬሎዎች", alias = ["VIElowoc", "VIelowoc", "ViElowoc", "Vielowoc", "vIElowoc", "vIelowoc", "viElowoc", "vieLOwoc", "vieLowoc", "vielOwoc", "vieloWOc", "vieloWoc", "vielowOc"] }
 "vielt" = { value = "ቬልት", alias = ["VIElt", "VIelt", "ViElt", "Vielt", "vIElt", "vIelt", "viElt", "vieLt"] }
-"vieltierebie" = { value = "ቬልቴረቤ", alias = ["VIEltierebie", "VIeltierebie", "ViEltierebie", "Vieltierebie", "vIEltierebie", "vIeltierebie", "viEltierebie", "vieLtierebie", "vieltIErebie", "vieltIerebie", "vieltiErebie", "vieltieREbie", "vieltieRebie", "vieltierEbie", "vieltiereBIE", "vieltiereBIe", "vieltiereBiE", "vieltiereBie", "vieltierebIE", "vieltierebIe", "vieltierebiE"] }
+"vieltna" = { value = "ቬልትና", alias = ["VIEltna", "VIeltna", "ViEltna", "Vieltna", "vIEltna", "vIeltna", "viEltna", "vieLtna", "vieltnA"] }
 "viena" = { value = "ቬና", alias = ["VIEna", "VIena", "ViEna", "Viena", "vIEna", "vIena", "viEna", "vienA"] }
-"vienan" = { value = "ቬናን", alias = ["VIEnan", "VIenan", "ViEnan", "Vienan", "vIEnan", "vIenan", "viEnan", "vienAn"] }
-"viencer" = { value = "ቬንቸር", alias = ["VIEncer", "VIencer", "ViEncer", "Viencer", "vIEncer", "vIencer", "viEncer", "viencEr", "vienceR"] }
-"vienes" = { value = "ቬነስ", alias = ["VIEnes", "VIenes", "ViEnes", "Vienes", "vIEnes", "vIenes", "viEnes", "vienEs"] }
-"vienesna" = { value = "ቬነስና", alias = ["VIEnesna", "VIenesna", "ViEnesna", "Vienesna", "vIEnesna", "vIenesna", "viEnesna", "vienEsna", "vienesnA"] }
-"vienezwiela" = { value = "ቬነዝዌላ", alias = ["VIEnezwiela", "VIenezwiela", "ViEnezwiela", "Vienezwiela", "vIEnezwiela", "vIenezwiela", "viEnezwiela", "vienEzwiela", "vienezWIEla", "vienezWIela", "vienezWiEla", "vienezWiela", "vienezwIEla", "vienezwIela", "vienezwiEla", "vienezwieLA", "vienezwieLa", "vienezwielA"] }
-"vienger" = { value = "ቬንገር", alias = ["VIEnger", "VIenger", "ViEnger", "Vienger", "vIEnger", "vIenger", "viEnger", "vienGEr", "vienGer", "viengEr", "viengeR"] }
-"viengern" = { value = "ቬንገርን", alias = ["VIEngern", "VIengern", "ViEngern", "Viengern", "vIEngern", "vIengern", "viEngern", "vienGErn", "vienGern", "viengErn", "viengeRn"] }
-"viengrm" = { value = "ቬንግርም", alias = ["VIEngrm", "VIengrm", "ViEngrm", "Viengrm", "vIEngrm", "vIengrm", "viEngrm", "vienGrm", "viengRm", "viengrM"] }
-"vieniezuwiela" = { value = "ቬኔዙዌላ", alias = ["VIEniezuwiela", "VIeniezuwiela", "ViEniezuwiela", "Vieniezuwiela", "vIEniezuwiela", "vIeniezuwiela", "viEniezuwiela", "vienIEzuwiela", "vienIezuwiela", "vieniEzuwiela", "vieniezUwiela", "vieniezuWIEla", "vieniezuWIela", "vieniezuWiEla", "vieniezuWiela", "vieniezuwIEla", "vieniezuwIela", "vieniezuwiEla", "vieniezuwieLA", "vieniezuwieLa", "vieniezuwielA"] }
 "vieniezwiela" = { value = "ቬኔዝዌላ", alias = ["VIEniezwiela", "VIeniezwiela", "ViEniezwiela", "Vieniezwiela", "vIEniezwiela", "vIeniezwiela", "viEniezwiela", "vienIEzwiela", "vienIezwiela", "vieniEzwiela", "vieniezWIEla", "vieniezWIela", "vieniezWiEla", "vieniezWiela", "vieniezwIEla", "vieniezwIela", "vieniezwiEla", "vieniezwieLA", "vieniezwieLa", "vieniezwielA"] }
-"vienis" = { value = "ቬኒስ", alias = ["VIEnis", "VIenis", "ViEnis", "Vienis", "vIEnis", "vIenis", "viEnis", "vienIs"] }
-"vienisn" = { value = "ቬኒስን", alias = ["VIEnisn", "VIenisn", "ViEnisn", "Vienisn", "vIEnisn", "vIenisn", "viEnisn", "vienIsn"] }
-"vienson" = { value = "ቬንሶን", alias = ["VIEnson", "VIenson", "ViEnson", "Vienson", "vIEnson", "vIenson", "viEnson", "viensOn"] }
-"vienus" = { value = "ቬኑስ", alias = ["VIEnus", "VIenus", "ViEnus", "Vienus", "vIEnus", "vIenus", "viEnus", "vienUs"] }
-"vienzuwala" = { value = "ቬንዙዋላ", alias = ["VIEnzuwala", "VIenzuwala", "ViEnzuwala", "Vienzuwala", "vIEnzuwala", "vIenzuwala", "viEnzuwala", "vienzUwala", "vienzuWAla", "vienzuWala", "vienzuwAla", "vienzuwaLA", "vienzuwaLa", "vienzuwalA"] }
-"vienzuwiela" = { value = "ቬንዙዌላ", alias = ["VIEnzuwiela", "VIenzuwiela", "ViEnzuwiela", "Vienzuwiela", "vIEnzuwiela", "vIenzuwiela", "viEnzuwiela", "vienzUwiela", "vienzuWIEla", "vienzuWIela", "vienzuWiEla", "vienzuWiela", "vienzuwIEla", "vienzuwIela", "vienzuwiEla", "vienzuwieLA", "vienzuwieLa", "vienzuwielA"] }
-"vienzuwielawiyan" = { value = "ቬንዙዌላዊያን", alias = ["VIEnzuwielawiyan", "VIenzuwielawiyan", "ViEnzuwielawiyan", "Vienzuwielawiyan", "vIEnzuwielawiyan", "vIenzuwielawiyan", "viEnzuwielawiyan", "vienzUwielawiyan", "vienzuWIElawiyan", "vienzuWIelawiyan", "vienzuWiElawiyan", "vienzuWielawiyan", "vienzuwIElawiyan", "vienzuwIelawiyan", "vienzuwiElawiyan", "vienzuwieLAwiyan", "vienzuwieLawiyan", "vienzuwielAwiyan", "vienzuwielaWIyan", "vienzuwielaWiyan", "vienzuwielawIyan", "vienzuwielawiYAn", "vienzuwielawiYan", "vienzuwielawiyAn"] }
-"viera" = { value = "ቬራ", alias = ["VIEra", "VIera", "ViEra", "Viera", "vIEra", "vIera", "viEra", "vieRA", "vieRa", "vierA"] }
-"vieran" = { value = "ቬራን", alias = ["VIEran", "VIeran", "ViEran", "Vieran", "vIEran", "vIeran", "viEran", "vieRAn", "vieRan", "vierAn"] }
-"vierdanta" = { value = "ቬርዳንታ", alias = ["VIErdanta", "VIerdanta", "ViErdanta", "Vierdanta", "vIErdanta", "vIerdanta", "viErdanta", "vieRdanta", "vierDAnta", "vierDanta", "vierdAnta", "vierdantA"] }
+"viensient" = { value = "ቬንሴንት", alias = ["VIEnsient", "VIensient", "ViEnsient", "Viensient", "vIEnsient", "vIensient", "viEnsient", "viensIEnt", "viensIent", "viensiEnt"] }
+"vienu" = { value = "ቬኑ", alias = ["VIEnu", "VIenu", "ViEnu", "Vienu", "vIEnu", "vIenu", "viEnu", "vienU"] }
+"vierayzon" = { value = "ቬራይዞን", alias = ["VIErayzon", "VIerayzon", "ViErayzon", "Vierayzon", "vIErayzon", "vIerayzon", "viErayzon", "vieRAyzon", "vieRayzon", "vierAyzon", "vieraYzon", "vierayzOn"] }
+"vierbund" = { value = "ቬርቡንድ", alias = ["VIErbund", "VIerbund", "ViErbund", "Vierbund", "vIErbund", "vIerbund", "viErbund", "vieRbund", "vierBUnd", "vierBund", "vierbUnd", "vierbunD"] }
 "vierdie" = { value = "ቬርዴ", alias = ["VIErdie", "VIerdie", "ViErdie", "Vierdie", "vIErdie", "vIerdie", "viErdie", "vieRdie", "vierDIE", "vierDIe", "vierDiE", "vierDie", "vierdIE", "vierdIe", "vierdiE"] }
-"viere" = { value = "ቬረ", alias = ["VIEre", "VIere", "ViEre", "Viere", "vIEre", "vIere", "viEre", "vieRE", "vieRe", "vierE"] }
-"vierhoven" = { value = "ቬርሆቨን", alias = ["VIErhoven", "VIerhoven", "ViErhoven", "Vierhoven", "vIErhoven", "vIerhoven", "viErhoven", "vieRhoven", "vierhOven", "vierhoVEn", "vierhoVen", "vierhovEn"] }
-"vieriningen" = { value = "ቬሪኒንገን", alias = ["VIEriningen", "VIeriningen", "ViEriningen", "Vieriningen", "vIEriningen", "vIeriningen", "viEriningen", "vieRIningen", "vieRiningen", "vierIningen", "vierinIngen", "vierininGEn", "vierininGen", "vieriningEn"] }
-"vieriyiexn" = { value = "ቬሪዬሽን", alias = ["VIEriyiexn", "VIeriyiexn", "ViEriyiexn", "Vieriyiexn", "vIEriyiexn", "vIeriyiexn", "viEriyiexn", "vieRIyiexn", "vieRiyiexn", "vierIyiexn", "vieriYIExn", "vieriYIexn", "vieriYiExn", "vieriYiexn", "vieriyIExn", "vieriyIexn", "vieriyiExn", "vieriyieXn"] }
-"viern" = { value = "ቬርን", alias = ["VIErn", "VIern", "ViErn", "Viern", "vIErn", "vIern", "viErn", "vieRn"] }
-"viernon" = { value = "ቬርኖን", alias = ["VIErnon", "VIernon", "ViErnon", "Viernon", "vIErnon", "vIernon", "viErnon", "vieRnon", "viernOn"] }
-"vierona" = { value = "ቬሮና", alias = ["VIErona", "VIerona", "ViErona", "Vierona", "vIErona", "vIerona", "viErona", "vieROna", "vieRona", "vierOna", "vieronA"] }
+"vieritas" = { value = "ቬሪታስ", alias = ["VIEritas", "VIeritas", "ViEritas", "Vieritas", "vIEritas", "vIeritas", "viEritas", "vieRItas", "vieRitas", "vierItas", "vieritAs"] }
+"viermas" = { value = "ቬርማስ", alias = ["VIErmas", "VIermas", "ViErmas", "Viermas", "vIErmas", "vIermas", "viErmas", "vieRmas", "vierMAs", "vierMas", "viermAs"] }
+"vieron" = { value = "ቬሮን", alias = ["VIEron", "VIeron", "ViEron", "Vieron", "vIEron", "vIeron", "viEron", "vieROn", "vieRon", "vierOn"] }
 "vieronika" = { value = "ቬሮኒካ", alias = ["VIEronika", "VIeronika", "ViEronika", "Vieronika", "vIEronika", "vIeronika", "viEronika", "vieROnika", "vieRonika", "vierOnika", "vieronIka", "vieronikA"] }
-"vies" = { value = "ቬስ", alias = ["VIEs", "VIes", "ViEs", "Vies", "vIEs", "vIes", "viEs"] }
-"viesel" = { value = "ቬሰል", alias = ["VIEsel", "VIesel", "ViEsel", "Viesel", "vIEsel", "vIesel", "viEsel", "viesEl", "vieseL"] }
-"vieselm" = { value = "ቬሰልም", alias = ["VIEselm", "VIeselm", "ViEselm", "Vieselm", "vIEselm", "vIeselm", "viEselm", "viesElm", "vieseLm", "vieselM"] }
-"viesikl" = { value = "ቬሲክል", alias = ["VIEsikl", "VIesikl", "ViEsikl", "Viesikl", "vIEsikl", "vIesikl", "viEsikl", "viesIkl", "viesikL"] }
-"viesliey" = { value = "ቬስሌይ", alias = ["VIEsliey", "VIesliey", "ViEsliey", "Viesliey", "vIEsliey", "vIesliey", "viEsliey", "viesLIEy", "viesLIey", "viesLiEy", "viesLiey", "vieslIEy", "vieslIey", "viesliEy", "vieslieY"] }
-"viesna" = { value = "ቬስና", alias = ["VIEsna", "VIesna", "ViEsna", "Viesna", "vIEsna", "vIesna", "viEsna", "viesnA"] }
 "viestal" = { value = "ቬስታል", alias = ["VIEstal", "VIestal", "ViEstal", "Viestal", "vIEstal", "vIestal", "viEstal", "viestAl", "viestaL"] }
-"viestkuwiesten" = { value = "ቬስትኩዌስተን", alias = ["VIEstkuwiesten", "VIestkuwiesten", "ViEstkuwiesten", "Viestkuwiesten", "vIEstkuwiesten", "vIestkuwiesten", "viEstkuwiesten", "viestkUwiesten", "viestkuWIEsten", "viestkuWIesten", "viestkuWiEsten", "viestkuWiesten", "viestkuwIEsten", "viestkuwIesten", "viestkuwiEsten", "viestkuwiestEn"] }
-"vieterans" = { value = "ቬተራንስ", alias = ["VIEterans", "VIeterans", "ViEterans", "Vieterans", "vIEterans", "vIeterans", "viEterans", "vietErans", "vieteRAns", "vieteRans", "vieterAns"] }
-"vietie" = { value = "ቬቴ", alias = ["VIEtie", "VIetie", "ViEtie", "Vietie", "vIEtie", "vIetie", "viEtie", "vietIE", "vietIe", "vietiE"] }
+"vieteral" = { value = "ቬተራል", alias = ["VIEteral", "VIeteral", "ViEteral", "Vieteral", "vIEteral", "vIeteral", "viEteral", "vietEral", "vieteRAl", "vieteRal", "vieterAl", "vieteraL"] }
+"vieternari" = { value = "ቬተርናሪ", alias = ["VIEternari", "VIeternari", "ViEternari", "Vieternari", "vIEternari", "vIeternari", "viEternari", "vietErnari", "vieteRnari", "vieternAri", "vieternaRI", "vieternaRi", "vieternarI"] }
+"vietiver" = { value = "ቬቲቨር", alias = ["VIEtiver", "VIetiver", "ViEtiver", "Vietiver", "vIEtiver", "vIetiver", "viEtiver", "vietIver", "vietiVEr", "vietiVer", "vietivEr", "vietiveR"] }
 "vietnam" = { value = "ቬትናም", alias = ["VIEtnam", "VIetnam", "ViEtnam", "Vietnam", "vIEtnam", "vIetnam", "viEtnam", "vietnAm", "vietnaM"] }
-"vietnamawit" = { value = "ቬትናማዊት", alias = ["VIEtnamawit", "VIetnamawit", "ViEtnamawit", "Vietnamawit", "vIEtnamawit", "vIetnamawit", "viEtnamawit", "vietnAmawit", "vietnaMAwit", "vietnaMawit", "vietnamAwit", "vietnamaWIt", "vietnamaWit", "vietnamawIt"] }
 "vietnamn" = { value = "ቬትናምን", alias = ["VIEtnamn", "VIetnamn", "ViEtnamn", "Vietnamn", "vIEtnamn", "vIetnamn", "viEtnamn", "vietnAmn", "vietnaMn"] }
 "vietnamna" = { value = "ቬትናምና", alias = ["VIEtnamna", "VIetnamna", "ViEtnamna", "Vietnamna", "vIEtnamna", "vIetnamna", "viEtnamna", "vietnAmnA", "vietnaMna"] }
-"vietnamnna" = { value = "ቬትናምንና", alias = ["VIEtnamnna", "VIetnamnna", "ViEtnamnna", "Vietnamnna", "vIEtnamnna", "vIetnamnna", "viEtnamnna", "vietnAmnnA", "vietnaMnna"] }
-"vieto" = { value = "ቬቶ", alias = ["VIEto", "VIeto", "ViEto", "Vieto", "vIEto", "vIeto", "viEto", "vietO"] }
-"vietsu" = { value = "ቬትሱ", alias = ["VIEtsu", "VIetsu", "ViEtsu", "Vietsu", "vIEtsu", "vIetsu", "viEtsu", "vietsU"] }
-"vievelsberg" = { value = "ቬቨልስበርግ", alias = ["VIEvelsberg", "VIevelsberg", "ViEvelsberg", "Vievelsberg", "vIEvelsberg", "vIevelsberg", "viEvelsberg", "vieVElsberg", "vieVelsberg", "vievElsberg", "vieveLsberg", "vievelsBErg", "vievelsBerg", "vievelsbErg", "vievelsbeRg", "vievelsberG"] }
-"vievelsbergn" = { value = "ቬቨልስበርግን", alias = ["VIEvelsbergn", "VIevelsbergn", "ViEvelsbergn", "Vievelsbergn", "vIEvelsbergn", "vIevelsbergn", "viEvelsbergn", "vieVElsbergn", "vieVelsbergn", "vievElsbergn", "vieveLsbergn", "vievelsBErgn", "vievelsBergn", "vievelsbErgn", "vievelsbeRgn", "vievelsberGn"] }
-"vieyna" = { value = "ቬይና", alias = ["VIEyna", "VIeyna", "ViEyna", "Vieyna", "vIEyna", "vIeyna", "viEyna", "vieYna", "vieynA"] }
-"vieysi" = { value = "ቬይሲ", alias = ["VIEysi", "VIeysi", "ViEysi", "Vieysi", "vIEysi", "vIeysi", "viEysi", "vieYsi", "vieysI"] }
-"vigere" = { value = "ቪገረ", alias = ["VIgere", "Vigere", "vIgere", "viGEre", "viGere", "vigEre", "vigeRE", "vigeRe", "vigerE"] }
-"vigman" = { value = "ቪግማን", alias = ["VIgman", "Vigman", "vIgman", "viGman", "vigMAn", "vigMan", "vigmAn"] }
-"vigon" = { value = "ቪጎን", alias = ["VIgon", "Vigon", "vIgon", "viGOn", "viGon", "vigOn"] }
-"vigulis" = { value = "ቪጉሊስ", alias = ["VIgulis", "Vigulis", "vIgulis", "viGUlis", "viGulis", "vigUlis", "viguLIs", "viguLis", "vigulIs"] }
-"vijieyielen" = { value = "ቪጄዬለን", alias = ["VIjieyielen", "Vijieyielen", "vIjieyielen", "viJIEyielen", "viJIeyielen", "viJiEyielen", "viJieyielen", "vijIEyielen", "vijIeyielen", "vijiEyielen", "vijieYIElen", "vijieYIelen", "vijieYiElen", "vijieYielen", "vijieyIElen", "vijieyIelen", "vijieyiElen", "vijieyieLEn", "vijieyieLen", "vijieyielEn"] }
-"vijilantiewoc" = { value = "ቪጂላንቴዎች", alias = ["VIjilantiewoc", "Vijilantiewoc", "vIjilantiewoc", "viJIlantiewoc", "viJilantiewoc", "vijIlantiewoc", "vijiLAntiewoc", "vijiLantiewoc", "vijilAntiewoc", "vijilantIEwoc", "vijilantIewoc", "vijilantiEwoc", "vijilantieWOc", "vijilantieWoc", "vijilantiewOc"] }
+"vietnamyawyan" = { value = "ቬትናምያውያን", alias = ["VIEtnamyawyan", "VIetnamyawyan", "ViEtnamyawyan", "Vietnamyawyan", "vIEtnamyawyan", "vIetnamyawyan", "viEtnamyawyan", "vietnAmyawyan", "vietnaMyawyan", "vietnamYAwYAn", "vietnamYawYan", "vietnamyAwyAn", "vietnamyaWyan"] }
+"vievan" = { value = "ቬቫን", alias = ["VIEvan", "VIevan", "ViEvan", "Vievan", "vIEvan", "vIevan", "viEvan", "vieVAn", "vieVan", "vievAn"] }
+"viever" = { value = "ቬቨር", alias = ["VIEver", "VIever", "ViEver", "Viever", "vIEver", "vIever", "viEver", "vieVEr", "vieVer", "vievEr", "vieveR"] }
+"vievron" = { value = "ቬቭሮን", alias = ["VIEvron", "VIevron", "ViEvron", "Vievron", "vIEvron", "vIevron", "viEvron", "vieVron", "vievROn", "vievRon", "vievrOn"] }
+"viexan" = { value = "ቬሻን", alias = ["VIExan", "VIexan", "ViExan", "Viexan", "vIExan", "vIexan", "viExan", "vieXAn", "vieXan", "viexAn"] }
+"vigmitsu" = { value = "ቪግሚትሱ", alias = ["VIgmitsu", "Vigmitsu", "vIgmitsu", "viGmitsu", "vigMItsu", "vigMitsu", "vigmItsu", "vigmitsU"] }
+"vih" = { value = "ቪህ", alias = ["VIh", "Vih", "vIh"] }
+"vijay" = { value = "ቪጃይ", alias = ["VIjay", "Vijay", "vIjay", "viJAy", "viJay", "vijAy", "vijaY"] }
+"vijrisk" = { value = "ቪጅሪስክ", alias = ["VIjrisk", "Vijrisk", "vIjrisk", "viJrisk", "vijRIsk", "vijRisk", "vijrIsk"] }
 "vik" = { value = "ቪክ", alias = ["VIk", "Vik", "vIk"] }
-"vikas" = { value = "ቪካስ", alias = ["VIkas", "Vikas", "vIkas", "vikAs"] }
-"vikers" = { value = "ቪከርስ", alias = ["VIkers", "Vikers", "vIkers", "vikErs", "vikeRs"] }
 "viki" = { value = "ቪኪ", alias = ["VIki", "Viki", "vIki", "vikI"] }
-"vikim" = { value = "ቪኪም", alias = ["VIkim", "Vikim", "vIkim", "vikIm", "vikiM"] }
-"vikin" = { value = "ቪኪን", alias = ["VIkin", "Vikin", "vIkin", "vikIn"] }
+"vikihadlston" = { value = "ቪኪሃድልስቶን", alias = ["VIkihadlston", "Vikihadlston", "vIkihadlston", "vikIhadlston", "vikihAdlston", "vikihaDlston", "vikihadLston", "vikihadlstOn"] }
 "viko" = { value = "ቪኮ", alias = ["VIko", "Viko", "vIko", "vikO"] }
 "vikter" = { value = "ቪክተር", alias = ["VIkter", "Vikter", "vIkter", "viktEr", "vikteR"] }
+"viktm" = { value = "ቪክትም", alias = ["VIktm", "Viktm", "vIktm", "viktM"] }
 "viktor" = { value = "ቪክቶር", alias = ["VIktor", "Viktor", "vIktor", "viktOr", "viktoR"] }
-"viktori" = { value = "ቪክቶሪ", alias = ["VIktori", "Viktori", "vIktori", "viktOri", "viktoRI", "viktoRi", "viktorI"] }
-"viktorin" = { value = "ቪክቶሪን", alias = ["VIktorin", "Viktorin", "vIktorin", "viktOrin", "viktoRIn", "viktoRin", "viktorIn"] }
 "viktoriya" = { value = "ቪክቶሪያ", alias = ["VIktoriya", "Viktoriya", "vIktoriya", "viktOriya", "viktoRIya", "viktoRiya", "viktorIya", "viktoriYA", "viktoriYa", "viktoriyA"] }
-"viktoriyam" = { value = "ቪክቶሪያም", alias = ["VIktoriyam", "Viktoriyam", "vIktoriyam", "viktOriyam", "viktoRIyam", "viktoRiyam", "viktorIyam", "viktoriYAm", "viktoriYam", "viktoriyAm", "viktoriyaM"] }
-"viktoriyavilie" = { value = "ቪክቶሪያቪሌ", alias = ["VIktoriyaVIlie", "ViktoriyaVilie", "vIktoriyavIlie", "viktOriyavilie", "viktoRIyavilie", "viktoRiyavilie", "viktorIyavilie", "viktoriYAvilie", "viktoriYavilie", "viktoriyAvilie", "viktoriyaviLIE", "viktoriyaviLIe", "viktoriyaviLiE", "viktoriyaviLie", "viktoriyavilIE", "viktoriyavilIe", "viktoriyaviliE"] }
-"viktorn" = { value = "ቪክቶርን", alias = ["VIktorn", "Viktorn", "vIktorn", "viktOrn", "viktoRn"] }
+"viktoriyan" = { value = "ቪክቶሪያን", alias = ["VIktoriyan", "Viktoriyan", "vIktoriyan", "viktOriyan", "viktoRIyan", "viktoRiyan", "viktorIyan", "viktoriYAn", "viktoriYan", "viktoriyAn"] }
 "viktri" = { value = "ቪክትሪ", alias = ["VIktri", "Viktri", "vIktri", "viktRI", "viktRi", "viktrI"] }
-"viktrina" = { value = "ቪክትሪና", alias = ["VIktrina", "Viktrina", "vIktrina", "viktRIna", "viktRina", "viktrIna", "viktrinA"] }
-"viktwor" = { value = "ቪክትዎር", alias = ["VIktwor", "Viktwor", "vIktwor", "viktWOr", "viktWor", "viktwOr", "viktwoR"] }
-"viktworna" = { value = "ቪክትዎርና", alias = ["VIktworna", "Viktworna", "vIktworna", "viktWOrna", "viktWorna", "viktwOrna", "viktwoRna", "viktwornA"] }
+"vil" = { value = "ቪል", alias = ["VIl", "Vil", "vIl", "viL"] }
 "vila" = { value = "ቪላ", alias = ["VIla", "Vila", "vIla", "viLA", "viLa", "vilA"] }
+"vilacew" = { value = "ቪላቸው", alias = ["VIlacew", "Vilacew", "vIlacew", "viLAcew", "viLacew", "vilAcew", "vilacEw", "vilaceW"] }
 "vilacewn" = { value = "ቪላቸውን", alias = ["VIlacewn", "Vilacewn", "vIlacewn", "viLAcewn", "viLacewn", "vilAcewn", "vilacEwn", "vilaceWn"] }
-"vilacnn" = { value = "ቪላችንን", alias = ["VIlacnn", "Vilacnn", "vIlacnn", "viLAcnn", "viLacnn", "vilAcnn"] }
-"viladmir" = { value = "ቪላድሚር", alias = ["VIladmir", "Viladmir", "vIladmir", "viLAdmir", "viLadmir", "vilAdmir", "vilaDmir", "viladMIr", "viladMir", "viladmIr", "viladmiR"] }
-"vilajo" = { value = "ቪላጆ", alias = ["VIlajo", "Vilajo", "vIlajo", "viLAjo", "viLajo", "vilAjo", "vilaJO", "vilaJo", "vilajO"] }
-"vilana" = { value = "ቪላና", alias = ["VIlana", "Vilana", "vIlana", "viLAna", "viLana", "vilAna", "vilanA"] }
-"vilani" = { value = "ቪላኒ", alias = ["VIlani", "Vilani", "vIlani", "viLAni", "viLani", "vilAni", "vilanI"] }
-"vilaw" = { value = "ቪላው", alias = ["VIlaw", "Vilaw", "vIlaw", "viLAw", "viLaw", "vilAw", "vilaW"] }
+"vilan" = { value = "ቪላን", alias = ["VIlan", "Vilan", "vIlan", "viLAn", "viLan", "vilAn"] }
+"vilariyal" = { value = "ቪላሪያል", alias = ["VIlariyal", "Vilariyal", "vIlariyal", "viLAriyal", "viLariyal", "vilAriyal", "vilaRIyal", "vilaRiyal", "vilarIyal", "vilariYAl", "vilariYal", "vilariyAl", "vilariyaL"] }
 "vilawoc" = { value = "ቪላዎች", alias = ["VIlawoc", "Vilawoc", "vIlawoc", "viLAwoc", "viLawoc", "vilAwoc", "vilaWOc", "vilaWoc", "vilawOc"] }
 "vilawocn" = { value = "ቪላዎችን", alias = ["VIlawocn", "Vilawocn", "vIlawocn", "viLAwocn", "viLawocn", "vilAwocn", "vilaWOcn", "vilaWocn", "vilawOcn"] }
 "vilawocna" = { value = "ቪላዎችና", alias = ["VIlawocna", "Vilawocna", "vIlawocna", "viLAwocna", "viLawocna", "vilAwocna", "vilaWOcna", "vilaWocna", "vilawOcna", "vilawocnA"] }
 "vilawocnna" = { value = "ቪላዎችንና", alias = ["VIlawocnna", "Vilawocnna", "vIlawocnna", "viLAwocnna", "viLawocnna", "vilAwocnna", "vilaWOcnna", "vilaWocnna", "vilawOcnna", "vilawocnnA"] }
-"vilawocu" = { value = "ቪላዎቹ", alias = ["VIlawocu", "Vilawocu", "vIlawocu", "viLAwocu", "viLawocu", "vilAwocu", "vilaWOcu", "vilaWocu", "vilawOcu", "vilawocU"] }
-"vilhielm" = { value = "ቪልሄልም", alias = ["VIlhielm", "Vilhielm", "vIlhielm", "viLhieLm", "vilhIElm", "vilhIelm", "vilhiElm", "vilhielM"] }
-"vilhiem" = { value = "ቪልሄም", alias = ["VIlhiem", "Vilhiem", "vIlhiem", "viLhiem", "vilhIEm", "vilhIem", "vilhiEm", "vilhieM"] }
-"vili" = { value = "ቪሊ", alias = ["VIli", "Vili", "vIli", "viLI", "viLi", "vilI"] }
+"vilfriedo" = { value = "ቪልፍሬዶ", alias = ["VIlfriedo", "Vilfriedo", "vIlfriedo", "viLfriedo", "vilFriedo", "vilfRIEdo", "vilfRIedo", "vilfRiEdo", "vilfRiedo", "vilfrIEdo", "vilfrIedo", "vilfriEdo", "vilfrieDO", "vilfrieDo", "vilfriedO"] }
 "viliej" = { value = "ቪሌጅ", alias = ["VIliej", "Viliej", "vIliej", "viLIEj", "viLIej", "viLiEj", "viLiej", "vilIEj", "vilIej", "viliEj", "vilieJ"] }
-"vilke" = { value = "ቪልከ", alias = ["VIlke", "Vilke", "vIlke", "viLke", "vilkE"] }
-"vilmersdorf" = { value = "ቪልመርስዶርፍ", alias = ["VIlmersdorf", "Vilmersdorf", "vIlmersdorf", "viLmersdorf", "vilMErsdorf", "vilMersdorf", "vilmErsdorf", "vilmeRsdoRf", "vilmersDOrf", "vilmersDorf", "vilmersdOrf", "vilmersdorF"] }
-"vilnay" = { value = "ቪልናይ", alias = ["VIlnay", "Vilnay", "vIlnay", "viLnay", "vilnAy", "vilnaY"] }
-"vilnier" = { value = "ቪልኔር", alias = ["VIlnier", "Vilnier", "vIlnier", "viLnier", "vilnIEr", "vilnIer", "vilniEr", "vilnieR"] }
+"villiaege" = { value = "ቪልሊአገ", alias = ["VIlliaege", "Villiaege", "vIlliaege", "viLliaege", "vilLIaege", "vilLiaege", "villIaege", "villiaEge", "villiaeGE", "villiaeGe", "villiaegE"] }
+"vilmustad" = { value = "ቪልሙስታድ", alias = ["VIlmustad", "Vilmustad", "vIlmustad", "viLmustad", "vilMUstad", "vilMustad", "vilmUstad", "vilmustAd", "vilmustaD"] }
+"vilol" = { value = "ቪሎል", alias = ["VIlol", "Vilol", "vIlol", "viLOl", "viLol", "vilOl", "viloL"] }
+"vilsak" = { value = "ቪልሳክ", alias = ["VIlsak", "Vilsak", "vIlsak", "viLsak", "vilsAk"] }
+"vilsakna" = { value = "ቪልሳክና", alias = ["VIlsakna", "Vilsakna", "vIlsakna", "viLsakna", "vilsAkna", "vilsaknA"] }
+"vilumstad" = { value = "ቪሉምስታድ", alias = ["VIlumstad", "Vilumstad", "vIlumstad", "viLUmstad", "viLumstad", "vilUmstad", "viluMstad", "vilumstAd", "vilumstaD"] }
 "vim" = { value = "ቪም", alias = ["VIm", "Vim", "vIm", "viM"] }
-"vima" = { value = "ቪማ", alias = ["VIma", "Vima", "vIma", "viMA", "viMa", "vimA"] }
 "vin" = { value = "ቪን", alias = ["VIn", "Vin", "vIn"] }
 "vina" = { value = "ቪና", alias = ["VIna", "Vina", "vIna", "vinA"] }
-"vinay" = { value = "ቪናይ", alias = ["VInay", "Vinay", "vInay", "vinAy", "vinaY"] }
-"vinbiey" = { value = "ቪንቤይ", alias = ["VInbiey", "Vinbiey", "vInbiey", "vinBIEy", "vinBIey", "vinBiEy", "vinBiey", "vinbIEy", "vinbIey", "vinbiEy", "vinbieY"] }
-"vinci" = { value = "ቪንቺ", alias = ["VInci", "Vinci", "vInci", "vincI"] }
-"vincnzo" = { value = "ቪንችንዞ", alias = ["VIncnzo", "Vincnzo", "vIncnzo", "vincnzO"] }
-"vindam" = { value = "ቪንዳም", alias = ["VIndam", "Vindam", "vIndam", "vinDAm", "vinDam", "vindAm", "vindaM"] }
-"vindhuk" = { value = "ቪንድሁክ", alias = ["VIndhuk", "Vindhuk", "vIndhuk", "vinDhuk", "vindhUk"] }
-"vindikiexn" = { value = "ቪንዲኬሽን", alias = ["VIndikiexn", "Vindikiexn", "vIndikiexn", "vinDIkiexn", "vinDikiexn", "vindIkiexn", "vindikIExn", "vindikIexn", "vindikiExn", "vindikieXn"] }
-"vinenden" = { value = "ቪነንደን", alias = ["VInenden", "Vinenden", "vInenden", "vinEnden", "vinenDEn", "vinenDen", "vinendEn"] }
-"vinisyes" = { value = "ቪኒስየስ", alias = ["VInisyes", "Vinisyes", "vInisyes", "vinIsyes", "vinisYEs", "vinisYes", "vinisyEs"] }
-"vinito" = { value = "ቪኒቶ", alias = ["VInito", "Vinito", "vInito", "vinIto", "vinitO"] }
-"viniyana" = { value = "ቪኒያና", alias = ["VIniyana", "Viniyana", "vIniyana", "vinIyana", "viniYAna", "viniYana", "viniyAna", "viniyanA"] }
+"vinasiao" = { value = "ቪናሲኦ", alias = ["VInasiao", "Vinasiao", "vInasiao", "vinAsiao", "vinasIao", "vinasiaO"] }
+"vincr" = { value = "ቪንችር", alias = ["VIncr", "Vincr", "vIncr", "vincR"] }
+"vindo" = { value = "ቪንዶ", alias = ["VIndo", "Vindo", "vIndo", "vinDO", "vinDo", "vindO"] }
+"vinesines" = { value = "ቪነሲነስ", alias = ["VInesines", "Vinesines", "vInesines", "vinEsinEs", "vinesInes"] }
+"vinna" = { value = "ቪንና", alias = ["VInna", "Vinna", "vInna", "vinnA"] }
 "vino" = { value = "ቪኖ", alias = ["VIno", "Vino", "vIno", "vinO"] }
-"vinoni" = { value = "ቪኖኒ", alias = ["VInoni", "Vinoni", "vInoni", "vinOni", "vinonI"] }
+"vinon" = { value = "ቪኖን", alias = ["VInon", "Vinon", "vInon", "vinOn"] }
+"vinown" = { value = "ቪኖውን", alias = ["VInown", "Vinown", "vInown", "vinOwn", "vinoWn"] }
+"vins" = { value = "ቪንስ", alias = ["VIns", "Vins", "vIns"] }
 "vinsent" = { value = "ቪንሰንት", alias = ["VInsent", "Vinsent", "vInsent", "vinsEnt"] }
 "vinsient" = { value = "ቪንሴንት", alias = ["VInsient", "Vinsient", "vInsient", "vinsIEnt", "vinsIent", "vinsiEnt"] }
-"vinsienzo" = { value = "ቪንሴንዞ", alias = ["VInsienzo", "Vinsienzo", "vInsienzo", "vinsIEnzo", "vinsIenzo", "vinsiEnzo", "vinsienzO"] }
-"vinternkorn" = { value = "ቪንተርንኮርን", alias = ["VInternkorn", "Vinternkorn", "vInternkorn", "vintErnkorn", "vinteRnkoRn", "vinternkOrn"] }
-"vinzienzo" = { value = "ቪንዜንዞ", alias = ["VInzienzo", "Vinzienzo", "vInzienzo", "vinzIEnzo", "vinzIenzo", "vinziEnzo", "vinzienzO"] }
-"vir" = { value = "ቪር", alias = ["VIr", "Vir", "vIr", "viR"] }
-"vire" = { value = "ቪረ", alias = ["VIre", "Vire", "vIre", "viRE", "viRe", "virE"] }
-"virem" = { value = "ቪረም", alias = ["VIrem", "Virem", "vIrem", "viREm", "viRem", "virEm", "vireM"] }
-"viren" = { value = "ቪረን", alias = ["VIren", "Viren", "vIren", "viREn", "viRen", "virEn"] }
-"viroman" = { value = "ቪሮማን", alias = ["VIroman", "Viroman", "vIroman", "viROman", "viRoman", "virOman", "viroMAn", "viroMan", "viromAn"] }
+"vinsnt" = { value = "ቪንስንት", alias = ["VInsnt", "Vinsnt", "vInsnt"] }
+"vintona" = { value = "ቪንቶና", alias = ["VIntona", "Vintona", "vIntona", "vintOna", "vintonA"] }
+"vintura" = { value = "ቪንቱራ", alias = ["VIntura", "Vintura", "vIntura", "vintUra", "vintuRA", "vintuRa", "vinturA"] }
+"vinuto" = { value = "ቪኑቶ", alias = ["VInuto", "Vinuto", "vInuto", "vinUto", "vinutO"] }
+"vipiaey" = { value = "ቪፒአይ", alias = ["VIpiaey", "Vipiaey", "vIpiaey", "vipIaey", "vipiaEy", "vipiaeY"] }
+"virak" = { value = "ቪራክ", alias = ["VIrak", "Virak", "vIrak", "viRAk", "viRak", "virAk"] }
+"virdina" = { value = "ቪርዲና", alias = ["VIrdina", "Virdina", "vIrdina", "viRdina", "virDIna", "virDina", "virdIna", "virdinA"] }
+"virner" = { value = "ቪርነር", alias = ["VIrner", "Virner", "vIrner", "viRneR", "virnEr"] }
+"visa" = { value = "ቪሳ", alias = ["VIsa", "Visa", "vIsa", "visA"] }
 "visat" = { value = "ቪሳት", alias = ["VIsat", "Visat", "vIsat", "visAt"] }
-"visbaden" = { value = "ቪስባደን", alias = ["VIsbaden", "Visbaden", "vIsbaden", "visBAden", "visBaden", "visbAden", "visbaDEn", "visbaDen", "visbadEn"] }
-"visidi" = { value = "ቪሲዲ", alias = ["VIsidi", "Visidi", "vIsidi", "visIdi", "visiDI", "visiDi", "visidI"] }
-"visidiwoc" = { value = "ቪሲዲዎች", alias = ["VIsidiwoc", "Visidiwoc", "vIsidiwoc", "visIdiwoc", "visiDIwoc", "visiDiwoc", "visidIwoc", "visidiWOc", "visidiWoc", "visidiwOc"] }
-"visiensiyo" = { value = "ቪሴንሲዮ", alias = ["VIsiensiyo", "Visiensiyo", "vIsiensiyo", "visIEnsiyo", "visIensiyo", "visiEnsiyo", "visiensIyo", "visiensiYO", "visiensiYo", "visiensiyO"] }
-"visientie" = { value = "ቪሴንቴ", alias = ["VIsientie", "Visientie", "vIsientie", "visIEntie", "visIentie", "visiEntie", "visientIE", "visientIe", "visientiE"] }
-"visigotoc" = { value = "ቪሲጎቶች", alias = ["VIsigotoc", "Visigotoc", "vIsigotoc", "visIgotoc", "visiGOtoc", "visiGotoc", "visigOtoc", "visigotOc"] }
-"viskokesplmientexn" = { value = "ቪስኮከስፕልሜንተሽን", alias = ["VIskokesplmientexn", "Viskokesplmientexn", "vIskokesplmientexn", "viskOkesplmientexn", "viskokEsplmientexn", "viskokespLmientexn", "viskokesplMIEntexn", "viskokesplMIentexn", "viskokesplMiEntexn", "viskokesplMientexn", "viskokesplmIEntexn", "viskokesplmIentexn", "viskokesplmiEntexn", "viskokesplmientExn", "viskokesplmienteXn"] }
-"visla" = { value = "ቪስላ", alias = ["VIsla", "Visla", "vIsla", "visLA", "visLa", "vislA"] }
-"vison" = { value = "ቪሶን", alias = ["VIson", "Vison", "vIson", "visOn"] }
-"viswa" = { value = "ቪስዋ", alias = ["VIswa", "Viswa", "vIswa", "visWA", "visWa", "viswA"] }
-"vit" = { value = "ቪት", alias = ["VIt", "Vit", "vIt"] }
+"visatoc" = { value = "ቪሳቶች", alias = ["VIsatoc", "Visatoc", "vIsatoc", "visAtoc", "visatOc"] }
+"visiaon" = { value = "ቪሲኦን", alias = ["VIsiaon", "Visiaon", "vIsiaon", "visIaon", "visiaOn"] }
+"visidiwocnna" = { value = "ቪሲዲዎችንና", alias = ["VIsidiwocnna", "Visidiwocnna", "vIsidiwocnna", "visIdiwocnna", "visiDIwocnna", "visiDiwocnna", "visidIwocnna", "visidiWOcnna", "visidiWocnna", "visidiwOcnna", "visidiwocnnA"] }
+"vist" = { value = "ቪስት", alias = ["VIst", "Vist", "vIst"] }
+"vitaae" = { value = "ቪታአ", alias = ["VItaae", "Vitaae", "vItaae", "vitAae", "vitaaE"] }
 "vitali" = { value = "ቪታሊ", alias = ["VItali", "Vitali", "vItali", "vitAli", "vitaLI", "vitaLi", "vitalI"] }
 "vitalo" = { value = "ቪታሎ", alias = ["VItalo", "Vitalo", "vItalo", "vitAlo", "vitaLO", "vitaLo", "vitalO"] }
-"vitamin" = { value = "ቪታሚን", alias = ["VItamin", "Vitamin", "vItamin", "vitAmin", "vitaMIn", "vitaMin", "vitamIn"] }
-"vitaminocn" = { value = "ቪታሚኖችን", alias = ["VItaminocn", "Vitaminocn", "vItaminocn", "vitAminocn", "vitaMInocn", "vitaMinocn", "vitamInocn", "vitaminOcn"] }
-"vitaminocna" = { value = "ቪታሚኖችና", alias = ["VItaminocna", "Vitaminocna", "vItaminocna", "vitAminocna", "vitaMInocna", "vitaMinocna", "vitamInocna", "vitaminOcna", "vitaminocnA"] }
-"vitara" = { value = "ቪታራ", alias = ["VItara", "Vitara", "vItara", "vitAra", "vitaRA", "vitaRa", "vitarA"] }
-"vitaw" = { value = "ቪታው", alias = ["VItaw", "Vitaw", "vItaw", "vitAw", "vitaW"] }
-"vitieliyes" = { value = "ቪቴሊየስ", alias = ["VItieliyes", "Vitieliyes", "vItieliyes", "vitIEliyes", "vitIeliyes", "vitiEliyes", "vitieLIyes", "vitieLiyes", "vitielIyes", "vitieliYEs", "vitieliYes", "vitieliyEs"] }
-"vitierbo" = { value = "ቪቴርቦ", alias = ["VItierbo", "Vitierbo", "vItierbo", "vitIErbo", "vitIerbo", "vitiErbo", "vitieRbo", "vitierBO", "vitierBo", "vitierbO"] }
-"vitieslav" = { value = "ቪቴስላቭ", alias = ["VItieslav", "Vitieslav", "vItieslav", "vitIEslav", "vitIeslav", "vitiEslav", "vitiesLAv", "vitiesLav", "vitieslAv", "vitieslaV"] }
-"vitiezslav" = { value = "ቪቴዝስላቭ", alias = ["VItiezslav", "Vitiezslav", "vItiezslav", "vitIEzslav", "vitIezslav", "vitiEzslav", "vitiezsLAv", "vitiezsLav", "vitiezslAv", "vitiezslaV"] }
-"vito" = { value = "ቪቶ", alias = ["VIto", "Vito", "vIto", "vitO"] }
-"vitoba" = { value = "ቪቶባ", alias = ["VItoba", "Vitoba", "vItoba", "vitOba", "vitoBA", "vitoBa", "vitobA"] }
+"vitalon" = { value = "ቪታሎን", alias = ["VItalon", "Vitalon", "vItalon", "vitAlon", "vitaLOn", "vitaLon", "vitalOn"] }
+"vithaya" = { value = "ቪትሃያ", alias = ["VIthaya", "Vithaya", "vIthaya", "vithAya", "vithaYA", "vithaYa", "vithayA"] }
+"vitie" = { value = "ቪቴ", alias = ["VItie", "Vitie", "vItie", "vitIE", "vitIe", "vitiE"] }
+"vitieyacewn" = { value = "ቪቴያቸውን", alias = ["VItieyacewn", "Vitieyacewn", "vItieyacewn", "vitIEyacewn", "vitIeyacewn", "vitiEyacewn", "vitieYAcewn", "vitieYacewn", "vitieyAcewn", "vitieyacEwn", "vitieyaceWn"] }
 "vitoriya" = { value = "ቪቶሪያ", alias = ["VItoriya", "Vitoriya", "vItoriya", "vitOriya", "vitoRIya", "vitoRiya", "vitorIya", "vitoriYA", "vitoriYa", "vitoriyA"] }
-"vitro" = { value = "ቪትሮ", alias = ["VItro", "Vitro", "vItro", "vitRO", "vitRo", "vitrO"] }
-"vitruviyes" = { value = "ቪትሩቪየስ", alias = ["VItruVIyes", "VitruViyes", "vItruvIyes", "vitRUviyes", "vitRuviyes", "vitrUviyes", "vitruviYEs", "vitruviYes", "vitruviyEs"] }
-"vits" = { value = "ቪትስ", alias = ["VIts", "Vits", "vIts"] }
-"vitz" = { value = "ቪትዝ", alias = ["VItz", "Vitz", "vItz"] }
+"vitoriyo" = { value = "ቪቶሪዮ", alias = ["VItoriyo", "Vitoriyo", "vItoriyo", "vitOriyo", "vitoRIyo", "vitoRiyo", "vitorIyo", "vitoriYO", "vitoriYo", "vitoriyO"] }
+"vitoryo" = { value = "ቪቶርዮ", alias = ["VItoryo", "Vitoryo", "vItoryo", "vitOryo", "vitoRyo", "vitorYO", "vitorYo", "vitoryO"] }
 "viva" = { value = "ቪቫ", alias = ["VIva", "Viva", "vIva", "viVA", "viVa", "vivA"] }
-"vivah" = { value = "ቪቫህ", alias = ["VIvah", "Vivah", "vIvah", "viVAh", "viVah", "vivAh"] }
-"vivat" = { value = "ቪቫት", alias = ["VIvat", "Vivat", "vIvat", "viVAt", "viVat", "vivAt"] }
-"viviyan" = { value = "ቪቪያን", alias = ["VIVIyan", "ViViyan", "vIvIyan", "viviYAn", "viviYan", "viviyAn"] }
-"viviyen" = { value = "ቪቪየን", alias = ["VIVIyen", "ViViyen", "vIvIyen", "viviYEn", "viviYen", "viviyEn"] }
-"viviyien" = { value = "ቪቪዬን", alias = ["VIVIyien", "ViViyien", "vIvIyien", "viviYIEn", "viviYIen", "viviYiEn", "viviYien", "viviyIEn", "viviyIen", "viviyiEn"] }
+"vivalo" = { value = "ቪቫሎ", alias = ["VIvalo", "Vivalo", "vIvalo", "viVAlo", "viValo", "vivAlo", "vivaLO", "vivaLo", "vivalO"] }
+"vivers" = { value = "ቪቨርስ", alias = ["VIvers", "Vivers", "vIvers", "viVErs", "viVers", "vivErs", "viveRs"] }
+"vivie" = { value = "ቪቬ", alias = ["VIvie", "Vivie", "vIvie", "viVIE", "viVIe", "viViE", "viVie", "vivIE", "vivIe", "viviE"] }
+"vivrs" = { value = "ቪቭርስ", alias = ["VIvrs", "Vivrs", "vIvrs", "viVrs", "vivRs"] }
 "viw" = { value = "ቪው", alias = ["VIw", "Viw", "vIw", "viW"] }
-"vixal" = { value = "ቪሻል", alias = ["VIxal", "Vixal", "vIxal", "viXAl", "viXal", "vixAl", "vixaL"] }
-"vixi" = { value = "ቪሺ", alias = ["VIxi", "Vixi", "vIxi", "viXI", "viXi", "vixI"] }
-"vixnu" = { value = "ቪሽኑ", alias = ["VIxnu", "Vixnu", "vIxnu", "viXnu", "vixnU"] }
-"vixtaspa" = { value = "ቪሽታስፓ", alias = ["VIxtaspa", "Vixtaspa", "vIxtaspa", "viXtaspa", "vixtAspa", "vixtaspA"] }
+"vixie" = { value = "ቪሼ", alias = ["VIxie", "Vixie", "vIxie", "viXIE", "viXIe", "viXiE", "viXie", "vixIE", "vixIe", "vixiE"] }
+"vixwal" = { value = "ቪሽዋል", alias = ["VIxwal", "Vixwal", "vIxwal", "viXwal", "vixWAl", "vixWal", "vixwAl", "vixwaL"] }
 "viya" = { value = "ቪያ", alias = ["VIya", "Viya", "vIya", "viYA", "viYa", "viyA"] }
-"viyagra" = { value = "ቪያግራ", alias = ["VIyagra", "Viyagra", "vIyagra", "viYAgra", "viYagra", "viyAgra", "viyaGra", "viyagRA", "viyagRa", "viyagrA"] }
-"viyagram" = { value = "ቪያግራም", alias = ["VIyagram", "Viyagram", "vIyagram", "viYAgram", "viYagram", "viyAgram", "viyaGram", "viyagRAm", "viyagRam", "viyagrAm", "viyagraM"] }
-"viyagran" = { value = "ቪያግራን", alias = ["VIyagran", "Viyagran", "vIyagran", "viYAgran", "viYagran", "viyAgran", "viyaGran", "viyagRAn", "viyagRan", "viyagrAn"] }
-"viyagrana" = { value = "ቪያግራና", alias = ["VIyagrana", "Viyagrana", "vIyagrana", "viYAgrana", "viYagrana", "viyAgrana", "viyaGrana", "viyagRAna", "viyagRana", "viyagrAna", "viyagranA"] }
-"viyakom" = { value = "ቪያኮም", alias = ["VIyakom", "Viyakom", "vIyakom", "viYAkom", "viYakom", "viyAkom", "viyakOm", "viyakoM"] }
-"viyariya" = { value = "ቪያሪያ", alias = ["VIyariya", "Viyariya", "vIyariya", "viYAriYA", "viYariYa", "viyAriyA", "viyaRIya", "viyaRiya", "viyarIya"] }
-"viyariyal" = { value = "ቪያሪያል", alias = ["VIyariyal", "Viyariyal", "vIyariyal", "viYAriYAl", "viYariYal", "viyAriyAl", "viyaRIyal", "viyaRiyal", "viyarIyal", "viyariyaL"] }
-"viyas" = { value = "ቪያስ", alias = ["VIyas", "Viyas", "vIyas", "viYAs", "viYas", "viyAs"] }
+"viyana" = { value = "ቪያና", alias = ["VIyana", "Viyana", "vIyana", "viYAna", "viYana", "viyAna", "viyanA"] }
+"viyarimana" = { value = "ቪያሪማና", alias = ["VIyarimana", "Viyarimana", "vIyarimana", "viYArimana", "viYarimana", "viyArimana", "viyaRImana", "viyaRimana", "viyarImana", "viyariMAna", "viyariMana", "viyarimAna", "viyarimanA"] }
 "viyena" = { value = "ቪየና", alias = ["VIyena", "Viyena", "vIyena", "viYEna", "viYena", "viyEna", "viyenA"] }
-"viyentiyan" = { value = "ቪየንቲያን", alias = ["VIyentiyan", "Viyentiyan", "vIyentiyan", "viYEntiyan", "viYentiyan", "viyEntiyan", "viyentIyan", "viyentiYAn", "viyentiYan", "viyentiyAn"] }
-"viyera" = { value = "ቪየራ", alias = ["VIyera", "Viyera", "vIyera", "viYEra", "viYera", "viyEra", "viyeRA", "viyeRa", "viyerA"] }
+"viyetkonguec" = { value = "ቪየትኮንጐች", alias = ["VIyetkonguec", "Viyetkonguec", "vIyetkonguec", "viYEtkonguec", "viYetkonguec", "viyEtkonguec", "viyetkOnguec", "viyetkonGUEc", "viyetkonGUec", "viyetkonGuEc", "viyetkonGuec", "viyetkongUEc", "viyetkongUec", "viyetkonguEc"] }
 "viyetnam" = { value = "ቪየትናም", alias = ["VIyetnam", "Viyetnam", "vIyetnam", "viYEtnam", "viYetnam", "viyEtnam", "viyetnAm", "viyetnaM"] }
 "viyiena" = { value = "ቪዬና", alias = ["VIyiena", "Viyiena", "vIyiena", "viYIEna", "viYIena", "viYiEna", "viYiena", "viyIEna", "viyIena", "viyiEna", "viyienA"] }
-"viyiera" = { value = "ቪዬራ", alias = ["VIyiera", "Viyiera", "vIyiera", "viYIEra", "viYIera", "viYiEra", "viYiera", "viyIEra", "viyIera", "viyiEra", "viyieRA", "viyieRa", "viyierA"] }
-"viyiere" = { value = "ቪዬረ", alias = ["VIyiere", "Viyiere", "vIyiere", "viYIEre", "viYIere", "viYiEre", "viYiere", "viyIEre", "viyIere", "viyiEre", "viyieRE", "viyieRe", "viyierE"] }
-"viyietri" = { value = "ቪዬትሪ", alias = ["VIyietri", "Viyietri", "vIyietri", "viYIEtri", "viYIetri", "viYiEtri", "viYietri", "viyIEtri", "viyIetri", "viyiEtri", "viyietRI", "viyietRi", "viyietrI"] }
-"viyola" = { value = "ቪዮላ", alias = ["VIyola", "Viyola", "vIyola", "viYOla", "viYola", "viyOla", "viyoLA", "viyoLa", "viyolA"] }
+"viyolin" = { value = "ቪዮሊን", alias = ["VIyolin", "Viyolin", "vIyolin", "viYOlin", "viYolin", "viyOlin", "viyoLIn", "viyoLin", "viyolIn"] }
+"viz" = { value = "ቪዝ", alias = ["VIz", "Viz", "vIz"] }
+"viZ" = { value = "ቪዥ", alias = ["VIZ", "ViZ", "vIZ"] }
 "viza" = { value = "ቪዛ", alias = ["VIza", "Viza", "vIza", "vizA"] }
+"viZa" = { value = "ቪዣ", alias = ["VIZa", "ViZa", "vIZa", "viZA"] }
 "vizacew" = { value = "ቪዛቸው", alias = ["VIzacew", "Vizacew", "vIzacew", "vizAcew", "vizacEw", "vizaceW"] }
+"vizacewm" = { value = "ቪዛቸውም", alias = ["VIzacewm", "Vizacewm", "vIzacewm", "vizAcewm", "vizacEwm", "vizaceWm", "vizacewM"] }
 "vizacewn" = { value = "ቪዛቸውን", alias = ["VIzacewn", "Vizacewn", "vIzacewn", "vizAcewn", "vizacEwn", "vizaceWn"] }
-"vizacnn" = { value = "ቪዛችንን", alias = ["VIzacnn", "Vizacnn", "vIzacnn", "vizAcnn"] }
-"vizan" = { value = "ቪዛን", alias = ["VIzan", "Vizan", "vIzan", "vizAn"] }
+"vizaloteri" = { value = "ቪዛሎተሪ", alias = ["VIzaloteri", "Vizaloteri", "vIzaloteri", "vizAloteri", "vizaLOteri", "vizaLoteri", "vizalOteri", "vizalotEri", "vizaloteRI", "vizaloteRi", "vizaloterI"] }
+"vizam" = { value = "ቪዛም", alias = ["VIzam", "Vizam", "vIzam", "vizAm", "vizaM"] }
 "vizana" = { value = "ቪዛና", alias = ["VIzana", "Vizana", "vIzana", "vizAna", "vizanA"] }
+"vizatoc" = { value = "ቪዛቶች", alias = ["VIzatoc", "Vizatoc", "vIzatoc", "vizAtoc", "vizatOc"] }
 "vizaw" = { value = "ቪዛው", alias = ["VIzaw", "Vizaw", "vIzaw", "vizAw", "vizaW"] }
 "vizawn" = { value = "ቪዛውን", alias = ["VIzawn", "Vizawn", "vIzawn", "vizAwn", "vizaWn"] }
 "vizawoc" = { value = "ቪዛዎች", alias = ["VIzawoc", "Vizawoc", "vIzawoc", "vizAwoc", "vizaWOc", "vizaWoc", "vizawOc"] }
 "vizawocn" = { value = "ቪዛዎችን", alias = ["VIzawocn", "Vizawocn", "vIzawocn", "vizAwocn", "vizaWOcn", "vizaWocn", "vizawOcn"] }
-"vizawun" = { value = "ቪዛዉን", alias = ["VIzawun", "Vizawun", "vIzawun", "vizAwun", "vizaWUn", "vizaWun", "vizawUn"] }
-"vizayie" = { value = "ቪዛዬ", alias = ["VIzayie", "Vizayie", "vIzayie", "vizAyie", "vizaYIE", "vizaYIe", "vizaYiE", "vizaYie", "vizayIE", "vizayIe", "vizayiE"] }
-"vizbaden" = { value = "ቪዝባደን", alias = ["VIzbaden", "Vizbaden", "vIzbaden", "vizBAden", "vizBaden", "vizbAden", "vizbaDEn", "vizbaDen", "vizbadEn"] }
-"vize" = { value = "ቪዘ", alias = ["VIze", "Vize", "vIze", "vizE"] }
-"viZin" = { value = "ቪዢን", alias = ["VIZin", "ViZin", "vIZin", "viZIn"] }
+"vizn" = { value = "ቪዝን", alias = ["VIzn", "Vizn", "vIzn"] }
 "viZn" = { value = "ቪዥን", alias = ["VIZn", "ViZn", "vIZn"] }
-"viZneris" = { value = "ቪዥነሪስ", alias = ["VIZneris", "ViZneris", "vIZneris", "viZnEris", "viZneRIs", "viZneRis", "viZnerIs"] }
+"viZnn" = { value = "ቪዥንን", alias = ["VIZnn", "ViZnn", "vIZnn"] }
+"viZnna" = { value = "ቪዥንና", alias = ["VIZnna", "ViZnna", "vIZnna", "viZnnA"] }
+"vizvl" = { value = "ቪዝቭል", alias = ["VIzvl", "Vizvl", "vIzvl", "vizVl", "vizvL"] }
 "viZwal" = { value = "ቪዥዋል", alias = ["VIZwal", "ViZwal", "vIZwal", "viZWAl", "viZWal", "viZwAl", "viZwaL"] }
-"viZwalna" = { value = "ቪዥዋልና", alias = ["VIZwalna", "ViZwalna", "vIZwalna", "viZWAlna", "viZWalna", "viZwAlna", "viZwaLna", "viZwalnA"] }
 "vladimir" = { value = "ቭላዲሚር", alias = ["Vladimir", "vLAdimir", "vLadimir", "vlAdimir", "vlaDImir", "vlaDimir", "vladImir", "vladiMIr", "vladiMir", "vladimIr", "vladimiR"] }
-"vladimirna" = { value = "ቭላዲሚርና", alias = ["Vladimirna", "vLAdimirna", "vLadimirna", "vlAdimirna", "vlaDImirna", "vlaDimirna", "vladImirna", "vladiMIrna", "vladiMirna", "vladimIrna", "vladimiRna", "vladimirnA"] }
-"vladivostok" = { value = "ቭላዲቮስቶክ", alias = ["Vladivostok", "vLAdivostok", "vLadivostok", "vlAdivostok", "vlaDIvostok", "vlaDivostok", "vladIvostok", "vladiVOstok", "vladiVostok", "vladivOstok", "vladivostOk"] }
 "vladmier" = { value = "ቭላድሜር", alias = ["Vladmier", "vLAdmier", "vLadmier", "vlAdmier", "vlaDmier", "vladMIEr", "vladMIer", "vladMiEr", "vladMier", "vladmIEr", "vladmIer", "vladmiEr", "vladmieR"] }
 "vladmir" = { value = "ቭላድሚር", alias = ["Vladmir", "vLAdmir", "vLadmir", "vlAdmir", "vlaDmir", "vladMIr", "vladMir", "vladmIr", "vladmiR"] }
-"vlasfimiya" = { value = "ቭላስፊሚያ", alias = ["Vlasfimiya", "vLAsfimiya", "vLasfimiya", "vlAsfimiya", "vlasFImiya", "vlasFimiya", "vlasfImiya", "vlasfiMIya", "vlasfiMiya", "vlasfimIya", "vlasfimiYA", "vlasfimiYa", "vlasfimiyA"] }
-"vlazic" = { value = "ቭላዚች", alias = ["Vlazic", "vLAzic", "vLazic", "vlAzic", "vlazIc"] }
-"vlkie" = { value = "ቭልኬ", alias = ["Vlkie", "vLkie", "vlkIE", "vlkIe", "vlkiE"] }
-"vloriya" = { value = "ቭሎሪያ", alias = ["Vloriya", "vLOriya", "vLoriya", "vlOriya", "vloRIya", "vloRiya", "vlorIya", "vloriYA", "vloriYa", "vloriyA"] }
-"vnokov" = { value = "ቭኖኮቭ", alias = ["VnokoV", "vnOkov", "vnokOv"] }
-"vnsienzieti" = { value = "ቭንሴንዜቲ", alias = ["Vnsienzieti", "vnsIEnzieti", "vnsIenzieti", "vnsiEnzieti", "vnsienzIEti", "vnsienzIeti", "vnsienziEti", "vnsienzietI"] }
-"vodafonna" = { value = "ቮዳፎንና", alias = ["VOdafonna", "Vodafonna", "vOdafonna", "voDAfonna", "voDafonna", "vodAfonna", "vodaFOnna", "vodaFonna", "vodafOnna", "vodafonnA"] }
-"vodie" = { value = "ቮዴ", alias = ["VOdie", "Vodie", "vOdie", "voDIE", "voDIe", "voDiE", "voDie", "vodIE", "vodIe", "vodiE"] }
-"vodka" = { value = "ቮድካ", alias = ["VOdka", "Vodka", "vOdka", "voDka", "vodkA"] }
-"vog" = { value = "ቮግ", alias = ["VOg", "Vog", "vOg", "voG"] }
-"vogl" = { value = "ቮግል", alias = ["VOgl", "Vogl", "vOgl", "voGl", "vogL"] }
-"vokal" = { value = "ቮካል", alias = ["VOkal", "Vokal", "vOkal", "vokAl", "vokaL"] }
-"voke" = { value = "ቮከ", alias = ["VOke", "Voke", "vOke", "vokE"] }
-"vokiexnal" = { value = "ቮኬሽናል", alias = ["VOkiexnal", "Vokiexnal", "vOkiexnal", "vokIExnal", "vokIexnal", "vokiExnal", "vokieXnal", "vokiexnAl", "vokiexnaL"] }
+"voaice" = { value = "ቮኢቸ", alias = ["VOaice", "Voaice", "vOaice", "voaIce", "voaicE"] }
+"voaoaie" = { value = "ቮኦኤ", alias = ["VOaoaie", "Voaoaie", "vOaoaie", "voaOaie", "voaoaIE", "voaoaIe", "voaoaiE"] }
+"vogiet" = { value = "ቮጌት", alias = ["VOgiet", "Vogiet", "vOgiet", "voGIEt", "voGIet", "voGiEt", "voGiet", "vogIEt", "vogIet", "vogiEt"] }
+"vojslav" = { value = "ቮጅስላቭ", alias = ["VOjslav", "Vojslav", "vOjslav", "voJslav", "vojsLAv", "vojsLav", "vojslAv", "vojslaV"] }
 "vol" = { value = "ቮል", alias = ["VOl", "Vol", "vOl", "voL"] }
-"volapiwk" = { value = "ቮላፒውክ", alias = ["VOlapiwk", "Volapiwk", "vOlapiwk", "voLApiwk", "voLapiwk", "volApiwk", "volapIwk", "volapiWk"] }
-"volenter" = { value = "ቮለንተር", alias = ["VOlenter", "Volenter", "vOlenter", "voLEnter", "voLenter", "volEnter", "volentEr", "volenteR"] }
-"volentir" = { value = "ቮለንቲር", alias = ["VOlentir", "Volentir", "vOlentir", "voLEntir", "voLentir", "volEntir", "volentIr", "volentiR"] }
+"volata" = { value = "ቮላታ", alias = ["VOlata", "Volata", "vOlata", "voLAta", "voLata", "volAta", "volatA"] }
+"volatawocn" = { value = "ቮላታዎችን", alias = ["VOlatawocn", "Volatawocn", "vOlatawocn", "voLAtawocn", "voLatawocn", "volAtawocn", "volatAwocn", "volataWOcn", "volataWocn", "volatawOcn"] }
+"volenteri" = { value = "ቮለንተሪ", alias = ["VOlenteri", "Volenteri", "vOlenteri", "voLEnteri", "voLenteri", "volEnteri", "volentEri", "volenteRI", "volenteRi", "volenterI"] }
 "volfgang" = { value = "ቮልፍጋንግ", alias = ["VOlfgang", "Volfgang", "vOlfgang", "voLfgang", "volFgang", "volfGAng", "volfGang", "volfgAng", "volfganG"] }
-"volfgangn" = { value = "ቮልፍጋንግን", alias = ["VOlfgangn", "Volfgangn", "vOlfgangn", "voLfgangn", "volFgangn", "volfGAngn", "volfGangn", "volfgAngn", "volfganGn"] }
-"volfgen" = { value = "ቮልፍገን", alias = ["VOlfgen", "Volfgen", "vOlfgen", "voLfgen", "volFgen", "volfGEn", "volfGen", "volfgEn"] }
-"voli" = { value = "ቮሊ", alias = ["VOli", "Voli", "vOli", "voLI", "voLi", "volI"] }
-"volibol" = { value = "ቮሊቦል", alias = ["VOlibol", "Volibol", "vOlibol", "voLIbol", "voLibol", "volIbol", "voliBOl", "voliBol", "volibOl", "voliboL"] }
-"voliboln" = { value = "ቮሊቦልን", alias = ["VOliboln", "Voliboln", "vOliboln", "voLIboln", "voLiboln", "volIboln", "voliBOln", "voliBoln", "volibOln", "voliboLn"] }
-"volkodieri" = { value = "ቮልኮዴሪ", alias = ["VOlkodieri", "Volkodieri", "vOlkodieri", "voLkodieri", "volkOdieri", "volkoDIEri", "volkoDIeri", "volkoDiEri", "volkoDieri", "volkodIEri", "volkodIeri", "volkodiEri", "volkodieRI", "volkodieRi", "volkodierI"] }
-"volosiyanko" = { value = "ቮሎሲያንኮ", alias = ["VOlosiyanko", "Volosiyanko", "vOlosiyanko", "voLOsiyanko", "voLosiyanko", "volOsiyanko", "volosIyanko", "volosiYAnko", "volosiYanko", "volosiyAnko", "volosiyankO"] }
+"volker" = { value = "ቮልከር", alias = ["VOlker", "Volker", "vOlker", "voLker", "volkEr", "volkeR"] }
+"volmer" = { value = "ቮልመር", alias = ["VOlmer", "Volmer", "vOlmer", "voLmer", "volMEr", "volMer", "volmEr", "volmeR"] }
 "vols" = { value = "ቮልስ", alias = ["VOls", "Vols", "vOls", "voLs"] }
-"volsoc" = { value = "ቮልሶች", alias = ["VOlsoc", "Volsoc", "vOlsoc", "voLsoc", "volsOc"] }
+"volsie" = { value = "ቮልሴ", alias = ["VOlsie", "Volsie", "vOlsie", "voLsie", "volsIE", "volsIe", "volsiE"] }
+"volsien" = { value = "ቮልሴን", alias = ["VOlsien", "Volsien", "vOlsien", "voLsien", "volsIEn", "volsIen", "volsiEn"] }
+"volsienm" = { value = "ቮልሴንም", alias = ["VOlsienm", "Volsienm", "vOlsienm", "voLsienm", "volsIEnm", "volsIenm", "volsiEnm", "volsienM"] }
+"volsun" = { value = "ቮልሱን", alias = ["VOlsun", "Volsun", "vOlsun", "voLsun", "volsUn"] }
 "volswagen" = { value = "ቮልስዋገን", alias = ["VOlswagen", "Volswagen", "vOlswagen", "voLswagen", "volsWAgen", "volsWagen", "volswAgen", "volswaGEn", "volswaGen", "volswagEn"] }
+"volswagenien" = { value = "ቮልስዋገኔን", alias = ["VOlswagenien", "Volswagenien", "vOlswagenien", "voLswagenien", "volsWAgenien", "volsWagenien", "volswAgenien", "volswaGEnien", "volswaGenien", "volswagEnien", "volswagenIEn", "volswagenIen", "volswageniEn"] }
 "volt" = { value = "ቮልት", alias = ["VOlt", "Volt", "vOlt", "voLt"] }
-"volta" = { value = "ቮልታ", alias = ["VOlta", "Volta", "vOlta", "voLta", "voltA"] }
-"voltiej" = { value = "ቮልቴጅ", alias = ["VOltiej", "Voltiej", "vOltiej", "voLtiej", "voltIEj", "voltIej", "voltiEj", "voltieJ"] }
-"voltier" = { value = "ቮልቴር", alias = ["VOltier", "Voltier", "vOltier", "voLtier", "voltIEr", "voltIer", "voltiEr", "voltieR"] }
+"voltu" = { value = "ቮልቱ", alias = ["VOltu", "Voltu", "vOltu", "voLtu", "voltU"] }
+"volumes" = { value = "ቮሉመስ", alias = ["VOlumes", "Volumes", "vOlumes", "voLUmes", "voLumes", "volUmes", "voluMEs", "voluMes", "volumEs"] }
+"volunteriaes" = { value = "ቮሉንተሪአስ", alias = ["VOlunteriaes", "Volunteriaes", "vOlunteriaes", "voLUnteriaes", "voLunteriaes", "volUnteriaes", "voluntEriaes", "volunteRIaes", "volunteRiaes", "volunterIaes", "volunteriaEs"] }
 "volvo" = { value = "ቮልቮ", alias = ["VOlVO", "VolVo", "vOlvO", "voLvo"] }
+"volvona" = { value = "ቮልቮና", alias = ["VOlVOna", "VolVona", "vOlvOna", "voLvona", "volvonA"] }
 "volyum" = { value = "ቮልዩም", alias = ["VOlyum", "Volyum", "vOlyum", "voLyum", "volYUm", "volYum", "volyUm", "volyuM"] }
 "von" = { value = "ቮን", alias = ["VOn", "Von", "vOn"] }
-"vorkuta" = { value = "ቮርኩታ", alias = ["VOrkuta", "Vorkuta", "vOrkuta", "voRkuta", "vorkUta", "vorkutA"] }
-"vortieks" = { value = "ቮርቴክስ", alias = ["VOrtieks", "Vortieks", "vOrtieks", "voRtieks", "vortIEks", "vortIeks", "vortiEks"] }
-"vot" = { value = "ቮት", alias = ["VOt", "Vot", "vOt"] }
-"votayk" = { value = "ቮታይክ", alias = ["VOtayk", "Votayk", "vOtayk", "votAyk", "votaYk"] }
-"vovcuk" = { value = "ቮቭቹክ", alias = ["VOvcuk", "Vovcuk", "vOvcuk", "voVcuk", "vovcUk"] }
-"voyciek" = { value = "ቮይቼክ", alias = ["VOyciek", "Voyciek", "vOyciek", "voYciek", "voycIEk", "voycIek", "voyciEk"] }
+"vorhandling" = { value = "ቮርሃንድሊንግ", alias = ["VOrhandling", "Vorhandling", "vOrhandling", "voRhandling", "vorhAndling", "vorhanDling", "vorhandLIng", "vorhandLing", "vorhandlIng", "vorhandlinG"] }
+"vortinon" = { value = "ቮርቲኖን", alias = ["VOrtinon", "Vortinon", "vOrtinon", "voRtinon", "vortInon", "vortinOn"] }
+"vosob" = { value = "ቮሶብ", alias = ["VOsob", "Vosob", "vOsob", "vosOb", "vosoB"] }
+"vosotu" = { value = "ቮሶቱ", alias = ["VOsotu", "Vosotu", "vOsotu", "vosOtu", "vosotU"] }
+"vote" = { value = "ቮተ", alias = ["VOte", "Vote", "vOte", "votE"] }
+"voyes" = { value = "ቮየስ", alias = ["VOyes", "Voyes", "vOyes", "voYEs", "voYes", "voyEs"] }
 "voys" = { value = "ቮይስ", alias = ["VOys", "Voys", "vOys", "voYs"] }
-"vprost" = { value = "ቭፕሮስት", alias = ["Vprost", "vpROst", "vpRost", "vprOst"] }
-"vulgata" = { value = "ቩልጋታ", alias = ["VUlgata", "Vulgata", "vUlgata", "vuLgata", "vulGAta", "vulGata", "vulgAta", "vulgatA"] }
-"vulgiet" = { value = "ቩልጌት", alias = ["VUlgiet", "Vulgiet", "vUlgiet", "vuLgiet", "vulGIEt", "vulGIet", "vulGiEt", "vulGiet", "vulgIEt", "vulgIet", "vulgiEt"] }
-"vuliermoz" = { value = "ቩሌርሞዝ", alias = ["VUliermoz", "Vuliermoz", "vUliermoz", "vuLIErmoz", "vuLIermoz", "vuLiErmoz", "vuLiermoz", "vulIErmoz", "vulIermoz", "vuliErmoz", "vulieRmoz", "vulierMOz", "vulierMoz", "vuliermOz"] }
-"vural" = { value = "ቩራል", alias = ["VUral", "Vural", "vUral", "vuRAl", "vuRal", "vurAl", "vuraL"] }
-"vurst" = { value = "ቩርስት", alias = ["VUrst", "Vurst", "vUrst", "vuRst"] }
-"vutenberg" = { value = "ቩተንበርግ", alias = ["VUtenberg", "Vutenberg", "vUtenberg", "vutEnberg", "vutenBErg", "vutenBerg", "vutenbErg", "vutenbeRg", "vutenberG"] }
-"vuvuziela" = { value = "ቩቩዜላ", alias = ["VUVUziela", "VuVuziela", "vUvUziela", "vuvuzIEla", "vuvuzIela", "vuvuziEla", "vuvuzieLA", "vuvuzieLa", "vuvuzielA"] }
-"vza" = { value = "ቭዛ", alias = ["Vza", "vzA"] }
+"vucicievic" = { value = "ቩቺቼቪች", alias = ["VUcicievic", "Vucicievic", "vUcicievic", "vucIcievic", "vucicIEvic", "vucicIevic", "vuciciEvic", "vucicieVIc", "vucicieVic", "vucicievIc"] }
+"vulnerability" = { value = "ቩልነራቢሊትይ", alias = ["VUlnerability", "Vulnerability", "vUlnerability", "vuLnerability", "vulnErability", "vulneRAbility", "vulneRability", "vulnerAbility", "vulneraBIlity", "vulneraBility", "vulnerabIlity", "vulnerabiLIty", "vulnerabiLity", "vulnerabilIty", "vulnerabilitY"] }
+"vumamnt" = { value = "ቩማምንት", alias = ["VUmamnt", "Vumamnt", "vUmamnt", "vuMAmnt", "vuMamnt", "vumAmnt", "vumaMnt"] }
+"vuwal" = { value = "ቩዋል", alias = ["VUwal", "Vuwal", "vUwal", "vuWAl", "vuWal", "vuwAl", "vuwaL"] }
+"vZn" = { value = "ቭዥን", alias = ["VZn"] }
