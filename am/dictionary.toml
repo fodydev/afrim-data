@@ -1,10 +1,11 @@
 [info]
-source = "https://github.com/yididiyan/amharic_spell_corrector/tree/master/data"
-description = "This dataset is ordered by frequence"
-version = "2026-07-24"
+source = "https://www.cs.ru.nl/~biniam/geez/crawl.php"
+description = "Wordlist for Amharic"
+version = "2026-07-30"
 
 [translation]
-a = { path = "./dictionary/a.toml" }
+a1 = { path = "./dictionary/a1.toml" }
+a2 = { path = "./dictionary/a2.toml" }
 b = { path = "./dictionary/b.toml" }
 c = { path = "./dictionary/c.toml" }
 d = { path = "./dictionary/d.toml" }
