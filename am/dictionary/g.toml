@@ -1,3 +1,4 @@
+[dictionary]
 "gaaas" = { value = "ጋኣስ", alias = ["GAaas", "Gaaas", "gAaas", "gaaAs"] }
 "gaAas" = { value = "ጋዓስ", alias = ["GAAas", "GaAas", "gAAas", "gaAAs"] }
 "gaAbieten" = { value = "ጋዕቤተን", alias = ["GAAbieten", "GaAbieten", "gAAbieten", "gaABIEten", "gaABIeten", "gaABiEten", "gaABieten", "gaAbIEten", "gaAbIeten", "gaAbiEten", "gaAbietEn"] }

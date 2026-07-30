@@ -1,3 +1,4 @@
+[dictionary]
 "anbi" = { value = "እንቢ", alias = ["anBI", "anBi", "anbI"] }
 "anbibaynet" = { value = "እንቢባይነት", alias = ["anBIbaynet", "anBibaynet", "anbIbaynet", "anbiBAynet", "anbiBaynet", "anbibAynet", "anbibaYnet", "anbibaynEt"] }
 "anbilta" = { value = "እንቢልታ", alias = ["anBIlta", "anBilta", "anbIlta", "anbiLta", "anbiltA"] }

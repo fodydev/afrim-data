@@ -1,3 +1,4 @@
+[dictionary]
 "aa" = "እእ"
 "aaaaa" = { value = "ኣእኣ", alias = ["aAaaA"] }
 "AaAad" = { value = "ዓዓድ", alias = ["AAAAd", "AaAaD"] }
