@@ -1,0 +1,13 @@
+[info]
+name = "Keyboard map for GeezIME"
+description = "GeezIME Config File"
+version = "2026-07-30"
+website = "https://geez-ime.vercel.app"
+
+[core]
+buffer_size = 64
+auto_capitalize = false
+auto_commit = false
+
+[data]
+geez = { path = "./code.toml" }

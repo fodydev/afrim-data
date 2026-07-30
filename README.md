@@ -33,6 +33,9 @@ Configuration for the Geez input method.
 - Geez punctuations
 - Numerals translators
 
+## [GeezIME](geezime)
+Configuration for the Geez input method version of [EriLingual Solutions](https://geez-ime.vercel.app/).
+
 ## [Amharic](am)
 Configuration for the Amharic input method. 
 - Amharic code
