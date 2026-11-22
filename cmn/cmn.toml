@@ -1,0 +1,43 @@
+[info]
+name = "Mandarin Pinyin IM"
+description = "Mandarin Chinese (pinyin) Config File"
+version = "2026-11-22"
+authors = []
+website = ""
+
+[core]
+buffer_size = 64
+auto_capitalize = false
+# Pinyin keys are prefixes of each other (ma, man, mang),
+# the candidate must be selected by the user.
+auto_commit = false
+page_size = 10
+# Disable the auto-correction: pinyin keys of same length are too similar
+# (zhongg ~ zhong1, nihao ~ nibao).
+min_confidence = 1.0
+
+[translation]
+a = { path = "./dictionary/a.toml" }
+b = { path = "./dictionary/b.toml" }
+c = { path = "./dictionary/c.toml" }
+d = { path = "./dictionary/d.toml" }
+e = { path = "./dictionary/e.toml" }
+f = { path = "./dictionary/f.toml" }
+g = { path = "./dictionary/g.toml" }
+h = { path = "./dictionary/h.toml" }
+i = { path = "./dictionary/i.toml" }
+j = { path = "./dictionary/j.toml" }
+k = { path = "./dictionary/k.toml" }
+l = { path = "./dictionary/l.toml" }
+m = { path = "./dictionary/m.toml" }
+n = { path = "./dictionary/n.toml" }
+o = { path = "./dictionary/o.toml" }
+p = { path = "./dictionary/p.toml" }
+q = { path = "./dictionary/q.toml" }
+r = { path = "./dictionary/r.toml" }
+s = { path = "./dictionary/s.toml" }
+t = { path = "./dictionary/t.toml" }
+w = { path = "./dictionary/w.toml" }
+x = { path = "./dictionary/x.toml" }
+y = { path = "./dictionary/y.toml" }
+z = { path = "./dictionary/z.toml" }
