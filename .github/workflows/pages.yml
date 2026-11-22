@@ -1,0 +1,68 @@
+name: Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build site
+        run: |
+          mkdir _site
+          # Copy the dataset directories, keeping the layout (relative paths in configs must stay valid)
+          find . -mindepth 1 -maxdepth 1 -type d ! -name '.*' ! -name _site -exec cp -r {} _site/ \;
+          # List of datasets: each root dir <dir> with its main config <dir>/<dir>.toml
+          python3 - <<'EOF'
+          import json, pathlib, tomllib
+          datasets = []
+          for d in sorted(p for p in pathlib.Path("_site").iterdir() if p.is_dir()):
+              config = d / f"{d.name}.toml"
+              if not config.exists():
+                  continue
+              info = tomllib.loads(config.read_text(encoding="utf-8")).get("info", {})
+              datasets.append({
+                  "name": info.get("name", d.name),
+                  "description": info.get("description", ""),
+                  "version": info.get("version", ""),
+                  "dir": d.name,
+                  "config": f"{d.name}/{d.name}.toml.gz",
+              })
+          pathlib.Path("datasets.json").write_text(json.dumps(datasets, ensure_ascii=False, indent=2), encoding="utf-8")
+          EOF
+          # Gzip every TOML file (x.toml -> x.toml.gz)
+          find _site -type f -name '*.toml' -exec gzip -9 -n {} +
+          # Index of all published files
+          (cd _site && find . -type f | sed 's|^\./||' | sort | jq -R . | jq -s .) > index.json
+          mv index.json datasets.json _site/
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -48,3 +48,12 @@ Configuration for the Bamun input method.
 
 ## [Vietnam](vie)
 Configuration for the Vietnam input method.
+
+## Web access
+The datasets are published on GitHub Pages by the [Pages workflow](.github/workflows/pages.yml).
+Every `*.toml` file is gzipped to reduce its size, and other files (e.g. `*.rhai` scripts) are served unchanged.
+
+- URL format: `https://fodydev.github.io/afrim-data/<lang>/<file>.toml.gz` (e.g. [`am/am.toml.gz`](https://fodydev.github.io/afrim-data/am/am.toml.gz))
+- Relative `.toml` paths inside a configuration must be resolved by appending `.gz`.
+- [`datasets.json`](https://fodydev.github.io/afrim-data/datasets.json) lists the available datasets (`name`, `description`, `version`, root `dir` and main `config` path).
+- [`index.json`](https://fodydev.github.io/afrim-data/index.json) lists all published files.
