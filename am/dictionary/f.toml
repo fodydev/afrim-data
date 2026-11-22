@@ -1,4 +1,4 @@
-[dictionary]
+[translation]
 "faa" = { value = "ፍኣ", alias = ["Faa", "faA"] }
 "faaaa" = { value = "ፍኣኣ", alias = ["Faaaa", "faAaA"] }
 "faaao" = { value = "ፍኣኦ", alias = ["Faaao", "faAao", "faaaO"] }
