@@ -1,4 +1,4 @@
-[dictionary]
+[translation]
 "ma" = { value = "ምእ", alias = ["Ma"] }
 "mA" = { value = "ምዕ", alias = ["MA"] }
 "maAakel" = { value = "ማዕእከል", alias = ["MAAakel", "MaAakel", "mAAakel", "maAakEl", "maAakeL"] }
